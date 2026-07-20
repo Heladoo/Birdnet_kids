@@ -1,0 +1,111 @@
+const grid = document.getElementById('grid');
+const player = document.getElementById('player');
+let activeCard = null;
+let cardsData = [];
+
+function setPlaying(card) {
+  if (activeCard && activeCard !== card) {
+    activeCard.classList.remove('playing');
+  }
+  activeCard = card;
+  card.classList.add('playing');
+}
+
+function clearPlaying() {
+  if (activeCard) {
+    activeCard.classList.remove('playing');
+    activeCard = null;
+  }
+}
+
+function makeCard(data) {
+  const btn = document.createElement('button');
+  btn.className = 'card';
+  btn.dataset.audio = data.audio;
+  btn.dataset.lastSeen = data.last_seen;
+  btn.dataset.weekCount = data.week_count;
+
+  const img = document.createElement('img');
+  img.src = data.image || 'bird-placeholder.svg';
+  img.alt = data.name;
+  img.addEventListener('error', () => {
+    img.src = 'bird-placeholder.svg';
+  }, { once: true });
+  btn.appendChild(img);
+
+  const badge = document.createElement('span');
+  badge.className = 'play-badge';
+  badge.textContent = '▶';
+  btn.appendChild(badge);
+
+  const nameWrap = document.createElement('span');
+  nameWrap.className = 'name';
+
+  const nameEn = document.createElement('span');
+  nameEn.className = 'name-en';
+  nameEn.textContent = data.name;
+  nameWrap.appendChild(nameEn);
+
+  if (data.he_name) {
+    const nameHe = document.createElement('span');
+    nameHe.className = 'name-he';
+    nameHe.lang = 'he';
+    nameHe.dir = 'rtl';
+    nameHe.textContent = data.he_name;
+    nameWrap.appendChild(nameHe);
+  }
+  btn.appendChild(nameWrap);
+
+  btn.addEventListener('click', () => {
+    const src = btn.dataset.audio;
+    if (player.src.endsWith(src) && !player.paused) {
+      player.pause();
+      player.currentTime = 0;
+      clearPlaying();
+      return;
+    }
+    player.src = src;
+    player.play();
+    setPlaying(btn);
+  });
+
+  return btn;
+}
+
+function renderCards(cards) {
+  grid.innerHTML = '';
+  cards.forEach((data) => grid.appendChild(makeCard(data)));
+}
+
+document.querySelectorAll('.sort-btn').forEach((btn) => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.sort-btn').forEach((b) => b.classList.remove('active'));
+    btn.classList.add('active');
+
+    const key = btn.dataset.sort;
+    const sorted = [...cardsData].sort((a, b) => {
+      if (key === 'week_count') {
+        return b.week_count - a.week_count;
+      }
+      return b.last_seen.localeCompare(a.last_seen);
+    });
+    renderCards(sorted);
+  });
+});
+
+player.addEventListener('ended', clearPlaying);
+player.addEventListener('pause', () => {
+  if (player.currentTime === 0) {
+    clearPlaying();
+  }
+});
+
+fetch('data.json')
+  .then((r) => r.json())
+  .then((data) => {
+    cardsData = data;
+    renderCards(cardsData);
+  })
+  .catch(() => {
+    grid.innerHTML = '<p class="loading">Could not load the birds right now. Try again later!</p>';
+  });

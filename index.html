@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bird Sounds!</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>🐦 Birds We've Heard!</h1>
+<p class="subtitle">Tap a bird to hear its song</p>
+
+<div class="sort-buttons">
+  <button class="sort-btn active" data-sort="last_seen">🕓 Newest</button>
+  <button class="sort-btn" data-sort="week_count">🔥 Most This Week</button>
+</div>
+
+<div class="grid" id="grid">
+  <p class="loading">Loading birds...</p>
+</div>
+
+<audio id="player"></audio>
+<script src="app.js"></script>
+</body>
+</html>

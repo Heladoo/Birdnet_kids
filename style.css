@@ -1,0 +1,140 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 24px;
+  background: linear-gradient(180deg, #bfe9ff 0%, #eaffea 100%);
+  font-family: "Comic Sans MS", "Trebuchet MS", Verdana, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.6rem;
+  margin: 0.2em 0 0;
+  color: #1b6d3a;
+  text-shadow: 2px 2px 0 #fff;
+}
+
+.subtitle {
+  font-size: 1.3rem;
+  color: #226;
+  margin-top: 0.2em;
+}
+
+.loading {
+  font-size: 1.2rem;
+  color: #456;
+  grid-column: 1 / -1;
+}
+
+.sort-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.sort-btn {
+  border: none;
+  border-radius: 999px;
+  padding: 12px 22px;
+  font-family: inherit;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #234;
+  background: #fff;
+  cursor: pointer;
+  box-shadow: 0 5px 0 rgba(0, 0, 0, 0.12);
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.sort-btn:active {
+  transform: translateY(3px);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.12);
+}
+
+.sort-btn.active {
+  background: #ffcc33;
+  color: #7a4a00;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+  max-width: 1200px;
+  margin: 24px auto 0;
+}
+
+.card {
+  position: relative;
+  border: none;
+  border-radius: 24px;
+  background: #fff;
+  padding: 12px;
+  cursor: pointer;
+  box-shadow: 0 6px 0 rgba(0, 0, 0, 0.12);
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+  font-family: inherit;
+}
+
+.card:active {
+  transform: translateY(4px);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.12);
+}
+
+.card.playing {
+  outline: 4px solid #ffcc33;
+  animation: pulse 0.6s ease-in-out infinite alternate;
+}
+
+@keyframes pulse {
+  from { transform: scale(1); }
+  to { transform: scale(1.04); }
+}
+
+.card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 16px;
+  background: #eef;
+  display: block;
+}
+
+.play-badge {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: #ffcc33;
+  color: #7a4a00;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
+  font-size: 1.1rem;
+  box-shadow: 0 3px 0 rgba(0, 0, 0, 0.15);
+}
+
+.name {
+  display: block;
+  margin-top: 10px;
+}
+
+.name-en {
+  display: block;
+  font-size: 1.15rem;
+  font-weight: bold;
+  color: #234;
+}
+
+.name-he {
+  display: block;
+  font-size: 1.05rem;
+  font-weight: bold;
+  color: #457;
+  margin-top: 2px;
+}
