@@ -2,6 +2,21 @@ const grid = document.getElementById('grid');
 const player = document.getElementById('player');
 let activeCard = null;
 let cardsData = [];
+let currentSortKey = 'last_seen';
+
+function formatMeta(data, sortKey) {
+  if (sortKey === 'week_count') {
+    const n = Number(data.week_count);
+    return `Heard ${n} time${n === 1 ? '' : 's'} this week`;
+  }
+  const d = new Date(data.last_seen);
+  if (isNaN(d)) {
+    return '';
+  }
+  return d.toLocaleString(undefined, {
+    month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit',
+  });
+}
 
 function setPlaying(card) {
   if (activeCard && activeCard !== card) {
@@ -56,6 +71,11 @@ function makeCard(data) {
   }
   btn.appendChild(nameWrap);
 
+  const meta = document.createElement('span');
+  meta.className = 'meta';
+  meta.textContent = formatMeta(data, currentSortKey);
+  btn.appendChild(meta);
+
   btn.addEventListener('click', () => {
     const src = btn.dataset.audio;
     if (player.src.endsWith(src) && !player.paused) {
@@ -82,9 +102,9 @@ document.querySelectorAll('.sort-btn').forEach((btn) => {
     document.querySelectorAll('.sort-btn').forEach((b) => b.classList.remove('active'));
     btn.classList.add('active');
 
-    const key = btn.dataset.sort;
+    currentSortKey = btn.dataset.sort;
     const sorted = [...cardsData].sort((a, b) => {
-      if (key === 'week_count') {
+      if (currentSortKey === 'week_count') {
         return b.week_count - a.week_count;
       }
       return b.last_seen.localeCompare(a.last_seen);
