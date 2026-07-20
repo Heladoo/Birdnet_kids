@@ -4,6 +4,15 @@ let activeCard = null;
 let cardsData = [];
 let currentSortKey = 'last_seen';
 
+function formatDate(d) {
+  const dd = String(d.getDate()).padStart(2, '0');
+  const mm = String(d.getMonth() + 1).padStart(2, '0');
+  const yy = String(d.getFullYear()).slice(-2);
+  const hh = String(d.getHours()).padStart(2, '0');
+  const min = String(d.getMinutes()).padStart(2, '0');
+  return `${dd}.${mm}.${yy}, ${hh}:${min}`;
+}
+
 function formatMeta(data, sortKey) {
   if (sortKey === 'week_count') {
     const n = Number(data.week_count);
@@ -13,9 +22,7 @@ function formatMeta(data, sortKey) {
   if (isNaN(d)) {
     return '';
   }
-  return d.toLocaleString(undefined, {
-    month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit',
-  });
+  return formatDate(d);
 }
 
 function setPlaying(card) {
