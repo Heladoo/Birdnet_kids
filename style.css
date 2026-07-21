@@ -164,8 +164,30 @@ header {
   color: var(--muted);
 }
 
-.visit-counter {
+.credits {
   margin: 40px 0 0;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.credits a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.credits a:hover {
+  color: var(--blue-dark);
+  border-bottom-color: var(--blue-dark);
+}
+
+.credits-sep {
+  color: var(--muted);
+  margin: 0 6px;
+}
+
+.visit-counter {
+  margin: 8px 0 0;
   font-size: 0.8rem;
   font-weight: 600;
   color: var(--muted);
