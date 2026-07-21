@@ -110,7 +110,10 @@ document.querySelectorAll('.sort-btn').forEach((btn) => {
     btn.classList.add('active');
 
     currentSortKey = btn.dataset.sort;
-    const sorted = [...cardsData].sort((a, b) => {
+    const visible = currentSortKey === 'week_count'
+      ? cardsData.filter((d) => d.week_count > 0)
+      : cardsData;
+    const sorted = [...visible].sort((a, b) => {
       if (currentSortKey === 'week_count') {
         return b.week_count - a.week_count;
       }
@@ -136,3 +139,13 @@ fetch('data.json')
   .catch(() => {
     grid.innerHTML = '<p class="loading">Could not load the birds right now. Try again later!</p>';
   });
+
+fetch('https://abacus.jasoncameron.dev/hit/heladoo/birdnet-kids-site')
+  .then((r) => r.json())
+  .then((data) => {
+    const el = document.getElementById('visit-count');
+    if (el) {
+      el.textContent = data.value.toLocaleString();
+    }
+  })
+  .catch(() => {});
