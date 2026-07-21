@@ -1,64 +1,77 @@
+:root {
+  --cream: #FBF7EC;
+  --card: #FFFDF6;
+  --blue: #3E72C9;
+  --blue-dark: #2C5497;
+  --terracotta: #D97A42;
+  --terracotta-dark: #B8622F;
+  --olive: #8A9550;
+  --ink: #3A3226;
+  --muted: #8B8065;
+}
+
 * {
   box-sizing: border-box;
 }
 
 body {
   margin: 0;
-  padding: 24px;
-  background: linear-gradient(180deg, #bfe9ff 0%, #eaffea 100%);
-  font-family: "Comic Sans MS", "Trebuchet MS", Verdana, sans-serif;
+  padding: 28px 20px 60px;
+  background: var(--cream);
+  font-family: "Baloo 2", ui-rounded, "Segoe UI Rounded", "Segoe UI", Verdana, sans-serif;
   text-align: center;
+  color: var(--ink);
 }
 
-h1 {
-  font-size: 2.6rem;
-  margin: 0.2em 0 0;
-  color: #1b6d3a;
-  text-shadow: 2px 2px 0 #fff;
+header {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.logo-badge {
+  width: 190px;
+  height: auto;
+  margin-top: 4px;
 }
 
 .subtitle {
-  font-size: 1.3rem;
-  color: #226;
-  margin-top: 0.2em;
-}
-
-.loading {
-  font-size: 1.2rem;
-  color: #456;
-  grid-column: 1 / -1;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--blue-dark);
+  margin: 6px 0 0;
 }
 
 .sort-buttons {
   display: flex;
   justify-content: center;
-  gap: 14px;
-  margin-top: 20px;
+  gap: 12px;
+  margin-top: 26px;
   flex-wrap: wrap;
 }
 
 .sort-btn {
-  border: none;
+  border: 2px solid #E8DFC8;
   border-radius: 999px;
-  padding: 12px 22px;
+  padding: 11px 24px;
   font-family: inherit;
-  font-size: 1.1rem;
-  font-weight: bold;
-  color: #234;
-  background: #fff;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--blue-dark);
+  background: var(--card);
   cursor: pointer;
-  box-shadow: 0 5px 0 rgba(0, 0, 0, 0.12);
-  transition: transform 0.12s ease, box-shadow 0.12s ease;
+  box-shadow: 0 3px 0 rgba(58, 50, 38, 0.08);
+  transition: transform 0.12s ease, box-shadow 0.12s ease, background 0.15s ease, color 0.15s ease;
 }
 
 .sort-btn:active {
-  transform: translateY(3px);
-  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.12);
+  transform: translateY(2px);
 }
 
 .sort-btn.active {
-  background: #ffcc33;
-  color: #7a4a00;
+  background: var(--terracotta);
+  border-color: var(--terracotta);
+  color: #FFF9EF;
+  box-shadow: 0 3px 0 var(--terracotta-dark);
 }
 
 .grid {
@@ -66,42 +79,46 @@ h1 {
   grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
   gap: 20px;
   max-width: 1200px;
-  margin: 24px auto 0;
+  margin: 28px auto 0;
 }
 
 .card {
   position: relative;
   border: none;
-  border-radius: 24px;
-  background: #fff;
+  border-radius: 26px;
+  background: var(--card);
   padding: 12px;
   cursor: pointer;
-  box-shadow: 0 6px 0 rgba(0, 0, 0, 0.12);
-  transition: transform 0.12s ease, box-shadow 0.12s ease;
+  box-shadow: 0 10px 24px rgba(58, 50, 38, 0.10);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
   font-family: inherit;
 }
 
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 28px rgba(58, 50, 38, 0.14);
+}
+
 .card:active {
-  transform: translateY(4px);
-  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.12);
+  transform: translateY(0);
 }
 
 .card.playing {
-  outline: 4px solid #ffcc33;
-  animation: pulse 0.6s ease-in-out infinite alternate;
+  box-shadow: 0 0 0 4px var(--terracotta), 0 10px 24px rgba(217, 122, 66, 0.25);
+  animation: pulse 0.7s ease-in-out infinite alternate;
 }
 
 @keyframes pulse {
   from { transform: scale(1); }
-  to { transform: scale(1.04); }
+  to { transform: scale(1.025); }
 }
 
 .card img {
   width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
-  border-radius: 16px;
-  background: #eef;
+  border-radius: 18px;
+  background: #EFE7D3;
   display: block;
 }
 
@@ -109,14 +126,14 @@ h1 {
   position: absolute;
   top: 20px;
   right: 20px;
-  background: #ffcc33;
-  color: #7a4a00;
+  background: var(--terracotta);
+  color: #FFF9EF;
   border-radius: 50%;
-  width: 36px;
-  height: 36px;
-  line-height: 36px;
-  font-size: 1.1rem;
-  box-shadow: 0 3px 0 rgba(0, 0, 0, 0.15);
+  width: 34px;
+  height: 34px;
+  line-height: 34px;
+  font-size: 1rem;
+  box-shadow: 0 3px 6px rgba(184, 98, 47, 0.4);
 }
 
 .name {
@@ -126,23 +143,23 @@ h1 {
 
 .name-en {
   display: block;
-  font-size: 1.15rem;
-  font-weight: bold;
-  color: #234;
+  font-size: 1.12rem;
+  font-weight: 700;
+  color: var(--ink);
 }
 
 .name-he {
   display: block;
-  font-size: 1.05rem;
-  font-weight: bold;
-  color: #457;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--blue);
   margin-top: 2px;
 }
 
 .meta {
   display: block;
   margin-top: 6px;
-  font-size: 0.85rem;
-  font-weight: normal;
-  color: #689;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--muted);
 }
