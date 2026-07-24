@@ -6,7 +6,7 @@
 <title>Birdnet Kids - Bird sounds!</title>
 <link rel="icon" href="favicon.png?v=2">
 <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=3">
 </head>
 <body>
 <header>
@@ -14,11 +14,13 @@
   <p class="subtitle">Tap a bird to hear its song</p>
 </header>
 
+<p class="control-label">Sort</p>
 <div class="sort-buttons">
   <button class="sort-btn active" data-sort="last_seen">🕓 Newest</button>
   <button class="sort-btn" data-sort="week_count">🐣 Common</button>
 </div>
 
+<p class="control-label">Filter</p>
 <div class="filter-buttons">
   <button class="filter-btn active" data-badge="">All</button>
   <button class="filter-btn" data-badge="🏠">🏠 Resident</button>
@@ -43,6 +45,6 @@
 <p class="visit-counter"><span id="visit-count">–</span> visits</p>
 
 <audio id="player"></audio>
-<script src="app.js"></script>
+<script src="app.js?v=3"></script>
 </body>
 </html>

@@ -67,18 +67,39 @@ header {
   transform: translateY(2px);
 }
 
-.sort-btn.active, .filter-btn.active {
+.sort-btn.active {
   background: var(--terracotta);
   border-color: var(--terracotta);
   color: #FFF9EF;
   box-shadow: 0 3px 0 var(--terracotta-dark);
 }
 
+.filter-btn.active {
+  background: var(--blue);
+  border-color: var(--blue);
+  color: #FFF9EF;
+  box-shadow: 0 3px 0 var(--blue-dark);
+}
+
+.control-label {
+  text-align: center;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 22px 0 8px;
+}
+
+.sort-buttons + .control-label {
+  margin-top: 18px;
+}
+
 .filter-buttons {
   display: flex;
   justify-content: center;
   gap: 8px;
-  margin-top: 14px;
+  margin-top: 0;
   flex-wrap: wrap;
   max-width: 700px;
   margin-left: auto;
