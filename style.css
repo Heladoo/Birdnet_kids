@@ -192,3 +192,27 @@ header {
   font-weight: 600;
   color: var(--muted);
 }
+
+.badges {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  max-width: calc(100% - 64px);
+  pointer-events: none;
+}
+
+.badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  font-size: 16px;
+  line-height: 1;
+  border-radius: 50%;
+  background: rgba(255, 253, 246, 0.92);
+  box-shadow: 0 2px 5px rgba(58, 50, 38, 0.25);
+}

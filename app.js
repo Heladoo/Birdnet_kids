@@ -55,6 +55,22 @@ function makeCard(data) {
   }, { once: true });
   btn.appendChild(img);
 
+  if (Array.isArray(data.badges) && data.badges.length) {
+    const badges = document.createElement('span');
+    badges.className = 'badges';
+    data.badges.forEach((b) => {
+      const chip = document.createElement('span');
+      chip.className = 'badge';
+      chip.textContent = b.i;
+      if (b.he) {
+        chip.title = b.he;
+        chip.setAttribute('aria-label', b.he);
+      }
+      badges.appendChild(chip);
+    });
+    btn.appendChild(badges);
+  }
+
   const badge = document.createElement('span');
   badge.className = 'play-badge';
   badge.textContent = '▶';
