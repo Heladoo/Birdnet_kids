@@ -120,22 +120,43 @@ function renderCards(cards) {
   cards.forEach((data) => grid.appendChild(makeCard(data)));
 }
 
+let currentFilter = null;
+const emptyState = document.getElementById('empty-state');
+
+function applyView() {
+  let visible = currentSortKey === 'week_count'
+    ? cardsData.filter((d) => d.week_count > 0)
+    : cardsData;
+  if (currentFilter) {
+    visible = visible.filter((d) => Array.isArray(d.badges) && d.badges.some((b) => b.i === currentFilter));
+  }
+  const sorted = [...visible].sort((a, b) => {
+    if (currentSortKey === 'week_count') {
+      return b.week_count - a.week_count;
+    }
+    return b.last_seen.localeCompare(a.last_seen);
+  });
+  renderCards(sorted);
+  if (emptyState) {
+    emptyState.style.display = sorted.length === 0 ? '' : 'none';
+  }
+}
+
 document.querySelectorAll('.sort-btn').forEach((btn) => {
   btn.addEventListener('click', () => {
     document.querySelectorAll('.sort-btn').forEach((b) => b.classList.remove('active'));
     btn.classList.add('active');
-
     currentSortKey = btn.dataset.sort;
-    const visible = currentSortKey === 'week_count'
-      ? cardsData.filter((d) => d.week_count > 0)
-      : cardsData;
-    const sorted = [...visible].sort((a, b) => {
-      if (currentSortKey === 'week_count') {
-        return b.week_count - a.week_count;
-      }
-      return b.last_seen.localeCompare(a.last_seen);
-    });
-    renderCards(sorted);
+    applyView();
+  });
+});
+
+document.querySelectorAll('.filter-btn').forEach((btn) => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach((b) => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentFilter = btn.dataset.badge || null;
+    applyView();
   });
 });
 
@@ -150,7 +171,7 @@ fetch('data.json')
   .then((r) => r.json())
   .then((data) => {
     cardsData = data;
-    renderCards(cardsData);
+    applyView();
   })
   .catch(() => {
     grid.innerHTML = '<p class="loading">Could not load the birds right now. Try again later!</p>';

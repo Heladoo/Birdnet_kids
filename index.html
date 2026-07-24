@@ -19,9 +19,21 @@
   <button class="sort-btn" data-sort="week_count">🐣 Common</button>
 </div>
 
+<div class="filter-buttons">
+  <button class="filter-btn active" data-badge="">All</button>
+  <button class="filter-btn" data-badge="🏠">🏠 Resident</button>
+  <button class="filter-btn" data-badge="✈️">✈️ Migrant</button>
+  <button class="filter-btn" data-badge="💎">💎 Rare</button>
+  <button class="filter-btn" data-badge="🦅">🦅 Raptor</button>
+  <button class="filter-btn" data-badge="🌊">🌊 Waterbird</button>
+  <button class="filter-btn" data-badge="🌙">🌙 Nocturnal</button>
+  <button class="filter-btn" data-badge="🌅">🌅 Dawn Caller</button>
+</div>
+
 <div class="grid" id="grid">
   <p class="loading">Loading birds...</p>
 </div>
+<p class="empty-state" id="empty-state" style="display:none;">No birds match this filter yet!</p>
 
 <footer class="credits">
   <a href="https://github.com/mcguirepr89/BirdNET-Pi" target="_blank" rel="noopener">Powered by BirdNET-Pi</a>
