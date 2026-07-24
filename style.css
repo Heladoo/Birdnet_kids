@@ -136,6 +136,11 @@ header {
   to { transform: scale(1.025); }
 }
 
+.photo {
+  position: relative;
+  display: block;
+}
+
 .card img {
   width: 100%;
   aspect-ratio: 1 / 1;

@@ -47,13 +47,16 @@ function makeCard(data) {
   btn.dataset.lastSeen = data.last_seen;
   btn.dataset.weekCount = data.week_count;
 
+  const photo = document.createElement('span');
+  photo.className = 'photo';
+
   const img = document.createElement('img');
   img.src = data.image || 'bird-placeholder.svg';
   img.alt = data.name;
   img.addEventListener('error', () => {
     img.src = 'bird-placeholder.svg';
   }, { once: true });
-  btn.appendChild(img);
+  photo.appendChild(img);
 
   if (Array.isArray(data.badges) && data.badges.length) {
     const badges = document.createElement('span');
@@ -68,13 +71,15 @@ function makeCard(data) {
       }
       badges.appendChild(chip);
     });
-    btn.appendChild(badges);
+    photo.appendChild(badges);
   }
 
   const badge = document.createElement('span');
   badge.className = 'play-badge';
   badge.textContent = '▶';
-  btn.appendChild(badge);
+  photo.appendChild(badge);
+
+  btn.appendChild(photo);
 
   const nameWrap = document.createElement('span');
   nameWrap.className = 'name';
