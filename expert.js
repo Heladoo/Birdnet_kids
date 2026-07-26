@@ -109,6 +109,35 @@ function makeRow(r) {
   }
   tr.appendChild(cellV3Top);
 
+  const cellPerch = document.createElement('td');
+  cellPerch.className = 'num';
+  if (r.perch_confidence === null || r.perch_confidence === undefined) {
+    cellPerch.dataset.sort = '-1';
+    cellPerch.textContent = '—';
+  } else {
+    cellPerch.classList.add(r.perch_confidence >= 0.3 ? 'yes' : 'no');
+    cellPerch.dataset.sort = String(r.perch_confidence);
+    cellPerch.textContent = fmtPct(r.perch_confidence, 1);
+    if (r.perch_top_label) {
+      const label = r.perch_top_label.replace('_', ' — ');
+      cellPerch.title = `Perch top guess: ${label} (${fmtPct(r.perch_top_confidence, 1)})`;
+    }
+  }
+  tr.appendChild(cellPerch);
+
+  const cellPerchTop = document.createElement('td');
+  if (!r.perch_top_label) {
+    cellPerchTop.dataset.sort = '-1';
+    cellPerchTop.textContent = '—';
+  } else {
+    const [perchTopSci, perchTopCom] = r.perch_top_label.split(/_(.*)/s);
+    const perchMatches = perchTopSci === r.sci;
+    cellPerchTop.classList.add(perchMatches ? 'yes' : 'no');
+    cellPerchTop.dataset.sort = String(r.perch_top_confidence);
+    cellPerchTop.textContent = `${perchTopCom || perchTopSci} (${fmtPct(r.perch_top_confidence, 1)})`;
+  }
+  tr.appendChild(cellPerchTop);
+
   const cellPhoto = document.createElement('td');
   cellPhoto.classList.add(r.photo ? 'yes' : 'no');
   cellPhoto.dataset.sort = r.photo ? '1' : '0';

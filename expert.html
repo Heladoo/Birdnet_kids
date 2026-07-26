@@ -75,6 +75,8 @@
   <th class="num">Confidence</th>
   <th class="num" title="BirdNET+ V3.0 developer-preview cross-check: confidence for the SAME species on the same clip. Manual one-off sample, not location-filtered like our live V2.4 pipeline - low scores often mean the preview model doesn't know our region, not that the original tag was wrong.">V3.0 Check</th>
   <th title="What BirdNET+ V3.0 thought this clip most likely was, anywhere in the recording - green if it agrees with our tagged species, red if it picked something else.">V3.0 Top Species</th>
+  <th class="num" title="Google Perch v2 cross-check (run locally, architecturally independent model from BirdNET/Merlin): confidence for the SAME species on the same clip. Perch's raw scores are known to run lower/uncalibrated, especially for less-common species - a low number here doesn't mean as much as a low V3.0 Check score does.">Perch Check</th>
+  <th title="What Perch v2 thought this clip most likely was, anywhere in the recording - green if it agrees with our tagged species, red if it picked something else.">Perch Top Species</th>
   <th>Photo</th>
   <th>Audio</th>
 </tr>
