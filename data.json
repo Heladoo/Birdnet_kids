@@ -1,5 +1,32 @@
 [
     {
+        "name": "Bluethroat",
+        "he_name": null,
+        "image": null,
+        "audio": "audio/luscinia_svecica.mp3",
+        "last_seen": "2026-07-26T08:54:45",
+        "week_count": 1,
+        "badges": []
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e7\u05d9\u05d5\u05d5\u05d9\u05ea \u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-07-26T08:48:24",
+        "week_count": 346,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ]
+    },
+    {
         "name": "Graceful Prinia",
         "he_name": "\u05e4\u05e9\u05d5\u05e9  \u05d7\u05d9\u05e0\u05e0\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Graceful_prinia.jpg/1280px-Graceful_prinia.jpg",
@@ -33,24 +60,6 @@
             {
                 "i": "\u2708\ufe0f",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ]
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e7\u05d9\u05d5\u05d5\u05d9\u05ea \u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-07-26T07:11:19",
-        "week_count": 345,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ]
     },
