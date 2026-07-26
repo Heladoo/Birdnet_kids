@@ -96,6 +96,19 @@ function makeRow(r) {
   }
   tr.appendChild(cellV3);
 
+  const cellV3Top = document.createElement('td');
+  if (!r.v3_top_label) {
+    cellV3Top.dataset.sort = '-1';
+    cellV3Top.textContent = '—';
+  } else {
+    const [topSci, topCom] = r.v3_top_label.split(/_(.*)/s);
+    const matches = topSci === r.sci;
+    cellV3Top.classList.add(matches ? 'yes' : 'no');
+    cellV3Top.dataset.sort = String(r.v3_top_confidence);
+    cellV3Top.textContent = `${topCom || topSci} (${fmtPct(r.v3_top_confidence, 1)})`;
+  }
+  tr.appendChild(cellV3Top);
+
   const cellPhoto = document.createElement('td');
   cellPhoto.classList.add(r.photo ? 'yes' : 'no');
   cellPhoto.dataset.sort = r.photo ? '1' : '0';
