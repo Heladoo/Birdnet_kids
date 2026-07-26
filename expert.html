@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BirdNET Kids - Expert data view</title>
+<link rel="icon" href="favicon.png?v=2">
+<style>
+  body {
+    margin: 0;
+    padding: 20px;
+    background: #FBF7EC;
+    font-family: -apple-system, "Segoe UI", Verdana, sans-serif;
+    color: #3A3226;
+    font-size: 13px;
+  }
+  h1 { font-size: 1.3rem; margin: 0 0 4px; }
+  p.sub { margin: 0 0 16px; color: #8B8065; }
+  a.back { color: #3E72C9; text-decoration: none; font-size: 0.85rem; }
+  a.back:hover { text-decoration: underline; }
+  .table-wrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; white-space: nowrap; }
+  th, td { padding: 5px 9px; border-bottom: 1px solid #E8DFC8; text-align: left; }
+  th {
+    position: sticky; top: 0;
+    background: #3E72C9; color: #fff;
+    font-size: 12px; text-transform: uppercase; letter-spacing: 0.03em;
+  }
+  tr:nth-child(even) td { background: #FFFCF4; }
+  tr:hover td { background: #FBEFD9; }
+  .he { direction: rtl; }
+  .num { text-align: right; font-variant-numeric: tabular-nums; }
+  .yes { color: #4C7A3D; font-weight: bold; }
+  .no { color: #C0392B; }
+  audio { height: 28px; width: 170px; }
+  th { cursor: pointer; user-select: none; }
+  th.sorted-asc::after { content: " \25B2"; }
+  th.sorted-desc::after { content: " \25BC"; }
+  .search-box {
+    display: block;
+    width: 100%;
+    max-width: 420px;
+    margin: 0 0 14px;
+    padding: 8px 12px;
+    border: 1px solid #E8DFC8;
+    border-radius: 8px;
+    font-size: 14px;
+    font-family: inherit;
+    box-sizing: border-box;
+  }
+</style>
+</head>
+<body>
+<p><a class="back" href="index.html">&larr; Back to Bird Sounds</a></p>
+<h1>🔬 BirdNET Kids — Expert data view</h1>
+<p class="sub" id="count-line">Loading…</p>
+<input type="search" id="search" class="search-box" placeholder="Search by name (English, Hebrew, or scientific)...">
+<p class="sub" id="search-count"></p>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+  <th>Common Name</th>
+  <th>Hebrew Name</th>
+  <th>Scientific Name</th>
+  <th>Badges</th>
+  <th>Order</th>
+  <th>Family</th>
+  <th class="num">Local Records</th>
+  <th>Residency</th>
+  <th class="num">Dawn %</th>
+  <th class="num">Dawn N</th>
+  <th class="num">Week Count</th>
+  <th>Last Seen</th>
+  <th class="num">Confidence</th>
+  <th class="num" title="BirdNET+ V3.0 developer-preview cross-check: confidence for the SAME species on the same clip. Manual one-off sample, not location-filtered like our live V2.4 pipeline - low scores often mean the preview model doesn't know our region, not that the original tag was wrong.">V3.0 Check</th>
+  <th>Photo</th>
+  <th>Audio</th>
+</tr>
+</thead>
+<tbody id="tbody"></tbody>
+</table>
+</div>
+
+<script src="expert.js"></script>
+</body>
+</html>
