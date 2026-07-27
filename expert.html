@@ -19,12 +19,17 @@
   a.back { color: #3E72C9; text-decoration: none; font-size: 0.85rem; }
   a.back:hover { text-decoration: underline; }
   .table-wrap {
-    overflow-x: auto;
+    overflow: auto;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: auto;
-    border-bottom: 1px solid #E8DFC8;
+    border: 1px solid #E8DFC8;
+    border-radius: 6px;
+    /* Bound the frame to the viewport so its own scrollbars (both axes)
+       are always visible without first scrolling the page past the table -
+       rows scroll inside this frame instead of the whole page growing. */
+    max-height: calc(100vh - 260px);
   }
-  .table-wrap::-webkit-scrollbar { height: 12px; }
+  .table-wrap::-webkit-scrollbar { height: 12px; width: 12px; }
   .table-wrap::-webkit-scrollbar-track { background: #F0E9D2; }
   .table-wrap::-webkit-scrollbar-thumb { background: #C9BB92; border-radius: 6px; }
   .table-wrap::-webkit-scrollbar-thumb:hover { background: #B0A279; }
