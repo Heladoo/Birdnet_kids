@@ -1,11 +1,28 @@
 [
     {
+        "name": "Eurasian Collared-Dove",
+        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+        "audio": "audio/streptopelia_decaocto.mp3",
+        "last_seen": "2026-07-27T19:46:35",
+        "week_count": 102,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.96,
+        "perch_confidence": 0.8294
+    },
+    {
         "name": "Red-rumped Swallow",
         "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
         "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-07-27T18:49:35",
-        "week_count": 66,
+        "last_seen": "2026-07-27T19:42:10",
+        "week_count": 72,
         "v2_confidence": 0.9951,
         "badges": [
             {
@@ -17,12 +34,50 @@
         "perch_confidence": 0.7221
     },
     {
+        "name": "Dunlin",
+        "he_name": "\u05d7\u05d5\u05e4\u05d9\u05ea \u05d0\u05dc\u05e4\u05d9\u05e0\u05d9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dunlin_%28Calidris_alpina%29_in_the_Delaware_Bay_at_Heislerville_Wildlife_Management_Area%2C_New_Jersey%2C_USA.png/1280px-Dunlin_%28Calidris_alpina%29_in_the_Delaware_Bay_at_Heislerville_Wildlife_Management_Area%2C_New_Jersey%2C_USA.png",
+        "audio": "audio/calidris_alpina.mp3",
+        "last_seen": "2026-07-27T19:41:31",
+        "week_count": 1,
+        "v2_confidence": 0.9061,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.0017,
+        "perch_confidence": 0.4505
+    },
+    {
+        "name": "Common Redstart",
+        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e2\u05e6\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg/1280px-Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg",
+        "audio": "audio/phoenicurus_phoenicurus.mp3",
+        "last_seen": "2026-07-27T19:28:31",
+        "week_count": 1,
+        "v2_confidence": 0.8792,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0114,
+        "perch_confidence": 0
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-07-27T18:36:46",
-        "week_count": 389,
+        "last_seen": "2026-07-27T19:22:29",
+        "week_count": 390,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -38,21 +93,21 @@
         "perch_confidence": 0.3531
     },
     {
-        "name": "Eurasian Collared-Dove",
-        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-        "audio": "audio/streptopelia_decaocto.mp3",
-        "last_seen": "2026-07-27T18:26:37",
-        "week_count": 92,
-        "v2_confidence": 0.9982,
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-07-27T19:19:16",
+        "week_count": 124,
+        "v2_confidence": 0.9883,
         "badges": [
             {
                 "i": "\ud83c\udfe0",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
-        "v3_confidence": 0.96,
-        "perch_confidence": 0.8294
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288
     },
     {
         "name": "European Greenfinch",
@@ -70,23 +125,6 @@
         ],
         "v3_confidence": 0.943,
         "perch_confidence": 0.9595
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-07-27T17:55:27",
-        "week_count": 123,
-        "v2_confidence": 0.9883,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288
     },
     {
         "name": "Common House-Martin",
@@ -2035,27 +2073,6 @@
         "perch_confidence": 0
     },
     {
-        "name": "Dunlin",
-        "he_name": "\u05d7\u05d5\u05e4\u05d9\u05ea \u05d0\u05dc\u05e4\u05d9\u05e0\u05d9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dunlin_%28Calidris_alpina%29_in_the_Delaware_Bay_at_Heislerville_Wildlife_Management_Area%2C_New_Jersey%2C_USA.png/1280px-Dunlin_%28Calidris_alpina%29_in_the_Delaware_Bay_at_Heislerville_Wildlife_Management_Area%2C_New_Jersey%2C_USA.png",
-        "audio": "audio/calidris_alpina.mp3",
-        "last_seen": "2026-06-06T07:13:32",
-        "week_count": 0,
-        "v2_confidence": 0.9061,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.0017,
-        "perch_confidence": 0.4505
-    },
-    {
         "name": "Fieldfare",
         "he_name": "\u05e7\u05d9\u05db\u05dc\u05d9 \u05d0\u05e4\u05d5\u05e8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Turdus_pilaris_EM1B9020_%2834450664312%29.jpg/1280px-Turdus_pilaris_EM1B9020_%2834450664312%29.jpg",
@@ -2412,23 +2429,6 @@
         ],
         "v3_confidence": 0.6272,
         "perch_confidence": 0.2868
-    },
-    {
-        "name": "Common Redstart",
-        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e2\u05e6\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg/1280px-Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg",
-        "audio": "audio/phoenicurus_phoenicurus.mp3",
-        "last_seen": "2026-04-02T16:12:38",
-        "week_count": 0,
-        "v2_confidence": 0.8067,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0114,
-        "perch_confidence": 0
     },
     {
         "name": "Great Spotted Cuckoo",
