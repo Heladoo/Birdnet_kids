@@ -18,8 +18,17 @@
   p.sub { margin: 0 0 16px; color: #8B8065; }
   a.back { color: #3E72C9; text-decoration: none; font-size: 0.85rem; }
   a.back:hover { text-decoration: underline; }
-  .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
-  table { border-collapse: collapse; width: 100%; white-space: nowrap; }
+  .table-wrap {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: auto;
+    border-bottom: 1px solid #E8DFC8;
+  }
+  .table-wrap::-webkit-scrollbar { height: 12px; }
+  .table-wrap::-webkit-scrollbar-track { background: #F0E9D2; }
+  .table-wrap::-webkit-scrollbar-thumb { background: #C9BB92; border-radius: 6px; }
+  .table-wrap::-webkit-scrollbar-thumb:hover { background: #B0A279; }
+  table { border-collapse: collapse; width: max-content; min-width: 100%; white-space: nowrap; }
   th, td { padding: 5px 9px; border-bottom: 1px solid #E8DFC8; text-align: left; }
   th {
     position: sticky; top: 0;
@@ -64,6 +73,7 @@
 <p class="sub" id="count-line">Loading…</p>
 <input type="search" id="search" class="search-box" placeholder="Search by name (English, Hebrew, or scientific)...">
 <p class="sub" id="search-count"></p>
+<p class="sub scroll-hint">&harr; Scroll sideways to see more columns</p>
 <div class="table-wrap">
 <table>
 <thead>

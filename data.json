@@ -1,11 +1,45 @@
 [
     {
+        "name": "European Goldfinch",
+        "he_name": "\u05d7\u05d5\u05d7\u05d9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg/1280px-072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
+        "audio": "audio/carduelis_carduelis.mp3",
+        "last_seen": "2026-07-27T09:47:10",
+        "week_count": 9,
+        "v2_confidence": 0.9882,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9722,
+        "perch_confidence": 0.9528
+    },
+    {
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg",
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-07-27T09:26:20",
+        "week_count": 31,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667
+    },
+    {
         "name": "Laughing Dove",
         "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
         "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-07-27T06:06:37",
-        "week_count": 108,
+        "last_seen": "2026-07-27T09:24:57",
+        "week_count": 116,
         "v2_confidence": 0.9984,
         "badges": [
             {
@@ -17,8 +51,25 @@
         "perch_confidence": 0.5157
     },
     {
+        "name": "European Bee-eater",
+        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
+        "audio": "audio/merops_apiaster.mp3",
+        "last_seen": "2026-07-27T09:10:46",
+        "week_count": 25,
+        "v2_confidence": 0.9975,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9088,
+        "perch_confidence": 0.6554
+    },
+    {
         "name": "White-throated Kingfisher",
-        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05e2\u05e6\u05d9\u05dd \u05dc\u05d1\u05df-\u05d4\u05d7\u05d6\u05d4",
+        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg/1280px-White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
         "audio": "audio/halcyon_smyrnensis.mp3",
         "last_seen": "2026-07-27T05:46:10",
@@ -39,7 +90,7 @@
     },
     {
         "name": "Spur-winged Lapwing",
-        "he_name": "\u05e7\u05d9\u05d5\u05d5\u05d9\u05ea \u05e1\u05d9\u05e7\u05e1\u05e7",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
         "audio": "audio/vanellus_spinosus.mp3",
         "last_seen": "2026-07-27T04:24:46",
@@ -106,7 +157,7 @@
     },
     {
         "name": "Red-rumped Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea [\u05e7\u05e7\u05e8\u05d5\u05e4\u05d9\u05d4]",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
         "audio": "audio/cecropis_daurica.mp3",
         "last_seen": "2026-07-26T19:29:09",
@@ -211,23 +262,6 @@
         "perch_confidence": 0.2349
     },
     {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg",
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-07-26T16:21:04",
-        "week_count": 30,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667
-    },
-    {
         "name": "Rosy Starling",
         "he_name": "\u05d6\u05e8\u05d6\u05d9\u05e8 \u05d0\u05e8\u05d1\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pastor_roseus_2023.jpg/1280px-Pastor_roseus_2023.jpg",
@@ -263,7 +297,7 @@
     },
     {
         "name": "European Greenfinch",
-        "he_name": "\u05d9\u05e8\u05e7\u05d5\u05df",
+        "he_name": "\u05d9\u05e8\u05e7\u05d5\u05df (\u05e2\u05d5\u05e3)",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chloris_chloris_%28profile%29.jpg/1280px-Chloris_chloris_%28profile%29.jpg",
         "audio": "audio/chloris_chloris.mp3",
         "last_seen": "2026-07-26T14:26:28",
@@ -277,23 +311,6 @@
         ],
         "v3_confidence": 0.943,
         "perch_confidence": 0.9595
-    },
-    {
-        "name": "European Goldfinch",
-        "he_name": "\u05e7\u05e8\u05d3\u05d5\u05d0\u05dc\u05d9\u05e1 \u05d7\u05d5\u05d7\u05d9\u05ea \u05d0\u05d9\u05e8\u05d5\u05e4\u05d0\u05d9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg/1280px-072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
-        "audio": "audio/carduelis_carduelis.mp3",
-        "last_seen": "2026-07-26T14:10:02",
-        "week_count": 8,
-        "v2_confidence": 0.9882,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9722,
-        "perch_confidence": 0.9528
     },
     {
         "name": "Great Bittern",
@@ -318,7 +335,7 @@
     },
     {
         "name": "Black Redstart",
-        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05d4\u05e1\u05dc\u05e2\u05d9\u05dd",
+        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e1\u05dc\u05e2\u05d9\u05dd",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hausrotschwanz_Brutpflege_2006-05-21-05.jpg/1280px-Hausrotschwanz_Brutpflege_2006-05-21-05.jpg",
         "audio": "audio/phoenicurus_ochruros.mp3",
         "last_seen": "2026-07-26T12:19:21",
@@ -356,7 +373,7 @@
     },
     {
         "name": "Short-toed Snake-Eagle",
-        "he_name": "\u05d7\u05d5\u05d5\u05d9\u05d0\u05d9 \u05d4\u05e0\u05d7\u05e9\u05d9\u05dd \u05e7\u05e6\u05e8 \u05d0\u05e6\u05d1\u05e2\u05d5\u05ea",
+        "he_name": "\u05d7\u05d9\u05d5\u05d5\u05d9\u05d0\u05d9 \u05d4\u05e0\u05d7\u05e9\u05d9\u05dd",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Short-toed_Snake-Eagle_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg/1280px-Short-toed_Snake-Eagle_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg",
         "audio": "audio/circaetus_gallicus.mp3",
         "last_seen": "2026-07-26T11:44:04",
@@ -377,7 +394,7 @@
     },
     {
         "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3 \u05e1\u05d9\u05d1\u05d9\u05e8\u05d9\u05ea",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg",
         "audio": "audio/phylloscopus_collybita.mp3",
         "last_seen": "2026-07-26T10:25:47",
@@ -415,7 +432,7 @@
     },
     {
         "name": "Bluethroat",
-        "he_name": "\u05d6\u05de\u05d9\u05e8 \u05db\u05d7\u05d5\u05dc \u05d7\u05d6\u05d4",
+        "he_name": "\u05db\u05d7\u05d5\u05dc-\u05d4\u05d7\u05d6\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg/3840px-Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg",
         "audio": "audio/luscinia_svecica.mp3",
         "last_seen": "2026-07-26T08:54:45",
@@ -427,7 +444,7 @@
     },
     {
         "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9  \u05d7\u05d9\u05e0\u05e0\u05d9",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Graceful_prinia.jpg/1280px-Graceful_prinia.jpg",
         "audio": "audio/prinia_gracilis.mp3",
         "last_seen": "2026-07-26T08:15:54",
@@ -477,7 +494,7 @@
     },
     {
         "name": "Common Bulbul",
-        "he_name": null,
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg/3840px-Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg",
         "audio": "audio/pycnonotus_barbatus.mp3",
         "last_seen": "2026-07-26T06:16:30",
@@ -511,7 +528,7 @@
     },
     {
         "name": "Red-vented Bulbul",
-        "he_name": null,
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
         "audio": "audio/pycnonotus_cafer.mp3",
         "last_seen": "2026-07-26T06:16:15",
@@ -608,7 +625,7 @@
     },
     {
         "name": "European Golden-Plover",
-        "he_name": null,
+        "he_name": "\u05d7\u05d5\u05e4\u05d6\u05d9 \u05d6\u05d4\u05d5\u05d1",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg/1280px-European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg",
         "audio": "audio/pluvialis_apricaria.mp3",
         "last_seen": "2026-07-26T00:40:15",
@@ -675,7 +692,7 @@
     },
     {
         "name": "Caspian Tern",
-        "he_name": "\u05e9\u05d7\u05e4\u05d9\u05ea \u05db\u05e1\u05e4\u05d9\u05ea \u05d2\u05d3\u05d5\u05dc\u05ea \u05de\u05e7\u05d5\u05e8",
+        "he_name": "\u05e9\u05d7\u05e4\u05d9\u05ea \u05db\u05e1\u05e4\u05d9\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sterna-caspia-010.jpg/1280px-Sterna-caspia-010.jpg",
         "audio": "audio/hydroprogne_caspia.mp3",
         "last_seen": "2026-07-25T21:25:39",
@@ -775,7 +792,7 @@
     },
     {
         "name": "Oriental Honey-buzzard",
-        "he_name": "\u05d0\u05d9\u05d4 \u05de\u05e6\u05d5\u05d9\u05e6\u05ea \u05d4\u05d5\u05d3\u05d5\u05de\u05dc\u05d0\u05d9",
+        "he_name": "\u05d0\u05d9\u05d4 \u05de\u05e6\u05d5\u05d9\u05e6\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg/1280px-Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg",
         "audio": "audio/pernis_ptilorhynchus.mp3",
         "last_seen": "2026-07-25T12:10:36",
@@ -800,7 +817,7 @@
     },
     {
         "name": "Merlin",
-        "he_name": "\u05d1\u05d6 \u05d2\u05de\u05d3\u05d9 \u05de\u05e8\u05dc\u05d9\u05df",
+        "he_name": "\u05d1\u05d6 \u05d2\u05de\u05d3\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Merlin_in_Prospect_Park_%2863386%29.jpg/1280px-Merlin_in_Prospect_Park_%2863386%29.jpg",
         "audio": "audio/falco_columbarius.mp3",
         "last_seen": "2026-07-25T12:08:51",
@@ -818,23 +835,6 @@
         ],
         "v3_confidence": 0.6947,
         "perch_confidence": 0.4578
-    },
-    {
-        "name": "European Bee-eater",
-        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
-        "audio": "audio/merops_apiaster.mp3",
-        "last_seen": "2026-07-25T09:04:54",
-        "week_count": 23,
-        "v2_confidence": 0.9975,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9088,
-        "perch_confidence": 0.6554
     },
     {
         "name": "Eurasian Jackdaw",
@@ -855,7 +855,7 @@
     },
     {
         "name": "Common Redshank",
-        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05dc\u05d1\u05e0\u05ea \u05db\u05e0\u05e3",
+        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05dc\u05d1\u05e0\u05ea-\u05db\u05e0\u05e3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Common_redshank_%28Tringa_totanus%29_breeding_Marken.jpg/3840px-Common_redshank_%28Tringa_totanus%29_breeding_Marken.jpg",
         "audio": "audio/tringa_totanus.mp3",
         "last_seen": "2026-07-25T08:26:45",
@@ -910,7 +910,7 @@
     },
     {
         "name": "Eurasian Wryneck",
-        "he_name": "\u05e1\u05d1\u05e8\u05d0\u05e9 \u05de\u05e6\u05d5\u05d9",
+        "he_name": "\u05e1\u05d1\u05e8\u05d0\u05e9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg/1280px-Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
         "audio": "audio/jynx_torquilla.mp3",
         "last_seen": "2026-07-23T17:03:09",
@@ -978,7 +978,7 @@
     },
     {
         "name": "Common Goldeneye",
-        "he_name": "\u05e2\u05d1\u05e8\u05d0\u05e9 \u05d9\u05e8\u05d5\u05e7 \u05de\u05e6\u05d5\u05d9",
+        "he_name": "\u05e2\u05d1\u05e8\u05d0\u05e9 \u05d9\u05e8\u05d5\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Common_Goldeneye_%28Bucephala_clangula%29.jpg",
         "audio": "audio/bucephala_clangula.mp3",
         "last_seen": "2026-07-23T08:22:27",
@@ -1003,7 +1003,7 @@
     },
     {
         "name": "Little Bittern",
-        "he_name": "\u05d0\u05e0\u05e4\u05d9\u05ea \u05d2\u05de\u05d3\u05d9\u05ea \u05d0\u05d5\u05e1\u05d8\u05e8\u05dc\u05d9\u05ea",
+        "he_name": "\u05d0\u05e0\u05e4\u05d9\u05ea \u05d2\u05de\u05d3\u05d9\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Zwergdommel.jpg/1280px-Zwergdommel.jpg",
         "audio": "audio/ixobrychus_minutus.mp3",
         "last_seen": "2026-07-23T06:05:33",
@@ -1066,7 +1066,7 @@
     },
     {
         "name": "European Pied Flycatcher",
-        "he_name": null,
+        "he_name": "\u05d7\u05d8\u05e4\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05e2\u05d5\u05e8\u05e3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg",
         "audio": "audio/ficedula_hypoleuca.mp3",
         "last_seen": "2026-07-22T09:19:56",
@@ -1083,7 +1083,7 @@
     },
     {
         "name": "Tawny Owl",
-        "he_name": "\u05dc\u05d9\u05dc\u05d9\u05ea \u05e0\u05e4\u05d5\u05e6\u05d4",
+        "he_name": "\u05dc\u05d9\u05dc\u05d9\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Strix_aluco_3_%28Martin_Mecnarowski%29.jpg",
         "audio": "audio/strix_aluco.mp3",
         "last_seen": "2026-07-22T07:46:59",
@@ -1112,7 +1112,7 @@
     },
     {
         "name": "Gadwall",
-        "he_name": null,
+        "he_name": "\u05d1\u05e8\u05d5\u05d5\u05d6 \u05d0\u05e4\u05d5\u05e8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gadwall-Anas-strepera.jpg/3840px-Gadwall-Anas-strepera.jpg",
         "audio": "audio/mareca_strepera.mp3",
         "last_seen": "2026-07-21T15:41:28",
@@ -1133,7 +1133,7 @@
     },
     {
         "name": "Brambling",
-        "he_name": "\u05e4\u05e8\u05d5\u05e9 \u05d4\u05e8\u05d9\u05dd [\u05d4\u05e8\u05e8\u05d9]",
+        "he_name": "\u05e4\u05e8\u05d5\u05e9 \u05d4\u05e8\u05d9\u05dd",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pinson_du_nord.jpg/1280px-Pinson_du_nord.jpg",
         "audio": "audio/fringilla_montifringilla.mp3",
         "last_seen": "2026-07-21T09:28:12",
@@ -1336,7 +1336,7 @@
     },
     {
         "name": "Rock Pigeon",
-        "he_name": "\u05d9\u05d5\u05e0\u05ea \u05e1\u05dc\u05e2",
+        "he_name": "\u05d9\u05d5\u05e0\u05ea \u05d4\u05e1\u05dc\u05e2",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg/1280px-Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg",
         "audio": "audio/columba_livia.mp3",
         "last_seen": "2026-07-18T09:32:49",
@@ -1471,7 +1471,7 @@
     },
     {
         "name": "Long-eared Owl",
-        "he_name": "\u05d9\u05e0\u05e9\u05d5\u05e3 \u05e2\u05e6\u05d9\u05dd \u05d0\u05e8\u05d5\u05da \u05d0\u05d5\u05d6\u05df",
+        "he_name": "\u05d9\u05e0\u05e9\u05d5\u05e3 \u05e2\u05e6\u05d9\u05dd",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Long-eared_Owl_-_Kisjuszallas_-_Hungary_S4E0920_%2815671750198%29.jpg",
         "audio": "audio/asio_otus.mp3",
         "last_seen": "2026-07-12T01:29:14",
@@ -1707,7 +1707,7 @@
     },
     {
         "name": "Barn Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05d9\u05e8\u05d5\u05e0\u05d3\u05d5 \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
         "audio": "audio/hirundo_rustica.mp3",
         "last_seen": "2026-07-02T14:52:14",
@@ -1850,7 +1850,7 @@
     },
     {
         "name": "Eurasian Blackbird",
-        "he_name": null,
+        "he_name": "\u05e9\u05d7\u05e8\u05d5\u05e8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Common_Blackbird.jpg/1280px-Common_Blackbird.jpg",
         "audio": "audio/turdus_merula.mp3",
         "last_seen": "2026-06-22T09:20:53",
@@ -1901,7 +1901,7 @@
     },
     {
         "name": "Yellow-throated Sparrow",
-        "he_name": "\u05d3\u05e8\u05d5\u05e8\u05df \u05e6\u05d4\u05d5\u05d1-\u05d2\u05e8\u05d5\u05df",
+        "he_name": "\u05d3\u05e8\u05d5\u05e8\u05d9\u05ea \u05e6\u05d4\u05d5\u05d1\u05ea-\u05d2\u05e8\u05d5\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Petronia_xanthocollis_-Haryana%2C_India_-male-8.jpg",
         "audio": "audio/gymnoris_xanthocollis.mp3",
         "last_seen": "2026-06-18T19:37:16",
@@ -2242,7 +2242,7 @@
     },
     {
         "name": "Black-winged Kite",
-        "he_name": "\u05d3\u05d0\u05d4 \u05e9\u05d7\u05d5\u05e8\u05ea \u05db\u05ea\u05e3",
+        "he_name": "\u05d3\u05d0\u05d4 \u05e9\u05d7\u05d5\u05e8\u05ea-\u05db\u05ea\u05e3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Black-winged_Kite_in_Tal_Chhapar_Sanctuary_November_2025_by_Tisha_Mukherjee_03.jpg/1280px-Black-winged_Kite_in_Tal_Chhapar_Sanctuary_November_2025_by_Tisha_Mukherjee_03.jpg",
         "audio": "audio/elanus_caeruleus.mp3",
         "last_seen": "2026-05-02T21:37:08",
@@ -2284,7 +2284,7 @@
     },
     {
         "name": "Black Kite",
-        "he_name": null,
+        "he_name": "\u05d3\u05d9\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Schwarzmilan.jpg/1280px-Schwarzmilan.jpg",
         "audio": "audio/milvus_migrans.mp3",
         "last_seen": "2026-04-23T10:59:43",
@@ -2326,7 +2326,7 @@
     },
     {
         "name": "Common Cuckoo",
-        "he_name": "\u05e7\u05d5\u05e7\u05d9\u05d9\u05d4 \u05d0\u05d9\u05e8\u05d5\u05e4\u05d0\u05d9\u05ea",
+        "he_name": "\u05e7\u05d5\u05e7\u05d9\u05d9\u05d4 \u05d0\u05d9\u05e8\u05d5\u05e4\u05d9\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cuckoo_%2851169010335%29.jpg/1280px-Cuckoo_%2851169010335%29.jpg",
         "audio": "audio/cuculus_canorus.mp3",
         "last_seen": "2026-04-20T13:29:38",
@@ -2415,7 +2415,7 @@
     },
     {
         "name": "Common Redstart",
-        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05d4\u05e2\u05e6\u05d9\u05dd",
+        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e2\u05e6\u05d9\u05dd",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg/1280px-Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg",
         "audio": "audio/phoenicurus_phoenicurus.mp3",
         "last_seen": "2026-04-02T16:12:38",
@@ -2461,7 +2461,7 @@
     },
     {
         "name": "Rufous-tailed Scrub-Robin",
-        "he_name": "\u05d7\u05de\u05e8\u05d9\u05d4 \u05d7\u05dc\u05d5\u05d3\u05ea-\u05d6\u05e0\u05d1",
+        "he_name": "\u05d7\u05de\u05e8\u05d9\u05d9\u05d4 \u05d7\u05dc\u05d5\u05d3\u05ea-\u05d6\u05e0\u05d1",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Agrobate_roux_au_Parc_National_de_l%27Ichkeul_%28Tunisia%29%2C_crop.jpg/1920px-Agrobate_roux_au_Parc_National_de_l%27Ichkeul_%28Tunisia%29%2C_crop.jpg",
         "audio": "audio/cercotrichas_galactotes.mp3",
         "last_seen": "2026-03-23T09:04:31",
@@ -2512,7 +2512,7 @@
     },
     {
         "name": "Collared Flycatcher",
-        "he_name": null,
+        "he_name": "\u05d7\u05d8\u05e4\u05d9\u05ea \u05dc\u05d1\u05e0\u05ea-\u05e2\u05d5\u05e8\u05e3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Collared_flycatcher_%28Ficedula_albicollis%29.jpg/1280px-Collared_flycatcher_%28Ficedula_albicollis%29.jpg",
         "audio": "audio/ficedula_albicollis.mp3",
         "last_seen": "2026-03-04T07:23:46",

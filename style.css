@@ -111,7 +111,7 @@ header {
   font-size: 0.88rem;
 }
 
-.loading, .empty-state {
+.empty-state {
   max-width: 640px;
   margin: 40px auto 0;
   font-size: 1.1rem;
@@ -227,6 +227,28 @@ header {
   white-space: nowrap;
 }
 
+.expert-link {
+  position: fixed;
+  top: 14px;
+  right: 14px;
+  width: 42px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  background: var(--card);
+  border-radius: 50%;
+  box-shadow: 0 2px 8px rgba(58, 50, 38, 0.18);
+  text-decoration: none;
+  z-index: 10;
+  transition: transform 0.15s ease;
+}
+
+.expert-link:hover {
+  transform: scale(1.08);
+}
+
 .credits {
   margin: 40px 0 0;
   font-size: 0.8rem;
@@ -247,13 +269,6 @@ header {
 .credits-sep {
   color: var(--muted);
   margin: 0 6px;
-}
-
-.visit-counter {
-  margin: 8px 0 0;
-  font-size: 0.8rem;
-  font-weight: 600;
-  color: var(--muted);
 }
 
 .badges {
