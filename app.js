@@ -13,6 +13,10 @@ function formatDate(d) {
   return `${dd}.${mm}.${yy}, ${hh}:${min}`;
 }
 
+function formatScore(v) {
+  return v === null || v === undefined ? '–' : `${Math.round(v * 100)}%`;
+}
+
 function formatMeta(data, sortKey) {
   if (sortKey === 'week_count') {
     const n = Number(data.week_count);
@@ -103,6 +107,29 @@ function makeCard(data) {
   meta.className = 'meta';
   meta.textContent = formatMeta(data, currentSortKey);
   btn.appendChild(meta);
+
+  const scores = document.createElement('span');
+  scores.className = 'scores';
+
+  const scoreV2 = document.createElement('span');
+  scoreV2.className = 'score';
+  scoreV2.title = 'BirdNET v2.4 (our main model)';
+  scoreV2.textContent = `🐦 ${formatScore(data.v2_confidence)}`;
+  scores.appendChild(scoreV2);
+
+  const scoreV3 = document.createElement('span');
+  scoreV3.className = 'score';
+  scoreV3.title = 'BirdNET+ V3.0 developer preview';
+  scoreV3.textContent = `3️⃣ ${formatScore(data.v3_confidence)}`;
+  scores.appendChild(scoreV3);
+
+  const scorePerch = document.createElement('span');
+  scorePerch.className = 'score';
+  scorePerch.title = 'Google Perch v2';
+  scorePerch.innerHTML = `<strong>G</strong> ${formatScore(data.perch_confidence)}`;
+  scores.appendChild(scorePerch);
+
+  btn.appendChild(scores);
 
   btn.addEventListener('click', () => {
     const src = btn.dataset.audio;
