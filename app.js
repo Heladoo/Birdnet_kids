@@ -17,10 +17,19 @@ function formatScore(v) {
   return v === null || v === undefined ? '–' : `${Math.round(v * 100)}%`;
 }
 
+function certainty(data) {
+  const scores = [data.v2_confidence, data.v3_confidence, data.perch_confidence].filter((c) => c !== null && c !== undefined);
+  return scores.length ? Math.round(scores.reduce((a, b) => a + b, 0) / scores.length * 100) : -1;
+}
+
 function formatMeta(data, sortKey) {
   if (sortKey === 'week_count') {
     const n = Number(data.week_count);
     return `Heard ${n} time${n === 1 ? '' : 's'} this week`;
+  }
+  if (sortKey === 'certainty') {
+    const c = certainty(data);
+    return c < 0 ? 'Certainty unknown' : `Certainty ${c}%`;
   }
   const d = new Date(data.last_seen);
   if (isNaN(d)) {
@@ -165,6 +174,9 @@ function applyView() {
   const sorted = [...visible].sort((a, b) => {
     if (currentSortKey === 'week_count') {
       return b.week_count - a.week_count;
+    }
+    if (currentSortKey === 'certainty') {
+      return certainty(b) - certainty(a);
     }
     return b.last_seen.localeCompare(a.last_seen);
   });
