@@ -18,14 +18,22 @@
   p.sub { margin: 0 0 16px; color: #8B8065; }
   a.back { color: #3E72C9; text-decoration: none; font-size: 0.85rem; }
   a.back:hover { text-decoration: underline; }
-  .table-wrap { overflow-x: auto; }
+  .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
   table { border-collapse: collapse; width: 100%; white-space: nowrap; }
   th, td { padding: 5px 9px; border-bottom: 1px solid #E8DFC8; text-align: left; }
   th {
     position: sticky; top: 0;
     background: #3E72C9; color: #fff;
     font-size: 12px; text-transform: uppercase; letter-spacing: 0.03em;
+    z-index: 2;
   }
+  td:first-child, th:first-child {
+    position: sticky; left: 0;
+    z-index: 1;
+    background: #FBF7EC;
+    box-shadow: 2px 0 4px rgba(0, 0, 0, 0.08);
+  }
+  th:first-child { z-index: 3; background: #3E72C9; box-shadow: 2px 0 4px rgba(0, 0, 0, 0.15); }
   tr:nth-child(even) td { background: #FFFCF4; }
   tr:hover td { background: #FBEFD9; }
   .he { direction: rtl; }

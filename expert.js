@@ -177,7 +177,7 @@ function wireSort() {
   const table = document.querySelector('table');
   table.querySelectorAll('th').forEach((th, colIndex) => {
     th.addEventListener('click', () => {
-      const dir = th.classList.contains('sorted-asc') ? 'desc' : 'asc';
+      const dir = th.classList.contains('sorted-desc') ? 'asc' : 'desc';
       table.querySelectorAll('th').forEach((h) => h.classList.remove('sorted-asc', 'sorted-desc'));
       th.classList.add(dir === 'asc' ? 'sorted-asc' : 'sorted-desc');
 
