@@ -1,5 +1,56 @@
 [
     {
+        "name": "Laughing Dove",
+        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+        "audio": "audio/streptopelia_senegalensis.mp3",
+        "last_seen": "2026-07-28T09:59:14",
+        "week_count": 95,
+        "v2_confidence": 0.9984,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.924,
+        "perch_confidence": 0.5157
+    },
+    {
+        "name": "Black Redstart",
+        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e1\u05dc\u05e2\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hausrotschwanz_Brutpflege_2006-05-21-05.jpg/1280px-Hausrotschwanz_Brutpflege_2006-05-21-05.jpg",
+        "audio": "audio/phoenicurus_ochruros.mp3",
+        "last_seen": "2026-07-28T09:26:22",
+        "week_count": 4,
+        "v2_confidence": 0.9952,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9386,
+        "perch_confidence": 0.9259
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-07-28T09:24:07",
+        "week_count": 123,
+        "v2_confidence": 0.9883,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288
+    },
+    {
         "name": "White-throated Kingfisher",
         "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg/1280px-White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
@@ -44,23 +95,6 @@
         ],
         "v3_confidence": 0.9524,
         "perch_confidence": 0.9787
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-07-28T08:41:18",
-        "week_count": 121,
-        "v2_confidence": 0.9883,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288
     },
     {
         "name": "Eurasian Jackdaw",
@@ -201,23 +235,6 @@
         ],
         "v3_confidence": 0.1031,
         "perch_confidence": 0.0656
-    },
-    {
-        "name": "Laughing Dove",
-        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-        "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-07-28T06:27:50",
-        "week_count": 94,
-        "v2_confidence": 0.9984,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.924,
-        "perch_confidence": 0.5157
     },
     {
         "name": "Spur-winged Lapwing",
@@ -539,23 +556,6 @@
         ],
         "v3_confidence": 0.0007,
         "perch_confidence": 0.0357
-    },
-    {
-        "name": "Black Redstart",
-        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e1\u05dc\u05e2\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hausrotschwanz_Brutpflege_2006-05-21-05.jpg/1280px-Hausrotschwanz_Brutpflege_2006-05-21-05.jpg",
-        "audio": "audio/phoenicurus_ochruros.mp3",
-        "last_seen": "2026-07-26T12:19:21",
-        "week_count": 3,
-        "v2_confidence": 0.9952,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9386,
-        "perch_confidence": 0.9259
     },
     {
         "name": "Common Greenshank",
