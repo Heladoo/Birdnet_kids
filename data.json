@@ -1,5 +1,60 @@
 [
     {
+        "name": "House Sparrow",
+        "he_name": "\u05d3\u05e8\u05d5\u05e8 \u05d4\u05d1\u05d9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/1280px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg",
+        "audio": "audio/passer_domesticus.mp3",
+        "last_seen": "2026-07-29T10:59:51",
+        "week_count": 3,
+        "v2_confidence": 0.951,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf05",
+                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
+            }
+        ],
+        "v3_confidence": 0.9058,
+        "perch_confidence": 0.6953
+    },
+    {
+        "name": "Eurasian Collared-Dove",
+        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+        "audio": "audio/streptopelia_decaocto.mp3",
+        "last_seen": "2026-07-29T10:48:43",
+        "week_count": 105,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.96,
+        "perch_confidence": 0.8294
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Graceful_prinia.jpg/1280px-Graceful_prinia.jpg",
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-07-29T10:38:17",
+        "week_count": 39,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728
+    },
+    {
         "name": "Eurasian Scops-Owl",
         "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
@@ -173,23 +228,6 @@
         "perch_confidence": 0.036
     },
     {
-        "name": "Eurasian Collared-Dove",
-        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-        "audio": "audio/streptopelia_decaocto.mp3",
-        "last_seen": "2026-07-28T19:41:29",
-        "week_count": 93,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.96,
-        "perch_confidence": 0.8294
-    },
-    {
         "name": "Gadwall",
         "he_name": "\u05d1\u05e8\u05d5\u05d5\u05d6 \u05d0\u05e4\u05d5\u05e8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gadwall-Anas-strepera.jpg/3840px-Gadwall-Anas-strepera.jpg",
@@ -226,27 +264,6 @@
         ],
         "v3_confidence": 0.9722,
         "perch_confidence": 0.9528
-    },
-    {
-        "name": "House Sparrow",
-        "he_name": "\u05d3\u05e8\u05d5\u05e8 \u05d4\u05d1\u05d9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/1280px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg",
-        "audio": "audio/passer_domesticus.mp3",
-        "last_seen": "2026-07-28T18:40:01",
-        "week_count": 2,
-        "v2_confidence": 0.951,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf05",
-                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
-            }
-        ],
-        "v3_confidence": 0.9058,
-        "perch_confidence": 0.6953
     },
     {
         "name": "Eurasian Golden Oriole",
@@ -353,23 +370,6 @@
         ],
         "v3_confidence": 0.9233,
         "perch_confidence": 0.6594
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Graceful_prinia.jpg/1280px-Graceful_prinia.jpg",
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-07-28T08:07:03",
-        "week_count": 38,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728
     },
     {
         "name": "White-spectacled Bulbul",
