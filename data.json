@@ -1,5 +1,43 @@
 [
     {
+        "name": "Laughing Dove",
+        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+        "audio": "audio/streptopelia_senegalensis.mp3",
+        "last_seen": "2026-08-01T05:59:11",
+        "week_count": 51,
+        "v2_confidence": 0.9984,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.924,
+        "perch_confidence": 0.5157
+    },
+    {
+        "name": "White-throated Kingfisher",
+        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg/1280px-White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
+        "audio": "audio/halcyon_smyrnensis.mp3",
+        "last_seen": "2026-08-01T05:54:58",
+        "week_count": 55,
+        "v2_confidence": 0.9996,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf05",
+                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
+            }
+        ],
+        "v3_confidence": 0.9623,
+        "perch_confidence": 0.2317
+    },
+    {
         "name": "Gray Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05d6\u05e0\u05d1\u05ea\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/3840px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
@@ -150,23 +188,6 @@
         ],
         "v3_confidence": 0.344,
         "perch_confidence": 0.7221
-    },
-    {
-        "name": "Laughing Dove",
-        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-        "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-07-31T17:36:29",
-        "week_count": 50,
-        "v2_confidence": 0.9984,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.924,
-        "perch_confidence": 0.5157
     },
     {
         "name": "Dunlin",
@@ -353,27 +374,6 @@
         ],
         "v3_confidence": 0.0098,
         "perch_confidence": 0.1225
-    },
-    {
-        "name": "White-throated Kingfisher",
-        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg/1280px-White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
-        "audio": "audio/halcyon_smyrnensis.mp3",
-        "last_seen": "2026-07-31T06:16:16",
-        "week_count": 50,
-        "v2_confidence": 0.9996,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf05",
-                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
-            }
-        ],
-        "v3_confidence": 0.9623,
-        "perch_confidence": 0.2317
     },
     {
         "name": "Common Myna",
