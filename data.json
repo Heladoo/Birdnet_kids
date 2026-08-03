@@ -1,5 +1,26 @@
 [
     {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-08-03T23:36:17",
+        "week_count": 818,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531
+    },
+    {
         "name": "Eurasian Thick-knee",
         "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
@@ -22,7 +43,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
         "audio": "audio/psittacula_krameri.mp3",
         "last_seen": "2026-08-03T19:34:55",
-        "week_count": 216,
+        "week_count": 197,
         "v2_confidence": 0.9883,
         "badges": [
             {
@@ -32,27 +53,6 @@
         ],
         "v3_confidence": 0.9194,
         "perch_confidence": 0.5288
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-08-03T19:24:06",
-        "week_count": 869,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531
     },
     {
         "name": "Eurasian Kestrel",
@@ -102,7 +102,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
         "audio": "audio/cecropis_daurica.mp3",
         "last_seen": "2026-08-03T18:29:06",
-        "week_count": 118,
+        "week_count": 100,
         "v2_confidence": 0.9965,
         "badges": [
             {
@@ -119,7 +119,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
         "audio": "audio/streptopelia_decaocto.mp3",
         "last_seen": "2026-08-03T17:16:36",
-        "week_count": 197,
+        "week_count": 188,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -136,7 +136,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
         "audio": "audio/streptopelia_senegalensis.mp3",
         "last_seen": "2026-08-03T16:57:10",
-        "week_count": 140,
+        "week_count": 134,
         "v2_confidence": 0.9984,
         "badges": [
             {
@@ -199,7 +199,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nordic_jackdaw_%2852563242448%29.jpg/1280px-Nordic_jackdaw_%2852563242448%29.jpg",
         "audio": "audio/corvus_monedula.mp3",
         "last_seen": "2026-08-03T12:34:36",
-        "week_count": 45,
+        "week_count": 44,
         "v2_confidence": 0.99,
         "badges": [
             {
@@ -216,7 +216,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Graceful_prinia.jpg/1280px-Graceful_prinia.jpg",
         "audio": "audio/prinia_gracilis.mp3",
         "last_seen": "2026-08-03T12:09:27",
-        "week_count": 34,
+        "week_count": 30,
         "v2_confidence": 0.9958,
         "badges": [
             {
@@ -254,7 +254,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg",
         "audio": "audio/locustella_fluviatilis.mp3",
         "last_seen": "2026-08-03T11:50:36",
-        "week_count": 8,
+        "week_count": 4,
         "v2_confidence": 0.9471,
         "badges": [
             {
@@ -271,7 +271,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
         "audio": "audio/otus_scops.mp3",
         "last_seen": "2026-08-03T10:56:08",
-        "week_count": 60,
+        "week_count": 40,
         "v2_confidence": 0.9954,
         "badges": [
             {
@@ -296,7 +296,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hausrotschwanz_Brutpflege_2006-05-21-05.jpg/1280px-Hausrotschwanz_Brutpflege_2006-05-21-05.jpg",
         "audio": "audio/phoenicurus_ochruros.mp3",
         "last_seen": "2026-08-03T10:08:18",
-        "week_count": 16,
+        "week_count": 14,
         "v2_confidence": 0.9952,
         "badges": [
             {
@@ -347,7 +347,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg/1280px-072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
         "audio": "audio/carduelis_carduelis.mp3",
         "last_seen": "2026-08-03T07:14:57",
-        "week_count": 7,
+        "week_count": 4,
         "v2_confidence": 0.9882,
         "badges": [
             {
@@ -364,7 +364,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/riparia_riparia.mp3",
         "last_seen": "2026-08-03T07:09:29",
-        "week_count": 3,
+        "week_count": 2,
         "v2_confidence": 0.9405,
         "badges": [
             {
@@ -381,7 +381,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/1280px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg",
         "audio": "audio/passer_domesticus.mp3",
         "last_seen": "2026-08-03T06:50:40",
-        "week_count": 5,
+        "week_count": 4,
         "v2_confidence": 0.951,
         "badges": [
             {
@@ -402,7 +402,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/White-spectacled_bulbul.jpg/1280px-White-spectacled_bulbul.jpg",
         "audio": "audio/pycnonotus_xanthopygos.mp3",
         "last_seen": "2026-08-03T06:42:59",
-        "week_count": 25,
+        "week_count": 10,
         "v2_confidence": 0.9915,
         "badges": [
             {
@@ -436,7 +436,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chloris_chloris_%28profile%29.jpg/1280px-Chloris_chloris_%28profile%29.jpg",
         "audio": "audio/chloris_chloris.mp3",
         "last_seen": "2026-08-03T06:41:57",
-        "week_count": 58,
+        "week_count": 49,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -453,7 +453,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
         "audio": "audio/tyto_alba.mp3",
         "last_seen": "2026-08-03T06:41:21",
-        "week_count": 6,
+        "week_count": 4,
         "v2_confidence": 0.9991,
         "badges": [
             {
@@ -478,7 +478,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg",
         "audio": "audio/acridotheres_tristis.mp3",
         "last_seen": "2026-08-03T06:20:38",
-        "week_count": 19,
+        "week_count": 18,
         "v2_confidence": 0.9867,
         "badges": [
             {
@@ -495,7 +495,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grey_Heron_%2854990114762%29_%28cropped%29.jpg/1280px-Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
         "audio": "audio/ardea_cinerea.mp3",
         "last_seen": "2026-08-03T02:56:51",
-        "week_count": 2,
+        "week_count": 1,
         "v2_confidence": 0.9394,
         "badges": [
             {
@@ -596,7 +596,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg/1280px-White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
         "audio": "audio/halcyon_smyrnensis.mp3",
         "last_seen": "2026-08-02T08:12:22",
-        "week_count": 27,
+        "week_count": 23,
         "v2_confidence": 0.9996,
         "badges": [
             {
@@ -798,7 +798,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Greater_white-fronted_goose_in_flight-1045.jpg/1280px-Greater_white-fronted_goose_in_flight-1045.jpg",
         "audio": "audio/anser_albifrons.mp3",
         "last_seen": "2026-07-31T09:50:05",
-        "week_count": 4,
+        "week_count": 2,
         "v2_confidence": 0.9039,
         "badges": [
             {
@@ -869,7 +869,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg",
         "audio": "audio/phylloscopus_collybita.mp3",
         "last_seen": "2026-07-30T14:55:20",
-        "week_count": 4,
+        "week_count": 1,
         "v2_confidence": 0.9897,
         "badges": [
             {
@@ -886,7 +886,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg/1280px-Garrulus_glandarius_1_Luc_Viatour.jpg",
         "audio": "audio/garrulus_glandarius.mp3",
         "last_seen": "2026-07-30T07:01:16",
-        "week_count": 3,
+        "week_count": 2,
         "v2_confidence": 0.9763,
         "badges": [
             {
@@ -920,7 +920,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gadwall-Anas-strepera.jpg/3840px-Gadwall-Anas-strepera.jpg",
         "audio": "audio/mareca_strepera.mp3",
         "last_seen": "2026-07-29T15:27:54",
-        "week_count": 2,
+        "week_count": 1,
         "v2_confidence": 0.9293,
         "badges": [
             {
@@ -958,7 +958,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rigogolo-%28Oriolus_oriolus%29_Lazio%2C_isola_di_Ventotene_%28LT%29_19.4.2024_%28cropped%29.png",
         "audio": "audio/oriolus_oriolus.mp3",
         "last_seen": "2026-07-28T18:19:01",
-        "week_count": 2,
+        "week_count": 0,
         "v2_confidence": 0.8511,
         "badges": [
             {
@@ -975,7 +975,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Short-toed_Snake-Eagle_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg/1280px-Short-toed_Snake-Eagle_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg",
         "audio": "audio/circaetus_gallicus.mp3",
         "last_seen": "2026-07-28T15:37:29",
-        "week_count": 2,
+        "week_count": 0,
         "v2_confidence": 0.8847,
         "badges": [
             {
@@ -996,7 +996,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg/1280px-2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg",
         "audio": "audio/thalasseus_sandvicensis.mp3",
         "last_seen": "2026-07-28T07:12:01",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.8279,
         "badges": [
             {
