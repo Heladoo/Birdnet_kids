@@ -1,28 +1,23 @@
 [
     {
-        "name": "Eurasian Collared-Dove",
-        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-        "audio": "audio/streptopelia_decaocto.mp3",
-        "last_seen": "2026-08-06T18:54:44",
-        "week_count": 151,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.96,
-        "perch_confidence": 0.8294
+        "name": "Black Francolin",
+        "he_name": null,
+        "image": null,
+        "audio": "audio/francolinus_francolinus.mp3",
+        "last_seen": "2026-08-06T19:46:48",
+        "week_count": 1,
+        "v2_confidence": 0.8496,
+        "badges": [],
+        "v3_confidence": null,
+        "perch_confidence": null
     },
     {
         "name": "Red-rumped Swallow",
         "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
         "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-08-06T18:51:40",
-        "week_count": 120,
+        "last_seen": "2026-08-06T19:36:59",
+        "week_count": 124,
         "v2_confidence": 0.9965,
         "badges": [
             {
@@ -34,12 +29,67 @@
         "perch_confidence": 0.7221
     },
     {
+        "name": "Eurasian Collared-Dove",
+        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+        "audio": "audio/streptopelia_decaocto.mp3",
+        "last_seen": "2026-08-06T19:30:27",
+        "week_count": 152,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.96,
+        "perch_confidence": 0.8294
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-08-06T19:24:33",
+        "week_count": 642,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531
+    },
+    {
+        "name": "Common House-Martin",
+        "he_name": "\u05d8\u05e1\u05d9\u05ea \u05d1\u05ea\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
+        "audio": "audio/delichon_urbicum.mp3",
+        "last_seen": "2026-08-06T19:23:31",
+        "week_count": 3,
+        "v2_confidence": 0.9666,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0374,
+        "perch_confidence": 0.0249
+    },
+    {
         "name": "White-spectacled Bulbul",
         "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05e6\u05d4\u05d5\u05d1-\u05e9\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/White-spectacled_bulbul.jpg/1280px-White-spectacled_bulbul.jpg",
         "audio": "audio/pycnonotus_xanthopygos.mp3",
-        "last_seen": "2026-08-06T18:48:48",
-        "week_count": 43,
+        "last_seen": "2026-08-06T19:10:03",
+        "week_count": 53,
         "v2_confidence": 0.9915,
         "badges": [
             {
@@ -83,27 +133,6 @@
         ],
         "v3_confidence": 0.905,
         "perch_confidence": 0.8648
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-08-06T17:15:36",
-        "week_count": 634,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531
     },
     {
         "name": "Graceful Prinia",
@@ -1204,23 +1233,6 @@
         ],
         "v3_confidence": 0.1031,
         "perch_confidence": 0.0656
-    },
-    {
-        "name": "Common House-Martin",
-        "he_name": "\u05d8\u05e1\u05d9\u05ea \u05d1\u05ea\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
-        "audio": "audio/delichon_urbicum.mp3",
-        "last_seen": "2026-07-27T15:51:52",
-        "week_count": 0,
-        "v2_confidence": 0.9666,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0374,
-        "perch_confidence": 0.0249
     },
     {
         "name": "Rosy Starling",
