@@ -1,5 +1,22 @@
 [
     {
+        "name": "European Greenfinch",
+        "he_name": "\u05d9\u05e8\u05e7\u05d5\u05df (\u05e2\u05d5\u05e3)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chloris_chloris_%28profile%29.jpg/1280px-Chloris_chloris_%28profile%29.jpg",
+        "audio": "audio/chloris_chloris.mp3",
+        "last_seen": "2026-08-07T09:42:57",
+        "week_count": 12,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.943,
+        "perch_confidence": 0.9595
+    },
+    {
         "name": "Laughing Dove",
         "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
@@ -683,23 +700,6 @@
         ],
         "v3_confidence": 0.0114,
         "perch_confidence": 0
-    },
-    {
-        "name": "European Greenfinch",
-        "he_name": "\u05d9\u05e8\u05e7\u05d5\u05df (\u05e2\u05d5\u05e3)",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chloris_chloris_%28profile%29.jpg/1280px-Chloris_chloris_%28profile%29.jpg",
-        "audio": "audio/chloris_chloris.mp3",
-        "last_seen": "2026-08-04T18:46:10",
-        "week_count": 11,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.943,
-        "perch_confidence": 0.9595
     },
     {
         "name": "House Sparrow",
