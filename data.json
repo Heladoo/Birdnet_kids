@@ -1,5 +1,51 @@
 [
     {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Graceful_prinia.jpg/1280px-Graceful_prinia.jpg",
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-08-08T09:58:30",
+        "week_count": 11,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728
+    },
+    {
+        "name": "River Warbler",
+        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg",
+        "audio": "audio/locustella_fluviatilis.mp3",
+        "last_seen": "2026-08-08T09:10:22",
+        "week_count": 11,
+        "v2_confidence": 0.9686,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0012,
+        "perch_confidence": 0
+    },
+    {
+        "name": "European Serin",
+        "he_name": "\u05d1\u05d6\u05d1\u05d5\u05d6 \u05d0\u05d9\u05e8\u05d5\u05e4\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/European_serin_%28Serinus_serinus%29_male.jpg/1280px-European_serin_%28Serinus_serinus%29_male.jpg",
+        "audio": "audio/serinus_serinus.mp3",
+        "last_seen": "2026-08-08T09:09:32",
+        "week_count": 3,
+        "v2_confidence": 0.8103,
+        "badges": [],
+        "v3_confidence": 0.7995,
+        "perch_confidence": 0
+    },
+    {
         "name": "Eurasian Kestrel",
         "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
@@ -386,23 +432,6 @@
         "perch_confidence": 0.0666
     },
     {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Graceful_prinia.jpg/1280px-Graceful_prinia.jpg",
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-08-07T14:38:27",
-        "week_count": 8,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728
-    },
-    {
         "name": "Eurasian Collared-Dove",
         "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
@@ -643,35 +672,6 @@
         ],
         "v3_confidence": 0.0007,
         "perch_confidence": 0.0357
-    },
-    {
-        "name": "European Serin",
-        "he_name": "\u05d1\u05d6\u05d1\u05d5\u05d6 \u05d0\u05d9\u05e8\u05d5\u05e4\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/European_serin_%28Serinus_serinus%29_male.jpg/1280px-European_serin_%28Serinus_serinus%29_male.jpg",
-        "audio": "audio/serinus_serinus.mp3",
-        "last_seen": "2026-08-06T09:40:44",
-        "week_count": 2,
-        "v2_confidence": 0.7331,
-        "badges": [],
-        "v3_confidence": 0.7995,
-        "perch_confidence": 0
-    },
-    {
-        "name": "River Warbler",
-        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg",
-        "audio": "audio/locustella_fluviatilis.mp3",
-        "last_seen": "2026-08-06T09:40:33",
-        "week_count": 5,
-        "v2_confidence": 0.9686,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0012,
-        "perch_confidence": 0
     },
     {
         "name": "Brambling",
