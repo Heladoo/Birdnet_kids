@@ -1,5 +1,73 @@
 [
     {
+        "name": "Dunnock",
+        "he_name": "\u05e1\u05ea\u05e8\u05d9 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dunnock_%28Prunella_modularis%29_3.jpg/3840px-Dunnock_%28Prunella_modularis%29_3.jpg",
+        "audio": "audio/prunella_modularis.mp3",
+        "last_seen": "2026-08-08T15:54:35",
+        "week_count": 1,
+        "v2_confidence": 0.9193,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.5903,
+        "perch_confidence": 0.0395
+    },
+    {
+        "name": "Eurasian Collared-Dove",
+        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+        "audio": "audio/streptopelia_decaocto.mp3",
+        "last_seen": "2026-08-08T15:30:35",
+        "week_count": 101,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.96,
+        "perch_confidence": 0.8294
+    },
+    {
+        "name": "Eurasian Golden Oriole",
+        "he_name": "\u05d6\u05d4\u05d1\u05df \u05de\u05d7\u05dc\u05dc",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rigogolo-%28Oriolus_oriolus%29_Lazio%2C_isola_di_Ventotene_%28LT%29_19.4.2024_%28cropped%29.png",
+        "audio": "audio/oriolus_oriolus.mp3",
+        "last_seen": "2026-08-08T15:07:45",
+        "week_count": 1,
+        "v2_confidence": 0.8511,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.3975,
+        "perch_confidence": 0.2148
+    },
+    {
+        "name": "Bank Swallow",
+        "he_name": "\u05db\u05d5\u05db\u05d9\u05ea \u05d2\u05d3\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/riparia_riparia.mp3",
+        "last_seen": "2026-08-08T15:01:32",
+        "week_count": 3,
+        "v2_confidence": 0.9405,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0011,
+        "perch_confidence": 0
+    },
+    {
         "name": "Green-winged Teal",
         "he_name": "\u05e9\u05e8\u05e9\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Eurasian_teal_%28Anas_crecca%29_Photograph_by_Shantanu_Kuveskar.jpg",
@@ -150,23 +218,6 @@
         ],
         "v3_confidence": 0.9524,
         "perch_confidence": 0.9787
-    },
-    {
-        "name": "Eurasian Collared-Dove",
-        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-        "audio": "audio/streptopelia_decaocto.mp3",
-        "last_seen": "2026-08-08T12:40:45",
-        "week_count": 100,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.96,
-        "perch_confidence": 0.8294
     },
     {
         "name": "Eurasian Jackdaw",
@@ -877,23 +928,6 @@
         "perch_confidence": 0.3959
     },
     {
-        "name": "Bank Swallow",
-        "he_name": "\u05db\u05d5\u05db\u05d9\u05ea \u05d2\u05d3\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/riparia_riparia.mp3",
-        "last_seen": "2026-08-05T08:42:38",
-        "week_count": 2,
-        "v2_confidence": 0.9405,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0011,
-        "perch_confidence": 0
-    },
-    {
         "name": "Lesser Kestrel",
         "he_name": "\u05d1\u05d6 \u05d0\u05d3\u05d5\u05dd",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lesser_Kestrel_%28Male%29.jpg/3840px-Lesser_Kestrel_%28Male%29.jpg",
@@ -1249,23 +1283,6 @@
         ],
         "v3_confidence": 0.0015,
         "perch_confidence": 0.1696
-    },
-    {
-        "name": "Eurasian Golden Oriole",
-        "he_name": "\u05d6\u05d4\u05d1\u05df \u05de\u05d7\u05dc\u05dc",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rigogolo-%28Oriolus_oriolus%29_Lazio%2C_isola_di_Ventotene_%28LT%29_19.4.2024_%28cropped%29.png",
-        "audio": "audio/oriolus_oriolus.mp3",
-        "last_seen": "2026-07-28T18:19:01",
-        "week_count": 0,
-        "v2_confidence": 0.8511,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.3975,
-        "perch_confidence": 0.2148
     },
     {
         "name": "Short-toed Snake-Eagle",
@@ -1989,23 +2006,6 @@
         ],
         "v3_confidence": 0.9259,
         "perch_confidence": 0.8633
-    },
-    {
-        "name": "Dunnock",
-        "he_name": "\u05e1\u05ea\u05e8\u05d9 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dunnock_%28Prunella_modularis%29_3.jpg/3840px-Dunnock_%28Prunella_modularis%29_3.jpg",
-        "audio": "audio/prunella_modularis.mp3",
-        "last_seen": "2026-06-30T17:42:44",
-        "week_count": 0,
-        "v2_confidence": 0.9193,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.5903,
-        "perch_confidence": 0.0395
     },
     {
         "name": "Pied Avocet",
