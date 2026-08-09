@@ -1,28 +1,66 @@
 [
     {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-08-09T14:32:40",
-        "week_count": 60,
-        "v2_confidence": 0.9958,
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-08-09T15:55:19",
+        "week_count": 423,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531
+    },
+    {
+        "name": "Eurasian Collared-Dove",
+        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+        "audio": "audio/streptopelia_decaocto.mp3",
+        "last_seen": "2026-08-09T15:50:08",
+        "week_count": 95,
+        "v2_confidence": 0.9982,
         "badges": [
             {
                 "i": "\ud83c\udfe0",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728
+        "v3_confidence": 0.96,
+        "perch_confidence": 0.8294
+    },
+    {
+        "name": "Bearded Reedling",
+        "he_name": "\u05e9\u05e4\u05de\u05ea\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg/3840px-%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg",
+        "audio": "audio/panurus_biarmicus.mp3",
+        "last_seen": "2026-08-09T15:25:27",
+        "week_count": 3,
+        "v2_confidence": 0.9513,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.8256,
+        "perch_confidence": 0.2002
     },
     {
         "name": "Laughing Dove",
         "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
         "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-08-09T14:20:02",
-        "week_count": 125,
+        "last_seen": "2026-08-09T15:11:59",
+        "week_count": 126,
         "v2_confidence": 0.9984,
         "badges": [
             {
@@ -38,8 +76,8 @@
         "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
         "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-08-09T14:17:14",
-        "week_count": 153,
+        "last_seen": "2026-08-09T15:11:42",
+        "week_count": 154,
         "v2_confidence": 0.9965,
         "badges": [
             {
@@ -49,6 +87,23 @@
         ],
         "v3_confidence": 0.344,
         "perch_confidence": 0.7221
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-08-09T14:32:40",
+        "week_count": 60,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728
     },
     {
         "name": "Black Redstart",
@@ -156,23 +211,6 @@
         "perch_confidence": 0
     },
     {
-        "name": "Eurasian Collared-Dove",
-        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-        "audio": "audio/streptopelia_decaocto.mp3",
-        "last_seen": "2026-08-09T11:54:42",
-        "week_count": 94,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.96,
-        "perch_confidence": 0.8294
-    },
-    {
         "name": "Great Bittern",
         "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05de\u05e1\u05d5\u05e8\u05d8\u05d8\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
@@ -243,27 +281,6 @@
         ],
         "v3_confidence": 0.9722,
         "perch_confidence": 0.9528
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-08-09T08:26:36",
-        "week_count": 422,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531
     },
     {
         "name": "Eurasian Kestrel",
@@ -1114,23 +1131,6 @@
         "badges": [],
         "v3_confidence": 0.3677,
         "perch_confidence": 0.0592
-    },
-    {
-        "name": "Bearded Reedling",
-        "he_name": "\u05e9\u05e4\u05de\u05ea\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg/3840px-%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg",
-        "audio": "audio/panurus_biarmicus.mp3",
-        "last_seen": "2026-08-03T13:00:25",
-        "week_count": 1,
-        "v2_confidence": 0.9023,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.8256,
-        "perch_confidence": 0.2002
     },
     {
         "name": "Horned Lark",
