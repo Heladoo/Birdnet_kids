@@ -1,5 +1,34 @@
 [
     {
+        "name": "Yellowhammer",
+        "he_name": "\u05d2\u05d9\u05d1\u05ea\u05d5\u05df \u05e6\u05d4\u05d5\u05d1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Goldammer_Emberiza_citrinella.jpg/1280px-Goldammer_Emberiza_citrinella.jpg",
+        "audio": "audio/emberiza_citrinella.mp3",
+        "last_seen": "2026-08-09T05:53:14",
+        "week_count": 2,
+        "v2_confidence": 0.8425,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.0098,
+        "perch_confidence": 0.1225
+    },
+    {
+        "name": "Bluethroat",
+        "he_name": "\u05db\u05d7\u05d5\u05dc-\u05d4\u05d7\u05d6\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg/3840px-Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg",
+        "audio": "audio/luscinia_svecica.mp3",
+        "last_seen": "2026-08-09T05:50:15",
+        "week_count": 1,
+        "v2_confidence": 0.7169,
+        "badges": [],
+        "v3_confidence": 0.2195,
+        "perch_confidence": 0.2019
+    },
+    {
         "name": "Eurasian Scops-Owl",
         "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
@@ -369,23 +398,6 @@
         ],
         "v3_confidence": 0.943,
         "perch_confidence": 0.9595
-    },
-    {
-        "name": "Yellowhammer",
-        "he_name": "\u05d2\u05d9\u05d1\u05ea\u05d5\u05df \u05e6\u05d4\u05d5\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Goldammer_Emberiza_citrinella.jpg/1280px-Goldammer_Emberiza_citrinella.jpg",
-        "audio": "audio/emberiza_citrinella.mp3",
-        "last_seen": "2026-08-08T14:05:20",
-        "week_count": 1,
-        "v2_confidence": 0.8425,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.0098,
-        "perch_confidence": 0.1225
     },
     {
         "name": "Eurasian Jackdaw",
@@ -1405,18 +1417,6 @@
         ],
         "v3_confidence": 0.0089,
         "perch_confidence": 0
-    },
-    {
-        "name": "Bluethroat",
-        "he_name": "\u05db\u05d7\u05d5\u05dc-\u05d4\u05d7\u05d6\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg/3840px-Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg",
-        "audio": "audio/luscinia_svecica.mp3",
-        "last_seen": "2026-07-26T08:54:45",
-        "week_count": 0,
-        "v2_confidence": 0.7104,
-        "badges": [],
-        "v3_confidence": 0.2195,
-        "perch_confidence": 0.2019
     },
     {
         "name": "Common Tern",
