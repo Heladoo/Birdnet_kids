@@ -1,5 +1,39 @@
 [
     {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-08-13T06:43:41",
+        "week_count": 176,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288
+    },
+    {
+        "name": "Red-rumped Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
+        "audio": "audio/cecropis_daurica.mp3",
+        "last_seen": "2026-08-13T06:33:41",
+        "week_count": 125,
+        "v2_confidence": 0.9965,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.344,
+        "perch_confidence": 0.7221
+    },
+    {
         "name": "Eurasian Scops-Owl",
         "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
@@ -215,23 +249,6 @@
         "perch_confidence": 0.2148
     },
     {
-        "name": "Red-rumped Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
-        "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-08-12T14:00:25",
-        "week_count": 124,
-        "v2_confidence": 0.9965,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.344,
-        "perch_confidence": 0.7221
-    },
-    {
         "name": "Graceful Prinia",
         "he_name": "\u05e4\u05e9\u05d5\u05e9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -281,23 +298,6 @@
         ],
         "v3_confidence": 0.0098,
         "perch_confidence": 0.1225
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-08-12T10:21:51",
-        "week_count": 173,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288
     },
     {
         "name": "Common House-Martin",
