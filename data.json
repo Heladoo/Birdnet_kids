@@ -1,11 +1,83 @@
 [
     {
+        "name": "Laughing Dove",
+        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+        "audio": "audio/streptopelia_senegalensis.mp3",
+        "last_seen": "2026-08-16T06:47:26",
+        "week_count": 304,
+        "v2_confidence": 0.9984,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.924,
+        "perch_confidence": 0.5157
+    },
+    {
+        "name": "Sandwich Tern",
+        "he_name": "\u05e9\u05d7\u05e4\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05de\u05e7\u05d5\u05e8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg/1280px-2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg",
+        "audio": "audio/thalasseus_sandvicensis.mp3",
+        "last_seen": "2026-08-16T06:41:24",
+        "week_count": 1,
+        "v2_confidence": 0.8279,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.1031,
+        "perch_confidence": 0.0656
+    },
+    {
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg",
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-08-16T06:31:54",
+        "week_count": 29,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667
+    },
+    {
+        "name": "Red-rumped Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
+        "audio": "audio/cecropis_daurica.mp3",
+        "last_seen": "2026-08-16T06:26:07",
+        "week_count": 136,
+        "v2_confidence": 0.9965,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.344,
+        "perch_confidence": 0.7221
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-08-16T05:56:41",
-        "week_count": 341,
+        "last_seen": "2026-08-16T06:23:11",
+        "week_count": 344,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -122,23 +194,6 @@
         "perch_confidence": 0.3786
     },
     {
-        "name": "Red-rumped Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
-        "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-08-15T18:38:40",
-        "week_count": 133,
-        "v2_confidence": 0.9965,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.344,
-        "perch_confidence": 0.7221
-    },
-    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
@@ -171,23 +226,6 @@
         ],
         "v3_confidence": 0.96,
         "perch_confidence": 0.8294
-    },
-    {
-        "name": "Laughing Dove",
-        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-        "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-08-15T15:42:29",
-        "week_count": 262,
-        "v2_confidence": 0.9984,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.924,
-        "perch_confidence": 0.5157
     },
     {
         "name": "Tawny Owl",
@@ -323,23 +361,6 @@
         ],
         "v3_confidence": 0.0148,
         "perch_confidence": 0.036
-    },
-    {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg",
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-08-15T08:01:19",
-        "week_count": 28,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667
     },
     {
         "name": "Gray Heron",
@@ -1558,27 +1579,6 @@
         ],
         "v3_confidence": 0.4437,
         "perch_confidence": 0.5354
-    },
-    {
-        "name": "Sandwich Tern",
-        "he_name": "\u05e9\u05d7\u05e4\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05de\u05e7\u05d5\u05e8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg/1280px-2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg",
-        "audio": "audio/thalasseus_sandvicensis.mp3",
-        "last_seen": "2026-07-28T07:12:01",
-        "week_count": 0,
-        "v2_confidence": 0.8279,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.1031,
-        "perch_confidence": 0.0656
     },
     {
         "name": "Syrian Woodpecker",
