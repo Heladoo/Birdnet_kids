@@ -1,11 +1,32 @@
 [
     {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-08-18T23:12:45",
+        "week_count": 273,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531
+    },
+    {
         "name": "Eurasian Scops-Owl",
         "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
         "audio": "audio/otus_scops.mp3",
         "last_seen": "2026-08-18T21:27:03",
-        "week_count": 36,
+        "week_count": 33,
         "v2_confidence": 0.9954,
         "badges": [
             {
@@ -46,33 +67,12 @@
         "perch_confidence": 0.0357
     },
     {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-08-18T19:15:37",
-        "week_count": 336,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531
-    },
-    {
         "name": "Common Myna",
         "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg",
         "audio": "audio/acridotheres_tristis.mp3",
         "last_seen": "2026-08-18T19:12:48",
-        "week_count": 40,
+        "week_count": 39,
         "v2_confidence": 0.9867,
         "badges": [
             {
@@ -89,7 +89,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
         "audio": "audio/streptopelia_decaocto.mp3",
         "last_seen": "2026-08-18T19:07:20",
-        "week_count": 24,
+        "week_count": 19,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -127,7 +127,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
         "audio": "audio/cecropis_daurica.mp3",
         "last_seen": "2026-08-18T18:58:28",
-        "week_count": 218,
+        "week_count": 212,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -144,7 +144,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
         "audio": "audio/psittacula_krameri.mp3",
         "last_seen": "2026-08-18T18:52:41",
-        "week_count": 199,
+        "week_count": 189,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -161,7 +161,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
         "audio": "audio/hirundo_rustica.mp3",
         "last_seen": "2026-08-18T18:29:00",
-        "week_count": 12,
+        "week_count": 11,
         "v2_confidence": 0.938,
         "badges": [
             {
@@ -212,7 +212,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
         "audio": "audio/streptopelia_senegalensis.mp3",
         "last_seen": "2026-08-18T18:00:24",
-        "week_count": 600,
+        "week_count": 582,
         "v2_confidence": 0.9984,
         "badges": [
             {
@@ -250,7 +250,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nordic_jackdaw_%2852563242448%29.jpg/1280px-Nordic_jackdaw_%2852563242448%29.jpg",
         "audio": "audio/corvus_monedula.mp3",
         "last_seen": "2026-08-18T17:22:00",
-        "week_count": 21,
+        "week_count": 18,
         "v2_confidence": 0.99,
         "badges": [
             {
@@ -284,7 +284,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
         "audio": "audio/delichon_urbicum.mp3",
         "last_seen": "2026-08-18T16:13:04",
-        "week_count": 4,
+        "week_count": 2,
         "v2_confidence": 0.9666,
         "badges": [
             {
@@ -335,7 +335,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/prinia_gracilis.mp3",
         "last_seen": "2026-08-18T15:13:10",
-        "week_count": 159,
+        "week_count": 149,
         "v2_confidence": 0.9958,
         "badges": [
             {
@@ -352,7 +352,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/locustella_fluviatilis.mp3",
         "last_seen": "2026-08-18T13:29:25",
-        "week_count": 55,
+        "week_count": 50,
         "v2_confidence": 0.995,
         "badges": [
             {
@@ -403,7 +403,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg/3840px-Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg",
         "audio": "audio/pycnonotus_barbatus.mp3",
         "last_seen": "2026-08-18T09:32:31",
-        "week_count": 3,
+        "week_count": 2,
         "v2_confidence": 0.9158,
         "badges": [
             {
@@ -420,7 +420,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
         "audio": "audio/burhinus_oedicnemus.mp3",
         "last_seen": "2026-08-18T05:39:42",
-        "week_count": 28,
+        "week_count": 25,
         "v2_confidence": 0.9974,
         "badges": [
             {
@@ -479,7 +479,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg/1280px-White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
         "audio": "audio/halcyon_smyrnensis.mp3",
         "last_seen": "2026-08-17T16:43:40",
-        "week_count": 35,
+        "week_count": 29,
         "v2_confidence": 0.9996,
         "badges": [
             {
@@ -685,7 +685,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nycticorax_nycticorax_457953189.jpg/1024px-Nycticorax_nycticorax_457953189.jpg",
         "audio": "audio/nycticorax_nycticorax.mp3",
         "last_seen": "2026-08-15T22:35:59",
-        "week_count": 4,
+        "week_count": 3,
         "v2_confidence": 0.9878,
         "badges": [
             {
@@ -811,7 +811,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Common-Greenshank.jpg/1280px-Common-Greenshank.jpg",
         "audio": "audio/tringa_nebularia.mp3",
         "last_seen": "2026-08-15T07:27:27",
-        "week_count": 2,
+        "week_count": 1,
         "v2_confidence": 0.9359,
         "badges": [
             {
@@ -928,7 +928,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Merlin_in_Prospect_Park_%2863386%29.jpg/1280px-Merlin_in_Prospect_Park_%2863386%29.jpg",
         "audio": "audio/falco_columbarius.mp3",
         "last_seen": "2026-08-12T16:44:10",
-        "week_count": 2,
+        "week_count": 0,
         "v2_confidence": 0.9866,
         "badges": [
             {
@@ -949,7 +949,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rigogolo-%28Oriolus_oriolus%29_Lazio%2C_isola_di_Ventotene_%28LT%29_19.4.2024_%28cropped%29.png",
         "audio": "audio/oriolus_oriolus.mp3",
         "last_seen": "2026-08-12T14:48:32",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.8511,
         "badges": [
             {
@@ -966,7 +966,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Goldammer_Emberiza_citrinella.jpg/1280px-Goldammer_Emberiza_citrinella.jpg",
         "audio": "audio/emberiza_citrinella.mp3",
         "last_seen": "2026-08-12T11:40:34",
-        "week_count": 5,
+        "week_count": 0,
         "v2_confidence": 0.8663,
         "badges": [
             {
@@ -983,7 +983,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg",
         "audio": "audio/phylloscopus_collybita.mp3",
         "last_seen": "2026-08-12T07:44:14",
-        "week_count": 4,
+        "week_count": 0,
         "v2_confidence": 0.9897,
         "badges": [
             {
@@ -1000,7 +1000,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Eurasian_teal_%28Anas_crecca%29_Photograph_by_Shantanu_Kuveskar.jpg",
         "audio": "audio/anas_crecca.mp3",
         "last_seen": "2026-08-12T06:44:12",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.9431,
         "badges": [
             {
