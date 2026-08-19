@@ -1,11 +1,36 @@
 [
     {
+        "name": "Barn Owl",
+        "he_name": "\u05ea\u05e0\u05e9\u05de\u05ea \u05dc\u05d1\u05e0\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
+        "audio": "audio/tyto_alba.mp3",
+        "last_seen": "2026-08-19T20:12:45",
+        "week_count": 7,
+        "v2_confidence": 0.9991,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.8618,
+        "perch_confidence": 0.8305
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-08-19T19:40:54",
-        "week_count": 321,
+        "last_seen": "2026-08-19T20:01:45",
+        "week_count": 322,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -720,31 +745,6 @@
         ],
         "v3_confidence": 0.0362,
         "perch_confidence": 0.0176
-    },
-    {
-        "name": "Barn Owl",
-        "he_name": "\u05ea\u05e0\u05e9\u05de\u05ea \u05dc\u05d1\u05e0\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
-        "audio": "audio/tyto_alba.mp3",
-        "last_seen": "2026-08-17T06:44:44",
-        "week_count": 6,
-        "v2_confidence": 0.9991,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.8618,
-        "perch_confidence": 0.8305
     },
     {
         "name": "Green Sandpiper",
