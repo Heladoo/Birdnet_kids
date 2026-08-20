@@ -1,11 +1,45 @@
 [
     {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-08-20T08:58:10",
+        "week_count": 158,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728
+    },
+    {
+        "name": "Red-vented Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+        "audio": "audio/pycnonotus_cafer.mp3",
+        "last_seen": "2026-08-20T08:54:36",
+        "week_count": 6,
+        "v2_confidence": 0.8252,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9549,
+        "perch_confidence": 0.0209
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-08-20T07:57:27",
-        "week_count": 218,
+        "last_seen": "2026-08-20T08:43:10",
+        "week_count": 226,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -15,6 +49,65 @@
         ],
         "v3_confidence": 0.9194,
         "perch_confidence": 0.5288
+    },
+    {
+        "name": "Eurasian Kestrel",
+        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
+        "audio": "audio/falco_tinnunculus.mp3",
+        "last_seen": "2026-08-20T08:40:31",
+        "week_count": 17,
+        "v2_confidence": 0.9619,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.4129,
+        "perch_confidence": 0.4165
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-08-20T08:16:38",
+        "week_count": 317,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531
+    },
+    {
+        "name": "Laughing Dove",
+        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+        "audio": "audio/streptopelia_senegalensis.mp3",
+        "last_seen": "2026-08-20T08:16:25",
+        "week_count": 621,
+        "v2_confidence": 0.9984,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.924,
+        "perch_confidence": 0.5157
     },
     {
         "name": "Red-rumped Swallow",
@@ -49,27 +142,6 @@
         ],
         "v3_confidence": 0.2748,
         "perch_confidence": 0.3786
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-08-20T06:40:55",
-        "week_count": 316,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531
     },
     {
         "name": "White-throated Kingfisher",
@@ -274,23 +346,6 @@
         "perch_confidence": 0.2477
     },
     {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-08-19T16:09:10",
-        "week_count": 141,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728
-    },
-    {
         "name": "Short-toed Snake-Eagle",
         "he_name": "\u05d7\u05d9\u05d5\u05d5\u05d9\u05d0\u05d9 \u05d4\u05e0\u05d7\u05e9\u05d9\u05dd",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Short-toed_Snake-Eagle_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg/1280px-Short-toed_Snake-Eagle_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg",
@@ -331,23 +386,6 @@
         ],
         "v3_confidence": 0.0007,
         "perch_confidence": 0.0357
-    },
-    {
-        "name": "Laughing Dove",
-        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-        "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-08-19T15:09:01",
-        "week_count": 620,
-        "v2_confidence": 0.9984,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.924,
-        "perch_confidence": 0.5157
     },
     {
         "name": "River Warbler",
@@ -445,44 +483,6 @@
         ],
         "v3_confidence": 0.2229,
         "perch_confidence": 0.5575
-    },
-    {
-        "name": "Eurasian Kestrel",
-        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
-        "audio": "audio/falco_tinnunculus.mp3",
-        "last_seen": "2026-08-19T07:16:55",
-        "week_count": 11,
-        "v2_confidence": 0.9619,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.4129,
-        "perch_confidence": 0.4165
-    },
-    {
-        "name": "Red-vented Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
-        "audio": "audio/pycnonotus_cafer.mp3",
-        "last_seen": "2026-08-19T06:57:16",
-        "week_count": 5,
-        "v2_confidence": 0.8252,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9549,
-        "perch_confidence": 0.0209
     },
     {
         "name": "Merlin",
@@ -840,8 +840,8 @@
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
-        "v3_confidence": null,
-        "perch_confidence": null
+        "v3_confidence": 0.278,
+        "perch_confidence": 0.0288
     },
     {
         "name": "Greater White-fronted Goose",
@@ -961,8 +961,8 @@
         "week_count": 0,
         "v2_confidence": 0.7263,
         "badges": [],
-        "v3_confidence": null,
-        "perch_confidence": null
+        "v3_confidence": 0.2436,
+        "perch_confidence": 0.3507
     },
     {
         "name": "Great Tit",
@@ -1072,15 +1072,15 @@
     },
     {
         "name": "Meadow Pipit",
-        "he_name": null,
+        "he_name": "\u05e4\u05e4\u05d9\u05d5\u05df \u05e9\u05d3\u05d5\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wiesenpieper_Meadow_pipit.jpg/3840px-Wiesenpieper_Meadow_pipit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "audio": "audio/anthus_pratensis.mp3",
         "last_seen": "2026-08-11T12:46:58",
         "week_count": 0,
         "v2_confidence": 0.8109,
         "badges": [],
-        "v3_confidence": null,
-        "perch_confidence": null
+        "v3_confidence": 0.0306,
+        "perch_confidence": 0.2935
     },
     {
         "name": "Common Chaffinch",
@@ -1118,7 +1118,7 @@
     },
     {
         "name": "Spotted Crake",
-        "he_name": null,
+        "he_name": "\u05d1\u05e8\u05d5\u05d3\u05d9\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4 \u05de\u05e0\u05d5\u05e7\u05d3\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Spotted_crake_%28Porzana_porzana%29_%286830876880%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/porzana_porzana.mp3",
         "last_seen": "2026-08-10T12:29:03",
@@ -1130,20 +1130,20 @@
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
-        "v3_confidence": null,
-        "perch_confidence": null
+        "v3_confidence": 0.3218,
+        "perch_confidence": 0.2157
     },
     {
         "name": "Reed Bunting",
-        "he_name": null,
+        "he_name": "\u05d2\u05d9\u05d1\u05ea\u05d5\u05df \u05e1\u05d5\u05e3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Reed_Bunting_-_Emberiza_schoeniclus_%2852015951301%29.jpg/1280px-Reed_Bunting_-_Emberiza_schoeniclus_%2852015951301%29.jpg",
         "audio": "audio/emberiza_schoeniclus.mp3",
         "last_seen": "2026-08-10T11:54:18",
         "week_count": 0,
         "v2_confidence": 0.8106,
         "badges": [],
-        "v3_confidence": null,
-        "perch_confidence": null
+        "v3_confidence": 0.6842,
+        "perch_confidence": 0.026
     },
     {
         "name": "Wood Sandpiper",
@@ -1291,12 +1291,12 @@
         "week_count": 0,
         "v2_confidence": 0.76,
         "badges": [],
-        "v3_confidence": null,
-        "perch_confidence": null
+        "v3_confidence": 0.079,
+        "perch_confidence": 0.0725
     },
     {
         "name": "Black Francolin",
-        "he_name": null,
+        "he_name": "\u05e4\u05e8\u05e0\u05e7\u05d5\u05dc\u05d9\u05df \u05e9\u05d7\u05d5\u05e8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Black_Francolin.jpg",
         "audio": "audio/francolinus_francolinus.mp3",
         "last_seen": "2026-08-06T19:46:48",
@@ -1308,8 +1308,8 @@
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
-        "v3_confidence": null,
-        "perch_confidence": null
+        "v3_confidence": 0.0013,
+        "perch_confidence": 0
     },
     {
         "name": "White-spectacled Bulbul",
@@ -1376,8 +1376,8 @@
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
-        "v3_confidence": null,
-        "perch_confidence": null
+        "v3_confidence": 0.0146,
+        "perch_confidence": 0
     },
     {
         "name": "Osprey",
@@ -1577,8 +1577,8 @@
         "week_count": 0,
         "v2_confidence": 0.7977,
         "badges": [],
-        "v3_confidence": null,
-        "perch_confidence": null
+        "v3_confidence": 0.1732,
+        "perch_confidence": 0.0564
     },
     {
         "name": "Eurasian Nuthatch",
