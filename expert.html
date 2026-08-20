@@ -52,8 +52,11 @@
   tr:hover td { background: #FBEFD9; }
   .he { direction: rtl; }
   .num { text-align: right; font-variant-numeric: tabular-nums; }
-  .yes { color: #4C7A3D; font-weight: bold; }
+  .yes { color: #2F6B33; font-weight: bold; }
   .no { color: #C0392B; }
+  /* Both cross-check models agreed on a species that isn't ours - not an
+     error like .no, but a flag that the clip deserves a re-listen. */
+  .warn { color: #B5651D; font-weight: bold; }
   audio { height: 28px; width: 170px; }
   th { cursor: pointer; user-select: none; }
   th.sorted-asc::after { content: " \25B2"; }
@@ -100,6 +103,7 @@
   <th title="What BirdNET+ V3.0 thought this clip most likely was, anywhere in the recording - green if it agrees with our tagged species, red if it picked something else.">V3.0 Top Species</th>
   <th class="num" title="Google Perch v2 cross-check (run locally, architecturally independent model from BirdNET/Merlin): confidence for the SAME species on the same clip. Perch's raw scores are known to run lower/uncalibrated, especially for less-common species - a low number here doesn't mean as much as a low V3.0 Check score does.">Perch Check</th>
   <th title="What Perch v2 thought this clip most likely was, anywhere in the recording - green if it agrees with our tagged species, red if it picked something else.">Perch Top Species</th>
+  <th title="Consensus of the two models that are NOT our production pipeline: shown only when V3.0 and Perch pick the SAME top species and both are above 8% confident. Green means they independently confirm our tag; amber means they jointly heard something else and the clip is worth a re-listen.">Second Opinion</th>
   <th>Photo</th>
   <th>Audio</th>
 </tr>
@@ -108,6 +112,6 @@
 </table>
 </div>
 
-<script src="expert.js"></script>
+<script src="expert.js?v=2"></script>
 </body>
 </html>

@@ -117,24 +117,41 @@ function makeCard(data) {
   meta.textContent = formatMeta(data, currentSortKey);
   btn.appendChild(meta);
 
+  const secondOpinion = document.createElement('span');
+  secondOpinion.className = 'second-opinion';
+  if (currentSortKey === 'certainty' && data.second_opinion) {
+    secondOpinion.textContent = data.second_opinion.agrees
+      ? '✓ All models agree'
+      : `⚠ Others hear: ${data.second_opinion.com}`;
+    secondOpinion.classList.add(data.second_opinion.agrees ? 'agrees' : 'differs');
+  }
+  btn.appendChild(secondOpinion);
+
   const scores = document.createElement('span');
   scores.className = 'scores';
 
+  // A model that actually picked our species (or came within a hair of it -
+  // see v3_agrees/perch_agrees) renders dark green. V2.4 tagged the clip in
+  // the first place, so it always counts as agreeing.
   const scoreV2 = document.createElement('span');
-  scoreV2.className = 'score';
-  scoreV2.title = 'BirdNET v2.4 (our main model)';
+  scoreV2.className = 'score score-agrees';
+  scoreV2.title = 'BirdNET v2.4 (our main model) — picked this species';
   scoreV2.textContent = `🐦 ${formatScore(data.v2_confidence)}`;
   scores.appendChild(scoreV2);
 
   const scoreV3 = document.createElement('span');
-  scoreV3.className = 'score';
-  scoreV3.title = 'BirdNET+ V3.0 developer preview';
+  scoreV3.className = data.v3_agrees ? 'score score-agrees' : 'score';
+  scoreV3.title = 'BirdNET+ V3.0 developer preview'
+    + (data.v3_confidence !== null && data.v3_confidence !== undefined
+      ? (data.v3_agrees ? ' — picked this species' : ' — picked a different species') : '');
   scoreV3.textContent = `3️⃣ ${formatScore(data.v3_confidence)}`;
   scores.appendChild(scoreV3);
 
   const scorePerch = document.createElement('span');
-  scorePerch.className = 'score';
-  scorePerch.title = 'Google Perch v2';
+  scorePerch.className = data.perch_agrees ? 'score score-agrees' : 'score';
+  scorePerch.title = 'Google Perch v2'
+    + (data.perch_confidence !== null && data.perch_confidence !== undefined
+      ? (data.perch_agrees ? ' — picked this species' : ' — picked a different species') : '');
   scorePerch.innerHTML = `<strong>G</strong> ${formatScore(data.perch_confidence)}`;
   scores.appendChild(scorePerch);
 

@@ -28,6 +28,12 @@
         "perch_confidence": 0.2591,
         "perch_top_label": "Psittacula eupatria_Alexandrine Parakeet",
         "perch_top_confidence": 0.2591,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Alexandrine Parakeet",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/psittacula_eupatria.mp3"
     },
@@ -60,6 +66,12 @@
         "perch_confidence": 0,
         "perch_top_label": "Passer domesticus_House Sparrow",
         "perch_top_confidence": 0.1591,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "House Sparrow",
+            "agrees": false
+        },
         "photo": true,
         "audio": "audio/acrocephalus_paludicola.mp3"
     },
@@ -88,6 +100,12 @@
         "perch_confidence": 0,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.4453,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": false
+        },
         "photo": true,
         "audio": "audio/riparia_riparia.mp3"
     },
@@ -124,6 +142,12 @@
         "perch_confidence": 0.8305,
         "perch_top_label": "Tyto alba_Western Barn Owl",
         "perch_top_confidence": 0.8305,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Western Barn Owl",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/tyto_alba.mp3"
     },
@@ -152,6 +176,12 @@
         "perch_confidence": 0.8648,
         "perch_top_label": "Hirundo rustica_Barn Swallow",
         "perch_top_confidence": 0.8648,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Barn Swallow",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/hirundo_rustica.mp3"
     },
@@ -180,6 +210,12 @@
         "perch_confidence": 0.2002,
         "perch_top_label": "Panurus biarmicus_Bearded Reedling",
         "perch_top_confidence": 0.2002,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Bearded Reedling",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/panurus_biarmicus.mp3"
     },
@@ -208,6 +244,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Sylvia atricapilla_Eurasian Blackcap",
         "perch_top_confidence": 0.0467,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/francolinus_francolinus.mp3"
     },
@@ -240,6 +279,12 @@
         "perch_confidence": 0,
         "perch_top_label": "Acridotheres tristis_Common Myna",
         "perch_top_confidence": 0.2931,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": false
+        },
         "photo": true,
         "audio": "audio/milvus_migrans.mp3"
     },
@@ -268,6 +313,12 @@
         "perch_confidence": 0.9259,
         "perch_top_label": "Phoenicurus ochruros_Black Redstart",
         "perch_top_confidence": 0.9259,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Black Redstart",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/phoenicurus_ochruros.mp3"
     },
@@ -300,6 +351,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
         "perch_top_confidence": 0.0626,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/pluvialis_squatarola.mp3"
     },
@@ -332,6 +386,12 @@
         "perch_confidence": 0.8882,
         "perch_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
         "perch_top_confidence": 0.8882,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Black-crowned Night Heron",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/nycticorax_nycticorax.mp3"
     },
@@ -360,6 +420,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Acridotheres tristis_Common Myna",
         "perch_top_confidence": 0.1375,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/emberiza_melanocephala.mp3"
     },
@@ -392,6 +455,12 @@
         "perch_confidence": 0.2304,
         "perch_top_label": "Elanus caeruleus_Black-winged Kite",
         "perch_top_confidence": 0.2304,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Black-winged Kite",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/elanus_caeruleus.mp3"
     },
@@ -424,6 +493,9 @@
         "perch_confidence": 0.1366,
         "perch_top_label": "Himantopus himantopus_Black-winged Stilt",
         "perch_top_confidence": 0.1366,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/himantopus_himantopus.mp3"
     },
@@ -447,6 +519,9 @@
         "perch_confidence": 0.0592,
         "perch_top_label": "Monticola solitarius_Blue Rock Thrush",
         "perch_top_confidence": 0.0592,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/monticola_solitarius.mp3"
     },
@@ -470,6 +545,12 @@
         "perch_confidence": 0.2019,
         "perch_top_label": "Luscinia svecica_Bluethroat",
         "perch_top_confidence": 0.2019,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Bluethroat",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/luscinia_svecica.mp3"
     },
@@ -498,6 +579,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.0676,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/hieraaetus_pennatus.mp3"
     },
@@ -526,6 +610,12 @@
         "perch_confidence": 0.2147,
         "perch_top_label": "Fringilla montifringilla_Brambling",
         "perch_top_confidence": 0.2147,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Brambling",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/fringilla_montifringilla.mp3"
     },
@@ -562,6 +652,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Chroicocephalus ridibundus_Black-headed Gull",
         "perch_top_confidence": 0.0529,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/hydroprogne_caspia.mp3"
     },
@@ -594,6 +687,12 @@
         "perch_confidence": 0,
         "perch_top_label": "Turdus pilaris_Fieldfare",
         "perch_top_confidence": 0.1124,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Fieldfare",
+            "agrees": false
+        },
         "photo": true,
         "audio": "audio/bubulcus_ibis.mp3"
     },
@@ -622,6 +721,9 @@
         "perch_confidence": 0.1747,
         "perch_top_label": "Emberiza cirlus_Cirl Bunting",
         "perch_top_confidence": 0.1747,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/emberiza_cirlus.mp3"
     },
@@ -650,6 +752,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Thryomanes bewickii_Bewick's Wren",
         "perch_top_confidence": 0.0648,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/acrocephalus_stentoreus.mp3"
     },
@@ -678,6 +783,9 @@
         "perch_confidence": 0.2257,
         "perch_top_label": "Ficedula albicollis_Collared Flycatcher",
         "perch_top_confidence": 0.2257,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/ficedula_albicollis.mp3"
     },
@@ -706,6 +814,9 @@
         "perch_confidence": 0.3777,
         "perch_top_label": "Pycnonotus barbatus_Common Bulbul",
         "perch_top_confidence": 0.3777,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/pycnonotus_barbatus.mp3"
     },
@@ -738,6 +849,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Macropygia phasianella_Brown Cuckoo-Dove",
         "perch_top_confidence": 0.0648,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/buteo_buteo.mp3"
     },
@@ -766,6 +880,12 @@
         "perch_confidence": 0.1016,
         "perch_top_label": "Cecropis daurica_Eastern Red-rumped Swallow",
         "perch_top_confidence": 0.3934,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Eastern Red-rumped Swallow",
+            "agrees": false
+        },
         "photo": true,
         "audio": "audio/fringilla_coelebs.mp3"
     },
@@ -794,6 +914,12 @@
         "perch_confidence": 0.9336,
         "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
         "perch_top_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/phylloscopus_collybita.mp3"
     },
@@ -826,6 +952,9 @@
         "perch_confidence": 0.3963,
         "perch_top_label": "Grus grus_Common Crane",
         "perch_top_confidence": 0.3963,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/grus_grus.mp3"
     },
@@ -854,6 +983,9 @@
         "perch_confidence": 0.3959,
         "perch_top_label": "Cuculus canorus_Common Cuckoo",
         "perch_top_confidence": 0.3959,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/cuculus_canorus.mp3"
     },
@@ -890,6 +1022,9 @@
         "perch_confidence": 0.017,
         "perch_top_label": "Buteo lineatus_Red-shouldered Hawk",
         "perch_top_confidence": 0.0863,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/bucephala_clangula.mp3"
     },
@@ -922,6 +1057,12 @@
         "perch_confidence": 0.2477,
         "perch_top_label": "Tringa nebularia_Common Greenshank",
         "perch_top_confidence": 0.2477,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Greenshank",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/tringa_nebularia.mp3"
     },
@@ -950,6 +1091,12 @@
         "perch_confidence": 0.0249,
         "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
         "perch_top_confidence": 0.0852,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": false
+        },
         "photo": true,
         "audio": "audio/delichon_urbicum.mp3"
     },
@@ -978,6 +1125,12 @@
         "perch_confidence": 0.4667,
         "perch_top_label": "Acridotheres tristis_Common Myna",
         "perch_top_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/acridotheres_tristis.mp3"
     },
@@ -1006,6 +1159,9 @@
         "perch_confidence": 0.2246,
         "perch_top_label": "Luscinia megarhynchos_Common Nightingale",
         "perch_top_confidence": 0.2246,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/luscinia_megarhynchos.mp3"
     },
@@ -1038,6 +1194,12 @@
         "perch_confidence": 0.8633,
         "perch_top_label": "Coturnix coturnix_Common Quail",
         "perch_top_confidence": 0.8633,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Quail",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/coturnix_coturnix.mp3"
     },
@@ -1061,6 +1223,12 @@
         "perch_confidence": 0.4183,
         "perch_top_label": "Corvus corax_Northern Raven",
         "perch_top_confidence": 0.4183,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Northern Raven",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/corvus_corax.mp3"
     },
@@ -1093,6 +1261,12 @@
         "perch_confidence": 0.1309,
         "perch_top_label": "Tringa totanus_Common Redshank",
         "perch_top_confidence": 0.1309,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Redshank",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/tringa_totanus.mp3"
     },
@@ -1121,6 +1295,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Turdus iliacus_Redwing",
         "perch_top_confidence": 0.2946,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/phoenicurus_phoenicurus.mp3"
     },
@@ -1153,6 +1330,12 @@
         "perch_confidence": 0.7364,
         "perch_top_label": "Actitis hypoleucos_Common Sandpiper",
         "perch_top_confidence": 0.7364,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Sandpiper",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/actitis_hypoleucos.mp3"
     },
@@ -1185,6 +1368,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Gryllus bimaculatus_Gryllus bimaculatus",
         "perch_top_confidence": 0.1022,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/gallinago_gallinago.mp3"
     },
@@ -1213,6 +1399,12 @@
         "perch_confidence": 0.1085,
         "perch_top_label": "Apus apus_Common Swift",
         "perch_top_confidence": 0.1085,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Swift",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/apus_apus.mp3"
     },
@@ -1245,6 +1437,9 @@
         "perch_confidence": 0.0685,
         "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
         "perch_top_confidence": 0.087,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/sterna_hirundo.mp3"
     },
@@ -1273,6 +1468,12 @@
         "perch_confidence": 0.625,
         "perch_top_label": "Galerida cristata_Crested Lark",
         "perch_top_confidence": 0.625,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Crested Lark",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/galerida_cristata.mp3"
     },
@@ -1301,6 +1502,9 @@
         "perch_confidence": 0.0288,
         "perch_top_label": "Hirundo rustica_Barn Swallow",
         "perch_top_confidence": 0.1057,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/prinia_lepida.mp3"
     },
@@ -1333,6 +1537,9 @@
         "perch_confidence": 0.4505,
         "perch_top_label": "Calidris alpina_Dunlin",
         "perch_top_confidence": 0.4505,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/calidris_alpina.mp3"
     },
@@ -1361,6 +1568,9 @@
         "perch_confidence": 0.0395,
         "perch_top_label": "Phylloscopus tenellipes_Pale-legged Leaf Warbler",
         "perch_top_confidence": 0.0481,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/prunella_modularis.mp3"
     },
@@ -1384,6 +1594,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Emberiza citrinella_Yellowhammer",
         "perch_top_confidence": 0.0904,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": null
     },
@@ -1412,6 +1625,9 @@
         "perch_confidence": 0.1539,
         "perch_top_label": "Gallinula chloropus_Common Moorhen",
         "perch_top_confidence": 0.2665,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/turdus_merula.mp3"
     },
@@ -1440,6 +1656,12 @@
         "perch_confidence": 0.8294,
         "perch_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
         "perch_top_confidence": 0.8294,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Collared Dove",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/streptopelia_decaocto.mp3"
     },
@@ -1472,6 +1694,12 @@
         "perch_confidence": 0.4847,
         "perch_top_label": "Fulica atra_Eurasian Coot",
         "perch_top_confidence": 0.4847,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Coot",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/fulica_atra.mp3"
     },
@@ -1504,6 +1732,12 @@
         "perch_confidence": 0.2868,
         "perch_top_label": "Numenius arquata_Eurasian Curlew",
         "perch_top_confidence": 0.2868,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Curlew",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/numenius_arquata.mp3"
     },
@@ -1532,6 +1766,9 @@
         "perch_confidence": 0.2148,
         "perch_top_label": "Oriolus oriolus_Eurasian Golden Oriole",
         "perch_top_confidence": 0.2148,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/oriolus_oriolus.mp3"
     },
@@ -1564,6 +1801,9 @@
         "perch_confidence": 0.2211,
         "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
         "perch_top_confidence": 0.2584,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/falco_subbuteo.mp3"
     },
@@ -1592,6 +1832,12 @@
         "perch_confidence": 0.8821,
         "perch_top_label": "Upupa epops_Eurasian Hoopoe",
         "perch_top_confidence": 0.8821,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Hoopoe",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/upupa_epops.mp3"
     },
@@ -1620,6 +1866,12 @@
         "perch_confidence": 0.6594,
         "perch_top_label": "Coloeus monedula_Western Jackdaw",
         "perch_top_confidence": 0.7874,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Western Jackdaw",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/corvus_monedula.mp3"
     },
@@ -1648,6 +1900,12 @@
         "perch_confidence": 0.943,
         "perch_top_label": "Garrulus glandarius_Eurasian Jay",
         "perch_top_confidence": 0.943,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Jay",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/garrulus_glandarius.mp3"
     },
@@ -1680,6 +1938,12 @@
         "perch_confidence": 0.4165,
         "perch_top_label": "Falco tinnunculus_Common Kestrel",
         "perch_top_confidence": 0.4165,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Kestrel",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/falco_tinnunculus.mp3"
     },
@@ -1703,6 +1967,12 @@
         "perch_confidence": 0,
         "perch_top_label": "Acridotheres tristis_Common Myna",
         "perch_top_confidence": 0.1292,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": false
+        },
         "photo": true,
         "audio": "audio/linaria_cannabina.mp3"
     },
@@ -1735,6 +2005,12 @@
         "perch_confidence": 0.793,
         "perch_top_label": "Gallinula chloropus_Common Moorhen",
         "perch_top_confidence": 0.793,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Moorhen",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/gallinula_chloropus.mp3"
     },
@@ -1763,6 +2039,12 @@
         "perch_confidence": 0.1696,
         "perch_top_label": "Coturnix coturnix_Common Quail",
         "perch_top_confidence": 0.862,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Common Quail",
+            "agrees": false
+        },
         "photo": true,
         "audio": "audio/sitta_europaea.mp3"
     },
@@ -1795,6 +2077,12 @@
         "perch_confidence": 0.4644,
         "perch_top_label": "Haematopus ostralegus_Eurasian Oystercatcher",
         "perch_top_confidence": 0.4644,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Oystercatcher",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/haematopus_ostralegus.mp3"
     },
@@ -1831,6 +2119,12 @@
         "perch_confidence": 0.9787,
         "perch_top_label": "Otus scops_Eurasian Scops Owl",
         "perch_top_confidence": 0.9787,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Scops Owl",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/otus_scops.mp3"
     },
@@ -1859,6 +2153,9 @@
         "perch_confidence": 0.0894,
         "perch_top_label": "Spinus spinus_Eurasian Siskin",
         "perch_top_confidence": 0.0894,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/spinus_spinus.mp3"
     },
@@ -1891,6 +2188,9 @@
         "perch_confidence": 0.0715,
         "perch_top_label": "Asio otus_Long-eared Owl",
         "perch_top_confidence": 0.1958,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/accipiter_nisus.mp3"
     },
@@ -1919,6 +2219,12 @@
         "perch_confidence": 0.8837,
         "perch_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
         "perch_top_confidence": 0.8837,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Stone-curlew",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/burhinus_oedicnemus.mp3"
     },
@@ -1951,6 +2257,12 @@
         "perch_confidence": 0.1486,
         "perch_top_label": "Passer domesticus_House Sparrow",
         "perch_top_confidence": 0.4,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "House Sparrow",
+            "agrees": false
+        },
         "photo": true,
         "audio": "audio/passer_montanus.mp3"
     },
@@ -1979,6 +2291,12 @@
         "perch_confidence": 0.3786,
         "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
         "perch_top_confidence": 0.3786,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Wryneck",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/jynx_torquilla.mp3"
     },
@@ -2007,6 +2325,9 @@
         "perch_confidence": 0.6554,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.7345,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/merops_apiaster.mp3"
     },
@@ -2039,6 +2360,12 @@
         "perch_confidence": 0.2218,
         "perch_top_label": "Pluvialis apricaria_European Golden Plover",
         "perch_top_confidence": 0.2218,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Golden Plover",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/pluvialis_apricaria.mp3"
     },
@@ -2067,6 +2394,12 @@
         "perch_confidence": 0.9528,
         "perch_top_label": "Carduelis carduelis_European Goldfinch",
         "perch_top_confidence": 0.9528,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Goldfinch",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/carduelis_carduelis.mp3"
     },
@@ -2095,6 +2428,12 @@
         "perch_confidence": 0.9595,
         "perch_top_label": "Chloris chloris_European Greenfinch",
         "perch_top_confidence": 0.9595,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Greenfinch",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/chloris_chloris.mp3"
     },
@@ -2123,6 +2462,12 @@
         "perch_confidence": 0.7878,
         "perch_top_label": "Ficedula hypoleuca_European Pied Flycatcher",
         "perch_top_confidence": 0.7878,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Pied Flycatcher",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/ficedula_hypoleuca.mp3"
     },
@@ -2146,6 +2491,12 @@
         "perch_confidence": 0.3507,
         "perch_top_label": "Erithacus rubecula_European Robin",
         "perch_top_confidence": 0.3507,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Robin",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/erithacus_rubecula.mp3"
     },
@@ -2169,6 +2520,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Anser anser_Greylag Goose",
         "perch_top_confidence": 0.5027,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/serinus_serinus.mp3"
     },
@@ -2197,6 +2551,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Hirundo rustica_Barn Swallow",
         "perch_top_confidence": 0.0592,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/saxicola_rubicola.mp3"
     },
@@ -2225,6 +2582,12 @@
         "perch_confidence": 0.7031,
         "perch_top_label": "Streptopelia turtur_European Turtle Dove",
         "perch_top_confidence": 0.7031,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Turtle Dove",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/streptopelia_turtur.mp3"
     },
@@ -2253,6 +2616,9 @@
         "perch_confidence": 0.1243,
         "perch_top_label": "Cyanocitta stelleri_Steller's Jay",
         "perch_top_confidence": 0.1656,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/turdus_pilaris.mp3"
     },
@@ -2285,6 +2651,9 @@
         "perch_confidence": 0.0666,
         "perch_top_label": "Anas platyrhynchos_Mallard",
         "perch_top_confidence": 0.1487,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/mareca_strepera.mp3"
     },
@@ -2313,6 +2682,9 @@
         "perch_confidence": 0.2728,
         "perch_top_label": "Prinia gracilis_Graceful Prinia",
         "perch_top_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/prinia_gracilis.mp3"
     },
@@ -2345,6 +2717,12 @@
         "perch_confidence": 0.8582,
         "perch_top_label": "Ardea cinerea_Grey Heron",
         "perch_top_confidence": 0.8582,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Grey Heron",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/ardea_cinerea.mp3"
     },
@@ -2373,6 +2751,12 @@
         "perch_confidence": 0.2349,
         "perch_top_label": "Motacilla cinerea_Grey Wagtail",
         "perch_top_confidence": 0.2349,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Grey Wagtail",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/motacilla_cinerea.mp3"
     },
@@ -2405,6 +2789,9 @@
         "perch_confidence": 0.0395,
         "perch_top_label": "Phasianus colchicus_Common Pheasant",
         "perch_top_confidence": 0.3889,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/anser_anser.mp3"
     },
@@ -2437,6 +2824,9 @@
         "perch_confidence": 0.0357,
         "perch_top_label": "Brotogeris chiriri_Yellow-chevroned Parakeet",
         "perch_top_confidence": 0.0827,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/botaurus_stellaris.mp3"
     },
@@ -2460,6 +2850,9 @@
         "perch_confidence": 0.0725,
         "perch_top_label": "Pelobates fuscus_Pelobates fuscus",
         "perch_top_confidence": 0.2974,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/lanius_excubitor.mp3"
     },
@@ -2488,6 +2881,9 @@
         "perch_confidence": 0.3475,
         "perch_top_label": "Acrocephalus arundinaceus_Great Reed Warbler",
         "perch_top_confidence": 0.3475,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/acrocephalus_arundinaceus.mp3"
     },
@@ -2516,6 +2912,12 @@
         "perch_confidence": 0.7552,
         "perch_top_label": "Clamator glandarius_Great Spotted Cuckoo",
         "perch_top_confidence": 0.7552,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Great Spotted Cuckoo",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/clamator_glandarius.mp3"
     },
@@ -2544,6 +2946,12 @@
         "perch_confidence": 0.6353,
         "perch_top_label": "Parus major_Great Tit",
         "perch_top_confidence": 0.6353,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Great Tit",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/parus_major.mp3"
     },
@@ -2576,6 +2984,9 @@
         "perch_confidence": 0.036,
         "perch_top_label": "Branta canadensis_Canada Goose",
         "perch_top_confidence": 0.1104,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/anser_albifrons.mp3"
     },
@@ -2608,6 +3019,12 @@
         "perch_confidence": 0.1328,
         "perch_top_label": "Merops orientalis_Asian Green Bee-eater",
         "perch_top_confidence": 0.1328,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Asian Green Bee-eater",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/merops_orientalis.mp3"
     },
@@ -2640,6 +3057,12 @@
         "perch_confidence": 0.8631,
         "perch_top_label": "Tringa ochropus_Green Sandpiper",
         "perch_top_confidence": 0.8631,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Green Sandpiper",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/tringa_ochropus.mp3"
     },
@@ -2672,6 +3095,12 @@
         "perch_confidence": 0.709,
         "perch_top_label": "Anas crecca_Eurasian Teal",
         "perch_top_confidence": 0.709,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Teal",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/anas_crecca.mp3"
     },
@@ -2700,6 +3129,12 @@
         "perch_confidence": 0.5296,
         "perch_top_label": "Corvus cornix_Hooded Crow",
         "perch_top_confidence": 0.5296,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Hooded Crow",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/corvus_cornix.mp3"
     },
@@ -2728,6 +3163,12 @@
         "perch_confidence": 0.0043,
         "perch_top_label": "Prinia gracilis_Graceful Prinia",
         "perch_top_confidence": 0.8419,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Graceful Prinia",
+            "agrees": false
+        },
         "photo": true,
         "audio": "audio/eremophila_alpestris.mp3"
     },
@@ -2756,6 +3197,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Garrulus glandarius_Eurasian Jay",
         "perch_top_confidence": 0.2859,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/corvus_splendens.mp3"
     },
@@ -2788,6 +3232,12 @@
         "perch_confidence": 0.6953,
         "perch_top_label": "Passer domesticus_House Sparrow",
         "perch_top_confidence": 0.6953,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "House Sparrow",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/passer_domesticus.mp3"
     },
@@ -2816,6 +3266,12 @@
         "perch_confidence": 0.5157,
         "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
         "perch_top_confidence": 0.5157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/streptopelia_senegalensis.mp3"
     },
@@ -2848,6 +3304,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Phasianus colchicus_Common Pheasant",
         "perch_top_confidence": 0.0718,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/falco_naumanni.mp3"
     },
@@ -2884,6 +3343,9 @@
         "perch_confidence": 0.0603,
         "perch_top_label": "Momotus mexicanus_Russet-crowned Motmot",
         "perch_top_confidence": 0.1183,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/ixobrychus_minutus.mp3"
     },
@@ -2916,6 +3378,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Agelaius phoeniceus_Red-winged Blackbird",
         "perch_top_confidence": 0.1165,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/zapornia_parva.mp3"
     },
@@ -2948,6 +3413,12 @@
         "perch_confidence": 0.672,
         "perch_top_label": "Tachybaptus ruficollis_Little Grebe",
         "perch_top_confidence": 0.672,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Little Grebe",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/tachybaptus_ruficollis.mp3"
     },
@@ -2984,6 +3455,12 @@
         "perch_confidence": 0.5193,
         "perch_top_label": "Athene noctua_Little Owl",
         "perch_top_confidence": 0.5193,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Little Owl",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/athene_noctua.mp3"
     },
@@ -3020,6 +3497,12 @@
         "perch_confidence": 0.4571,
         "perch_top_label": "Thinornis dubius_Little Ringed Plover",
         "perch_top_confidence": 0.4571,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Little Ringed Plover",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/charadrius_dubius.mp3"
     },
@@ -3052,6 +3535,12 @@
         "perch_confidence": 0.8383,
         "perch_top_label": "Asio otus_Long-eared Owl",
         "perch_top_confidence": 0.8383,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Long-eared Owl",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/asio_otus.mp3"
     },
@@ -3075,6 +3564,9 @@
         "perch_confidence": 0.2935,
         "perch_top_label": "Anthus pratensis_Meadow Pipit",
         "perch_top_confidence": 0.2935,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/anthus_pratensis.mp3"
     },
@@ -3107,6 +3599,9 @@
         "perch_confidence": 0.4578,
         "perch_top_label": "Falco columbarius_Merlin",
         "perch_top_confidence": 0.4578,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/falco_columbarius.mp3"
     },
@@ -3135,6 +3630,12 @@
         "perch_confidence": 0.0286,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.1501,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": false
+        },
         "photo": true,
         "audio": "audio/dendrocoptes_medius.mp3"
     },
@@ -3171,6 +3672,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Actitis hypoleucos_Common Sandpiper",
         "perch_top_confidence": 0.1114,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/pernis_ptilorhynchus.mp3"
     },
@@ -3199,6 +3703,9 @@
         "perch_confidence": 0.0921,
         "perch_top_label": "Passer domesticus_House Sparrow",
         "perch_top_confidence": 0.2712,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/emberiza_hortulana.mp3"
     },
@@ -3231,6 +3738,9 @@
         "perch_confidence": 0.0862,
         "perch_top_label": "Parabuteo unicinctus_Harris's Hawk",
         "perch_top_confidence": 0.1189,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/pandion_haliaetus.mp3"
     },
@@ -3259,6 +3769,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Hippolais icterina_Icterine Warbler",
         "perch_top_confidence": 0.1406,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/cinnyris_osea.mp3"
     },
@@ -3287,6 +3800,12 @@
         "perch_confidence": 0.8544,
         "perch_top_label": "Apus pallidus_Pallid Swift",
         "perch_top_confidence": 0.8544,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Pallid Swift",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/apus_pallidus.mp3"
     },
@@ -3315,6 +3834,9 @@
         "perch_confidence": 0.0176,
         "perch_top_label": "Cyanocorax yncas_Inca Jay",
         "perch_top_confidence": 0.0717,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/falco_peregrinus.mp3"
     },
@@ -3347,6 +3869,9 @@
         "perch_confidence": 0.0253,
         "perch_top_label": "Pycnonotus goiavier_Yellow-vented Bulbul",
         "perch_top_confidence": 0.0547,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/recurvirostra_avosetta.mp3"
     },
@@ -3379,6 +3904,9 @@
         "perch_confidence": 0.0267,
         "perch_top_label": "Music_Music",
         "perch_top_confidence": 0.1264,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/ardea_purpurea.mp3"
     },
@@ -3402,6 +3930,9 @@
         "perch_confidence": 0.0564,
         "perch_top_label": "Acrocephalus dumetorum_Blyth's Reed Warbler",
         "perch_top_confidence": 0.0737,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/lanius_collurio.mp3"
     },
@@ -3430,6 +3961,12 @@
         "perch_confidence": 0.1419,
         "perch_top_label": "Coloeus monedula_Western Jackdaw",
         "perch_top_confidence": 0.163,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Western Jackdaw",
+            "agrees": false
+        },
         "photo": true,
         "audio": "audio/pyrrhocorax_pyrrhocorax.mp3"
     },
@@ -3458,6 +3995,9 @@
         "perch_confidence": 0.7221,
         "perch_top_label": "Cecropis daurica_Eastern Red-rumped Swallow",
         "perch_top_confidence": 0.7221,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/cecropis_daurica.mp3"
     },
@@ -3486,6 +4026,9 @@
         "perch_confidence": 0.0209,
         "perch_top_label": "Urocissa erythroryncha_Red-billed Blue Magpie",
         "perch_top_confidence": 0.0364,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/pycnonotus_cafer.mp3"
     },
@@ -3514,6 +4057,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Vehicle_Vehicle",
         "perch_top_confidence": 0.0509,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/turdus_iliacus.mp3"
     },
@@ -3537,6 +4083,9 @@
         "perch_confidence": 0.026,
         "perch_top_label": "Emberiza calandra_Corn Bunting",
         "perch_top_confidence": 0.0703,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/emberiza_schoeniclus.mp3"
     },
@@ -3560,6 +4109,12 @@
         "perch_confidence": 0.6508,
         "perch_top_label": "Anthus richardi_Richard's Pipit",
         "perch_top_confidence": 0.6508,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Richard's Pipit",
+            "agrees": true
+        },
         "photo": true,
         "audio": null
     },
@@ -3588,6 +4143,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
         "perch_top_confidence": 0.0639,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/locustella_fluviatilis.mp3"
     },
@@ -3616,6 +4174,12 @@
         "perch_confidence": 0.7172,
         "perch_top_label": "Columba livia_Rock Dove",
         "perch_top_confidence": 0.7172,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rock Dove",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/columba_livia.mp3"
     },
@@ -3644,6 +4208,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
         "perch_top_confidence": 0.0596,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/petronia_petronia.mp3"
     },
@@ -3672,6 +4239,12 @@
         "perch_confidence": 0.5288,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/psittacula_krameri.mp3"
     },
@@ -3700,6 +4273,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
         "perch_top_confidence": 0.0381,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/pastor_roseus.mp3"
     },
@@ -3728,6 +4304,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Pyrrhula pyrrhula_Eurasian Bullfinch",
         "perch_top_confidence": 0.0732,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/cercotrichas_galactotes.mp3"
     },
@@ -3760,6 +4339,9 @@
         "perch_confidence": 0.0656,
         "perch_top_label": "Tringa nebularia_Common Greenshank",
         "perch_top_confidence": 0.0817,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/thalasseus_sandvicensis.mp3"
     },
@@ -3788,6 +4370,9 @@
         "perch_confidence": 0.1059,
         "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
         "perch_top_confidence": 0.1059,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/curruca_melanocephala.mp3"
     },
@@ -3811,6 +4396,9 @@
         "perch_confidence": 0.0758,
         "perch_top_label": "Bubo virginianus_Great Horned Owl",
         "perch_top_confidence": 0.2394,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": null
     },
@@ -3843,6 +4431,12 @@
         "perch_confidence": 0.5354,
         "perch_top_label": "Circaetus gallicus_Short-toed Snake Eagle",
         "perch_top_confidence": 0.5354,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Short-toed Snake Eagle",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/circaetus_gallicus.mp3"
     },
@@ -3871,6 +4465,12 @@
         "perch_confidence": 0.2157,
         "perch_top_label": "Porzana porzana_Spotted Crake",
         "perch_top_confidence": 0.2157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spotted Crake",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/porzana_porzana.mp3"
     },
@@ -3903,6 +4503,12 @@
         "perch_confidence": 0.3531,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/vanellus_spinosus.mp3"
     },
@@ -3931,6 +4537,12 @@
         "perch_confidence": 0.7713,
         "perch_top_label": "Dendrocopos syriacus_Syrian Woodpecker",
         "perch_top_confidence": 0.7713,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Syrian Woodpecker",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/dendrocopos_syriacus.mp3"
     },
@@ -3971,6 +4583,9 @@
         "perch_confidence": 0.5575,
         "perch_top_label": "Strix aluco_Tawny Owl",
         "perch_top_confidence": 0.5575,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/strix_aluco.mp3"
     },
@@ -3999,6 +4614,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Curruca communis_Common Whitethroat",
         "perch_top_confidence": 0.0824,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/anthus_campestris.mp3"
     },
@@ -4027,6 +4645,9 @@
         "perch_confidence": 0.3527,
         "perch_top_label": "Rallus aquaticus_Water Rail",
         "perch_top_confidence": 0.3527,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/rallus_aquaticus.mp3"
     },
@@ -4055,6 +4676,9 @@
         "perch_confidence": 0.7078,
         "perch_top_label": "Phylloscopus bonelli_Western Bonelli's Warbler",
         "perch_top_confidence": 0.7078,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": null
     },
@@ -4091,6 +4715,9 @@
         "perch_confidence": 0.1366,
         "perch_top_label": "Numenius phaeopus_Eurasian Whimbrel",
         "perch_top_confidence": 0.1366,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/numenius_phaeopus.mp3"
     },
@@ -4119,6 +4746,12 @@
         "perch_confidence": 0.4765,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/motacilla_alba.mp3"
     },
@@ -4147,6 +4780,9 @@
         "perch_confidence": 0.0955,
         "perch_top_label": "Pycnonotus xanthopygos_White-spectacled Bulbul",
         "perch_top_confidence": 0.0955,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/pycnonotus_xanthopygos.mp3"
     },
@@ -4179,6 +4815,12 @@
         "perch_confidence": 0.2317,
         "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
         "perch_top_confidence": 0.2317,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White-throated Kingfisher",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/halcyon_smyrnensis.mp3"
     },
@@ -4202,6 +4844,9 @@
         "perch_confidence": 0.2704,
         "perch_top_label": "Lullula arborea_Woodlark",
         "perch_top_confidence": 0.2704,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/lullula_arborea.mp3"
     },
@@ -4234,6 +4879,12 @@
         "perch_confidence": 0.3965,
         "perch_top_label": "Tringa glareola_Wood Sandpiper",
         "perch_top_confidence": 0.3965,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Wood Sandpiper",
+            "agrees": true
+        },
         "photo": true,
         "audio": "audio/tringa_glareola.mp3"
     },
@@ -4262,6 +4913,9 @@
         "perch_confidence": 0,
         "perch_top_label": "Saxicola rubetra_Whinchat",
         "perch_top_confidence": 0.0955,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/pyrrhocorax_graculus.mp3"
     },
@@ -4294,6 +4948,9 @@
         "perch_confidence": 0.0609,
         "perch_top_label": "Passer domesticus_House Sparrow",
         "perch_top_confidence": 0.2427,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/gymnoris_xanthocollis.mp3"
     },
@@ -4322,6 +4979,9 @@
         "perch_confidence": 0.1225,
         "perch_top_label": "Emberiza citrinella_Yellowhammer",
         "perch_top_confidence": 0.1225,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
         "photo": true,
         "audio": "audio/emberiza_citrinella.mp3"
     }

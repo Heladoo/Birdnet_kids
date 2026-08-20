@@ -8,6 +8,11 @@
   --olive: #8A9550;
   --ink: #3A3226;
   --muted: #8B8065;
+  /* Cross-model agreement signals: dark green = this model picked our
+     species, amber = the other models jointly picked a different one. Both
+     are dark enough to stay legible on the cream card background. */
+  --deep-green: #2F6B33;
+  --warn: #B5651D;
 }
 
 * {
@@ -225,6 +230,34 @@ header {
 
 .score {
   white-space: nowrap;
+}
+
+/* A model that actually picked this species reads dark green; one that picked
+   something else stays muted grey, so a card's three scores show at a glance
+   how many models landed on the same bird. */
+.score-agrees {
+  color: var(--deep-green);
+  font-weight: 800;
+}
+
+/* Only rendered in the Certainty view (see makeCard() in app.js). */
+.second-opinion {
+  display: block;
+  margin-top: 4px;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.second-opinion:empty {
+  display: none;
+}
+
+.second-opinion.agrees {
+  color: var(--deep-green);
+}
+
+.second-opinion.differs {
+  color: var(--warn);
 }
 
 .expert-link {

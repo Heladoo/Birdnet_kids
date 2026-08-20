@@ -7,6 +7,26 @@ function fmtPct(v, digits) {
   return v === null || v === undefined ? '—' : (v * 100).toFixed(digits) + '%';
 }
 
+// Genus reclassifications: same bird, different accepted binomial depending on
+// which model's label set you ask (e.g. V3.0 calls our Corvus monedula
+// "Coloeus monedula"). Mirrors KIDS_TAXONOMIC_SYNONYMS in kids_badges.php and
+// TAXONOMIC_SYNONYMS in the local birdnet-v3-test/perch-test tools - keep all
+// three in sync when either side gains an entry.
+const TAXONOMIC_SYNONYMS = {
+  'Streptopelia senegalensis': 'Spilopelia senegalensis',
+  'Corvus monedula': 'Coloeus monedula',
+  'Ixobrychus minutus': 'Botaurus minutus',
+  'Charadrius dubius': 'Thinornis dubius',
+};
+
+function canonicalSci(sci) {
+  return TAXONOMIC_SYNONYMS[sci] || sci;
+}
+
+function sameSpecies(a, b) {
+  return !!a && !!b && canonicalSci(a) === canonicalSci(b);
+}
+
 function makeRow(r) {
   const tr = document.createElement('tr');
 
@@ -86,7 +106,10 @@ function makeRow(r) {
     cellV3.dataset.sort = '-1';
     cellV3.textContent = '—';
   } else {
-    cellV3.classList.add(r.v3_confidence >= 0.3 ? 'yes' : 'no');
+    // Green tracks "did V3.0 actually pick our species?" (r.v3_agrees, from
+    // the server) rather than a bare confidence cutoff - an uncalibrated
+    // model can be sure and still be right.
+    cellV3.classList.add(r.v3_agrees ? 'yes' : 'no');
     cellV3.dataset.sort = String(r.v3_confidence);
     cellV3.textContent = fmtPct(r.v3_confidence, 1);
     if (r.v3_top_label) {
@@ -102,7 +125,7 @@ function makeRow(r) {
     cellV3Top.textContent = '—';
   } else {
     const [topSci, topCom] = r.v3_top_label.split(/_(.*)/s);
-    const matches = topSci === r.sci;
+    const matches = sameSpecies(topSci, r.sci);
     cellV3Top.classList.add(matches ? 'yes' : 'no');
     cellV3Top.dataset.sort = String(r.v3_top_confidence);
     cellV3Top.textContent = `${topCom || topSci} (${fmtPct(r.v3_top_confidence, 1)})`;
@@ -115,7 +138,7 @@ function makeRow(r) {
     cellPerch.dataset.sort = '-1';
     cellPerch.textContent = '—';
   } else {
-    cellPerch.classList.add(r.perch_confidence >= 0.3 ? 'yes' : 'no');
+    cellPerch.classList.add(r.perch_agrees ? 'yes' : 'no');
     cellPerch.dataset.sort = String(r.perch_confidence);
     cellPerch.textContent = fmtPct(r.perch_confidence, 1);
     if (r.perch_top_label) {
@@ -131,12 +154,24 @@ function makeRow(r) {
     cellPerchTop.textContent = '—';
   } else {
     const [perchTopSci, perchTopCom] = r.perch_top_label.split(/_(.*)/s);
-    const perchMatches = perchTopSci === r.sci;
+    const perchMatches = sameSpecies(perchTopSci, r.sci);
     cellPerchTop.classList.add(perchMatches ? 'yes' : 'no');
     cellPerchTop.dataset.sort = String(r.perch_top_confidence);
     cellPerchTop.textContent = `${perchTopCom || perchTopSci} (${fmtPct(r.perch_top_confidence, 1)})`;
   }
   tr.appendChild(cellPerchTop);
+
+  const cellSecondOpinion = document.createElement('td');
+  if (!r.second_opinion) {
+    cellSecondOpinion.dataset.sort = '0';
+    cellSecondOpinion.textContent = '—';
+  } else {
+    const so = r.second_opinion;
+    cellSecondOpinion.classList.add(so.agrees ? 'yes' : 'warn');
+    cellSecondOpinion.dataset.sort = so.agrees ? '1' : '2';
+    cellSecondOpinion.textContent = (so.agrees ? '✓ ' : '⚠ ') + so.com;
+  }
+  tr.appendChild(cellSecondOpinion);
 
   const cellPhoto = document.createElement('td');
   cellPhoto.classList.add(r.photo ? 'yes' : 'no');

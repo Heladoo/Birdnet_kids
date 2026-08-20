@@ -22,7 +22,13 @@
             }
         ],
         "v3_confidence": 0.9524,
-        "perch_confidence": 0.9787
+        "perch_confidence": 0.9787,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Scops Owl",
+            "agrees": true
+        }
     },
     {
         "name": "Spur-winged Lapwing",
@@ -43,7 +49,13 @@
             }
         ],
         "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        }
     },
     {
         "name": "Merlin",
@@ -64,7 +76,10 @@
             }
         ],
         "v3_confidence": 0.6947,
-        "perch_confidence": 0.4578
+        "perch_confidence": 0.4578,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Common Myna",
@@ -81,7 +96,13 @@
             }
         ],
         "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        }
     },
     {
         "name": "Red-rumped Swallow",
@@ -98,7 +119,10 @@
             }
         ],
         "v3_confidence": 0.344,
-        "perch_confidence": 0.7221
+        "perch_confidence": 0.7221,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Eurasian Collared-Dove",
@@ -115,7 +139,13 @@
             }
         ],
         "v3_confidence": 0.96,
-        "perch_confidence": 0.8294
+        "perch_confidence": 0.8294,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Collared Dove",
+            "agrees": true
+        }
     },
     {
         "name": "Rose-ringed Parakeet",
@@ -132,7 +162,13 @@
             }
         ],
         "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        }
     },
     {
         "name": "Barn Swallow",
@@ -149,7 +185,13 @@
             }
         ],
         "v3_confidence": 0.905,
-        "perch_confidence": 0.8648
+        "perch_confidence": 0.8648,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Barn Swallow",
+            "agrees": true
+        }
     },
     {
         "name": "White Wagtail",
@@ -166,7 +208,13 @@
             }
         ],
         "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        }
     },
     {
         "name": "Eurasian Kestrel",
@@ -187,7 +235,13 @@
             }
         ],
         "v3_confidence": 0.4129,
-        "perch_confidence": 0.4165
+        "perch_confidence": 0.4165,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Kestrel",
+            "agrees": true
+        }
     },
     {
         "name": "Graceful Prinia",
@@ -204,7 +258,10 @@
             }
         ],
         "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Yellow-billed Chough",
@@ -221,7 +278,10 @@
             }
         ],
         "v3_confidence": 0.0052,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Laughing Dove",
@@ -238,7 +298,13 @@
             }
         ],
         "v3_confidence": 0.924,
-        "perch_confidence": 0.5157
+        "perch_confidence": 0.5157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": true
+        }
     },
     {
         "name": "Eurasian Golden Oriole",
@@ -255,7 +321,10 @@
             }
         ],
         "v3_confidence": 0.3975,
-        "perch_confidence": 0.2148
+        "perch_confidence": 0.2148,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "White-throated Kingfisher",
@@ -276,7 +345,13 @@
             }
         ],
         "v3_confidence": 0.9623,
-        "perch_confidence": 0.2317
+        "perch_confidence": 0.2317,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White-throated Kingfisher",
+            "agrees": true
+        }
     },
     {
         "name": "Bank Swallow",
@@ -293,7 +368,13 @@
             }
         ],
         "v3_confidence": 0.0011,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": false
+        }
     },
     {
         "name": "Eurasian Jackdaw",
@@ -310,7 +391,13 @@
             }
         ],
         "v3_confidence": 0.9233,
-        "perch_confidence": 0.6594
+        "perch_confidence": 0.6594,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Western Jackdaw",
+            "agrees": true
+        }
     },
     {
         "name": "River Warbler",
@@ -327,7 +414,10 @@
             }
         ],
         "v3_confidence": 0.0012,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Red-vented Bulbul",
@@ -344,7 +434,10 @@
             }
         ],
         "v3_confidence": 0.9549,
-        "perch_confidence": 0.0209
+        "perch_confidence": 0.0209,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Eurasian Wryneck",
@@ -361,7 +454,13 @@
             }
         ],
         "v3_confidence": 0.2748,
-        "perch_confidence": 0.3786
+        "perch_confidence": 0.3786,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Wryneck",
+            "agrees": true
+        }
     },
     {
         "name": "Black-crowned Night-Heron",
@@ -382,7 +481,13 @@
             }
         ],
         "v3_confidence": 0.9422,
-        "perch_confidence": 0.8882
+        "perch_confidence": 0.8882,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Black-crowned Night Heron",
+            "agrees": true
+        }
     },
     {
         "name": "Black-winged Stilt",
@@ -403,7 +508,10 @@
             }
         ],
         "v3_confidence": 0.1126,
-        "perch_confidence": 0.1366
+        "perch_confidence": 0.1366,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Barn Owl",
@@ -428,7 +536,13 @@
             }
         ],
         "v3_confidence": 0.8618,
-        "perch_confidence": 0.8305
+        "perch_confidence": 0.8305,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Western Barn Owl",
+            "agrees": true
+        }
     },
     {
         "name": "European Pied Flycatcher",
@@ -445,7 +559,13 @@
             }
         ],
         "v3_confidence": 0.3758,
-        "perch_confidence": 0.7878
+        "perch_confidence": 0.7878,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Pied Flycatcher",
+            "agrees": true
+        }
     },
     {
         "name": "Bearded Reedling",
@@ -462,7 +582,13 @@
             }
         ],
         "v3_confidence": 0.8256,
-        "perch_confidence": 0.2002
+        "perch_confidence": 0.2002,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Bearded Reedling",
+            "agrees": true
+        }
     },
     {
         "name": "Common Greenshank",
@@ -483,7 +609,13 @@
             }
         ],
         "v3_confidence": 0.3484,
-        "perch_confidence": 0.2477
+        "perch_confidence": 0.2477,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Greenshank",
+            "agrees": true
+        }
     },
     {
         "name": "Short-toed Snake-Eagle",
@@ -504,7 +636,13 @@
             }
         ],
         "v3_confidence": 0.4437,
-        "perch_confidence": 0.5354
+        "perch_confidence": 0.5354,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Short-toed Snake Eagle",
+            "agrees": true
+        }
     },
     {
         "name": "Great Bittern",
@@ -525,7 +663,10 @@
             }
         ],
         "v3_confidence": 0.0007,
-        "perch_confidence": 0.0357
+        "perch_confidence": 0.0357,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "European Goldfinch",
@@ -542,7 +683,13 @@
             }
         ],
         "v3_confidence": 0.9722,
-        "perch_confidence": 0.9528
+        "perch_confidence": 0.9528,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Goldfinch",
+            "agrees": true
+        }
     },
     {
         "name": "Tawny Owl",
@@ -571,7 +718,10 @@
             }
         ],
         "v3_confidence": 0.2229,
-        "perch_confidence": 0.5575
+        "perch_confidence": 0.5575,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Little Owl",
@@ -596,7 +746,13 @@
             }
         ],
         "v3_confidence": 0.8716,
-        "perch_confidence": 0.5193
+        "perch_confidence": 0.5193,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Little Owl",
+            "agrees": true
+        }
     },
     {
         "name": "Common Bulbul",
@@ -613,7 +769,10 @@
             }
         ],
         "v3_confidence": 0.5559,
-        "perch_confidence": 0.3777
+        "perch_confidence": 0.3777,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Dunnock",
@@ -630,7 +789,10 @@
             }
         ],
         "v3_confidence": 0.5903,
-        "perch_confidence": 0.0395
+        "perch_confidence": 0.0395,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Common Sandpiper",
@@ -651,7 +813,13 @@
             }
         ],
         "v3_confidence": 0.8271,
-        "perch_confidence": 0.7364
+        "perch_confidence": 0.7364,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Sandpiper",
+            "agrees": true
+        }
     },
     {
         "name": "European Bee-eater",
@@ -668,7 +836,10 @@
             }
         ],
         "v3_confidence": 0.9088,
-        "perch_confidence": 0.6554
+        "perch_confidence": 0.6554,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Common House-Martin",
@@ -685,7 +856,13 @@
             }
         ],
         "v3_confidence": 0.0374,
-        "perch_confidence": 0.0249
+        "perch_confidence": 0.0249,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": false
+        }
     },
     {
         "name": "Gray Wagtail",
@@ -702,7 +879,13 @@
             }
         ],
         "v3_confidence": 0.874,
-        "perch_confidence": 0.2349
+        "perch_confidence": 0.2349,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Grey Wagtail",
+            "agrees": true
+        }
     },
     {
         "name": "Eurasian Jay",
@@ -719,7 +902,13 @@
             }
         ],
         "v3_confidence": 0.9605,
-        "perch_confidence": 0.943
+        "perch_confidence": 0.943,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Jay",
+            "agrees": true
+        }
     },
     {
         "name": "Eurasian Thick-knee",
@@ -736,7 +925,13 @@
             }
         ],
         "v3_confidence": 0.876,
-        "perch_confidence": 0.8837
+        "perch_confidence": 0.8837,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Stone-curlew",
+            "agrees": true
+        }
     },
     {
         "name": "Cattle Egret",
@@ -757,7 +952,13 @@
             }
         ],
         "v3_confidence": 0,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Fieldfare",
+            "agrees": false
+        }
     },
     {
         "name": "Caspian Tern",
@@ -782,7 +983,10 @@
             }
         ],
         "v3_confidence": 0.4581,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Eurasian Hoopoe",
@@ -799,7 +1003,13 @@
             }
         ],
         "v3_confidence": 0.9469,
-        "perch_confidence": 0.8821
+        "perch_confidence": 0.8821,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Hoopoe",
+            "agrees": true
+        }
     },
     {
         "name": "Peregrine Falcon",
@@ -816,7 +1026,10 @@
             }
         ],
         "v3_confidence": 0.0362,
-        "perch_confidence": 0.0176
+        "perch_confidence": 0.0176,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Green Sandpiper",
@@ -837,7 +1050,13 @@
             }
         ],
         "v3_confidence": 0.8386,
-        "perch_confidence": 0.8631
+        "perch_confidence": 0.8631,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Green Sandpiper",
+            "agrees": true
+        }
     },
     {
         "name": "Sandwich Tern",
@@ -858,7 +1077,10 @@
             }
         ],
         "v3_confidence": 0.1031,
-        "perch_confidence": 0.0656
+        "perch_confidence": 0.0656,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Delicate Prinia",
@@ -875,7 +1097,10 @@
             }
         ],
         "v3_confidence": 0.278,
-        "perch_confidence": 0.0288
+        "perch_confidence": 0.0288,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Greater White-fronted Goose",
@@ -896,7 +1121,10 @@
             }
         ],
         "v3_confidence": 0.0148,
-        "perch_confidence": 0.036
+        "perch_confidence": 0.036,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Gray Heron",
@@ -917,7 +1145,13 @@
             }
         ],
         "v3_confidence": 0.7442,
-        "perch_confidence": 0.8582
+        "perch_confidence": 0.8582,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Grey Heron",
+            "agrees": true
+        }
     },
     {
         "name": "Little Ringed Plover",
@@ -942,7 +1176,13 @@
             }
         ],
         "v3_confidence": 0.676,
-        "perch_confidence": 0.4571
+        "perch_confidence": 0.4571,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Little Ringed Plover",
+            "agrees": true
+        }
     },
     {
         "name": "European Golden-Plover",
@@ -963,7 +1203,13 @@
             }
         ],
         "v3_confidence": 0.4356,
-        "perch_confidence": 0.2218
+        "perch_confidence": 0.2218,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Golden Plover",
+            "agrees": true
+        }
     },
     {
         "name": "Gadwall",
@@ -984,7 +1230,10 @@
             }
         ],
         "v3_confidence": 0.4762,
-        "perch_confidence": 0.0666
+        "perch_confidence": 0.0666,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "European Robin",
@@ -996,7 +1245,13 @@
         "v2_confidence": 0.7263,
         "badges": [],
         "v3_confidence": 0.2436,
-        "perch_confidence": 0.3507
+        "perch_confidence": 0.3507,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Robin",
+            "agrees": true
+        }
     },
     {
         "name": "Great Tit",
@@ -1013,7 +1268,13 @@
             }
         ],
         "v3_confidence": 0.3506,
-        "perch_confidence": 0.6353
+        "perch_confidence": 0.6353,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Great Tit",
+            "agrees": true
+        }
     },
     {
         "name": "Yellowhammer",
@@ -1030,7 +1291,10 @@
             }
         ],
         "v3_confidence": 0.0098,
-        "perch_confidence": 0.1225
+        "perch_confidence": 0.1225,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Common Chiffchaff",
@@ -1047,7 +1311,13 @@
             }
         ],
         "v3_confidence": 0.886,
-        "perch_confidence": 0.9336
+        "perch_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        }
     },
     {
         "name": "Green-winged Teal",
@@ -1068,7 +1338,13 @@
             }
         ],
         "v3_confidence": 0.4616,
-        "perch_confidence": 0.709
+        "perch_confidence": 0.709,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Teal",
+            "agrees": true
+        }
     },
     {
         "name": "Common Swift",
@@ -1085,7 +1361,13 @@
             }
         ],
         "v3_confidence": 0.5958,
-        "perch_confidence": 0.1085
+        "perch_confidence": 0.1085,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Swift",
+            "agrees": true
+        }
     },
     {
         "name": "Meadow Pipit",
@@ -1097,7 +1379,10 @@
         "v2_confidence": 0.8109,
         "badges": [],
         "v3_confidence": 0.0306,
-        "perch_confidence": 0.2935
+        "perch_confidence": 0.2935,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Common Chaffinch",
@@ -1114,7 +1399,13 @@
             }
         ],
         "v3_confidence": 0.0146,
-        "perch_confidence": 0.1016
+        "perch_confidence": 0.1016,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Eastern Red-rumped Swallow",
+            "agrees": false
+        }
     },
     {
         "name": "Black Redstart",
@@ -1131,7 +1422,13 @@
             }
         ],
         "v3_confidence": 0.9386,
-        "perch_confidence": 0.9259
+        "perch_confidence": 0.9259,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Black Redstart",
+            "agrees": true
+        }
     },
     {
         "name": "Spotted Crake",
@@ -1148,7 +1445,13 @@
             }
         ],
         "v3_confidence": 0.3218,
-        "perch_confidence": 0.2157
+        "perch_confidence": 0.2157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spotted Crake",
+            "agrees": true
+        }
     },
     {
         "name": "Reed Bunting",
@@ -1160,7 +1463,10 @@
         "v2_confidence": 0.8106,
         "badges": [],
         "v3_confidence": 0.6842,
-        "perch_confidence": 0.026
+        "perch_confidence": 0.026,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Wood Sandpiper",
@@ -1181,7 +1487,13 @@
             }
         ],
         "v3_confidence": 0.9375,
-        "perch_confidence": 0.3965
+        "perch_confidence": 0.3965,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Wood Sandpiper",
+            "agrees": true
+        }
     },
     {
         "name": "Rosy Starling",
@@ -1198,7 +1510,10 @@
             }
         ],
         "v3_confidence": 0.0089,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Common Tern",
@@ -1219,7 +1534,10 @@
             }
         ],
         "v3_confidence": 0.0905,
-        "perch_confidence": 0.0685
+        "perch_confidence": 0.0685,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "European Serin",
@@ -1231,7 +1549,10 @@
         "v2_confidence": 0.8693,
         "badges": [],
         "v3_confidence": 0.7995,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Bluethroat",
@@ -1243,7 +1564,13 @@
         "v2_confidence": 0.7169,
         "badges": [],
         "v3_confidence": 0.2195,
-        "perch_confidence": 0.2019
+        "perch_confidence": 0.2019,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Bluethroat",
+            "agrees": true
+        }
     },
     {
         "name": "Oriental Honey-buzzard",
@@ -1268,7 +1595,10 @@
             }
         ],
         "v3_confidence": 0.1181,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "European Greenfinch",
@@ -1285,7 +1615,13 @@
             }
         ],
         "v3_confidence": 0.943,
-        "perch_confidence": 0.9595
+        "perch_confidence": 0.9595,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Greenfinch",
+            "agrees": true
+        }
     },
     {
         "name": "Common Raven",
@@ -1297,7 +1633,13 @@
         "v2_confidence": 0.8839,
         "badges": [],
         "v3_confidence": 0.6548,
-        "perch_confidence": 0.4183
+        "perch_confidence": 0.4183,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Northern Raven",
+            "agrees": true
+        }
     },
     {
         "name": "Great Gray Shrike",
@@ -1309,7 +1651,10 @@
         "v2_confidence": 0.76,
         "badges": [],
         "v3_confidence": 0.079,
-        "perch_confidence": 0.0725
+        "perch_confidence": 0.0725,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Black Francolin",
@@ -1326,7 +1671,10 @@
             }
         ],
         "v3_confidence": 0.0013,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "White-spectacled Bulbul",
@@ -1343,7 +1691,10 @@
             }
         ],
         "v3_confidence": 0.4418,
-        "perch_confidence": 0.0955
+        "perch_confidence": 0.0955,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Brambling",
@@ -1360,7 +1711,13 @@
             }
         ],
         "v3_confidence": 0.8158,
-        "perch_confidence": 0.2147
+        "perch_confidence": 0.2147,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Brambling",
+            "agrees": true
+        }
     },
     {
         "name": "Fieldfare",
@@ -1377,7 +1734,10 @@
             }
         ],
         "v3_confidence": 0.1298,
-        "perch_confidence": 0.1243
+        "perch_confidence": 0.1243,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Booted Eagle",
@@ -1394,7 +1754,10 @@
             }
         ],
         "v3_confidence": 0.0146,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Osprey",
@@ -1415,7 +1778,10 @@
             }
         ],
         "v3_confidence": 0.1294,
-        "perch_confidence": 0.0862
+        "perch_confidence": 0.0862,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Common Cuckoo",
@@ -1432,7 +1798,10 @@
             }
         ],
         "v3_confidence": 0.018,
-        "perch_confidence": 0.3959
+        "perch_confidence": 0.3959,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Lesser Kestrel",
@@ -1453,7 +1822,10 @@
             }
         ],
         "v3_confidence": 0.0013,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Common Redstart",
@@ -1470,7 +1842,10 @@
             }
         ],
         "v3_confidence": 0.0114,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "House Sparrow",
@@ -1491,7 +1866,13 @@
             }
         ],
         "v3_confidence": 0.9058,
-        "perch_confidence": 0.6953
+        "perch_confidence": 0.6953,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "House Sparrow",
+            "agrees": true
+        }
     },
     {
         "name": "Blue Rock-Thrush",
@@ -1503,7 +1884,10 @@
         "v2_confidence": 0.9515,
         "badges": [],
         "v3_confidence": 0.3677,
-        "perch_confidence": 0.0592
+        "perch_confidence": 0.0592,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Horned Lark",
@@ -1520,7 +1904,13 @@
             }
         ],
         "v3_confidence": 0.0068,
-        "perch_confidence": 0.0043
+        "perch_confidence": 0.0043,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Graceful Prinia",
+            "agrees": false
+        }
     },
     {
         "name": "Common Buzzard",
@@ -1541,7 +1931,10 @@
             }
         ],
         "v3_confidence": 0.0019,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Common Redshank",
@@ -1562,7 +1955,13 @@
             }
         ],
         "v3_confidence": 0.9113,
-        "perch_confidence": 0.1309
+        "perch_confidence": 0.1309,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Redshank",
+            "agrees": true
+        }
     },
     {
         "name": "Dunlin",
@@ -1583,7 +1982,10 @@
             }
         ],
         "v3_confidence": 0.0017,
-        "perch_confidence": 0.4505
+        "perch_confidence": 0.4505,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Red-backed Shrike",
@@ -1595,7 +1997,10 @@
         "v2_confidence": 0.7977,
         "badges": [],
         "v3_confidence": 0.1732,
-        "perch_confidence": 0.0564
+        "perch_confidence": 0.0564,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Eurasian Nuthatch",
@@ -1612,7 +2017,13 @@
             }
         ],
         "v3_confidence": 0.0015,
-        "perch_confidence": 0.1696
+        "perch_confidence": 0.1696,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Common Quail",
+            "agrees": false
+        }
     },
     {
         "name": "Syrian Woodpecker",
@@ -1629,7 +2040,13 @@
             }
         ],
         "v3_confidence": 0.8904,
-        "perch_confidence": 0.7713
+        "perch_confidence": 0.7713,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Syrian Woodpecker",
+            "agrees": true
+        }
     },
     {
         "name": "Palestine Sunbird",
@@ -1646,7 +2063,10 @@
             }
         ],
         "v3_confidence": 0.5097,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Common Goldeneye",
@@ -1671,7 +2091,10 @@
             }
         ],
         "v3_confidence": 0.0281,
-        "perch_confidence": 0.017
+        "perch_confidence": 0.017,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Little Bittern",
@@ -1696,7 +2119,10 @@
             }
         ],
         "v3_confidence": 0.172,
-        "perch_confidence": 0.0603
+        "perch_confidence": 0.0603,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Eurasian Coot",
@@ -1717,7 +2143,13 @@
             }
         ],
         "v3_confidence": 0.757,
-        "perch_confidence": 0.4847
+        "perch_confidence": 0.4847,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Coot",
+            "agrees": true
+        }
     },
     {
         "name": "Little Grebe",
@@ -1738,7 +2170,13 @@
             }
         ],
         "v3_confidence": 0.8192,
-        "perch_confidence": 0.672
+        "perch_confidence": 0.672,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Little Grebe",
+            "agrees": true
+        }
     },
     {
         "name": "Crested Lark",
@@ -1755,7 +2193,13 @@
             }
         ],
         "v3_confidence": 0.9411,
-        "perch_confidence": 0.625
+        "perch_confidence": 0.625,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Crested Lark",
+            "agrees": true
+        }
     },
     {
         "name": "Rock Pigeon",
@@ -1772,7 +2216,13 @@
             }
         ],
         "v3_confidence": 0.9179,
-        "perch_confidence": 0.7172
+        "perch_confidence": 0.7172,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rock Dove",
+            "agrees": true
+        }
     },
     {
         "name": "Cirl Bunting",
@@ -1789,7 +2239,10 @@
             }
         ],
         "v3_confidence": 0.0375,
-        "perch_confidence": 0.1747
+        "perch_confidence": 0.1747,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Eurasian Oystercatcher",
@@ -1810,7 +2263,13 @@
             }
         ],
         "v3_confidence": 0.9026,
-        "perch_confidence": 0.4644
+        "perch_confidence": 0.4644,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Oystercatcher",
+            "agrees": true
+        }
     },
     {
         "name": "Hooded Crow",
@@ -1827,7 +2286,13 @@
             }
         ],
         "v3_confidence": 0.926,
-        "perch_confidence": 0.5296
+        "perch_confidence": 0.5296,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Hooded Crow",
+            "agrees": true
+        }
     },
     {
         "name": "Long-eared Owl",
@@ -1848,7 +2313,13 @@
             }
         ],
         "v3_confidence": 0.873,
-        "perch_confidence": 0.8383
+        "perch_confidence": 0.8383,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Long-eared Owl",
+            "agrees": true
+        }
     },
     {
         "name": "Water Rail",
@@ -1865,7 +2336,10 @@
             }
         ],
         "v3_confidence": 0.2924,
-        "perch_confidence": 0.3527
+        "perch_confidence": 0.3527,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Great Reed Warbler",
@@ -1882,7 +2356,10 @@
             }
         ],
         "v3_confidence": 0.0537,
-        "perch_confidence": 0.3475
+        "perch_confidence": 0.3475,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Little Crake",
@@ -1903,7 +2380,10 @@
             }
         ],
         "v3_confidence": 0.0006,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Sardinian Warbler",
@@ -1920,7 +2400,10 @@
             }
         ],
         "v3_confidence": 0.2223,
-        "perch_confidence": 0.1059
+        "perch_confidence": 0.1059,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Rock Sparrow",
@@ -1937,7 +2420,10 @@
             }
         ],
         "v3_confidence": 0.0067,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Eurasian Sparrowhawk",
@@ -1958,7 +2444,10 @@
             }
         ],
         "v3_confidence": 0.8021,
-        "perch_confidence": 0.0715
+        "perch_confidence": 0.0715,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Black-bellied Plover",
@@ -1979,7 +2468,10 @@
             }
         ],
         "v3_confidence": 0.0936,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Common Crane",
@@ -2000,7 +2492,10 @@
             }
         ],
         "v3_confidence": 0.1656,
-        "perch_confidence": 0.3963
+        "perch_confidence": 0.3963,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Eurasian Moorhen",
@@ -2021,7 +2516,13 @@
             }
         ],
         "v3_confidence": 0.9226,
-        "perch_confidence": 0.793
+        "perch_confidence": 0.793,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Moorhen",
+            "agrees": true
+        }
     },
     {
         "name": "Graylag Goose",
@@ -2042,7 +2543,10 @@
             }
         ],
         "v3_confidence": 0.004,
-        "perch_confidence": 0.0395
+        "perch_confidence": 0.0395,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Wood Lark",
@@ -2054,7 +2558,10 @@
         "v2_confidence": 0.8928,
         "badges": [],
         "v3_confidence": 0.0131,
-        "perch_confidence": 0.2704
+        "perch_confidence": 0.2704,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Tawny Pipit",
@@ -2071,7 +2578,10 @@
             }
         ],
         "v3_confidence": 0.0516,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Common Quail",
@@ -2092,7 +2602,13 @@
             }
         ],
         "v3_confidence": 0.9259,
-        "perch_confidence": 0.8633
+        "perch_confidence": 0.8633,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Quail",
+            "agrees": true
+        }
     },
     {
         "name": "Pied Avocet",
@@ -2113,7 +2629,10 @@
             }
         ],
         "v3_confidence": 0.1221,
-        "perch_confidence": 0.0253
+        "perch_confidence": 0.0253,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Red-billed Chough",
@@ -2130,7 +2649,13 @@
             }
         ],
         "v3_confidence": 0.3511,
-        "perch_confidence": 0.1419
+        "perch_confidence": 0.1419,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Western Jackdaw",
+            "agrees": false
+        }
     },
     {
         "name": "Eurasian Blackbird",
@@ -2147,7 +2672,10 @@
             }
         ],
         "v3_confidence": 0.0141,
-        "perch_confidence": 0.1539
+        "perch_confidence": 0.1539,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Black-headed Bunting",
@@ -2164,7 +2692,10 @@
             }
         ],
         "v3_confidence": 0.0005,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Yellow-throated Sparrow",
@@ -2185,7 +2716,10 @@
             }
         ],
         "v3_confidence": 0.6455,
-        "perch_confidence": 0.0609
+        "perch_confidence": 0.0609,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Purple Heron",
@@ -2206,7 +2740,10 @@
             }
         ],
         "v3_confidence": 0.0178,
-        "perch_confidence": 0.0267
+        "perch_confidence": 0.0267,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Eurasian Tree Sparrow",
@@ -2227,7 +2764,13 @@
             }
         ],
         "v3_confidence": 0.2322,
-        "perch_confidence": 0.1486
+        "perch_confidence": 0.1486,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "House Sparrow",
+            "agrees": false
+        }
     },
     {
         "name": "European Stonechat",
@@ -2244,7 +2787,10 @@
             }
         ],
         "v3_confidence": 0.0018,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Redwing",
@@ -2261,7 +2807,10 @@
             }
         ],
         "v3_confidence": 0.0041,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Middle Spotted Woodpecker",
@@ -2278,7 +2827,13 @@
             }
         ],
         "v3_confidence": 0.0593,
-        "perch_confidence": 0.0286
+        "perch_confidence": 0.0286,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": false
+        }
     },
     {
         "name": "Aquatic Warbler",
@@ -2299,7 +2854,13 @@
             }
         ],
         "v3_confidence": 0.0002,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "House Sparrow",
+            "agrees": false
+        }
     },
     {
         "name": "Green Bee-eater",
@@ -2320,7 +2881,13 @@
             }
         ],
         "v3_confidence": 0.9404,
-        "perch_confidence": 0.1328
+        "perch_confidence": 0.1328,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Asian Green Bee-eater",
+            "agrees": true
+        }
     },
     {
         "name": "Eurasian Linnet",
@@ -2332,7 +2899,13 @@
         "v2_confidence": 0.7237,
         "badges": [],
         "v3_confidence": 0.0019,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": false
+        }
     },
     {
         "name": "Whimbrel",
@@ -2357,7 +2930,10 @@
             }
         ],
         "v3_confidence": 0.066,
-        "perch_confidence": 0.1366
+        "perch_confidence": 0.1366,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Ortolan Bunting",
@@ -2374,7 +2950,10 @@
             }
         ],
         "v3_confidence": 0.8263,
-        "perch_confidence": 0.0921
+        "perch_confidence": 0.0921,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Alexandrine Parakeet",
@@ -2395,7 +2974,13 @@
             }
         ],
         "v3_confidence": 0.7804,
-        "perch_confidence": 0.2591
+        "perch_confidence": 0.2591,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Alexandrine Parakeet",
+            "agrees": true
+        }
     },
     {
         "name": "European Turtle-Dove",
@@ -2412,7 +2997,13 @@
             }
         ],
         "v3_confidence": 0.9452,
-        "perch_confidence": 0.7031
+        "perch_confidence": 0.7031,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Turtle Dove",
+            "agrees": true
+        }
     },
     {
         "name": "Clamorous Reed Warbler",
@@ -2429,7 +3020,10 @@
             }
         ],
         "v3_confidence": 0.0399,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Black-winged Kite",
@@ -2450,7 +3044,13 @@
             }
         ],
         "v3_confidence": 0.7893,
-        "perch_confidence": 0.2304
+        "perch_confidence": 0.2304,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Black-winged Kite",
+            "agrees": true
+        }
     },
     {
         "name": "Eurasian Hobby",
@@ -2471,7 +3071,10 @@
             }
         ],
         "v3_confidence": 0.8061,
-        "perch_confidence": 0.2211
+        "perch_confidence": 0.2211,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Black Kite",
@@ -2492,7 +3095,13 @@
             }
         ],
         "v3_confidence": 0.2172,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": false
+        }
     },
     {
         "name": "Common Snipe",
@@ -2513,7 +3122,10 @@
             }
         ],
         "v3_confidence": 0.6968,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Common Nightingale",
@@ -2530,7 +3142,10 @@
             }
         ],
         "v3_confidence": 0.0499,
-        "perch_confidence": 0.2246
+        "perch_confidence": 0.2246,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Eurasian Siskin",
@@ -2547,7 +3162,10 @@
             }
         ],
         "v3_confidence": 0.0301,
-        "perch_confidence": 0.0894
+        "perch_confidence": 0.0894,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Pallid Swift",
@@ -2564,7 +3182,13 @@
             }
         ],
         "v3_confidence": 0.5984,
-        "perch_confidence": 0.8544
+        "perch_confidence": 0.8544,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Pallid Swift",
+            "agrees": true
+        }
     },
     {
         "name": "Eurasian Curlew",
@@ -2585,7 +3209,13 @@
             }
         ],
         "v3_confidence": 0.6272,
-        "perch_confidence": 0.2868
+        "perch_confidence": 0.2868,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Curlew",
+            "agrees": true
+        }
     },
     {
         "name": "Great Spotted Cuckoo",
@@ -2602,7 +3232,13 @@
             }
         ],
         "v3_confidence": 0.9856,
-        "perch_confidence": 0.7552
+        "perch_confidence": 0.7552,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Great Spotted Cuckoo",
+            "agrees": true
+        }
     },
     {
         "name": "Rufous-tailed Scrub-Robin",
@@ -2619,7 +3255,10 @@
             }
         ],
         "v3_confidence": 0.011,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "House Crow",
@@ -2636,7 +3275,10 @@
             }
         ],
         "v3_confidence": 0.1225,
-        "perch_confidence": 0
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Collared Flycatcher",
@@ -2653,6 +3295,9 @@
             }
         ],
         "v3_confidence": 0.0327,
-        "perch_confidence": 0.2257
+        "perch_confidence": 0.2257,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     }
 ]
