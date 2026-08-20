@@ -1,11 +1,62 @@
 [
     {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-08-20T16:58:09",
+        "week_count": 248,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-08-20T16:52:07",
+        "week_count": 242,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728
+    },
+    {
+        "name": "Eurasian Collared-Dove",
+        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+        "audio": "audio/streptopelia_decaocto.mp3",
+        "last_seen": "2026-08-20T16:50:15",
+        "week_count": 22,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.96,
+        "perch_confidence": 0.8294
+    },
+    {
         "name": "Common Myna",
         "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg",
         "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-08-20T15:55:35",
-        "week_count": 44,
+        "last_seen": "2026-08-20T16:45:54",
+        "week_count": 45,
         "v2_confidence": 0.9867,
         "badges": [
             {
@@ -17,21 +68,93 @@
         "perch_confidence": 0.4667
     },
     {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-08-20T15:49:49",
-        "week_count": 242,
-        "v2_confidence": 0.9908,
+        "name": "Eurasian Kestrel",
+        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
+        "audio": "audio/falco_tinnunculus.mp3",
+        "last_seen": "2026-08-20T16:37:37",
+        "week_count": 18,
+        "v2_confidence": 0.9619,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.4129,
+        "perch_confidence": 0.4165
+    },
+    {
+        "name": "Barn Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
+        "audio": "audio/hirundo_rustica.mp3",
+        "last_seen": "2026-08-20T16:35:33",
+        "week_count": 25,
+        "v2_confidence": 0.938,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.905,
+        "perch_confidence": 0.8648
+    },
+    {
+        "name": "Yellow-billed Chough",
+        "he_name": "\u05d6\u05d2 \u05e6\u05d4\u05d5\u05d1-\u05de\u05e7\u05d5\u05e8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Alpine_Chough_by_Jim_Higham.jpg/1280px-Alpine_Chough_by_Jim_Higham.jpg",
+        "audio": "audio/pyrrhocorax_graculus.mp3",
+        "last_seen": "2026-08-20T16:15:30",
+        "week_count": 1,
+        "v2_confidence": 0.863,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.0052,
+        "perch_confidence": 0
+    },
+    {
+        "name": "Laughing Dove",
+        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+        "audio": "audio/streptopelia_senegalensis.mp3",
+        "last_seen": "2026-08-20T16:15:16",
+        "week_count": 685,
+        "v2_confidence": 0.9984,
         "badges": [
             {
                 "i": "\ud83c\udfe0",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288
+        "v3_confidence": 0.924,
+        "perch_confidence": 0.5157
+    },
+    {
+        "name": "Eurasian Golden Oriole",
+        "he_name": "\u05d6\u05d4\u05d1\u05df \u05de\u05d7\u05dc\u05dc",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rigogolo-%28Oriolus_oriolus%29_Lazio%2C_isola_di_Ventotene_%28LT%29_19.4.2024_%28cropped%29.png",
+        "audio": "audio/oriolus_oriolus.mp3",
+        "last_seen": "2026-08-20T16:01:29",
+        "week_count": 1,
+        "v2_confidence": 0.8511,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.3975,
+        "perch_confidence": 0.2148
     },
     {
         "name": "White-throated Kingfisher",
@@ -53,57 +176,6 @@
         ],
         "v3_confidence": 0.9623,
         "perch_confidence": 0.2317
-    },
-    {
-        "name": "Laughing Dove",
-        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-        "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-08-20T15:39:41",
-        "week_count": 683,
-        "v2_confidence": 0.9984,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.924,
-        "perch_confidence": 0.5157
-    },
-    {
-        "name": "Barn Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
-        "audio": "audio/hirundo_rustica.mp3",
-        "last_seen": "2026-08-20T15:22:59",
-        "week_count": 24,
-        "v2_confidence": 0.938,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.905,
-        "perch_confidence": 0.8648
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-08-20T15:17:55",
-        "week_count": 240,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728
     },
     {
         "name": "Bank Swallow",
@@ -172,27 +244,6 @@
         ],
         "v3_confidence": 0.9549,
         "perch_confidence": 0.0209
-    },
-    {
-        "name": "Eurasian Kestrel",
-        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
-        "audio": "audio/falco_tinnunculus.mp3",
-        "last_seen": "2026-08-20T08:40:31",
-        "week_count": 17,
-        "v2_confidence": 0.9619,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.4129,
-        "perch_confidence": 0.4165
     },
     {
         "name": "Spur-winged Lapwing",
@@ -374,23 +425,6 @@
         ],
         "v3_confidence": 0.8256,
         "perch_confidence": 0.2002
-    },
-    {
-        "name": "Eurasian Collared-Dove",
-        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-        "audio": "audio/streptopelia_decaocto.mp3",
-        "last_seen": "2026-08-19T17:22:03",
-        "week_count": 21,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.96,
-        "perch_confidence": 0.8294
     },
     {
         "name": "Common Greenshank",
@@ -980,23 +1014,6 @@
         ],
         "v3_confidence": 0.3506,
         "perch_confidence": 0.6353
-    },
-    {
-        "name": "Eurasian Golden Oriole",
-        "he_name": "\u05d6\u05d4\u05d1\u05df \u05de\u05d7\u05dc\u05dc",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rigogolo-%28Oriolus_oriolus%29_Lazio%2C_isola_di_Ventotene_%28LT%29_19.4.2024_%28cropped%29.png",
-        "audio": "audio/oriolus_oriolus.mp3",
-        "last_seen": "2026-08-12T14:48:32",
-        "week_count": 0,
-        "v2_confidence": 0.8511,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.3975,
-        "perch_confidence": 0.2148
     },
     {
         "name": "Yellowhammer",
@@ -2147,23 +2164,6 @@
             }
         ],
         "v3_confidence": 0.0005,
-        "perch_confidence": 0
-    },
-    {
-        "name": "Yellow-billed Chough",
-        "he_name": "\u05d6\u05d2 \u05e6\u05d4\u05d5\u05d1-\u05de\u05e7\u05d5\u05e8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Alpine_Chough_by_Jim_Higham.jpg/1280px-Alpine_Chough_by_Jim_Higham.jpg",
-        "audio": "audio/pyrrhocorax_graculus.mp3",
-        "last_seen": "2026-06-19T16:18:21",
-        "week_count": 0,
-        "v2_confidence": 0.7696,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.0052,
         "perch_confidence": 0
     },
     {
