@@ -1,5 +1,68 @@
 [
     {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-08-21T09:39:51",
+        "week_count": 234,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
+        "name": "River Warbler",
+        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/locustella_fluviatilis.mp3",
+        "last_seen": "2026-08-21T09:35:44",
+        "week_count": 43,
+        "v2_confidence": 0.995,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0012,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
+        "name": "Laughing Dove",
+        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+        "audio": "audio/streptopelia_senegalensis.mp3",
+        "last_seen": "2026-08-21T09:25:23",
+        "week_count": 646,
+        "v2_confidence": 0.9984,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.924,
+        "perch_confidence": 0.5157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": true
+        }
+    },
+    {
         "name": "Eurasian Collared-Dove",
         "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
@@ -44,26 +107,6 @@
             "com": "Great Tit",
             "agrees": true
         }
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-08-21T08:43:04",
-        "week_count": 219,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null
     },
     {
         "name": "Rose-ringed Parakeet",
@@ -283,26 +326,6 @@
         }
     },
     {
-        "name": "River Warbler",
-        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/locustella_fluviatilis.mp3",
-        "last_seen": "2026-08-20T22:32:50",
-        "week_count": 36,
-        "v2_confidence": 0.995,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0012,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
         "name": "Merlin",
         "he_name": "\u05d1\u05d6 \u05d2\u05de\u05d3\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Merlin_in_Prospect_Park_%2863386%29.jpg/1280px-Merlin_in_Prospect_Park_%2863386%29.jpg",
@@ -391,29 +414,6 @@
         "v3_agrees": false,
         "perch_agrees": false,
         "second_opinion": null
-    },
-    {
-        "name": "Laughing Dove",
-        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-        "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-08-20T16:15:16",
-        "week_count": 643,
-        "v2_confidence": 0.9984,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.924,
-        "perch_confidence": 0.5157,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Laughing Dove",
-            "agrees": true
-        }
     },
     {
         "name": "Eurasian Golden Oriole",
