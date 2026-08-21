@@ -1,5 +1,72 @@
 [
     {
+        "name": "Common Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg/3840px-Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg",
+        "audio": "audio/pycnonotus_barbatus.mp3",
+        "last_seen": "2026-08-21T19:17:54",
+        "week_count": 5,
+        "v2_confidence": 0.9158,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.5559,
+        "perch_confidence": 0.3777,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
+        "name": "Peregrine Falcon",
+        "he_name": "\u05d1\u05d6 \u05e0\u05d5\u05d3\u05d3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg/1280px-Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg",
+        "audio": "audio/falco_peregrinus.mp3",
+        "last_seen": "2026-08-21T19:13:35",
+        "week_count": 2,
+        "v2_confidence": 0.8115,
+        "badges": [
+            {
+                "i": "\ud83e\udd85",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.0362,
+        "perch_confidence": 0.0176,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-08-21T19:11:58",
+        "week_count": 425,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        }
+    },
+    {
         "name": "Red-rumped Swallow",
         "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
@@ -96,33 +163,6 @@
         "v3_agrees": false,
         "perch_agrees": true,
         "second_opinion": null
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-08-21T17:07:03",
-        "week_count": 423,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        }
     },
     {
         "name": "Eurasian Kestrel",
@@ -844,26 +884,6 @@
         }
     },
     {
-        "name": "Common Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg/3840px-Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg",
-        "audio": "audio/pycnonotus_barbatus.mp3",
-        "last_seen": "2026-08-19T05:42:29",
-        "week_count": 3,
-        "v2_confidence": 0.9158,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.5559,
-        "perch_confidence": 0.3777,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null
-    },
-    {
         "name": "Dunnock",
         "he_name": "\u05e1\u05ea\u05e8\u05d9 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dunnock_%28Prunella_modularis%29_3.jpg/3840px-Dunnock_%28Prunella_modularis%29_3.jpg",
@@ -1053,26 +1073,6 @@
             "com": "Eurasian Hoopoe",
             "agrees": true
         }
-    },
-    {
-        "name": "Peregrine Falcon",
-        "he_name": "\u05d1\u05d6 \u05e0\u05d5\u05d3\u05d3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg/1280px-Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg",
-        "audio": "audio/falco_peregrinus.mp3",
-        "last_seen": "2026-08-17T07:10:23",
-        "week_count": 1,
-        "v2_confidence": 0.8115,
-        "badges": [
-            {
-                "i": "\ud83e\udd85",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.0362,
-        "perch_confidence": 0.0176,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null
     },
     {
         "name": "Green Sandpiper",
