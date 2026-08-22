@@ -1,5 +1,92 @@
 [
     {
+        "name": "Laughing Dove",
+        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+        "audio": "audio/streptopelia_senegalensis.mp3",
+        "last_seen": "2026-08-22T17:57:56",
+        "week_count": 713,
+        "v2_confidence": 0.9984,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.924,
+        "perch_confidence": 0.5157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-08-22T17:55:54",
+        "week_count": 364,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Barn Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
+        "audio": "audio/hirundo_rustica.mp3",
+        "last_seen": "2026-08-22T17:20:18",
+        "week_count": 40,
+        "v2_confidence": 0.938,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.905,
+        "perch_confidence": 0.8648,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Barn Swallow",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Common Raven",
+        "he_name": "\u05e2\u05d5\u05e8\u05d1 \u05e9\u05d7\u05d5\u05e8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Corvus_corax_ad_berlin_090516.jpg/1280px-Corvus_corax_ad_berlin_090516.jpg",
+        "audio": "audio/corvus_corax.mp3",
+        "last_seen": "2026-08-22T17:19:50",
+        "week_count": 1,
+        "v2_confidence": 0.8839,
+        "badges": [],
+        "v3_confidence": 0.6548,
+        "perch_confidence": 0.4183,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Northern Raven",
+            "agrees": true
+        }
+    },
+    {
         "name": "Eurasian Jackdaw",
         "he_name": "\u05e7\u05d0\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nordic_jackdaw_%2852563242448%29.jpg/1280px-Nordic_jackdaw_%2852563242448%29.jpg",
@@ -19,29 +106,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Western Jackdaw",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-08-22T16:54:15",
-        "week_count": 359,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
             "agrees": true
         }
     },
@@ -69,29 +133,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Spur-winged Lapwing",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Barn Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
-        "audio": "audio/hirundo_rustica.mp3",
-        "last_seen": "2026-08-22T16:18:18",
-        "week_count": 39,
-        "v2_confidence": 0.938,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.905,
-        "perch_confidence": 0.8648,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Barn Swallow",
             "agrees": true
         }
     },
@@ -216,29 +257,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Eurasian Scops Owl",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Laughing Dove",
-        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-        "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-08-22T12:34:45",
-        "week_count": 696,
-        "v2_confidence": 0.9984,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.924,
-        "perch_confidence": 0.5157,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Laughing Dove",
             "agrees": true
         }
     },
@@ -1644,24 +1662,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "European Greenfinch",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Common Raven",
-        "he_name": "\u05e2\u05d5\u05e8\u05d1 \u05e9\u05d7\u05d5\u05e8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Corvus_corax_ad_berlin_090516.jpg/1280px-Corvus_corax_ad_berlin_090516.jpg",
-        "audio": "audio/corvus_corax.mp3",
-        "last_seen": "2026-08-08T08:14:35",
-        "week_count": 0,
-        "v2_confidence": 0.8839,
-        "badges": [],
-        "v3_confidence": 0.6548,
-        "perch_confidence": 0.4183,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Northern Raven",
             "agrees": true
         }
     },
