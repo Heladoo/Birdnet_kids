@@ -4,8 +4,8 @@
         "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
         "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-08-24T05:53:10",
-        "week_count": 189,
+        "last_seen": "2026-08-24T06:44:21",
+        "week_count": 190,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -15,6 +15,49 @@
         ],
         "v3_confidence": 0.344,
         "perch_confidence": 0.7221,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
+        "name": "Laughing Dove",
+        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+        "audio": "audio/streptopelia_senegalensis.mp3",
+        "last_seen": "2026-08-24T06:34:08",
+        "week_count": 566,
+        "v2_confidence": 0.9984,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.924,
+        "perch_confidence": 0.5157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Common Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg/3840px-Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg",
+        "audio": "audio/pycnonotus_barbatus.mp3",
+        "last_seen": "2026-08-24T06:00:36",
+        "week_count": 6,
+        "v2_confidence": 0.9158,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.5559,
+        "perch_confidence": 0.3777,
         "v3_agrees": false,
         "perch_agrees": true,
         "second_opinion": null
@@ -174,29 +217,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Rose-ringed Parakeet",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Laughing Dove",
-        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-        "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-08-23T18:01:54",
-        "week_count": 559,
-        "v2_confidence": 0.9984,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.924,
-        "perch_confidence": 0.5157,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Laughing Dove",
             "agrees": true
         }
     },
@@ -669,26 +689,6 @@
         "v3_confidence": 0.6947,
         "perch_confidence": 0.4578,
         "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": null
-    },
-    {
-        "name": "Common Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg/3840px-Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg",
-        "audio": "audio/pycnonotus_barbatus.mp3",
-        "last_seen": "2026-08-21T19:17:54",
-        "week_count": 5,
-        "v2_confidence": 0.9158,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.5559,
-        "perch_confidence": 0.3777,
-        "v3_agrees": false,
         "perch_agrees": true,
         "second_opinion": null
     },
