@@ -4,8 +4,8 @@
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-08-25T04:31:26",
-        "week_count": 488,
+        "last_seen": "2026-08-25T05:59:49",
+        "week_count": 501,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -25,6 +25,26 @@
             "com": "Spur-winged Lapwing",
             "agrees": true
         }
+    },
+    {
+        "name": "Water Rail",
+        "he_name": "\u05e8\u05dc\u05d9\u05ea \u05d4\u05de\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Water_rail_2022_04_30_01.jpg/1280px-Water_rail_2022_04_30_01.jpg",
+        "audio": "audio/rallus_aquaticus.mp3",
+        "last_seen": "2026-08-25T05:14:58",
+        "week_count": 1,
+        "v2_confidence": 0.9612,
+        "badges": [
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.2924,
+        "perch_confidence": 0.3527,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Eurasian Thick-knee",
@@ -2320,26 +2340,6 @@
             "com": "Long-eared Owl",
             "agrees": true
         }
-    },
-    {
-        "name": "Water Rail",
-        "he_name": "\u05e8\u05dc\u05d9\u05ea \u05d4\u05de\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Water_rail_2022_04_30_01.jpg/1280px-Water_rail_2022_04_30_01.jpg",
-        "audio": "audio/rallus_aquaticus.mp3",
-        "last_seen": "2026-07-12T01:26:56",
-        "week_count": 0,
-        "v2_confidence": 0.8394,
-        "badges": [
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.2924,
-        "perch_confidence": 0.3527,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null
     },
     {
         "name": "Great Reed Warbler",
