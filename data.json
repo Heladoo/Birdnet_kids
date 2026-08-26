@@ -1,11 +1,77 @@
 [
     {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-08-26T13:57:45",
+        "week_count": 523,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Laughing Dove",
+        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+        "audio": "audio/streptopelia_senegalensis.mp3",
+        "last_seen": "2026-08-26T13:52:28",
+        "week_count": 437,
+        "v2_confidence": 0.9984,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.924,
+        "perch_confidence": 0.5157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Red-rumped Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
+        "audio": "audio/cecropis_daurica.mp3",
+        "last_seen": "2026-08-26T13:40:58",
+        "week_count": 168,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.344,
+        "perch_confidence": 0.7221,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
         "name": "Graceful Prinia",
         "he_name": "\u05e4\u05e9\u05d5\u05e9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-08-26T12:54:13",
-        "week_count": 337,
+        "last_seen": "2026-08-26T13:07:49",
+        "week_count": 342,
         "v2_confidence": 0.9958,
         "badges": [
             {
@@ -39,29 +105,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Western Jackdaw",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Laughing Dove",
-        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-        "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-08-26T11:48:01",
-        "week_count": 415,
-        "v2_confidence": 0.9984,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.924,
-        "perch_confidence": 0.5157,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Laughing Dove",
             "agrees": true
         }
     },
@@ -160,29 +203,6 @@
         "second_opinion": null
     },
     {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-08-26T09:36:05",
-        "week_count": 522,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        }
-    },
-    {
         "name": "European Pied Flycatcher",
         "he_name": "\u05d7\u05d8\u05e4\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05e2\u05d5\u05e8\u05e3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg",
@@ -223,26 +243,6 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
-        "name": "Red-rumped Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
-        "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-08-26T08:55:35",
-        "week_count": 166,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.344,
-        "perch_confidence": 0.7221,
-        "v3_agrees": false,
-        "perch_agrees": true,
         "second_opinion": null
     },
     {
