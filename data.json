@@ -1,11 +1,55 @@
 [
     {
+        "name": "Merlin",
+        "he_name": "\u05d1\u05d6 \u05d2\u05de\u05d3\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Merlin_in_Prospect_Park_%2863386%29.jpg/1280px-Merlin_in_Prospect_Park_%2863386%29.jpg",
+        "audio": "audio/falco_columbarius.mp3",
+        "last_seen": "2026-08-26T06:50:40",
+        "week_count": 4,
+        "v2_confidence": 0.9866,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.6947,
+        "perch_confidence": 0.4578,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
+        "name": "Red-vented Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+        "audio": "audio/pycnonotus_cafer.mp3",
+        "last_seen": "2026-08-26T06:45:05",
+        "week_count": 3,
+        "v2_confidence": 0.8306,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9549,
+        "perch_confidence": 0.0209,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-08-26T04:35:03",
-        "week_count": 579,
+        "last_seen": "2026-08-26T06:17:33",
+        "week_count": 582,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -211,26 +255,6 @@
             "com": "Barn Swallow",
             "agrees": true
         }
-    },
-    {
-        "name": "Red-vented Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
-        "audio": "audio/pycnonotus_cafer.mp3",
-        "last_seen": "2026-08-25T17:33:06",
-        "week_count": 2,
-        "v2_confidence": 0.8252,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9549,
-        "perch_confidence": 0.0209,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null
     },
     {
         "name": "Eurasian Collared-Dove",
@@ -934,30 +958,6 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
-        "name": "Merlin",
-        "he_name": "\u05d1\u05d6 \u05d2\u05de\u05d3\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Merlin_in_Prospect_Park_%2863386%29.jpg/1280px-Merlin_in_Prospect_Park_%2863386%29.jpg",
-        "audio": "audio/falco_columbarius.mp3",
-        "last_seen": "2026-08-22T09:14:54",
-        "week_count": 3,
-        "v2_confidence": 0.9866,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.6947,
-        "perch_confidence": 0.4578,
-        "v3_agrees": true,
-        "perch_agrees": true,
         "second_opinion": null
     },
     {
