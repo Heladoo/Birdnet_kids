@@ -1,11 +1,57 @@
 [
     {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-08-27T07:56:31",
+        "week_count": 490,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Common House-Martin",
+        "he_name": "\u05d8\u05e1\u05d9\u05ea \u05d1\u05ea\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
+        "audio": "audio/delichon_urbicum.mp3",
+        "last_seen": "2026-08-27T07:52:31",
+        "week_count": 3,
+        "v2_confidence": 0.9666,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0374,
+        "perch_confidence": 0.0249,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": false
+        }
+    },
+    {
         "name": "Red-rumped Swallow",
         "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
         "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-08-27T06:58:16",
-        "week_count": 171,
+        "last_seen": "2026-08-27T07:51:44",
+        "week_count": 172,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -20,12 +66,35 @@
         "second_opinion": null
     },
     {
+        "name": "Bank Swallow",
+        "he_name": "\u05db\u05d5\u05db\u05d9\u05ea \u05d2\u05d3\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/riparia_riparia.mp3",
+        "last_seen": "2026-08-27T07:43:48",
+        "week_count": 5,
+        "v2_confidence": 0.9405,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0011,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": false
+        }
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-08-27T06:55:05",
-        "week_count": 641,
+        "last_seen": "2026-08-27T07:08:48",
+        "week_count": 643,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -47,12 +116,32 @@
         }
     },
     {
+        "name": "Red-vented Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+        "audio": "audio/pycnonotus_cafer.mp3",
+        "last_seen": "2026-08-27T07:06:20",
+        "week_count": 8,
+        "v2_confidence": 0.8757,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9549,
+        "perch_confidence": 0.0209,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
         "name": "Common Myna",
         "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg",
         "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-08-27T06:48:08",
-        "week_count": 46,
+        "last_seen": "2026-08-27T07:00:08",
+        "week_count": 47,
         "v2_confidence": 0.9867,
         "badges": [
             {
@@ -244,26 +333,6 @@
         }
     },
     {
-        "name": "Red-vented Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
-        "audio": "audio/pycnonotus_cafer.mp3",
-        "last_seen": "2026-08-26T19:00:04",
-        "week_count": 7,
-        "v2_confidence": 0.8757,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9549,
-        "perch_confidence": 0.0209,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
         "name": "Spotted Crake",
         "he_name": "\u05d1\u05e8\u05d5\u05d3\u05d9\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4 \u05de\u05e0\u05d5\u05e7\u05d3\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Spotted_crake_%28Porzana_porzana%29_%286830876880%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -283,29 +352,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Spotted Crake",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-08-26T18:43:32",
-        "week_count": 477,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
             "agrees": true
         }
     },
@@ -728,29 +774,6 @@
         "second_opinion": null
     },
     {
-        "name": "Bank Swallow",
-        "he_name": "\u05db\u05d5\u05db\u05d9\u05ea \u05d2\u05d3\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/riparia_riparia.mp3",
-        "last_seen": "2026-08-25T08:58:24",
-        "week_count": 4,
-        "v2_confidence": 0.9405,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0011,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": false
-        }
-    },
-    {
         "name": "Common Sandpiper",
         "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05dc\u05d1\u05e0\u05ea-\u05d1\u05d8\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Actitis_hypoleucos_-_Laem_Pak_Bia.jpg/1280px-Actitis_hypoleucos_-_Laem_Pak_Bia.jpg",
@@ -951,29 +974,6 @@
         "second_opinion": {
             "com": "Black-crowned Night Heron",
             "agrees": true
-        }
-    },
-    {
-        "name": "Common House-Martin",
-        "he_name": "\u05d8\u05e1\u05d9\u05ea \u05d1\u05ea\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
-        "audio": "audio/delichon_urbicum.mp3",
-        "last_seen": "2026-08-23T12:48:43",
-        "week_count": 2,
-        "v2_confidence": 0.9666,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0374,
-        "perch_confidence": 0.0249,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": {
-            "com": "Laughing Dove",
-            "agrees": false
         }
     },
     {
