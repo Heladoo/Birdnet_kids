@@ -4,8 +4,8 @@
         "he_name": "\u05e4\u05e9\u05d5\u05e9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-08-27T09:56:08",
-        "week_count": 287,
+        "last_seen": "2026-08-27T10:59:44",
+        "week_count": 324,
         "v2_confidence": 0.9958,
         "badges": [
             {
@@ -24,8 +24,8 @@
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-08-27T09:47:48",
-        "week_count": 535,
+        "last_seen": "2026-08-27T10:17:55",
+        "week_count": 538,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -39,6 +39,79 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Rose-ringed Parakeet",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Laughing Dove",
+        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+        "audio": "audio/streptopelia_senegalensis.mp3",
+        "last_seen": "2026-08-27T10:17:25",
+        "week_count": 525,
+        "v2_confidence": 0.9984,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.924,
+        "perch_confidence": 0.5157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Eurasian Kestrel",
+        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
+        "audio": "audio/falco_tinnunculus.mp3",
+        "last_seen": "2026-08-27T10:10:59",
+        "week_count": 18,
+        "v2_confidence": 0.9644,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.4129,
+        "perch_confidence": 0.4165,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Kestrel",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Spotted Crake",
+        "he_name": "\u05d1\u05e8\u05d5\u05d3\u05d9\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4 \u05de\u05e0\u05d5\u05e7\u05d3\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Spotted_crake_%28Porzana_porzana%29_%286830876880%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/porzana_porzana.mp3",
+        "last_seen": "2026-08-27T10:08:29",
+        "week_count": 3,
+        "v2_confidence": 0.9416,
+        "badges": [
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.3218,
+        "perch_confidence": 0.2157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spotted Crake",
             "agrees": true
         }
     },
@@ -81,29 +154,6 @@
         "v3_agrees": false,
         "perch_agrees": false,
         "second_opinion": null
-    },
-    {
-        "name": "Laughing Dove",
-        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-        "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-08-27T08:16:46",
-        "week_count": 519,
-        "v2_confidence": 0.9984,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.924,
-        "perch_confidence": 0.5157,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Laughing Dove",
-            "agrees": true
-        }
     },
     {
         "name": "Common House-Martin",
@@ -373,29 +423,6 @@
         }
     },
     {
-        "name": "Spotted Crake",
-        "he_name": "\u05d1\u05e8\u05d5\u05d3\u05d9\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4 \u05de\u05e0\u05d5\u05e7\u05d3\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Spotted_crake_%28Porzana_porzana%29_%286830876880%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/porzana_porzana.mp3",
-        "last_seen": "2026-08-26T18:54:39",
-        "week_count": 2,
-        "v2_confidence": 0.9416,
-        "badges": [
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.3218,
-        "perch_confidence": 0.2157,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spotted Crake",
-            "agrees": true
-        }
-    },
-    {
         "name": "Crested Lark",
         "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
@@ -526,33 +553,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Western Jackdaw",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Eurasian Kestrel",
-        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
-        "audio": "audio/falco_tinnunculus.mp3",
-        "last_seen": "2026-08-26T11:36:55",
-        "week_count": 17,
-        "v2_confidence": 0.9644,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.4129,
-        "perch_confidence": 0.4165,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Kestrel",
             "agrees": true
         }
     },
