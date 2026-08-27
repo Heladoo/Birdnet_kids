@@ -1,11 +1,31 @@
 [
     {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-08-27T09:56:08",
+        "week_count": 287,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-08-27T08:59:50",
-        "week_count": 527,
+        "last_seen": "2026-08-27T09:47:48",
+        "week_count": 535,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -27,8 +47,8 @@
         "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
         "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-08-27T08:44:31",
-        "week_count": 174,
+        "last_seen": "2026-08-27T09:43:05",
+        "week_count": 176,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -40,6 +60,26 @@
         "perch_confidence": 0.7221,
         "v3_agrees": false,
         "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
+        "name": "River Warbler",
+        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/locustella_fluviatilis.mp3",
+        "last_seen": "2026-08-27T09:21:08",
+        "week_count": 14,
+        "v2_confidence": 0.995,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0012,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
         "second_opinion": null
     },
     {
@@ -463,46 +503,6 @@
         "v3_confidence": 0.7995,
         "perch_confidence": 0,
         "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-08-26T14:42:22",
-        "week_count": 243,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null
-    },
-    {
-        "name": "River Warbler",
-        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/locustella_fluviatilis.mp3",
-        "last_seen": "2026-08-26T14:33:34",
-        "week_count": 13,
-        "v2_confidence": 0.995,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0012,
-        "perch_confidence": 0,
-        "v3_agrees": false,
         "perch_agrees": false,
         "second_opinion": null
     },
