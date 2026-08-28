@@ -1,11 +1,97 @@
 [
     {
+        "name": "Red-rumped Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
+        "audio": "audio/cecropis_daurica.mp3",
+        "last_seen": "2026-08-28T11:53:19",
+        "week_count": 178,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.344,
+        "perch_confidence": 0.7221,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
+        "name": "Eurasian Collared-Dove",
+        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+        "audio": "audio/streptopelia_decaocto.mp3",
+        "last_seen": "2026-08-28T11:48:24",
+        "week_count": 82,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.96,
+        "perch_confidence": 0.8294,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Collared Dove",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Laughing Dove",
+        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+        "audio": "audio/streptopelia_senegalensis.mp3",
+        "last_seen": "2026-08-28T11:38:24",
+        "week_count": 507,
+        "v2_confidence": 0.9984,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.924,
+        "perch_confidence": 0.5157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-08-28T11:23:02",
+        "week_count": 577,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-08-28T10:55:48",
-        "week_count": 490,
+        "last_seen": "2026-08-28T11:22:28",
+        "week_count": 492,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -23,24 +109,27 @@
         }
     },
     {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-08-28T10:44:01",
-        "week_count": 571,
-        "v2_confidence": 0.9958,
+        "name": "Barn Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
+        "audio": "audio/hirundo_rustica.mp3",
+        "last_seen": "2026-08-28T11:09:07",
+        "week_count": 23,
+        "v2_confidence": 0.938,
         "badges": [
             {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
+        "v3_confidence": 0.905,
+        "perch_confidence": 0.8648,
+        "v3_agrees": true,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": {
+            "com": "Barn Swallow",
+            "agrees": true
+        }
     },
     {
         "name": "Eurasian Kestrel",
@@ -70,29 +159,6 @@
         }
     },
     {
-        "name": "Laughing Dove",
-        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-        "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-08-28T10:18:09",
-        "week_count": 501,
-        "v2_confidence": 0.9984,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.924,
-        "perch_confidence": 0.5157,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Laughing Dove",
-            "agrees": true
-        }
-    },
-    {
         "name": "Spotted Crake",
         "he_name": "\u05d1\u05e8\u05d5\u05d3\u05d9\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4 \u05de\u05e0\u05d5\u05e7\u05d3\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Spotted_crake_%28Porzana_porzana%29_%286830876880%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -114,26 +180,6 @@
             "com": "Spotted Crake",
             "agrees": true
         }
-    },
-    {
-        "name": "Red-rumped Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
-        "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-08-28T10:11:29",
-        "week_count": 177,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.344,
-        "perch_confidence": 0.7221,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null
     },
     {
         "name": "River Warbler",
@@ -329,52 +375,6 @@
         "v3_agrees": false,
         "perch_agrees": true,
         "second_opinion": null
-    },
-    {
-        "name": "Eurasian Collared-Dove",
-        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-        "audio": "audio/streptopelia_decaocto.mp3",
-        "last_seen": "2026-08-27T18:11:26",
-        "week_count": 77,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.96,
-        "perch_confidence": 0.8294,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Collared Dove",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Barn Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
-        "audio": "audio/hirundo_rustica.mp3",
-        "last_seen": "2026-08-27T18:03:22",
-        "week_count": 22,
-        "v2_confidence": 0.938,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.905,
-        "perch_confidence": 0.8648,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Barn Swallow",
-            "agrees": true
-        }
     },
     {
         "name": "Eurasian Jackdaw",
