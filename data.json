@@ -1,11 +1,49 @@
 [
     {
+        "name": "European Serin",
+        "he_name": "\u05d1\u05d6\u05d1\u05d5\u05d6 \u05d0\u05d9\u05e8\u05d5\u05e4\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/European_serin_%28Serinus_serinus%29_male.jpg/1280px-European_serin_%28Serinus_serinus%29_male.jpg",
+        "audio": "audio/serinus_serinus.mp3",
+        "last_seen": "2026-08-28T07:56:53",
+        "week_count": 2,
+        "v2_confidence": 0.9099,
+        "badges": [],
+        "v3_confidence": 0.7995,
+        "perch_confidence": 0,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-08-28T07:48:55",
+        "week_count": 450,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        }
+    },
+    {
         "name": "Red-rumped Swallow",
         "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
         "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-08-28T06:24:05",
-        "week_count": 175,
+        "last_seen": "2026-08-28T07:42:16",
+        "week_count": 176,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -18,6 +56,29 @@
         "v3_agrees": false,
         "perch_agrees": true,
         "second_opinion": null
+    },
+    {
+        "name": "Great Tit",
+        "he_name": "\u05d9\u05e8\u05d2\u05d6\u05d9 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg/3840px-Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
+        "audio": "audio/parus_major.mp3",
+        "last_seen": "2026-08-28T07:33:23",
+        "week_count": 1,
+        "v2_confidence": 0.875,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.3506,
+        "perch_confidence": 0.6353,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Great Tit",
+            "agrees": true
+        }
     },
     {
         "name": "Eurasian Kestrel",
@@ -139,29 +200,6 @@
         "v3_agrees": true,
         "perch_agrees": true,
         "second_opinion": null
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-08-27T18:41:02",
-        "week_count": 446,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        }
     },
     {
         "name": "Common Bulbul",
@@ -653,21 +691,6 @@
         }
     },
     {
-        "name": "European Serin",
-        "he_name": "\u05d1\u05d6\u05d1\u05d5\u05d6 \u05d0\u05d9\u05e8\u05d5\u05e4\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/European_serin_%28Serinus_serinus%29_male.jpg/1280px-European_serin_%28Serinus_serinus%29_male.jpg",
-        "audio": "audio/serinus_serinus.mp3",
-        "last_seen": "2026-08-26T14:49:45",
-        "week_count": 1,
-        "v2_confidence": 0.9099,
-        "badges": [],
-        "v3_confidence": 0.7995,
-        "perch_confidence": 0,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
         "name": "Whiskered Tern",
         "he_name": null,
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Whiskered_tern_%28Chlidonias_hybrida_delalandii%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -1157,29 +1180,6 @@
         "v3_agrees": false,
         "perch_agrees": false,
         "second_opinion": null
-    },
-    {
-        "name": "Great Tit",
-        "he_name": "\u05d9\u05e8\u05d2\u05d6\u05d9 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg/3840px-Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
-        "audio": "audio/parus_major.mp3",
-        "last_seen": "2026-08-21T08:45:49",
-        "week_count": 0,
-        "v2_confidence": 0.875,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.3506,
-        "perch_confidence": 0.6353,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Great Tit",
-            "agrees": true
-        }
     },
     {
         "name": "Rosy Starling",
