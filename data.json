@@ -4,8 +4,8 @@
         "he_name": "\u05e4\u05e9\u05d5\u05e9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-09-01T09:58:26",
-        "week_count": 851,
+        "last_seen": "2026-09-01T10:59:22",
+        "week_count": 852,
         "v2_confidence": 0.9958,
         "badges": [
             {
@@ -24,8 +24,8 @@
         "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
         "audio": "audio/streptopelia_decaocto.mp3",
-        "last_seen": "2026-09-01T09:55:41",
-        "week_count": 54,
+        "last_seen": "2026-09-01T10:58:50",
+        "week_count": 55,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -39,6 +39,76 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Eurasian Collared Dove",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Red-rumped Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/cecropis_daurica.mp3",
+        "last_seen": "2026-09-01T10:46:41",
+        "week_count": 112,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.344,
+        "perch_confidence": 0.7221,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
+        "name": "Eurasian Kestrel",
+        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
+        "audio": "audio/falco_tinnunculus.mp3",
+        "last_seen": "2026-09-01T10:41:50",
+        "week_count": 17,
+        "v2_confidence": 0.988,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.4129,
+        "perch_confidence": 0.4165,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Kestrel",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Eurasian Jay",
+        "he_name": "\u05e2\u05d5\u05e8\u05d1\u05e0\u05d9 \u05e9\u05d7\u05d5\u05e8-\u05db\u05d9\u05e4\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg/1280px-Garrulus_glandarius_1_Luc_Viatour.jpg",
+        "audio": "audio/garrulus_glandarius.mp3",
+        "last_seen": "2026-09-01T10:10:20",
+        "week_count": 2,
+        "v2_confidence": 0.9826,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9605,
+        "perch_confidence": 0.943,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Jay",
             "agrees": true
         }
     },
@@ -183,26 +253,6 @@
             "com": "Spur-winged Lapwing",
             "agrees": true
         }
-    },
-    {
-        "name": "Red-rumped Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-09-01T08:02:52",
-        "week_count": 111,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.344,
-        "perch_confidence": 0.7221,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null
     },
     {
         "name": "Bank Swallow",
@@ -488,33 +538,6 @@
         "v3_agrees": true,
         "perch_agrees": false,
         "second_opinion": null
-    },
-    {
-        "name": "Eurasian Kestrel",
-        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
-        "audio": "audio/falco_tinnunculus.mp3",
-        "last_seen": "2026-08-31T01:38:49",
-        "week_count": 14,
-        "v2_confidence": 0.9644,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.4129,
-        "perch_confidence": 0.4165,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Kestrel",
-            "agrees": true
-        }
     },
     {
         "name": "Black-crowned Night-Heron",
@@ -1076,29 +1099,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Spotted Crake",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Eurasian Jay",
-        "he_name": "\u05e2\u05d5\u05e8\u05d1\u05e0\u05d9 \u05e9\u05d7\u05d5\u05e8-\u05db\u05d9\u05e4\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg/1280px-Garrulus_glandarius_1_Luc_Viatour.jpg",
-        "audio": "audio/garrulus_glandarius.mp3",
-        "last_seen": "2026-08-28T09:00:10",
-        "week_count": 1,
-        "v2_confidence": 0.9826,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9605,
-        "perch_confidence": 0.943,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Jay",
             "agrees": true
         }
     },
