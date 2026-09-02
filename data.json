@@ -1,11 +1,31 @@
 [
     {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-09-02T14:47:46",
+        "week_count": 856,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
         "name": "Red-rumped Swallow",
         "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-09-02T13:04:21",
-        "week_count": 107,
+        "last_seen": "2026-09-02T14:36:16",
+        "week_count": 109,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -20,24 +40,31 @@
         "second_opinion": null
     },
     {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-09-02T12:56:55",
-        "week_count": 848,
-        "v2_confidence": 0.9958,
+        "name": "Wood Sandpiper",
+        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05de\u05e0\u05d5\u05de\u05e8\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wood_Sandpiper_Safari_Park.jpg/1280px-Wood_Sandpiper_Safari_Park.jpg",
+        "audio": "audio/tringa_glareola.mp3",
+        "last_seen": "2026-09-02T14:10:16",
+        "week_count": 3,
+        "v2_confidence": 0.9596,
         "badges": [
             {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
+        "v3_confidence": 0.9375,
+        "perch_confidence": 0.3965,
+        "v3_agrees": true,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": {
+            "com": "Wood Sandpiper",
+            "agrees": true
+        }
     },
     {
         "name": "River Warbler",
@@ -813,33 +840,6 @@
         "v3_agrees": false,
         "perch_agrees": true,
         "second_opinion": null
-    },
-    {
-        "name": "Wood Sandpiper",
-        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05de\u05e0\u05d5\u05de\u05e8\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wood_Sandpiper_Safari_Park.jpg/1280px-Wood_Sandpiper_Safari_Park.jpg",
-        "audio": "audio/tringa_glareola.mp3",
-        "last_seen": "2026-08-30T17:35:29",
-        "week_count": 2,
-        "v2_confidence": 0.9596,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9375,
-        "perch_confidence": 0.3965,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Wood Sandpiper",
-            "agrees": true
-        }
     },
     {
         "name": "Green Sandpiper",
