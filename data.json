@@ -4,8 +4,8 @@
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-09-02T07:55:25",
-        "week_count": 364,
+        "last_seen": "2026-09-02T08:47:06",
+        "week_count": 380,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -21,6 +21,44 @@
             "com": "Rose-ringed Parakeet",
             "agrees": true
         }
+    },
+    {
+        "name": "Common Raven",
+        "he_name": "\u05e2\u05d5\u05e8\u05d1 \u05e9\u05d7\u05d5\u05e8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Corvus_corax_ad_berlin_090516.jpg/1280px-Corvus_corax_ad_berlin_090516.jpg",
+        "audio": "audio/corvus_corax.mp3",
+        "last_seen": "2026-09-02T08:34:40",
+        "week_count": 1,
+        "v2_confidence": 0.8839,
+        "badges": [],
+        "v3_confidence": 0.6548,
+        "perch_confidence": 0.4183,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Northern Raven",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Red-rumped Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/cecropis_daurica.mp3",
+        "last_seen": "2026-09-02T08:04:49",
+        "week_count": 104,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.344,
+        "perch_confidence": 0.7221,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
     },
     {
         "name": "Great Tit",
@@ -67,26 +105,6 @@
             "com": "Common Myna",
             "agrees": true
         }
-    },
-    {
-        "name": "Red-rumped Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-09-02T07:43:46",
-        "week_count": 103,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.344,
-        "perch_confidence": 0.7221,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null
     },
     {
         "name": "Eurasian Kestrel",
@@ -1470,24 +1488,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "European Golden Plover",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Common Raven",
-        "he_name": "\u05e2\u05d5\u05e8\u05d1 \u05e9\u05d7\u05d5\u05e8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Corvus_corax_ad_berlin_090516.jpg/1280px-Corvus_corax_ad_berlin_090516.jpg",
-        "audio": "audio/corvus_corax.mp3",
-        "last_seen": "2026-08-22T17:19:50",
-        "week_count": 0,
-        "v2_confidence": 0.8839,
-        "badges": [],
-        "v3_confidence": 0.6548,
-        "perch_confidence": 0.4183,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Northern Raven",
             "agrees": true
         }
     },
