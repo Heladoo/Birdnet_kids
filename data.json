@@ -4,8 +4,8 @@
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-09-02T21:14:06",
-        "week_count": 481,
+        "last_seen": "2026-09-03T00:49:46",
+        "week_count": 485,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -23,6 +23,33 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Spur-winged Lapwing",
+            "agrees": true
+        }
+    },
+    {
+        "name": "European Golden-Plover",
+        "he_name": "\u05d7\u05d5\u05e4\u05d6\u05d9 \u05d6\u05d4\u05d5\u05d1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg/1280px-European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg",
+        "audio": "audio/pluvialis_apricaria.mp3",
+        "last_seen": "2026-09-03T00:02:38",
+        "week_count": 1,
+        "v2_confidence": 0.9154,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.4356,
+        "perch_confidence": 0.2218,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Golden Plover",
             "agrees": true
         }
     },
@@ -1488,33 +1515,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "House Sparrow",
-            "agrees": true
-        }
-    },
-    {
-        "name": "European Golden-Plover",
-        "he_name": "\u05d7\u05d5\u05e4\u05d6\u05d9 \u05d6\u05d4\u05d5\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg/1280px-European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg",
-        "audio": "audio/pluvialis_apricaria.mp3",
-        "last_seen": "2026-08-23T00:46:06",
-        "week_count": 0,
-        "v2_confidence": 0.7983,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.4356,
-        "perch_confidence": 0.2218,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "European Golden Plover",
             "agrees": true
         }
     },
