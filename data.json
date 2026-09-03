@@ -1,11 +1,41 @@
 [
     {
+        "name": "Citrine Wagtail",
+        "he_name": null,
+        "image": null,
+        "audio": "audio/motacilla_citreola.mp3",
+        "last_seen": "2026-09-03T10:32:35",
+        "week_count": 1,
+        "v2_confidence": 0.767,
+        "badges": [],
+        "v3_confidence": null,
+        "perch_confidence": null,
+        "v3_agrees": null,
+        "perch_agrees": null,
+        "second_opinion": null
+    },
+    {
+        "name": "Western Yellow Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/motacilla_flava.mp3",
+        "last_seen": "2026-09-03T10:32:35",
+        "week_count": 3,
+        "v2_confidence": 0.8938,
+        "badges": [],
+        "v3_confidence": null,
+        "perch_confidence": null,
+        "v3_agrees": null,
+        "perch_agrees": null,
+        "second_opinion": null
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-09-03T09:40:39",
-        "week_count": 382,
+        "last_seen": "2026-09-03T10:13:15",
+        "week_count": 385,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -342,21 +372,6 @@
             "com": "Western Jackdaw",
             "agrees": true
         }
-    },
-    {
-        "name": "Western Yellow Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/motacilla_flava.mp3",
-        "last_seen": "2026-09-02T15:52:31",
-        "week_count": 2,
-        "v2_confidence": 0.8938,
-        "badges": [],
-        "v3_confidence": null,
-        "perch_confidence": null,
-        "v3_agrees": null,
-        "perch_agrees": null,
-        "second_opinion": null
     },
     {
         "name": "Graceful Prinia",
