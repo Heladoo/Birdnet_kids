@@ -1,5 +1,40 @@
 [
     {
+        "name": "Western Yellow Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/motacilla_flava.mp3",
+        "last_seen": "2026-09-05T13:42:00",
+        "week_count": 13,
+        "v2_confidence": 0.9223,
+        "badges": [],
+        "v3_confidence": null,
+        "perch_confidence": null,
+        "v3_agrees": null,
+        "perch_agrees": null,
+        "second_opinion": null
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-09-05T13:38:50",
+        "week_count": 594,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
         "name": "Eurasian Hoopoe",
         "he_name": "\u05d3\u05d5\u05db\u05d9\u05e4\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Israel._Eurasian_Hoopoe_%286497645007%29.jpg/3840px-Israel._Eurasian_Hoopoe_%286497645007%29.jpg",
@@ -21,26 +56,6 @@
             "com": "Eurasian Hoopoe",
             "agrees": true
         }
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-09-05T12:41:37",
-        "week_count": 593,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null
     },
     {
         "name": "Rose-ringed Parakeet",
@@ -299,21 +314,6 @@
             "com": "Common Kestrel",
             "agrees": true
         }
-    },
-    {
-        "name": "Western Yellow Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/motacilla_flava.mp3",
-        "last_seen": "2026-09-05T07:30:15",
-        "week_count": 12,
-        "v2_confidence": 0.9094,
-        "badges": [],
-        "v3_confidence": null,
-        "perch_confidence": null,
-        "v3_agrees": null,
-        "perch_agrees": null,
-        "second_opinion": null
     },
     {
         "name": "Black-winged Stilt",
