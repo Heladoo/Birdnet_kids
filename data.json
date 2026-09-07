@@ -1,11 +1,26 @@
 [
     {
+        "name": "Western Yellow Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/motacilla_flava.mp3",
+        "last_seen": "2026-09-07T12:49:56",
+        "week_count": 16,
+        "v2_confidence": 0.9541,
+        "badges": [],
+        "v3_confidence": null,
+        "perch_confidence": null,
+        "v3_agrees": null,
+        "perch_agrees": null,
+        "second_opinion": null
+    },
+    {
         "name": "Graceful Prinia",
         "he_name": "\u05e4\u05e9\u05d5\u05e9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-09-07T11:40:02",
-        "week_count": 428,
+        "last_seen": "2026-09-07T12:32:39",
+        "week_count": 432,
         "v2_confidence": 0.9958,
         "badges": [
             {
@@ -17,6 +32,26 @@
         "perch_confidence": 0.2728,
         "v3_agrees": false,
         "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
+        "name": "Delicate Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9 \u05de\u05d6\u05e8\u05d7\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Prinia_gracilis_-_Graceful_prinia%2C_Adana_2016_10_28_-_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/prinia_lepida.mp3",
+        "last_seen": "2026-09-07T12:32:37",
+        "week_count": 1,
+        "v2_confidence": 0.78,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.278,
+        "perch_confidence": 0.0288,
+        "v3_agrees": true,
+        "perch_agrees": false,
         "second_opinion": null
     },
     {
@@ -417,21 +452,6 @@
             "com": "Eurasian Wryneck",
             "agrees": true
         }
-    },
-    {
-        "name": "Western Yellow Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/motacilla_flava.mp3",
-        "last_seen": "2026-09-06T17:23:01",
-        "week_count": 14,
-        "v2_confidence": 0.9223,
-        "badges": [],
-        "v3_confidence": null,
-        "perch_confidence": null,
-        "v3_agrees": null,
-        "perch_agrees": null,
-        "second_opinion": null
     },
     {
         "name": "Wood Sandpiper",
@@ -1832,26 +1852,6 @@
         "v3_confidence": 0.1031,
         "perch_confidence": 0.0656,
         "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
-        "name": "Delicate Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9 \u05de\u05d6\u05e8\u05d7\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Prinia_gracilis_-_Graceful_prinia%2C_Adana_2016_10_28_-_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/prinia_lepida.mp3",
-        "last_seen": "2026-08-15T13:38:08",
-        "week_count": 0,
-        "v2_confidence": 0.73,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.278,
-        "perch_confidence": 0.0288,
-        "v3_agrees": true,
         "perch_agrees": false,
         "second_opinion": null
     },
