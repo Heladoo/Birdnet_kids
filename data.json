@@ -1,11 +1,141 @@
 [
     {
+        "name": "Great Tit",
+        "he_name": "\u05d9\u05e8\u05d2\u05d6\u05d9 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg/3840px-Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
+        "audio": "audio/parus_major.mp3",
+        "last_seen": "2026-09-07T14:58:39",
+        "week_count": 3,
+        "v2_confidence": 0.875,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.3506,
+        "perch_confidence": 0.6353,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Great Tit",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-09-07T14:54:35",
+        "week_count": 436,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Eurasian Jackdaw",
+        "he_name": "\u05e7\u05d0\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nordic_jackdaw_%2852563242448%29.jpg/1280px-Nordic_jackdaw_%2852563242448%29.jpg",
+        "audio": "audio/corvus_monedula.mp3",
+        "last_seen": "2026-09-07T14:47:39",
+        "week_count": 18,
+        "v2_confidence": 0.99,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9233,
+        "perch_confidence": 0.6594,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Western Jackdaw",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Red-billed Chough",
+        "he_name": "\u05d6\u05d2 \u05d0\u05d3\u05d5\u05dd-\u05de\u05e7\u05d5\u05e8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bran_goesgoch_Pyrrhocorax_pyrrhocorax.jpg/1280px-Bran_goesgoch_Pyrrhocorax_pyrrhocorax.jpg",
+        "audio": "audio/pyrrhocorax_pyrrhocorax.mp3",
+        "last_seen": "2026-09-07T14:46:58",
+        "week_count": 1,
+        "v2_confidence": 0.9573,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.3511,
+        "perch_confidence": 0.1419,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Western Jackdaw",
+            "agrees": false
+        }
+    },
+    {
+        "name": "Western Yellow Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/motacilla_flava.mp3",
+        "last_seen": "2026-09-07T14:46:13",
+        "week_count": 20,
+        "v2_confidence": 0.9541,
+        "badges": [],
+        "v3_confidence": null,
+        "perch_confidence": null,
+        "v3_agrees": null,
+        "perch_agrees": null,
+        "second_opinion": null
+    },
+    {
+        "name": "Barn Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
+        "audio": "audio/hirundo_rustica.mp3",
+        "last_seen": "2026-09-07T14:38:37",
+        "week_count": 22,
+        "v2_confidence": 0.968,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.905,
+        "perch_confidence": 0.8648,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Barn Swallow",
+            "agrees": true
+        }
+    },
+    {
         "name": "Laughing Dove",
         "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
         "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-09-07T13:59:39",
-        "week_count": 213,
+        "last_seen": "2026-09-07T14:26:15",
+        "week_count": 218,
         "v2_confidence": 0.9984,
         "badges": [
             {
@@ -70,21 +200,6 @@
         "second_opinion": null
     },
     {
-        "name": "Western Yellow Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/motacilla_flava.mp3",
-        "last_seen": "2026-09-07T13:15:00",
-        "week_count": 17,
-        "v2_confidence": 0.9541,
-        "badges": [],
-        "v3_confidence": null,
-        "perch_confidence": null,
-        "v3_agrees": null,
-        "perch_agrees": null,
-        "second_opinion": null
-    },
-    {
         "name": "Graceful Prinia",
         "he_name": "\u05e4\u05e9\u05d5\u05e9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -123,29 +238,6 @@
         "v3_agrees": true,
         "perch_agrees": false,
         "second_opinion": null
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-09-07T10:45:37",
-        "week_count": 435,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        }
     },
     {
         "name": "Red-rumped Swallow",
@@ -629,29 +721,6 @@
         }
     },
     {
-        "name": "Barn Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
-        "audio": "audio/hirundo_rustica.mp3",
-        "last_seen": "2026-09-06T12:05:58",
-        "week_count": 21,
-        "v2_confidence": 0.968,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.905,
-        "perch_confidence": 0.8648,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Barn Swallow",
-            "agrees": true
-        }
-    },
-    {
         "name": "European Pied Flycatcher",
         "he_name": "\u05d7\u05d8\u05e4\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05e2\u05d5\u05e8\u05e3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg",
@@ -847,29 +916,6 @@
         "second_opinion": {
             "com": "Laughing Dove",
             "agrees": false
-        }
-    },
-    {
-        "name": "Eurasian Jackdaw",
-        "he_name": "\u05e7\u05d0\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nordic_jackdaw_%2852563242448%29.jpg/1280px-Nordic_jackdaw_%2852563242448%29.jpg",
-        "audio": "audio/corvus_monedula.mp3",
-        "last_seen": "2026-09-05T15:55:41",
-        "week_count": 15,
-        "v2_confidence": 0.99,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9233,
-        "perch_confidence": 0.6594,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Western Jackdaw",
-            "agrees": true
         }
     },
     {
@@ -1246,29 +1292,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Northern Raven",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Great Tit",
-        "he_name": "\u05d9\u05e8\u05d2\u05d6\u05d9 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg/3840px-Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
-        "audio": "audio/parus_major.mp3",
-        "last_seen": "2026-09-02T07:54:38",
-        "week_count": 2,
-        "v2_confidence": 0.875,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.3506,
-        "perch_confidence": 0.6353,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Great Tit",
             "agrees": true
         }
     },
@@ -2703,29 +2726,6 @@
         "v3_agrees": false,
         "perch_agrees": false,
         "second_opinion": null
-    },
-    {
-        "name": "Red-billed Chough",
-        "he_name": "\u05d6\u05d2 \u05d0\u05d3\u05d5\u05dd-\u05de\u05e7\u05d5\u05e8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bran_goesgoch_Pyrrhocorax_pyrrhocorax.jpg/1280px-Bran_goesgoch_Pyrrhocorax_pyrrhocorax.jpg",
-        "audio": "audio/pyrrhocorax_pyrrhocorax.mp3",
-        "last_seen": "2026-06-22T10:13:50",
-        "week_count": 0,
-        "v2_confidence": 0.9573,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.3511,
-        "perch_confidence": 0.1419,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": {
-            "com": "Western Jackdaw",
-            "agrees": false
-        }
     },
     {
         "name": "Eurasian Blackbird",
