@@ -1,5 +1,75 @@
 [
     {
+        "name": "Citrine Wagtail",
+        "he_name": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Citrine_Wagtail_%28Motacilla_citreola%29_%2814343964296%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/motacilla_citreola.mp3",
+        "last_seen": "2026-09-09T13:57:32",
+        "week_count": 6,
+        "v2_confidence": 0.8689,
+        "badges": [],
+        "v3_confidence": null,
+        "perch_confidence": null,
+        "v3_agrees": null,
+        "perch_agrees": null,
+        "second_opinion": null
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-09-09T13:50:00",
+        "week_count": 297,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
+        "name": "Reed Bunting",
+        "he_name": "\u05d2\u05d9\u05d1\u05ea\u05d5\u05df \u05e1\u05d5\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Reed_Bunting_-_Emberiza_schoeniclus_%2852015951301%29.jpg/1280px-Reed_Bunting_-_Emberiza_schoeniclus_%2852015951301%29.jpg",
+        "audio": "audio/emberiza_schoeniclus.mp3",
+        "last_seen": "2026-09-09T13:32:09",
+        "week_count": 1,
+        "v2_confidence": 0.8106,
+        "badges": [],
+        "v3_confidence": 0.6842,
+        "perch_confidence": 0.026,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
+        "name": "Red-rumped Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/cecropis_daurica.mp3",
+        "last_seen": "2026-09-09T13:19:13",
+        "week_count": 179,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.344,
+        "perch_confidence": 0.7221,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
         "name": "Eurasian Hoopoe",
         "he_name": "\u05d3\u05d5\u05db\u05d9\u05e4\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Israel._Eurasian_Hoopoe_%286497645007%29.jpg/3840px-Israel._Eurasian_Hoopoe_%286497645007%29.jpg",
@@ -151,46 +221,6 @@
         }
     },
     {
-        "name": "Red-rumped Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-09-09T11:02:47",
-        "week_count": 175,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.344,
-        "perch_confidence": 0.7221,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-09-09T10:36:39",
-        "week_count": 289,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null
-    },
-    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
@@ -235,21 +265,6 @@
             "com": "Common Myna",
             "agrees": true
         }
-    },
-    {
-        "name": "Citrine Wagtail",
-        "he_name": null,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Citrine_Wagtail_%28Motacilla_citreola%29_%2814343964296%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/motacilla_citreola.mp3",
-        "last_seen": "2026-09-09T08:50:54",
-        "week_count": 5,
-        "v2_confidence": 0.8185,
-        "badges": [],
-        "v3_confidence": null,
-        "perch_confidence": null,
-        "v3_agrees": null,
-        "perch_agrees": null,
-        "second_opinion": null
     },
     {
         "name": "Western Yellow Wagtail",
@@ -2087,21 +2102,6 @@
             "com": "Eastern Red-rumped Swallow",
             "agrees": false
         }
-    },
-    {
-        "name": "Reed Bunting",
-        "he_name": "\u05d2\u05d9\u05d1\u05ea\u05d5\u05df \u05e1\u05d5\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Reed_Bunting_-_Emberiza_schoeniclus_%2852015951301%29.jpg/1280px-Reed_Bunting_-_Emberiza_schoeniclus_%2852015951301%29.jpg",
-        "audio": "audio/emberiza_schoeniclus.mp3",
-        "last_seen": "2026-08-10T11:54:18",
-        "week_count": 0,
-        "v2_confidence": 0.8106,
-        "badges": [],
-        "v3_confidence": 0.6842,
-        "perch_confidence": 0.026,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null
     },
     {
         "name": "Bluethroat",
