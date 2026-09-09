@@ -1,5 +1,32 @@
 [
     {
+        "name": "Green Sandpiper",
+        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05db\u05e0\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Green_sandpiper_%28Tringa_ochropus%29.jpg/1280px-Green_sandpiper_%28Tringa_ochropus%29.jpg",
+        "audio": "audio/tringa_ochropus.mp3",
+        "last_seen": "2026-09-09T19:52:50",
+        "week_count": 3,
+        "v2_confidence": 0.9812,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.8386,
+        "perch_confidence": 0.8631,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Green Sandpiper",
+            "agrees": true
+        }
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
@@ -1278,33 +1305,6 @@
         "v3_agrees": false,
         "perch_agrees": false,
         "second_opinion": null
-    },
-    {
-        "name": "Green Sandpiper",
-        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05db\u05e0\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Green_sandpiper_%28Tringa_ochropus%29.jpg/1280px-Green_sandpiper_%28Tringa_ochropus%29.jpg",
-        "audio": "audio/tringa_ochropus.mp3",
-        "last_seen": "2026-09-05T14:16:09",
-        "week_count": 2,
-        "v2_confidence": 0.9812,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.8386,
-        "perch_confidence": 0.8631,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Green Sandpiper",
-            "agrees": true
-        }
     },
     {
         "name": "European Bee-eater",
