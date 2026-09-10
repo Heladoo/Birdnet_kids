@@ -4,8 +4,8 @@
         "he_name": "\u05e4\u05e9\u05d5\u05e9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-09-10T08:57:50",
-        "week_count": 223,
+        "last_seen": "2026-09-10T09:59:07",
+        "week_count": 240,
         "v2_confidence": 0.9958,
         "badges": [
             {
@@ -18,6 +18,71 @@
         "v3_agrees": false,
         "perch_agrees": true,
         "second_opinion": null
+    },
+    {
+        "name": "Little Grebe",
+        "he_name": "\u05d8\u05d1\u05dc\u05df \u05d2\u05de\u05d3\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Little_grebe_Zwergtaucher.jpg/1920px-Little_grebe_Zwergtaucher.jpg",
+        "audio": "audio/tachybaptus_ruficollis.mp3",
+        "last_seen": "2026-09-10T09:51:58",
+        "week_count": 1,
+        "v2_confidence": 0.9488,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.8192,
+        "perch_confidence": 0.672,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Little Grebe",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Western Yellow Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/motacilla_flava.mp3",
+        "last_seen": "2026-09-10T09:28:45",
+        "week_count": 22,
+        "v2_confidence": 0.9541,
+        "badges": [],
+        "v3_confidence": null,
+        "perch_confidence": null,
+        "v3_agrees": null,
+        "perch_agrees": null,
+        "second_opinion": null
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-09-10T09:03:13",
+        "week_count": 383,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        }
     },
     {
         "name": "Common Myna",
@@ -39,29 +104,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Common Myna",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-09-10T08:49:20",
-        "week_count": 381,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
             "agrees": true
         }
     },
@@ -189,21 +231,6 @@
         "perch_confidence": 0.036,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
-        "name": "Western Yellow Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/motacilla_flava.mp3",
-        "last_seen": "2026-09-10T08:03:24",
-        "week_count": 21,
-        "v2_confidence": 0.9541,
-        "badges": [],
-        "v3_confidence": null,
-        "perch_confidence": null,
-        "v3_agrees": null,
-        "perch_agrees": null,
         "second_opinion": null
     },
     {
@@ -2416,33 +2443,6 @@
         "v3_agrees": false,
         "perch_agrees": false,
         "second_opinion": null
-    },
-    {
-        "name": "Little Grebe",
-        "he_name": "\u05d8\u05d1\u05dc\u05df \u05d2\u05de\u05d3\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Little_grebe_Zwergtaucher.jpg/1920px-Little_grebe_Zwergtaucher.jpg",
-        "audio": "audio/tachybaptus_ruficollis.mp3",
-        "last_seen": "2026-07-20T20:04:32",
-        "week_count": 0,
-        "v2_confidence": 0.9488,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.8192,
-        "perch_confidence": 0.672,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Little Grebe",
-            "agrees": true
-        }
     },
     {
         "name": "Rock Pigeon",
