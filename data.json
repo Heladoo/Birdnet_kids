@@ -1,5 +1,96 @@
 [
     {
+        "name": "Great Bittern",
+        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05de\u05e1\u05d5\u05e8\u05d8\u05d8\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
+        "audio": "audio/botaurus_stellaris.mp3",
+        "last_seen": "2026-09-10T13:50:36",
+        "week_count": 10,
+        "v2_confidence": 0.9858,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.0007,
+        "perch_confidence": 0.0357,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
+        "name": "Eurasian Blackbird",
+        "he_name": "\u05e9\u05d7\u05e8\u05d5\u05e8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Common_Blackbird.jpg/1280px-Common_Blackbird.jpg",
+        "audio": "audio/turdus_merula.mp3",
+        "last_seen": "2026-09-10T13:46:40",
+        "week_count": 1,
+        "v2_confidence": 0.8103,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.0141,
+        "perch_confidence": 0.1539,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
+        "name": "Red-rumped Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/cecropis_daurica.mp3",
+        "last_seen": "2026-09-10T13:36:10",
+        "week_count": 183,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.344,
+        "perch_confidence": 0.7221,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-09-10T13:04:35",
+        "week_count": 325,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        }
+    },
+    {
         "name": "Eurasian Scops-Owl",
         "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
@@ -73,7 +164,7 @@
     {
         "name": "Willow Warbler",
         "he_name": null,
-        "image": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Willow_Warbler_Phylloscopus_trochilus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/phylloscopus_trochilus.mp3",
         "last_seen": "2026-09-10T12:26:49",
         "week_count": 1,
@@ -83,30 +174,6 @@
         "perch_confidence": null,
         "v3_agrees": null,
         "perch_agrees": null,
-        "second_opinion": null
-    },
-    {
-        "name": "Great Bittern",
-        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05de\u05e1\u05d5\u05e8\u05d8\u05d8\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
-        "audio": "audio/botaurus_stellaris.mp3",
-        "last_seen": "2026-09-10T12:01:02",
-        "week_count": 9,
-        "v2_confidence": 0.9858,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.0007,
-        "perch_confidence": 0.0357,
-        "v3_agrees": false,
-        "perch_agrees": false,
         "second_opinion": null
     },
     {
@@ -133,33 +200,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Little Grebe",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-09-10T11:58:37",
-        "week_count": 324,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
             "agrees": true
         }
     },
@@ -441,26 +481,6 @@
         "perch_confidence": 0.036,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
-        "name": "Red-rumped Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-09-10T07:43:39",
-        "week_count": 180,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.344,
-        "perch_confidence": 0.7221,
-        "v3_agrees": false,
-        "perch_agrees": true,
         "second_opinion": null
     },
     {
@@ -2821,26 +2841,6 @@
         ],
         "v3_confidence": 0.1221,
         "perch_confidence": 0.0253,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
-        "name": "Eurasian Blackbird",
-        "he_name": "\u05e9\u05d7\u05e8\u05d5\u05e8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Common_Blackbird.jpg/1280px-Common_Blackbird.jpg",
-        "audio": "audio/turdus_merula.mp3",
-        "last_seen": "2026-06-22T09:20:53",
-        "week_count": 0,
-        "v2_confidence": 0.8103,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.0141,
-        "perch_confidence": 0.1539,
         "v3_agrees": false,
         "perch_agrees": false,
         "second_opinion": null
