@@ -1,5 +1,72 @@
 [
     {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-09-12T11:50:41",
+        "week_count": 325,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-09-12T11:21:37",
+        "week_count": 115,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
+        "name": "Common Buzzard",
+        "he_name": "\u05e2\u05e7\u05d1 \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg/1280px-Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
+        "audio": "audio/buteo_buteo.mp3",
+        "last_seen": "2026-09-12T11:14:32",
+        "week_count": 2,
+        "v2_confidence": 0.9667,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.0019,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
         "name": "European Pied Flycatcher",
         "he_name": "\u05d7\u05d8\u05e4\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05e2\u05d5\u05e8\u05e3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg",
@@ -21,26 +88,6 @@
             "com": "European Pied Flycatcher",
             "agrees": true
         }
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-09-12T10:42:45",
-        "week_count": 102,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null
     },
     {
         "name": "Common Myna",
@@ -89,29 +136,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Common Greenshank",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-09-12T10:31:17",
-        "week_count": 324,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
             "agrees": true
         }
     },
@@ -1339,30 +1363,6 @@
             "com": "Western Jackdaw",
             "agrees": false
         }
-    },
-    {
-        "name": "Common Buzzard",
-        "he_name": "\u05e2\u05e7\u05d1 \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg/1280px-Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
-        "audio": "audio/buteo_buteo.mp3",
-        "last_seen": "2026-09-07T13:47:37",
-        "week_count": 1,
-        "v2_confidence": 0.9667,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.0019,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null
     },
     {
         "name": "Delicate Prinia",
