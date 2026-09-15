@@ -1,5 +1,71 @@
 [
     {
+        "name": "Eurasian Jay",
+        "he_name": "\u05e2\u05d5\u05e8\u05d1\u05e0\u05d9 \u05e9\u05d7\u05d5\u05e8-\u05db\u05d9\u05e4\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg/1280px-Garrulus_glandarius_1_Luc_Viatour.jpg",
+        "audio": "audio/garrulus_glandarius.mp3",
+        "last_seen": "2026-09-15T10:41:12",
+        "week_count": 1,
+        "v2_confidence": 0.9826,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9605,
+        "perch_confidence": 0.943,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Jay",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-09-15T10:23:59",
+        "week_count": 98,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
+        "name": "Common House-Martin",
+        "he_name": "\u05d8\u05e1\u05d9\u05ea \u05d1\u05ea\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
+        "audio": "audio/delichon_urbicum.mp3",
+        "last_seen": "2026-09-15T10:22:40",
+        "week_count": 2,
+        "v2_confidence": 0.9666,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0374,
+        "perch_confidence": 0.0249,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": false
+        }
+    },
+    {
         "name": "Eurasian Kestrel",
         "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
@@ -143,29 +209,6 @@
         "second_opinion": {
             "com": "Spur-winged Lapwing",
             "agrees": true
-        }
-    },
-    {
-        "name": "Common House-Martin",
-        "he_name": "\u05d8\u05e1\u05d9\u05ea \u05d1\u05ea\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
-        "audio": "audio/delichon_urbicum.mp3",
-        "last_seen": "2026-09-15T08:32:40",
-        "week_count": 1,
-        "v2_confidence": 0.9666,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0374,
-        "perch_confidence": 0.0249,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": {
-            "com": "Laughing Dove",
-            "agrees": false
         }
     },
     {
@@ -581,26 +624,6 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-09-14T11:24:37",
-        "week_count": 97,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
         "second_opinion": null
     },
     {
@@ -1777,29 +1800,6 @@
         "v3_agrees": false,
         "perch_agrees": false,
         "second_opinion": null
-    },
-    {
-        "name": "Eurasian Jay",
-        "he_name": "\u05e2\u05d5\u05e8\u05d1\u05e0\u05d9 \u05e9\u05d7\u05d5\u05e8-\u05db\u05d9\u05e4\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg/1280px-Garrulus_glandarius_1_Luc_Viatour.jpg",
-        "audio": "audio/garrulus_glandarius.mp3",
-        "last_seen": "2026-09-05T06:14:11",
-        "week_count": 0,
-        "v2_confidence": 0.9826,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9605,
-        "perch_confidence": 0.943,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Jay",
-            "agrees": true
-        }
     },
     {
         "name": "Oriental Honey-buzzard",
