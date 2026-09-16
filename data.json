@@ -1,5 +1,23 @@
 [
     {
+        "name": "Bluethroat",
+        "he_name": "\u05db\u05d7\u05d5\u05dc-\u05d4\u05d7\u05d6\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg/3840px-Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg",
+        "audio": "audio/luscinia_svecica.mp3",
+        "last_seen": "2026-09-16T20:45:59",
+        "week_count": 56,
+        "v2_confidence": 0.855,
+        "badges": [],
+        "v3_confidence": 0.2195,
+        "perch_confidence": 0.2019,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Bluethroat",
+            "agrees": true
+        }
+    },
+    {
         "name": "Black-crowned Night-Heron",
         "he_name": "\u05d0\u05e0\u05e4\u05ea \u05dc\u05d9\u05dc\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nycticorax_nycticorax_457953189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -456,24 +474,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Common Myna",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Bluethroat",
-        "he_name": "\u05db\u05d7\u05d5\u05dc-\u05d4\u05d7\u05d6\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg/3840px-Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg",
-        "audio": "audio/luscinia_svecica.mp3",
-        "last_seen": "2026-09-16T06:26:56",
-        "week_count": 55,
-        "v2_confidence": 0.855,
-        "badges": [],
-        "v3_confidence": 0.2195,
-        "perch_confidence": 0.2019,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Bluethroat",
             "agrees": true
         }
     },
