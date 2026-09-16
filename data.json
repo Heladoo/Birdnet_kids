@@ -1,5 +1,23 @@
 [
     {
+        "name": "Bluethroat",
+        "he_name": "\u05db\u05d7\u05d5\u05dc-\u05d4\u05d7\u05d6\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg/3840px-Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg",
+        "audio": "audio/luscinia_svecica.mp3",
+        "last_seen": "2026-09-16T03:49:23",
+        "week_count": 49,
+        "v2_confidence": 0.855,
+        "badges": [],
+        "v3_confidence": 0.2195,
+        "perch_confidence": 0.2019,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Bluethroat",
+            "agrees": true
+        }
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
@@ -23,24 +41,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Spur-winged Lapwing",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Bluethroat",
-        "he_name": "\u05db\u05d7\u05d5\u05dc-\u05d4\u05d7\u05d6\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg/3840px-Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg",
-        "audio": "audio/luscinia_svecica.mp3",
-        "last_seen": "2026-09-16T02:27:17",
-        "week_count": 31,
-        "v2_confidence": 0.848,
-        "badges": [],
-        "v3_confidence": 0.2195,
-        "perch_confidence": 0.2019,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Bluethroat",
             "agrees": true
         }
     },
