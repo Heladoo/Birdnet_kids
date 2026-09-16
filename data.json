@@ -1,11 +1,34 @@
 [
     {
+        "name": "European Greenfinch",
+        "he_name": "\u05d9\u05e8\u05e7\u05d5\u05df (\u05e2\u05d5\u05e3)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chloris_chloris_%28profile%29.jpg/1280px-Chloris_chloris_%28profile%29.jpg",
+        "audio": "audio/chloris_chloris.mp3",
+        "last_seen": "2026-09-16T13:43:40",
+        "week_count": 1,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.943,
+        "perch_confidence": 0.9595,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Greenfinch",
+            "agrees": true
+        }
+    },
+    {
         "name": "Eurasian Scops-Owl",
         "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
         "audio": "audio/otus_scops.mp3",
-        "last_seen": "2026-09-16T12:40:07",
-        "week_count": 58,
+        "last_seen": "2026-09-16T13:21:42",
+        "week_count": 60,
         "v2_confidence": 0.9954,
         "badges": [
             {
@@ -1940,29 +1963,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Northern Raven",
-            "agrees": true
-        }
-    },
-    {
-        "name": "European Greenfinch",
-        "he_name": "\u05d9\u05e8\u05e7\u05d5\u05df (\u05e2\u05d5\u05e3)",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chloris_chloris_%28profile%29.jpg/1280px-Chloris_chloris_%28profile%29.jpg",
-        "audio": "audio/chloris_chloris.mp3",
-        "last_seen": "2026-09-01T13:57:45",
-        "week_count": 0,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.943,
-        "perch_confidence": 0.9595,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "European Greenfinch",
             "agrees": true
         }
     },
