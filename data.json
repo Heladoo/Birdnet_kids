@@ -4,8 +4,8 @@
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/motacilla_flava.mp3",
-        "last_seen": "2026-09-16T15:37:52",
-        "week_count": 18,
+        "last_seen": "2026-09-16T16:25:22",
+        "week_count": 19,
         "v2_confidence": 0.9731,
         "badges": [],
         "v3_confidence": null,
@@ -13,6 +13,53 @@
         "v3_agrees": null,
         "perch_agrees": null,
         "second_opinion": null
+    },
+    {
+        "name": "European Bee-eater",
+        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
+        "audio": "audio/merops_apiaster.mp3",
+        "last_seen": "2026-09-16T16:24:29",
+        "week_count": 75,
+        "v2_confidence": 0.9975,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9088,
+        "perch_confidence": 0.6554,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-09-16T16:24:16",
+        "week_count": 208,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        }
     },
     {
         "name": "Red-vented Bulbul",
@@ -249,33 +296,6 @@
         "second_opinion": {
             "com": "Rose-ringed Parakeet",
             "agrees": false
-        }
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-09-16T09:24:10",
-        "week_count": 207,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
         }
     },
     {
@@ -527,26 +547,6 @@
         "v3_confidence": 0.0019,
         "perch_confidence": 0,
         "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
-        "name": "European Bee-eater",
-        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
-        "audio": "audio/merops_apiaster.mp3",
-        "last_seen": "2026-09-15T15:39:14",
-        "week_count": 72,
-        "v2_confidence": 0.9975,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9088,
-        "perch_confidence": 0.6554,
-        "v3_agrees": true,
         "perch_agrees": false,
         "second_opinion": null
     },
