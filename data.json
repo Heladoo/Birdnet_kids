@@ -1,34 +1,11 @@
 [
     {
-        "name": "Eurasian Thick-knee",
-        "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
-        "audio": "audio/burhinus_oedicnemus.mp3",
-        "last_seen": "2026-09-19T22:14:40",
-        "week_count": 5,
-        "v2_confidence": 0.9974,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.876,
-        "perch_confidence": 0.8837,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Stone-curlew",
-            "agrees": true
-        }
-    },
-    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-09-19T20:34:16",
-        "week_count": 179,
+        "last_seen": "2026-09-19T23:52:57",
+        "week_count": 138,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -50,12 +27,35 @@
         }
     },
     {
+        "name": "Eurasian Thick-knee",
+        "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
+        "audio": "audio/burhinus_oedicnemus.mp3",
+        "last_seen": "2026-09-19T22:14:40",
+        "week_count": 2,
+        "v2_confidence": 0.9974,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.876,
+        "perch_confidence": 0.8837,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Stone-curlew",
+            "agrees": true
+        }
+    },
+    {
         "name": "Common Crane",
         "he_name": "\u05e2\u05d2\u05d5\u05e8 \u05d0\u05e4\u05d5\u05e8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Common_crane_grus_grus.jpg/1280px-Common_crane_grus_grus.jpg",
         "audio": "audio/grus_grus.mp3",
         "last_seen": "2026-09-19T20:27:35",
-        "week_count": 3,
+        "week_count": 2,
         "v2_confidence": 0.861,
         "badges": [
             {
@@ -94,7 +94,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/cecropis_daurica.mp3",
         "last_seen": "2026-09-19T18:43:40",
-        "week_count": 37,
+        "week_count": 34,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -114,7 +114,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
         "audio": "audio/merops_apiaster.mp3",
         "last_seen": "2026-09-19T18:06:07",
-        "week_count": 202,
+        "week_count": 192,
         "v2_confidence": 0.9975,
         "badges": [
             {
@@ -134,7 +134,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
         "audio": "audio/falco_tinnunculus.mp3",
         "last_seen": "2026-09-19T18:04:44",
-        "week_count": 11,
+        "week_count": 10,
         "v2_confidence": 0.9943,
         "badges": [
             {
@@ -189,7 +189,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/acridotheres_tristis.mp3",
         "last_seen": "2026-09-19T17:47:48",
-        "week_count": 18,
+        "week_count": 15,
         "v2_confidence": 0.9867,
         "badges": [
             {
@@ -212,7 +212,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/motacilla_flava.mp3",
         "last_seen": "2026-09-19T17:33:03",
-        "week_count": 15,
+        "week_count": 13,
         "v2_confidence": 0.9731,
         "badges": [],
         "v3_confidence": null,
@@ -254,7 +254,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
         "audio": "audio/psittacula_krameri.mp3",
         "last_seen": "2026-09-19T17:23:48",
-        "week_count": 254,
+        "week_count": 220,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -320,7 +320,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
         "audio": "audio/streptopelia_senegalensis.mp3",
         "last_seen": "2026-09-19T15:12:20",
-        "week_count": 40,
+        "week_count": 22,
         "v2_confidence": 0.9984,
         "badges": [
             {
@@ -458,7 +458,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
         "audio": "audio/pycnonotus_cafer.mp3",
         "last_seen": "2026-09-19T07:16:52",
-        "week_count": 8,
+        "week_count": 7,
         "v2_confidence": 0.9093,
         "badges": [
             {
@@ -526,7 +526,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
         "audio": "audio/streptopelia_decaocto.mp3",
         "last_seen": "2026-09-19T06:28:44",
-        "week_count": 10,
+        "week_count": 8,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -649,7 +649,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nordic_jackdaw_%2852563242448%29.jpg/1280px-Nordic_jackdaw_%2852563242448%29.jpg",
         "audio": "audio/corvus_monedula.mp3",
         "last_seen": "2026-09-18T14:05:10",
-        "week_count": 21,
+        "week_count": 20,
         "v2_confidence": 0.99,
         "badges": [
             {
@@ -1028,7 +1028,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/riparia_riparia.mp3",
         "last_seen": "2026-09-16T10:59:37",
-        "week_count": 4,
+        "week_count": 2,
         "v2_confidence": 0.9405,
         "badges": [
             {
@@ -1051,7 +1051,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg/1280px-White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
         "audio": "audio/halcyon_smyrnensis.mp3",
         "last_seen": "2026-09-16T06:15:45",
-        "week_count": 11,
+        "week_count": 5,
         "v2_confidence": 0.9996,
         "badges": [
             {
@@ -1078,7 +1078,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
         "audio": "audio/tyto_alba.mp3",
         "last_seen": "2026-09-16T06:12:04",
-        "week_count": 4,
+        "week_count": 2,
         "v2_confidence": 0.9991,
         "badges": [
             {
@@ -1137,7 +1137,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grey_Heron_%2854990114762%29_%28cropped%29.jpg/1280px-Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
         "audio": "audio/ardea_cinerea.mp3",
         "last_seen": "2026-09-15T17:09:57",
-        "week_count": 4,
+        "week_count": 2,
         "v2_confidence": 0.9394,
         "badges": [
             {
@@ -1385,7 +1385,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cuckoo_%2851169010335%29.jpg/1280px-Cuckoo_%2851169010335%29.jpg",
         "audio": "audio/cuculus_canorus.mp3",
         "last_seen": "2026-09-13T17:11:54",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.8264,
         "badges": [
             {
@@ -1405,7 +1405,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_02.jpg/1280px-2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_02.jpg",
         "audio": "audio/sterna_hirundo.mp3",
         "last_seen": "2026-09-13T08:20:52",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.8861,
         "badges": [
             {
