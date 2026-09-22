@@ -1,5 +1,93 @@
 [
     {
+        "name": "Red-vented Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+        "audio": "audio/pycnonotus_cafer.mp3",
+        "last_seen": "2026-09-22T15:56:43",
+        "week_count": 9,
+        "v2_confidence": 0.9093,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9549,
+        "perch_confidence": 0.0209,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
+        "name": "European Bee-eater",
+        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
+        "audio": "audio/merops_apiaster.mp3",
+        "last_seen": "2026-09-22T15:39:28",
+        "week_count": 375,
+        "v2_confidence": 0.9976,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9088,
+        "perch_confidence": 0.6554,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
+        "name": "Gadwall",
+        "he_name": "\u05d1\u05e8\u05d5\u05d5\u05d6 \u05d0\u05e4\u05d5\u05e8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gadwall-Anas-strepera.jpg/3840px-Gadwall-Anas-strepera.jpg",
+        "audio": "audio/mareca_strepera.mp3",
+        "last_seen": "2026-09-22T15:38:31",
+        "week_count": 2,
+        "v2_confidence": 0.9293,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.4762,
+        "perch_confidence": 0.0666,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
+        "name": "Common Buzzard",
+        "he_name": "\u05e2\u05e7\u05d1 \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg/1280px-Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
+        "audio": "audio/buteo_buteo.mp3",
+        "last_seen": "2026-09-22T15:23:35",
+        "week_count": 2,
+        "v2_confidence": 0.9667,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.0019,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
         "name": "Laughing Dove",
         "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
@@ -21,26 +109,6 @@
             "com": "Laughing Dove",
             "agrees": true
         }
-    },
-    {
-        "name": "European Bee-eater",
-        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
-        "audio": "audio/merops_apiaster.mp3",
-        "last_seen": "2026-09-22T14:44:35",
-        "week_count": 331,
-        "v2_confidence": 0.9975,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9088,
-        "perch_confidence": 0.6554,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null
     },
     {
         "name": "Graceful Prinia",
@@ -289,26 +357,6 @@
         "perch_confidence": 0.7221,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
-    },
-    {
-        "name": "Red-vented Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
-        "audio": "audio/pycnonotus_cafer.mp3",
-        "last_seen": "2026-09-22T11:03:43",
-        "week_count": 6,
-        "v2_confidence": 0.9093,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9549,
-        "perch_confidence": 0.0209,
-        "v3_agrees": true,
-        "perch_agrees": false,
         "second_opinion": null
     },
     {
@@ -839,30 +887,6 @@
         }
     },
     {
-        "name": "Common Buzzard",
-        "he_name": "\u05e2\u05e7\u05d1 \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg/1280px-Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
-        "audio": "audio/buteo_buteo.mp3",
-        "last_seen": "2026-09-20T10:19:10",
-        "week_count": 1,
-        "v2_confidence": 0.9667,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.0019,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
         "name": "Green Sandpiper",
         "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05db\u05e0\u05e3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Green_sandpiper_%28Tringa_ochropus%29.jpg/1280px-Green_sandpiper_%28Tringa_ochropus%29.jpg",
@@ -1155,30 +1179,6 @@
             "com": "Western Jackdaw",
             "agrees": true
         }
-    },
-    {
-        "name": "Gadwall",
-        "he_name": "\u05d1\u05e8\u05d5\u05d5\u05d6 \u05d0\u05e4\u05d5\u05e8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gadwall-Anas-strepera.jpg/3840px-Gadwall-Anas-strepera.jpg",
-        "audio": "audio/mareca_strepera.mp3",
-        "last_seen": "2026-09-18T09:40:50",
-        "week_count": 1,
-        "v2_confidence": 0.9293,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.4762,
-        "perch_confidence": 0.0666,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null
     },
     {
         "name": "Short-toed Snake-Eagle",
