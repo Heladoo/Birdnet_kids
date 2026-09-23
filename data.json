@@ -1,5 +1,102 @@
 [
     {
+        "name": "Eurasian Collared-Dove",
+        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+        "audio": "audio/streptopelia_decaocto.mp3",
+        "last_seen": "2026-09-23T13:50:57",
+        "week_count": 9,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.96,
+        "perch_confidence": 0.8294,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Collared Dove",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Laughing Dove",
+        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+        "audio": "audio/streptopelia_senegalensis.mp3",
+        "last_seen": "2026-09-23T13:41:38",
+        "week_count": 115,
+        "v2_confidence": 0.9985,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.924,
+        "perch_confidence": 0.5157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Eurasian Moorhen",
+        "he_name": "\u05e1\u05d5\u05e4\u05d9\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Common_moorhen_%28Gallinula_chloropus%29_France.jpg/3840px-Common_moorhen_%28Gallinula_chloropus%29_France.jpg",
+        "audio": "audio/gallinula_chloropus.mp3",
+        "last_seen": "2026-09-23T13:19:10",
+        "week_count": 1,
+        "v2_confidence": 0.9797,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9226,
+        "perch_confidence": 0.793,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Moorhen",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Common Buzzard",
+        "he_name": "\u05e2\u05e7\u05d1 \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg/1280px-Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
+        "audio": "audio/buteo_buteo.mp3",
+        "last_seen": "2026-09-23T13:16:57",
+        "week_count": 3,
+        "v2_confidence": 0.9667,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.0019,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
         "name": "European Bee-eater",
         "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
@@ -18,29 +115,6 @@
         "v3_agrees": true,
         "perch_agrees": false,
         "second_opinion": null
-    },
-    {
-        "name": "Laughing Dove",
-        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-        "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-09-23T12:34:08",
-        "week_count": 113,
-        "v2_confidence": 0.9985,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.924,
-        "perch_confidence": 0.5157,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Laughing Dove",
-            "agrees": true
-        }
     },
     {
         "name": "Great Bittern",
@@ -65,29 +139,6 @@
         "v3_agrees": false,
         "perch_agrees": false,
         "second_opinion": null
-    },
-    {
-        "name": "Eurasian Collared-Dove",
-        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-        "audio": "audio/streptopelia_decaocto.mp3",
-        "last_seen": "2026-09-23T11:48:49",
-        "week_count": 8,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.96,
-        "perch_confidence": 0.8294,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Collared Dove",
-            "agrees": true
-        }
     },
     {
         "name": "Eurasian Jackdaw",
@@ -467,30 +518,6 @@
         "v3_confidence": 0.4762,
         "perch_confidence": 0.0666,
         "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
-        "name": "Common Buzzard",
-        "he_name": "\u05e2\u05e7\u05d1 \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg/1280px-Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
-        "audio": "audio/buteo_buteo.mp3",
-        "last_seen": "2026-09-22T15:23:35",
-        "week_count": 2,
-        "v2_confidence": 0.9667,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.0019,
-        "perch_confidence": 0,
-        "v3_agrees": false,
         "perch_agrees": false,
         "second_opinion": null
     },
@@ -2820,33 +2847,6 @@
         "v3_agrees": false,
         "perch_agrees": false,
         "second_opinion": null
-    },
-    {
-        "name": "Eurasian Moorhen",
-        "he_name": "\u05e1\u05d5\u05e4\u05d9\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Common_moorhen_%28Gallinula_chloropus%29_France.jpg/3840px-Common_moorhen_%28Gallinula_chloropus%29_France.jpg",
-        "audio": "audio/gallinula_chloropus.mp3",
-        "last_seen": "2026-07-04T12:00:42",
-        "week_count": 0,
-        "v2_confidence": 0.9797,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9226,
-        "perch_confidence": 0.793,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Moorhen",
-            "agrees": true
-        }
     },
     {
         "name": "Wood Lark",
