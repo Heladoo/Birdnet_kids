@@ -1,5 +1,126 @@
 [
     {
+        "name": "Great Bittern",
+        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05de\u05e1\u05d5\u05e8\u05d8\u05d8\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
+        "audio": "audio/botaurus_stellaris.mp3",
+        "last_seen": "2026-09-24T11:48:41",
+        "week_count": 10,
+        "v2_confidence": 0.9858,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.0007,
+        "perch_confidence": 0.0357,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-09-24T11:48:03",
+        "week_count": 24,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Common Greenshank",
+        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05d9\u05e8\u05d5\u05e7\u05ea-\u05e8\u05d2\u05dc",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Common-Greenshank.jpg/1280px-Common-Greenshank.jpg",
+        "audio": "audio/tringa_nebularia.mp3",
+        "last_seen": "2026-09-24T11:45:39",
+        "week_count": 4,
+        "v2_confidence": 0.945,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.3484,
+        "perch_confidence": 0.2477,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Greenshank",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Black Redstart",
+        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e1\u05dc\u05e2\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hausrotschwanz_Brutpflege_2006-05-21-05.jpg/1280px-Hausrotschwanz_Brutpflege_2006-05-21-05.jpg",
+        "audio": "audio/phoenicurus_ochruros.mp3",
+        "last_seen": "2026-09-24T11:35:39",
+        "week_count": 2,
+        "v2_confidence": 0.9952,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9386,
+        "perch_confidence": 0.9259,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Black Redstart",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Common Buzzard",
+        "he_name": "\u05e2\u05e7\u05d1 \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg/1280px-Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
+        "audio": "audio/buteo_buteo.mp3",
+        "last_seen": "2026-09-24T11:04:09",
+        "week_count": 4,
+        "v2_confidence": 0.9667,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.0019,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
         "name": "European Bee-eater",
         "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
@@ -82,29 +203,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Laughing Dove",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Black Redstart",
-        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e1\u05dc\u05e2\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hausrotschwanz_Brutpflege_2006-05-21-05.jpg/1280px-Hausrotschwanz_Brutpflege_2006-05-21-05.jpg",
-        "audio": "audio/phoenicurus_ochruros.mp3",
-        "last_seen": "2026-09-24T08:35:05",
-        "week_count": 1,
-        "v2_confidence": 0.9952,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9386,
-        "perch_confidence": 0.9259,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Black Redstart",
             "agrees": true
         }
     },
@@ -196,29 +294,6 @@
         "v3_agrees": null,
         "perch_agrees": null,
         "second_opinion": null
-    },
-    {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-09-24T06:24:39",
-        "week_count": 19,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": true
-        }
     },
     {
         "name": "Eurasian Scops-Owl",
@@ -430,30 +505,6 @@
         "second_opinion": null
     },
     {
-        "name": "Great Bittern",
-        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05de\u05e1\u05d5\u05e8\u05d8\u05d8\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
-        "audio": "audio/botaurus_stellaris.mp3",
-        "last_seen": "2026-09-23T14:29:38",
-        "week_count": 7,
-        "v2_confidence": 0.9858,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.0007,
-        "perch_confidence": 0.0357,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
         "name": "Red-billed Chough",
         "he_name": "\u05d6\u05d2 \u05d0\u05d3\u05d5\u05dd-\u05de\u05e7\u05d5\u05e8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bran_goesgoch_Pyrrhocorax_pyrrhocorax.jpg/1280px-Bran_goesgoch_Pyrrhocorax_pyrrhocorax.jpg",
@@ -525,30 +576,6 @@
             "com": "Common Moorhen",
             "agrees": true
         }
-    },
-    {
-        "name": "Common Buzzard",
-        "he_name": "\u05e2\u05e7\u05d1 \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg/1280px-Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
-        "audio": "audio/buteo_buteo.mp3",
-        "last_seen": "2026-09-23T13:16:57",
-        "week_count": 3,
-        "v2_confidence": 0.9667,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.0019,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null
     },
     {
         "name": "Eurasian Hoopoe",
@@ -1038,33 +1065,6 @@
         "v3_agrees": false,
         "perch_agrees": true,
         "second_opinion": null
-    },
-    {
-        "name": "Common Greenshank",
-        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05d9\u05e8\u05d5\u05e7\u05ea-\u05e8\u05d2\u05dc",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Common-Greenshank.jpg/1280px-Common-Greenshank.jpg",
-        "audio": "audio/tringa_nebularia.mp3",
-        "last_seen": "2026-09-21T09:37:41",
-        "week_count": 3,
-        "v2_confidence": 0.945,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.3484,
-        "perch_confidence": 0.2477,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Greenshank",
-            "agrees": true
-        }
     },
     {
         "name": "Great Tit",
