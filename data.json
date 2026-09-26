@@ -1,5 +1,55 @@
 [
     {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-09-26T23:58:56",
+        "week_count": 140,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Eurasian Thick-knee",
+        "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
+        "audio": "audio/burhinus_oedicnemus.mp3",
+        "last_seen": "2026-09-26T23:34:07",
+        "week_count": 25,
+        "v2_confidence": 0.9974,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.876,
+        "perch_confidence": 0.8837,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Stone-curlew",
+            "agrees": true
+        }
+    },
+    {
         "name": "Black-crowned Night-Heron",
         "he_name": "\u05d0\u05e0\u05e4\u05ea \u05dc\u05d9\u05dc\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nycticorax_nycticorax_457953189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -32,7 +82,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Green_sandpiper_%28Tringa_ochropus%29.jpg/1280px-Green_sandpiper_%28Tringa_ochropus%29.jpg",
         "audio": "audio/tringa_ochropus.mp3",
         "last_seen": "2026-09-26T22:33:52",
-        "week_count": 8,
+        "week_count": 7,
         "v2_confidence": 0.9967,
         "badges": [
             {
@@ -54,39 +104,12 @@
         }
     },
     {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-09-26T22:25:07",
-        "week_count": 152,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        }
-    },
-    {
         "name": "Eurasian Scops-Owl",
         "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
         "audio": "audio/otus_scops.mp3",
         "last_seen": "2026-09-26T21:23:07",
-        "week_count": 46,
+        "week_count": 42,
         "v2_confidence": 0.9954,
         "badges": [
             {
@@ -117,7 +140,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
         "audio": "audio/psittacula_krameri.mp3",
         "last_seen": "2026-09-26T18:03:51",
-        "week_count": 123,
+        "week_count": 108,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -190,7 +213,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
         "audio": "audio/hirundo_rustica.mp3",
         "last_seen": "2026-09-26T17:51:36",
-        "week_count": 9,
+        "week_count": 7,
         "v2_confidence": 0.968,
         "badges": [
             {
@@ -236,7 +259,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
         "audio": "audio/streptopelia_decaocto.mp3",
         "last_seen": "2026-09-26T16:06:42",
-        "week_count": 10,
+        "week_count": 9,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -372,7 +395,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
         "audio": "audio/merops_apiaster.mp3",
         "last_seen": "2026-09-26T09:01:10",
-        "week_count": 556,
+        "week_count": 495,
         "v2_confidence": 0.9985,
         "badges": [
             {
@@ -392,7 +415,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
         "audio": "audio/pycnonotus_cafer.mp3",
         "last_seen": "2026-09-26T08:02:32",
-        "week_count": 11,
+        "week_count": 10,
         "v2_confidence": 0.9093,
         "badges": [
             {
@@ -463,7 +486,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg",
         "audio": "audio/phylloscopus_collybita.mp3",
         "last_seen": "2026-09-26T07:47:04",
-        "week_count": 2,
+        "week_count": 1,
         "v2_confidence": 0.9897,
         "badges": [
             {
@@ -524,7 +547,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg/1280px-Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
         "audio": "audio/buteo_buteo.mp3",
         "last_seen": "2026-09-26T07:09:04",
-        "week_count": 5,
+        "week_count": 4,
         "v2_confidence": 0.9667,
         "badges": [
             {
@@ -541,29 +564,6 @@
         "v3_agrees": false,
         "perch_agrees": false,
         "second_opinion": null
-    },
-    {
-        "name": "Eurasian Thick-knee",
-        "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
-        "audio": "audio/burhinus_oedicnemus.mp3",
-        "last_seen": "2026-09-26T04:24:17",
-        "week_count": 25,
-        "v2_confidence": 0.9974,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.876,
-        "perch_confidence": 0.8837,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Stone-curlew",
-            "agrees": true
-        }
     },
     {
         "name": "Bearded Reedling",
@@ -761,7 +761,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Common_crane_grus_grus.jpg/1280px-Common_crane_grus_grus.jpg",
         "audio": "audio/grus_grus.mp3",
         "last_seen": "2026-09-25T06:14:48",
-        "week_count": 3,
+        "week_count": 2,
         "v2_confidence": 0.861,
         "badges": [
             {
@@ -785,7 +785,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg/1280px-European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg",
         "audio": "audio/pluvialis_apricaria.mp3",
         "last_seen": "2026-09-25T02:13:24",
-        "week_count": 3,
+        "week_count": 1,
         "v2_confidence": 0.9154,
         "badges": [
             {
@@ -1053,7 +1053,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Zwergdommel.jpg/1280px-Zwergdommel.jpg",
         "audio": "audio/ixobrychus_minutus.mp3",
         "last_seen": "2026-09-23T18:09:06",
-        "week_count": 5,
+        "week_count": 4,
         "v2_confidence": 0.9451,
         "badges": [
             {
@@ -1174,7 +1174,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
         "audio": "audio/falco_tinnunculus.mp3",
         "last_seen": "2026-09-23T08:50:34",
-        "week_count": 3,
+        "week_count": 2,
         "v2_confidence": 0.9943,
         "badges": [
             {
@@ -1431,7 +1431,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Little_grebe_Zwergtaucher.jpg/1920px-Little_grebe_Zwergtaucher.jpg",
         "audio": "audio/tachybaptus_ruficollis.mp3",
         "last_seen": "2026-09-20T11:13:47",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.9656,
         "badges": [
             {
