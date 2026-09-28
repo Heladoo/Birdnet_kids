@@ -1,5 +1,129 @@
 [
     {
+        "name": "Common Greenshank",
+        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05d9\u05e8\u05d5\u05e7\u05ea-\u05e8\u05d2\u05dc",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Common-Greenshank.jpg/1280px-Common-Greenshank.jpg",
+        "audio": "audio/tringa_nebularia.mp3",
+        "last_seen": "2026-09-28T13:45:43",
+        "week_count": 4,
+        "v2_confidence": 0.945,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.3484,
+        "perch_confidence": 0.2477,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Greenshank",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Eurasian Scops-Owl",
+        "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
+        "audio": "audio/otus_scops.mp3",
+        "last_seen": "2026-09-28T13:36:56",
+        "week_count": 59,
+        "v2_confidence": 0.9954,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9524,
+        "perch_confidence": 0.9787,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Scops Owl",
+            "agrees": true
+        }
+    },
+    {
+        "name": "European Bee-eater",
+        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
+        "audio": "audio/merops_apiaster.mp3",
+        "last_seen": "2026-09-28T13:33:50",
+        "week_count": 485,
+        "v2_confidence": 0.9985,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9088,
+        "perch_confidence": 0.6554,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
+        "name": "Eurasian Collared-Dove",
+        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+        "audio": "audio/streptopelia_decaocto.mp3",
+        "last_seen": "2026-09-28T13:17:56",
+        "week_count": 17,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.96,
+        "perch_confidence": 0.8294,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Collared Dove",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Barn Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
+        "audio": "audio/hirundo_rustica.mp3",
+        "last_seen": "2026-09-28T13:04:22",
+        "week_count": 7,
+        "v2_confidence": 0.968,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.905,
+        "perch_confidence": 0.8648,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Barn Swallow",
+            "agrees": true
+        }
+    },
+    {
         "name": "Crested Lark",
         "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
@@ -23,26 +147,6 @@
         }
     },
     {
-        "name": "European Bee-eater",
-        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
-        "audio": "audio/merops_apiaster.mp3",
-        "last_seen": "2026-09-28T11:51:16",
-        "week_count": 479,
-        "v2_confidence": 0.9985,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9088,
-        "perch_confidence": 0.6554,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
@@ -62,37 +166,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Rose-ringed Parakeet",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Eurasian Scops-Owl",
-        "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
-        "audio": "audio/otus_scops.mp3",
-        "last_seen": "2026-09-28T10:38:20",
-        "week_count": 58,
-        "v2_confidence": 0.9954,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9524,
-        "perch_confidence": 0.9787,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Scops Owl",
             "agrees": true
         }
     },
@@ -420,29 +493,6 @@
         }
     },
     {
-        "name": "Eurasian Collared-Dove",
-        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-        "audio": "audio/streptopelia_decaocto.mp3",
-        "last_seen": "2026-09-27T17:46:04",
-        "week_count": 16,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.96,
-        "perch_confidence": 0.8294,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Collared Dove",
-            "agrees": true
-        }
-    },
-    {
         "name": "Eurasian Jackdaw",
         "he_name": "\u05e7\u05d0\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nordic_jackdaw_%2852563242448%29.jpg/1280px-Nordic_jackdaw_%2852563242448%29.jpg",
@@ -579,33 +629,6 @@
         }
     },
     {
-        "name": "Common Greenshank",
-        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05d9\u05e8\u05d5\u05e7\u05ea-\u05e8\u05d2\u05dc",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Common-Greenshank.jpg/1280px-Common-Greenshank.jpg",
-        "audio": "audio/tringa_nebularia.mp3",
-        "last_seen": "2026-09-27T07:49:23",
-        "week_count": 2,
-        "v2_confidence": 0.945,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.3484,
-        "perch_confidence": 0.2477,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Greenshank",
-            "agrees": true
-        }
-    },
-    {
         "name": "Little Grebe",
         "he_name": "\u05d8\u05d1\u05dc\u05df \u05d2\u05de\u05d3\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Little_grebe_Zwergtaucher.jpg/1920px-Little_grebe_Zwergtaucher.jpg",
@@ -680,29 +703,6 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Black-crowned Night Heron",
-            "agrees": true
-        }
-    },
-    {
-        "name": "Barn Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
-        "audio": "audio/hirundo_rustica.mp3",
-        "last_seen": "2026-09-26T17:51:36",
-        "week_count": 6,
-        "v2_confidence": 0.968,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.905,
-        "perch_confidence": 0.8648,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Barn Swallow",
             "agrees": true
         }
     },
