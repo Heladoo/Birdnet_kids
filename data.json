@@ -1,5 +1,45 @@
 [
     {
+        "name": "European Bee-eater",
+        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
+        "audio": "audio/merops_apiaster.mp3",
+        "last_seen": "2026-09-30T14:32:07",
+        "week_count": 464,
+        "v2_confidence": 0.9985,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9088,
+        "perch_confidence": 0.6554,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
+        "name": "Sardinian Warbler",
+        "he_name": "\u05e1\u05d1\u05db\u05d9 \u05e9\u05d7\u05d5\u05e8-\u05e8\u05d0\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sardinian_Warbler.jpg/1280px-Sardinian_Warbler.jpg",
+        "audio": "audio/curruca_melanocephala.mp3",
+        "last_seen": "2026-09-30T14:27:24",
+        "week_count": 1,
+        "v2_confidence": 0.8566,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.2223,
+        "perch_confidence": 0.1059,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
@@ -48,26 +88,6 @@
             "com": "Spur-winged Lapwing",
             "agrees": true
         }
-    },
-    {
-        "name": "European Bee-eater",
-        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
-        "audio": "audio/merops_apiaster.mp3",
-        "last_seen": "2026-09-30T13:14:24",
-        "week_count": 462,
-        "v2_confidence": 0.9985,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9088,
-        "perch_confidence": 0.6554,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null
     },
     {
         "name": "Common Myna",
@@ -1933,26 +1953,6 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
-    },
-    {
-        "name": "Sardinian Warbler",
-        "he_name": "\u05e1\u05d1\u05db\u05d9 \u05e9\u05d7\u05d5\u05e8-\u05e8\u05d0\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sardinian_Warbler.jpg/1280px-Sardinian_Warbler.jpg",
-        "audio": "audio/curruca_melanocephala.mp3",
-        "last_seen": "2026-09-14T17:40:22",
-        "week_count": 0,
-        "v2_confidence": 0.8566,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.2223,
-        "perch_confidence": 0.1059,
-        "v3_agrees": false,
-        "perch_agrees": true,
         "second_opinion": null
     },
     {
