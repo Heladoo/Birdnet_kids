@@ -4,8 +4,8 @@
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-09-30T04:57:18",
-        "week_count": 174,
+        "last_seen": "2026-09-30T06:49:33",
+        "week_count": 176,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -25,6 +25,46 @@
             "com": "Spur-winged Lapwing",
             "agrees": true
         }
+    },
+    {
+        "name": "European Bee-eater",
+        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
+        "audio": "audio/merops_apiaster.mp3",
+        "last_seen": "2026-09-30T06:37:26",
+        "week_count": 441,
+        "v2_confidence": 0.9985,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9088,
+        "perch_confidence": 0.6554,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null
+    },
+    {
+        "name": "Rosy Starling",
+        "he_name": "\u05d6\u05e8\u05d6\u05d9\u05e8 \u05d0\u05e8\u05d1\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pastor_roseus_2023.jpg/1280px-Pastor_roseus_2023.jpg",
+        "audio": "audio/pastor_roseus.mp3",
+        "last_seen": "2026-09-30T06:31:09",
+        "week_count": 2,
+        "v2_confidence": 0.8503,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0089,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null
     },
     {
         "name": "Eurasian Scops-Owl",
@@ -106,26 +146,6 @@
             "com": "Grey Heron",
             "agrees": true
         }
-    },
-    {
-        "name": "Rosy Starling",
-        "he_name": "\u05d6\u05e8\u05d6\u05d9\u05e8 \u05d0\u05e8\u05d1\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pastor_roseus_2023.jpg/1280px-Pastor_roseus_2023.jpg",
-        "audio": "audio/pastor_roseus.mp3",
-        "last_seen": "2026-09-29T18:30:54",
-        "week_count": 1,
-        "v2_confidence": 0.8503,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0089,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null
     },
     {
         "name": "Eurasian Collared-Dove",
@@ -222,26 +242,6 @@
             "com": "Laughing Dove",
             "agrees": true
         }
-    },
-    {
-        "name": "European Bee-eater",
-        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
-        "audio": "audio/merops_apiaster.mp3",
-        "last_seen": "2026-09-29T18:06:16",
-        "week_count": 440,
-        "v2_confidence": 0.9985,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9088,
-        "perch_confidence": 0.6554,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null
     },
     {
         "name": "European Pied Flycatcher",
