@@ -1,11 +1,54 @@
 [
     {
+        "name": "Eurasian Scops-Owl",
+        "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
+        "audio": "audio/otus_scops.mp3",
+        "last_seen": "2026-10-01T23:31:52",
+        "week_count": 44,
+        "v2_confidence": 0.9954,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9524,
+        "perch_confidence": 0.9787,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Scops Owl",
+            "agrees": true
+        },
+        "sci": "Otus scops",
+        "order": "Strigiformes",
+        "family": "Strigidae",
+        "local": 190,
+        "residency": "migrant",
+        "dawn_frac": 0.2003,
+        "dawn_total": 754,
+        "v3_top_label": "Otus scops_Eurasian Scops Owl",
+        "v3_top_confidence": 0.9524,
+        "perch_top_label": "Otus scops_Eurasian Scops Owl",
+        "perch_top_confidence": 0.9787,
+        "photo": true
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
         "audio": "audio/psittacula_krameri.mp3",
         "last_seen": "2026-10-01T17:56:18",
-        "week_count": 185,
+        "week_count": 158,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -105,7 +148,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
         "audio": "audio/vanellus_spinosus.mp3",
         "last_seen": "2026-10-01T16:35:22",
-        "week_count": 223,
+        "week_count": 219,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -179,7 +222,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gadwall-Anas-strepera.jpg/3840px-Gadwall-Anas-strepera.jpg",
         "audio": "audio/mareca_strepera.mp3",
         "last_seen": "2026-10-01T16:16:58",
-        "week_count": 4,
+        "week_count": 3,
         "v2_confidence": 0.9293,
         "badges": [
             {
@@ -215,7 +258,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg/1280px-White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
         "audio": "audio/halcyon_smyrnensis.mp3",
         "last_seen": "2026-10-01T15:54:16",
-        "week_count": 30,
+        "week_count": 14,
         "v2_confidence": 0.9996,
         "badges": [
             {
@@ -254,7 +297,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
         "audio": "audio/merops_apiaster.mp3",
         "last_seen": "2026-10-01T15:21:39",
-        "week_count": 458,
+        "week_count": 332,
         "v2_confidence": 0.9985,
         "badges": [
             {
@@ -286,7 +329,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
         "audio": "audio/streptopelia_decaocto.mp3",
         "last_seen": "2026-10-01T15:12:11",
-        "week_count": 23,
+        "week_count": 21,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -356,7 +399,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
         "audio": "audio/galerida_cristata.mp3",
         "last_seen": "2026-10-01T13:31:07",
-        "week_count": 44,
+        "week_count": 39,
         "v2_confidence": 0.9829,
         "badges": [
             {
@@ -391,7 +434,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/prinia_gracilis.mp3",
         "last_seen": "2026-10-01T13:25:58",
-        "week_count": 25,
+        "week_count": 23,
         "v2_confidence": 0.9958,
         "badges": [
             {
@@ -423,7 +466,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
         "audio": "audio/streptopelia_senegalensis.mp3",
         "last_seen": "2026-10-01T12:19:41",
-        "week_count": 150,
+        "week_count": 143,
         "v2_confidence": 0.9985,
         "badges": [
             {
@@ -458,7 +501,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "audio": "audio/acridotheres_tristis.mp3",
         "last_seen": "2026-10-01T11:59:37",
-        "week_count": 38,
+        "week_count": 36,
         "v2_confidence": 0.9867,
         "badges": [
             {
@@ -564,7 +607,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Green_sandpiper_%28Tringa_ochropus%29.jpg/1280px-Green_sandpiper_%28Tringa_ochropus%29.jpg",
         "audio": "audio/tringa_ochropus.mp3",
         "last_seen": "2026-10-01T08:22:54",
-        "week_count": 12,
+        "week_count": 10,
         "v2_confidence": 0.9967,
         "badges": [
             {
@@ -669,49 +712,6 @@
         "v3_top_confidence": 0.943,
         "perch_top_label": "Chloris chloris_European Greenfinch",
         "perch_top_confidence": 0.9595,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Scops-Owl",
-        "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
-        "audio": "audio/otus_scops.mp3",
-        "last_seen": "2026-10-01T08:00:39",
-        "week_count": 49,
-        "v2_confidence": 0.9954,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9524,
-        "perch_confidence": 0.9787,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Scops Owl",
-            "agrees": true
-        },
-        "sci": "Otus scops",
-        "order": "Strigiformes",
-        "family": "Strigidae",
-        "local": 190,
-        "residency": "migrant",
-        "dawn_frac": 0.2005,
-        "dawn_total": 753,
-        "v3_top_label": "Otus scops_Eurasian Scops Owl",
-        "v3_top_confidence": 0.9524,
-        "perch_top_label": "Otus scops_Eurasian Scops Owl",
-        "perch_top_confidence": 0.9787,
         "photo": true
     },
     {
@@ -821,7 +821,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
         "audio": "audio/burhinus_oedicnemus.mp3",
         "last_seen": "2026-09-30T20:31:35",
-        "week_count": 52,
+        "week_count": 39,
         "v2_confidence": 0.9974,
         "badges": [
             {
@@ -1005,7 +1005,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Corvus_corax_ad_berlin_090516.jpg/1280px-Corvus_corax_ad_berlin_090516.jpg",
         "audio": "audio/corvus_corax.mp3",
         "last_seen": "2026-09-30T11:25:24",
-        "week_count": 13,
+        "week_count": 12,
         "v2_confidence": 0.9246,
         "badges": [],
         "v3_confidence": 0.6548,
@@ -1097,7 +1097,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grey_Heron_%2854990114762%29_%28cropped%29.jpg/1280px-Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
         "audio": "audio/ardea_cinerea.mp3",
         "last_seen": "2026-09-29T21:23:28",
-        "week_count": 4,
+        "week_count": 3,
         "v2_confidence": 0.9394,
         "badges": [
             {
@@ -1136,7 +1136,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg",
         "audio": "audio/ficedula_hypoleuca.mp3",
         "last_seen": "2026-09-29T17:51:28",
-        "week_count": 4,
+        "week_count": 3,
         "v2_confidence": 0.9651,
         "badges": [
             {
@@ -1203,7 +1203,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nordic_jackdaw_%2852563242448%29.jpg/1280px-Nordic_jackdaw_%2852563242448%29.jpg",
         "audio": "audio/corvus_monedula.mp3",
         "last_seen": "2026-09-29T14:14:43",
-        "week_count": 14,
+        "week_count": 12,
         "v2_confidence": 0.99,
         "badges": [
             {
@@ -1450,7 +1450,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Common_crane_grus_grus.jpg/1280px-Common_crane_grus_grus.jpg",
         "audio": "audio/grus_grus.mp3",
         "last_seen": "2026-09-29T00:49:28",
-        "week_count": 3,
+        "week_count": 2,
         "v2_confidence": 0.861,
         "badges": [
             {
@@ -1596,7 +1596,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wood_Sandpiper_Safari_Park.jpg/1280px-Wood_Sandpiper_Safari_Park.jpg",
         "audio": "audio/tringa_glareola.mp3",
         "last_seen": "2026-09-28T15:21:39",
-        "week_count": 2,
+        "week_count": 1,
         "v2_confidence": 0.9596,
         "badges": [
             {
@@ -1635,7 +1635,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
         "audio": "audio/hirundo_rustica.mp3",
         "last_seen": "2026-09-28T13:04:22",
-        "week_count": 4,
+        "week_count": 2,
         "v2_confidence": 0.968,
         "badges": [
             {
@@ -2018,7 +2018,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg/3840px-%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg",
         "audio": "audio/panurus_biarmicus.mp3",
         "last_seen": "2026-09-25T15:22:27",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.9665,
         "badges": [
             {
@@ -2053,7 +2053,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Eurasian_teal_%28Anas_crecca%29_Photograph_by_Shantanu_Kuveskar.jpg",
         "audio": "audio/anas_crecca.mp3",
         "last_seen": "2026-09-25T13:33:54",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.9431,
         "badges": [
             {
@@ -2092,7 +2092,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg/1280px-Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg",
         "audio": "audio/pernis_ptilorhynchus.mp3",
         "last_seen": "2026-09-25T12:37:24",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.837,
         "badges": [
             {
@@ -2132,7 +2132,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg/1280px-European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg",
         "audio": "audio/pluvialis_apricaria.mp3",
         "last_seen": "2026-09-25T02:13:24",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.9154,
         "badges": [
             {
