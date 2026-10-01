@@ -117,9 +117,14 @@ function makeCard(data) {
   meta.textContent = formatMeta(data, currentSortKey);
   btn.appendChild(meta);
 
+  // The dissent warning ("others hear a different species") is worth
+  // surfacing everywhere - it's the strongest signal this page has that a
+  // tag might be wrong. The confirmation badge stays Certainty-only so a
+  // green "All models agree" doesn't clutter every other card view for the
+  // majority of species where it would fire.
   const secondOpinion = document.createElement('span');
   secondOpinion.className = 'second-opinion';
-  if (currentSortKey === 'certainty' && data.second_opinion) {
+  if (data.second_opinion && (data.second_opinion.agrees ? currentSortKey === 'certainty' : true)) {
     secondOpinion.textContent = data.second_opinion.agrees
       ? '✓ All models agree'
       : `⚠ Others hear: ${data.second_opinion.com}`;

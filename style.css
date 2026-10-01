@@ -240,7 +240,8 @@ header {
   font-weight: 800;
 }
 
-/* Only rendered in the Certainty view (see makeCard() in app.js). */
+/* The dissent variant (.differs) renders on every view; the confirmation
+   variant (.agrees) stays Certainty-only (see makeCard() in app.js). */
 .second-opinion {
   display: block;
   margin-top: 4px;
