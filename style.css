@@ -329,3 +329,262 @@ header {
   background: rgba(255, 253, 246, 0.92);
   box-shadow: 0 2px 5px rgba(58, 50, 38, 0.25);
 }
+
+/* Info button: same circular-badge treatment as .play-badge, opposite
+   corner, so the two affordances read as a pair without competing. A real
+   <button> can't nest inside the card's own outer <button> (see app.js's
+   makeCard()), so this is a span acting as one - :focus-visible gives it a
+   visible ring since it has no native button focus styling to fall back on. */
+.info-badge {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: rgba(255, 253, 246, 0.92);
+  color: var(--blue-dark);
+  font-size: 1.05rem;
+  font-weight: 700;
+  box-shadow: 0 2px 5px rgba(58, 50, 38, 0.25);
+  cursor: pointer;
+}
+
+.info-badge:hover,
+.info-badge:focus-visible {
+  background: var(--blue);
+  color: #FFF9EF;
+  outline: none;
+}
+
+/* ---------------------------------------------------------------------------
+ * Bird detail popup.
+ * ------------------------------------------------------------------------ */
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 28px 16px;
+  overflow-y: auto;
+  background: rgba(58, 50, 38, 0.55);
+}
+
+.modal-overlay[hidden] {
+  display: none;
+}
+
+body.modal-open {
+  overflow: hidden;
+}
+
+.modal {
+  position: relative;
+  width: 100%;
+  max-width: 440px;
+  background: var(--card);
+  border-radius: 26px;
+  padding: 24px;
+  box-shadow: 0 20px 48px rgba(58, 50, 38, 0.3);
+  text-align: center;
+}
+
+.modal-close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  width: 34px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--cream);
+  color: var(--muted);
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.modal-close:hover,
+.modal-close:focus-visible {
+  background: var(--terracotta);
+  color: #FFF9EF;
+  outline: none;
+}
+
+.modal-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.modal-photo {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  background: #EFE7D3;
+}
+
+.modal-title {
+  display: flex;
+  flex-direction: column;
+}
+
+.modal-name-en {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: var(--ink);
+}
+
+.modal-name-he {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--blue);
+  margin-top: 2px;
+}
+
+.modal-sci {
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--muted);
+  margin-top: 2px;
+}
+
+.modal-badges {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 12px;
+}
+
+.modal-audio {
+  display: block;
+  width: 100%;
+  margin-top: 14px;
+}
+
+.modal-second-opinion {
+  margin-top: 10px;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.modal-second-opinion:empty {
+  display: none;
+}
+
+.modal-second-opinion.agrees {
+  color: var(--deep-green);
+}
+
+.modal-second-opinion.differs {
+  color: var(--warn);
+}
+
+.modal-scores {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 10px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.modal-facts {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 6px 14px;
+  margin: 16px 0 0;
+  padding: 14px;
+  background: var(--cream);
+  border-radius: 16px;
+  text-align: left;
+  font-size: 0.88rem;
+}
+
+.modal-facts dt {
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.modal-facts dd {
+  margin: 0;
+  color: var(--ink);
+  text-align: right;
+}
+
+.modal-graph {
+  margin-top: 18px;
+}
+
+.modal-graph .control-label {
+  margin: 0 0 8px;
+}
+
+.period-toggle {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.period-btn {
+  border: 2px solid #E8DFC8;
+  border-radius: 999px;
+  padding: 6px 16px;
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--blue-dark);
+  background: var(--card);
+  cursor: pointer;
+}
+
+.period-btn.active {
+  background: var(--blue);
+  border-color: var(--blue);
+  color: #FFF9EF;
+}
+
+.chart-wrap {
+  margin-top: 12px;
+}
+
+.chart-max {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--muted);
+  margin-bottom: 4px;
+}
+
+.chart-svg {
+  width: 100%;
+  height: 120px;
+  display: block;
+}
+
+.chart-bar {
+  fill: var(--terracotta);
+}
+
+.chart-axis {
+  font-size: 7px;
+  fill: var(--muted);
+  font-family: inherit;
+}
+
+.chart-empty,
+.chart-loading {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin: 20px 0;
+}

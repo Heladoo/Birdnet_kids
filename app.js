@@ -92,6 +92,32 @@ function makeCard(data) {
   badge.textContent = '▶';
   photo.appendChild(badge);
 
+  // A real <button> can't legally nest inside the card's own outer <button>
+  // (browsers would hoist it out, breaking the DOM/click wiring), so this is
+  // a span acting as a button: role, tabindex, and a keydown handler below
+  // provide the equivalent a11y. Tapping the card itself still just plays
+  // the clip - the detail popup lives behind this separate info icon so the
+  // two interactions never collide.
+  const info = document.createElement('span');
+  info.className = 'info-badge';
+  info.textContent = 'ⓘ';
+  info.setAttribute('role', 'button');
+  info.setAttribute('tabindex', '0');
+  info.setAttribute('aria-label', `More about ${data.name}`);
+  info.title = 'More about this bird';
+  info.addEventListener('click', (e) => {
+    e.stopPropagation();
+    openModal(data);
+  });
+  info.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      e.stopPropagation();
+      openModal(data);
+    }
+  });
+  photo.appendChild(info);
+
   btn.appendChild(photo);
 
   const nameWrap = document.createElement('span');
@@ -207,6 +233,231 @@ function applyView() {
     emptyState.style.display = sorted.length === 0 ? '' : 'none';
   }
 }
+
+/* ---------------------------------------------------------------------------
+ * Bird detail popup (info button on each card). Mirrors the LAN kids page's
+ * modal (see index.php/app.js there) - same markup/CSS classes, same
+ * agree/disagree score styling, same chart - adapted for this file's
+ * JS-built cards: `openModal` works straight off the already-fetched `data`
+ * object instead of parsing a DOM attribute, and the detections-over-time
+ * graph is backed by a single pre-baked `history.json` (there's no live
+ * backend here to query on demand) fetched once, lazily, and cached.
+ * ------------------------------------------------------------------------ */
+
+const modal = document.getElementById('bird-modal');
+const modalClose = modal ? modal.querySelector('.modal-close') : null;
+const modalPhoto = modal ? modal.querySelector('.modal-photo') : null;
+const modalNameEn = modal ? modal.querySelector('.modal-name-en') : null;
+const modalNameHe = modal ? modal.querySelector('.modal-name-he') : null;
+const modalSci = modal ? modal.querySelector('.modal-sci') : null;
+const modalBadges = modal ? modal.querySelector('.modal-badges') : null;
+const modalAudio = modal ? modal.querySelector('.modal-audio') : null;
+const modalSecondOpinion = modal ? modal.querySelector('.modal-second-opinion') : null;
+const modalScores = modal ? modal.querySelector('.modal-scores') : null;
+const modalFacts = modal ? modal.querySelector('.modal-facts') : null;
+const chartWrap = modal ? modal.querySelector('.chart-wrap') : null;
+const periodButtons = modal ? Array.from(modal.querySelectorAll('.period-btn')) : [];
+
+// The whole history.json, fetched at most once per page load regardless of
+// how many popups get opened.
+let historyPromise = null;
+let currentHistory = null;
+let currentPeriod = 'daily';
+let lastFocused = null;
+
+function fact(label, value) {
+  if (value === null || value === undefined || value === '') {
+    return '';
+  }
+  return `<dt>${label}</dt><dd>${value}</dd>`;
+}
+
+function scoreSpan(icon, label, conf, agrees) {
+  const tip = label + (conf !== null && conf !== undefined
+    ? (agrees ? ' — picked this species' : ' — picked a different species') : '');
+  return `<span class="score${agrees ? ' score-agrees' : ''}" title="${tip}">${icon} ${formatScore(conf)}</span>`;
+}
+
+function populateModal(data) {
+  modalNameEn.textContent = data.name;
+  if (data.he_name) {
+    modalNameHe.textContent = data.he_name;
+    modalNameHe.hidden = false;
+  } else {
+    modalNameHe.textContent = '';
+    modalNameHe.hidden = true;
+  }
+  modalSci.textContent = data.sci || '';
+  modalPhoto.src = data.image || 'bird-placeholder.svg';
+  modalPhoto.alt = data.name;
+
+  modalBadges.innerHTML = (Array.isArray(data.badges) ? data.badges : [])
+    .map((b) => `<span class="badge" title="${b.he || ''}" aria-label="${b.he || ''}">${b.i}</span>`)
+    .join('');
+
+  modalAudio.src = data.audio || '';
+
+  // Unlike the card grid (where the confirmation half is Certainty-sort-only
+  // to avoid clutter), the popup is a dedicated detail view - show whichever
+  // variant applies, always.
+  if (data.second_opinion) {
+    const agrees = data.second_opinion.agrees;
+    modalSecondOpinion.textContent = agrees ? '✓ All models agree' : `⚠ Others hear: ${data.second_opinion.com}`;
+    modalSecondOpinion.className = `modal-second-opinion ${agrees ? 'agrees' : 'differs'}`;
+  } else {
+    modalSecondOpinion.textContent = '';
+    modalSecondOpinion.className = 'modal-second-opinion';
+  }
+
+  modalScores.innerHTML = [
+    scoreSpan('🐦', 'BirdNET v2.4 (our main model)', data.v2_confidence, true),
+    scoreSpan('3️⃣', 'BirdNET+ V3.0 developer preview', data.v3_confidence, data.v3_agrees),
+    scoreSpan('<strong>G</strong>', 'Google Perch v2', data.perch_confidence, data.perch_agrees),
+  ].join('');
+
+  const lastSeen = new Date(data.last_seen);
+  modalFacts.innerHTML = [
+    fact('Scientific name', data.sci ? `<em>${data.sci}</em>` : ''),
+    fact('Order', data.order),
+    fact('Family', data.family),
+    fact('Residency', data.residency),
+    fact('Local records', data.local === null || data.local === undefined ? null : data.local),
+    fact('Dawn calls', data.dawn_total > 0 ? `${Math.round(data.dawn_frac * 100)}% of ${data.dawn_total}` : null),
+    fact('Heard this week', `${data.week_count} time${Number(data.week_count) === 1 ? '' : 's'}`),
+    fact('Last seen', isNaN(lastSeen) ? '' : formatDate(lastSeen)),
+  ].join('');
+}
+
+function dateLabel(d) {
+  return `${String(d.getDate()).padStart(2, '0')}/${String(d.getMonth() + 1).padStart(2, '0')}`;
+}
+
+function monthLabel(d) {
+  return d.toLocaleDateString('en', { month: 'short' });
+}
+
+// Renders `counts` (oldest -> newest) as a simple inline SVG bar chart - no
+// charting library, matching this project's zero-dependency convention (the
+// only external asset anywhere is the Google Fonts link).
+function renderChart(counts, period) {
+  if (!counts || !counts.length) {
+    chartWrap.innerHTML = '<p class="chart-empty">No data yet</p>';
+    return;
+  }
+  const max = Math.max(1, ...counts);
+  const width = 320;
+  const height = 120;
+  const n = counts.length;
+  const barWidth = width / n;
+  const labelEvery = period === 'daily' ? 5 : 8;
+  const today = new Date();
+
+  let bars = '';
+  let labels = '';
+  counts.forEach((c, i) => {
+    const barHeight = (c / max) * (height - 18);
+    const x = i * barWidth;
+    const y = height - 18 - barHeight;
+    bars += `<rect class="chart-bar" x="${x + 1}" y="${y}" width="${Math.max(1, barWidth - 2)}" height="${Math.max(0, barHeight)}"><title>${c}</title></rect>`;
+
+    const stepsFromNewest = n - 1 - i;
+    const fromToday = period === 'daily' ? stepsFromNewest : stepsFromNewest * 7;
+    if (stepsFromNewest % labelEvery === 0) {
+      const d = new Date(today);
+      d.setDate(d.getDate() - fromToday);
+      const text = period === 'daily' ? dateLabel(d) : monthLabel(d);
+      labels += `<text class="chart-axis" x="${x + barWidth / 2}" y="${height - 4}" text-anchor="middle">${text}</text>`;
+    }
+  });
+
+  chartWrap.innerHTML = `
+    <div class="chart-max">Busiest: ${max} in one ${period === 'daily' ? 'day' : 'week'}</div>
+    <svg class="chart-svg" viewBox="0 0 ${width} ${height}" preserveAspectRatio="none">
+      ${bars}${labels}
+    </svg>`;
+}
+
+function setPeriod(period) {
+  currentPeriod = period;
+  periodButtons.forEach((b) => b.classList.toggle('active', b.dataset.period === period));
+  if (currentHistory) {
+    renderChart(currentHistory[period], period);
+  }
+}
+
+function fetchHistoryOnce() {
+  if (!historyPromise) {
+    historyPromise = fetch('history.json').then((r) => r.json()).catch(() => ({}));
+  }
+  return historyPromise;
+}
+
+function loadHistory(sci) {
+  chartWrap.innerHTML = '<p class="chart-loading">Loading…</p>';
+  currentHistory = null;
+  fetchHistoryOnce().then((all) => {
+    currentHistory = all[sci] || { daily: [], weekly: [] };
+    renderChart(currentHistory[currentPeriod], currentPeriod);
+  });
+}
+
+function openModal(data) {
+  if (!modal) {
+    return;
+  }
+  populateModal(data);
+  setPeriod('daily');
+  if (data.sci) {
+    loadHistory(data.sci);
+  }
+
+  lastFocused = document.activeElement;
+  modal.hidden = false;
+  document.body.classList.add('modal-open');
+  if (modalClose) {
+    modalClose.focus();
+  }
+}
+
+function closeModal() {
+  if (!modal || modal.hidden) {
+    return;
+  }
+  modal.hidden = true;
+  document.body.classList.remove('modal-open');
+  modalAudio.pause();
+  if (lastFocused && lastFocused.focus) {
+    lastFocused.focus();
+  }
+}
+
+periodButtons.forEach((btn) => {
+  btn.addEventListener('click', () => setPeriod(btn.dataset.period));
+});
+
+if (modalClose) {
+  modalClose.addEventListener('click', closeModal);
+  modalClose.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      closeModal();
+    }
+  });
+}
+
+if (modal) {
+  modal.addEventListener('click', (e) => {
+    if (e.target === modal) {
+      closeModal();
+    }
+  });
+}
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') {
+    closeModal();
+  }
+});
 
 document.querySelectorAll('.sort-btn').forEach((btn) => {
   btn.addEventListener('click', () => {

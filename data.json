@@ -4,8 +4,8 @@
         "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
         "audio": "audio/merops_apiaster.mp3",
-        "last_seen": "2026-10-01T13:50:58",
-        "week_count": 454,
+        "last_seen": "2026-10-01T14:19:52",
+        "week_count": 457,
         "v2_confidence": 0.9985,
         "badges": [
             {
@@ -17,7 +17,19 @@
         "perch_confidence": 0.6554,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Merops apiaster",
+        "order": "Coraciiformes",
+        "family": "Meropidae",
+        "local": 2128,
+        "residency": "migrant",
+        "dawn_frac": 0.0694,
+        "dawn_total": 1628,
+        "v3_top_label": "Merops apiaster_European Bee-eater",
+        "v3_top_confidence": 0.9088,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.7345,
+        "photo": true
     },
     {
         "name": "Eurasian Collared-Dove",
@@ -40,7 +52,19 @@
         "second_opinion": {
             "com": "Eurasian Collared Dove",
             "agrees": true
-        }
+        },
+        "sci": "Streptopelia decaocto",
+        "order": "Columbiformes",
+        "family": "Columbidae",
+        "local": 8650,
+        "residency": "resident",
+        "dawn_frac": 0.051,
+        "dawn_total": 2275,
+        "v3_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
+        "v3_top_confidence": 0.96,
+        "perch_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
+        "perch_top_confidence": 0.8294,
+        "photo": true
     },
     {
         "name": "White Wagtail",
@@ -63,7 +87,19 @@
         "second_opinion": {
             "com": "White Wagtail",
             "agrees": true
-        }
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 5740,
+        "residency": "migrant",
+        "dawn_frac": 0.181,
+        "dawn_total": 116,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
     },
     {
         "name": "Crested Lark",
@@ -86,7 +122,19 @@
         "second_opinion": {
             "com": "Crested Lark",
             "agrees": true
-        }
+        },
+        "sci": "Galerida cristata",
+        "order": "Passeriformes",
+        "family": "Alaudidae",
+        "local": 6844,
+        "residency": "resident",
+        "dawn_frac": 0.1497,
+        "dawn_total": 394,
+        "v3_top_label": "Galerida cristata_Crested Lark",
+        "v3_top_confidence": 0.9411,
+        "perch_top_label": "Galerida cristata_Crested Lark",
+        "perch_top_confidence": 0.625,
+        "photo": true
     },
     {
         "name": "Graceful Prinia",
@@ -106,7 +154,19 @@
         "perch_confidence": 0.2728,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Prinia gracilis",
+        "order": "Passeriformes",
+        "family": "Cisticolidae",
+        "local": 7555,
+        "residency": "resident",
+        "dawn_frac": 0.0041,
+        "dawn_total": 3134,
+        "v3_top_label": "Prinia lepida_Delicate Prinia",
+        "v3_top_confidence": 0.4048,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.2728,
+        "photo": true
     },
     {
         "name": "Laughing Dove",
@@ -129,7 +189,19 @@
         "second_opinion": {
             "com": "Laughing Dove",
             "agrees": true
-        }
+        },
+        "sci": "Streptopelia senegalensis",
+        "order": "Columbiformes",
+        "family": "Columbidae",
+        "local": 5355,
+        "residency": "resident",
+        "dawn_frac": 0.0641,
+        "dawn_total": 5396,
+        "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "v3_top_confidence": 0.924,
+        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "perch_top_confidence": 0.5157,
+        "photo": true
     },
     {
         "name": "Common Myna",
@@ -152,7 +224,19 @@
         "second_opinion": {
             "com": "Common Myna",
             "agrees": true
-        }
+        },
+        "sci": "Acridotheres tristis",
+        "order": "Passeriformes",
+        "family": "Sturnidae",
+        "local": 5641,
+        "residency": "resident",
+        "dawn_frac": 0.0927,
+        "dawn_total": 1100,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
+        "photo": true
     },
     {
         "name": "Spur-winged Lapwing",
@@ -179,7 +263,19 @@
         "second_opinion": {
             "com": "Spur-winged Lapwing",
             "agrees": true
-        }
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 6693,
+        "residency": "resident",
+        "dawn_frac": 0.086,
+        "dawn_total": 13563,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
     },
     {
         "name": "Red-rumped Swallow",
@@ -199,7 +295,19 @@
         "perch_confidence": 0.7221,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Cecropis daurica",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 3,
+        "residency": "migrant",
+        "dawn_frac": 0.0526,
+        "dawn_total": 2150,
+        "v3_top_label": "Scolopax minor_American Woodcock",
+        "v3_top_confidence": 0.5984,
+        "perch_top_label": "Cecropis daurica_Eastern Red-rumped Swallow",
+        "perch_top_confidence": 0.7221,
+        "photo": true
     },
     {
         "name": "Rose-ringed Parakeet",
@@ -222,7 +330,19 @@
         "second_opinion": {
             "com": "Rose-ringed Parakeet",
             "agrees": true
-        }
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 4483,
+        "residency": "resident",
+        "dawn_frac": 0.0153,
+        "dawn_total": 4975,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
     },
     {
         "name": "Citrine Wagtail",
@@ -240,7 +360,19 @@
         "second_opinion": {
             "com": "Western Yellow Wagtail",
             "agrees": false
-        }
+        },
+        "sci": "Motacilla citreola",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 226,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 10,
+        "v3_top_label": "Motacilla flava_Western Yellow Wagtail",
+        "v3_top_confidence": 0.4545,
+        "perch_top_label": "Motacilla flava_Western Yellow Wagtail",
+        "perch_top_confidence": 0.3643,
+        "photo": true
     },
     {
         "name": "Eurasian Kestrel",
@@ -267,7 +399,19 @@
         "second_opinion": {
             "com": "Common Kestrel",
             "agrees": true
-        }
+        },
+        "sci": "Falco tinnunculus",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 7494,
+        "residency": "resident",
+        "dawn_frac": 0.0827,
+        "dawn_total": 254,
+        "v3_top_label": "Falco tinnunculus_Common Kestrel",
+        "v3_top_confidence": 0.4129,
+        "perch_top_label": "Falco tinnunculus_Common Kestrel",
+        "perch_top_confidence": 0.4165,
+        "photo": true
     },
     {
         "name": "Green Sandpiper",
@@ -294,7 +438,19 @@
         "second_opinion": {
             "com": "Green Sandpiper",
             "agrees": true
-        }
+        },
+        "sci": "Tringa ochropus",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 1784,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 50,
+        "v3_top_label": "Tringa ochropus_Green Sandpiper",
+        "v3_top_confidence": 0.8386,
+        "perch_top_label": "Tringa ochropus_Green Sandpiper",
+        "perch_top_confidence": 0.8631,
+        "photo": true
     },
     {
         "name": "Little Grebe",
@@ -321,7 +477,19 @@
         "second_opinion": {
             "com": "Little Grebe",
             "agrees": true
-        }
+        },
+        "sci": "Tachybaptus ruficollis",
+        "order": "Podicipediformes",
+        "family": "Podicipedidae",
+        "local": 4358,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 18,
+        "v3_top_label": "Tachybaptus ruficollis_Little Grebe",
+        "v3_top_confidence": 0.8192,
+        "perch_top_label": "Tachybaptus ruficollis_Little Grebe",
+        "perch_top_confidence": 0.672,
+        "photo": true
     },
     {
         "name": "European Greenfinch",
@@ -344,7 +512,19 @@
         "second_opinion": {
             "com": "European Greenfinch",
             "agrees": true
-        }
+        },
+        "sci": "Chloris chloris",
+        "order": "Passeriformes",
+        "family": "Fringillidae",
+        "local": 0,
+        "residency": "resident",
+        "dawn_frac": 0.0426,
+        "dawn_total": 399,
+        "v3_top_label": "Chloris chloris_European Greenfinch",
+        "v3_top_confidence": 0.943,
+        "perch_top_label": "Chloris chloris_European Greenfinch",
+        "perch_top_confidence": 0.9595,
+        "photo": true
     },
     {
         "name": "Eurasian Scops-Owl",
@@ -375,7 +555,19 @@
         "second_opinion": {
             "com": "Eurasian Scops Owl",
             "agrees": true
-        }
+        },
+        "sci": "Otus scops",
+        "order": "Strigiformes",
+        "family": "Strigidae",
+        "local": 190,
+        "residency": "migrant",
+        "dawn_frac": 0.2005,
+        "dawn_total": 753,
+        "v3_top_label": "Otus scops_Eurasian Scops Owl",
+        "v3_top_confidence": 0.9524,
+        "perch_top_label": "Otus scops_Eurasian Scops Owl",
+        "perch_top_confidence": 0.9787,
+        "photo": true
     },
     {
         "name": "White-throated Kingfisher",
@@ -402,7 +594,19 @@
         "second_opinion": {
             "com": "White-throated Kingfisher",
             "agrees": true
-        }
+        },
+        "sci": "Halcyon smyrnensis",
+        "order": "Coraciiformes",
+        "family": "Alcedinidae",
+        "local": 3350,
+        "residency": "resident",
+        "dawn_frac": 0.4188,
+        "dawn_total": 1330,
+        "v3_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "v3_top_confidence": 0.9623,
+        "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "perch_top_confidence": 0.2317,
+        "photo": true
     },
     {
         "name": "Willow Warbler",
@@ -420,7 +624,19 @@
         "second_opinion": {
             "com": "Willow Warbler",
             "agrees": true
-        }
+        },
+        "sci": "Phylloscopus trochilus",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 1957,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 5,
+        "v3_top_label": "Phylloscopus trochilus_Willow Warbler",
+        "v3_top_confidence": 0.9711,
+        "perch_top_label": "Phylloscopus trochilus_Willow Warbler",
+        "perch_top_confidence": 0.9402,
+        "photo": true
     },
     {
         "name": "Gray Wagtail",
@@ -443,7 +659,19 @@
         "second_opinion": {
             "com": "Grey Wagtail",
             "agrees": true
-        }
+        },
+        "sci": "Motacilla cinerea",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 96,
+        "residency": "migrant",
+        "dawn_frac": 0.087,
+        "dawn_total": 23,
+        "v3_top_label": "Motacilla cinerea_Grey Wagtail",
+        "v3_top_confidence": 0.874,
+        "perch_top_label": "Motacilla cinerea_Grey Wagtail",
+        "perch_top_confidence": 0.2349,
+        "photo": true
     },
     {
         "name": "Black-bellied Plover",
@@ -467,7 +695,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Pluvialis squatarola",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 36,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 2,
+        "v3_top_label": "Sayornis saya_Say's Phoebe",
+        "v3_top_confidence": 0.4029,
+        "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "perch_top_confidence": 0.0626,
+        "photo": true
     },
     {
         "name": "Eurasian Thick-knee",
@@ -490,7 +730,19 @@
         "second_opinion": {
             "com": "Eurasian Stone-curlew",
             "agrees": true
-        }
+        },
+        "sci": "Burhinus oedicnemus",
+        "order": "Charadriiformes",
+        "family": "Burhinidae",
+        "local": 2008,
+        "residency": "resident",
+        "dawn_frac": 0.1403,
+        "dawn_total": 1233,
+        "v3_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
+        "v3_top_confidence": 0.876,
+        "perch_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
+        "perch_top_confidence": 0.8837,
+        "photo": true
     },
     {
         "name": "Common Greenshank",
@@ -517,7 +769,19 @@
         "second_opinion": {
             "com": "Common Greenshank",
             "agrees": true
-        }
+        },
+        "sci": "Tringa nebularia",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 361,
+        "residency": "migrant",
+        "dawn_frac": 0.027,
+        "dawn_total": 74,
+        "v3_top_label": "Tringa nebularia_Common Greenshank",
+        "v3_top_confidence": 0.3484,
+        "perch_top_label": "Tringa nebularia_Common Greenshank",
+        "perch_top_confidence": 0.2477,
+        "photo": true
     },
     {
         "name": "Eurasian Wryneck",
@@ -540,7 +804,19 @@
         "second_opinion": {
             "com": "Eurasian Wryneck",
             "agrees": true
-        }
+        },
+        "sci": "Jynx torquilla",
+        "order": "Piciformes",
+        "family": "Picidae",
+        "local": 399,
+        "residency": "migrant",
+        "dawn_frac": 0.0435,
+        "dawn_total": 46,
+        "v3_top_label": "Jynx torquilla_Eurasian Wryneck",
+        "v3_top_confidence": 0.2748,
+        "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
+        "perch_top_confidence": 0.3786,
+        "photo": true
     },
     {
         "name": "Barn Owl",
@@ -571,7 +847,19 @@
         "second_opinion": {
             "com": "Western Barn Owl",
             "agrees": true
-        }
+        },
+        "sci": "Tyto alba",
+        "order": "Strigiformes",
+        "family": "Tytonidae",
+        "local": 434,
+        "residency": "resident",
+        "dawn_frac": 0.0749,
+        "dawn_total": 267,
+        "v3_top_label": "Tyto alba_Western Barn Owl",
+        "v3_top_confidence": 0.8618,
+        "perch_top_label": "Tyto alba_Western Barn Owl",
+        "perch_top_confidence": 0.8305,
+        "photo": true
     },
     {
         "name": "Common Chiffchaff",
@@ -594,7 +882,19 @@
         "second_opinion": {
             "com": "Common Chiffchaff",
             "agrees": true
-        }
+        },
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 3834,
+        "residency": "migrant",
+        "dawn_frac": 0.0196,
+        "dawn_total": 51,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
+        "photo": true
     },
     {
         "name": "Sardinian Warbler",
@@ -614,7 +914,19 @@
         "perch_confidence": 0.1059,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Curruca melanocephala",
+        "order": "Passeriformes",
+        "family": "Sylviidae",
+        "local": 3362,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 4,
+        "v3_top_label": "Phoenicurus ochruros_Black Redstart",
+        "v3_top_confidence": 0.459,
+        "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
+        "perch_top_confidence": 0.1059,
+        "photo": true
     },
     {
         "name": "Common Raven",
@@ -632,7 +944,19 @@
         "second_opinion": {
             "com": "Northern Raven",
             "agrees": true
-        }
+        },
+        "sci": "Corvus corax",
+        "order": "Passeriformes",
+        "family": "Corvidae",
+        "local": 10,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 27,
+        "v3_top_label": "Corvus corax_Northern Raven",
+        "v3_top_confidence": 0.6548,
+        "perch_top_label": "Corvus corax_Northern Raven",
+        "perch_top_confidence": 0.4183,
+        "photo": true
     },
     {
         "name": "Eurasian Linnet",
@@ -650,7 +974,19 @@
         "second_opinion": {
             "com": "Common Myna",
             "agrees": false
-        }
+        },
+        "sci": "Linaria cannabina",
+        "order": "Passeriformes",
+        "family": "Fringillidae",
+        "local": 1251,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 3,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9458,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.1292,
+        "photo": true
     },
     {
         "name": "Rosy Starling",
@@ -670,7 +1006,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Pastor roseus",
+        "order": "Passeriformes",
+        "family": "Sturnidae",
+        "local": 14,
+        "residency": "migrant",
+        "dawn_frac": 0.4286,
+        "dawn_total": 7,
+        "v3_top_label": "Cistothorus palustris_Marsh Wren",
+        "v3_top_confidence": 0.0984,
+        "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
+        "perch_top_confidence": 0.0381,
+        "photo": true
     },
     {
         "name": "Gray Heron",
@@ -697,7 +1045,19 @@
         "second_opinion": {
             "com": "Grey Heron",
             "agrees": true
-        }
+        },
+        "sci": "Ardea cinerea",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 1060,
+        "residency": "resident",
+        "dawn_frac": 0.023,
+        "dawn_total": 87,
+        "v3_top_label": "Ardea cinerea_Grey Heron",
+        "v3_top_confidence": 0.7442,
+        "perch_top_label": "Ardea cinerea_Grey Heron",
+        "perch_top_confidence": 0.8582,
+        "photo": true
     },
     {
         "name": "European Pied Flycatcher",
@@ -720,7 +1080,19 @@
         "second_opinion": {
             "com": "European Pied Flycatcher",
             "agrees": true
-        }
+        },
+        "sci": "Ficedula hypoleuca",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 64,
+        "residency": "migrant",
+        "dawn_frac": 0.0185,
+        "dawn_total": 54,
+        "v3_top_label": "Ficedula hypoleuca_European Pied Flycatcher",
+        "v3_top_confidence": 0.3758,
+        "perch_top_label": "Ficedula hypoleuca_European Pied Flycatcher",
+        "perch_top_confidence": 0.7878,
+        "photo": true
     },
     {
         "name": "River Warbler",
@@ -740,7 +1112,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Locustella fluviatilis",
+        "order": "Passeriformes",
+        "family": "Locustellidae",
+        "local": 13,
+        "residency": "migrant",
+        "dawn_frac": 0.0118,
+        "dawn_total": 169,
+        "v3_top_label": "Delichon urbicum_Western House Martin",
+        "v3_top_confidence": 0.1843,
+        "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
+        "perch_top_confidence": 0.0639,
+        "photo": true
     },
     {
         "name": "Eurasian Jackdaw",
@@ -763,7 +1147,19 @@
         "second_opinion": {
             "com": "Western Jackdaw",
             "agrees": true
-        }
+        },
+        "sci": "Corvus monedula",
+        "order": "Passeriformes",
+        "family": "Corvidae",
+        "local": 2723,
+        "residency": "resident",
+        "dawn_frac": 0.0267,
+        "dawn_total": 600,
+        "v3_top_label": "Coloeus monedula_Western Jackdaw",
+        "v3_top_confidence": 0.9233,
+        "perch_top_label": "Coloeus monedula_Western Jackdaw",
+        "perch_top_confidence": 0.7874,
+        "photo": true
     },
     {
         "name": "Pied Avocet",
@@ -787,7 +1183,19 @@
         "perch_confidence": 0.0253,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Recurvirostra avosetta",
+        "order": "Charadriiformes",
+        "family": "Recurvirostridae",
+        "local": 156,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 4,
+        "v3_top_label": "Chiroxiphia caudata_Blue Manakin",
+        "v3_top_confidence": 0.2636,
+        "perch_top_label": "Pycnonotus goiavier_Yellow-vented Bulbul",
+        "perch_top_confidence": 0.0547,
+        "photo": true
     },
     {
         "name": "Greater White-fronted Goose",
@@ -811,7 +1219,19 @@
         "perch_confidence": 0.036,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Anser albifrons",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "local": 22,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 32,
+        "v3_top_label": "Gavia immer_Common Loon",
+        "v3_top_confidence": 0.3275,
+        "perch_top_label": "Branta canadensis_Canada Goose",
+        "perch_top_confidence": 0.1104,
+        "photo": true
     },
     {
         "name": "Graylag Goose",
@@ -835,7 +1255,19 @@
         "perch_confidence": 0.0395,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Anser anser",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "local": 12,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 7,
+        "v3_top_label": "Tachymarptis melba_Alpine Swift",
+        "v3_top_confidence": 0.078,
+        "perch_top_label": "Phasianus colchicus_Common Pheasant",
+        "perch_top_confidence": 0.3889,
+        "photo": true
     },
     {
         "name": "Common Tern",
@@ -859,7 +1291,19 @@
         "perch_confidence": 0.0685,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Sterna hirundo",
+        "order": "Charadriiformes",
+        "family": "Laridae",
+        "local": 47,
+        "residency": "migrant",
+        "dawn_frac": 0.15,
+        "dawn_total": 20,
+        "v3_top_label": "Dinopium benghalense_Black-rumped Flameback",
+        "v3_top_confidence": 0.3217,
+        "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
+        "perch_top_confidence": 0.087,
+        "photo": true
     },
     {
         "name": "Merlin",
@@ -883,7 +1327,19 @@
         "perch_confidence": 0.4578,
         "v3_agrees": true,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Falco columbarius",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 620,
+        "residency": "migrant",
+        "dawn_frac": 0.1239,
+        "dawn_total": 113,
+        "v3_top_label": "Falco subbuteo_Eurasian Hobby",
+        "v3_top_confidence": 0.7069,
+        "perch_top_label": "Falco columbarius_Merlin",
+        "perch_top_confidence": 0.4578,
+        "photo": true
     },
     {
         "name": "Water Rail",
@@ -903,7 +1359,19 @@
         "perch_confidence": 0.3527,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Rallus aquaticus",
+        "order": "Gruiformes",
+        "family": "Rallidae",
+        "local": 387,
+        "residency": "",
+        "dawn_frac": 0.2,
+        "dawn_total": 5,
+        "v3_top_label": "Pardalotus punctatus_Spotted Pardalote",
+        "v3_top_confidence": 0.6166,
+        "perch_top_label": "Rallus aquaticus_Water Rail",
+        "perch_top_confidence": 0.3527,
+        "photo": true
     },
     {
         "name": "Common Crane",
@@ -927,7 +1395,19 @@
         "perch_confidence": 0.3963,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Grus grus",
+        "order": "Gruiformes",
+        "family": "Gruidae",
+        "local": 1339,
+        "residency": "migrant",
+        "dawn_frac": 0.1429,
+        "dawn_total": 14,
+        "v3_top_label": "Prinia gracilis_Graceful Prinia",
+        "v3_top_confidence": 0.5645,
+        "perch_top_label": "Grus grus_Common Crane",
+        "perch_top_confidence": 0.3963,
+        "photo": true
     },
     {
         "name": "Little Ringed Plover",
@@ -958,7 +1438,19 @@
         "second_opinion": {
             "com": "Little Ringed Plover",
             "agrees": true
-        }
+        },
+        "sci": "Charadrius dubius",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 0,
+        "residency": "migrant",
+        "dawn_frac": 0.1,
+        "dawn_total": 10,
+        "v3_top_label": "Charadrius dubius_Little Ringed Plover",
+        "v3_top_confidence": 0.676,
+        "perch_top_label": "Thinornis dubius_Little Ringed Plover",
+        "perch_top_confidence": 0.4571,
+        "photo": true
     },
     {
         "name": "Eurasian Hoopoe",
@@ -981,7 +1473,19 @@
         "second_opinion": {
             "com": "Eurasian Hoopoe",
             "agrees": true
-        }
+        },
+        "sci": "Upupa epops",
+        "order": "Bucerotiformes",
+        "family": "Upupidae",
+        "local": 3028,
+        "residency": "resident",
+        "dawn_frac": 0.0334,
+        "dawn_total": 299,
+        "v3_top_label": "Upupa epops_Eurasian Hoopoe",
+        "v3_top_confidence": 0.9469,
+        "perch_top_label": "Upupa epops_Eurasian Hoopoe",
+        "perch_top_confidence": 0.8821,
+        "photo": true
     },
     {
         "name": "Collared Flycatcher",
@@ -1001,7 +1505,19 @@
         "perch_confidence": 0.2257,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Ficedula albicollis",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 157,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 2,
+        "v3_top_label": "Lanius ludovicianus_Loggerhead Shrike",
+        "v3_top_confidence": 0.3812,
+        "perch_top_label": "Ficedula albicollis_Collared Flycatcher",
+        "perch_top_confidence": 0.2257,
+        "photo": true
     },
     {
         "name": "Wood Sandpiper",
@@ -1028,7 +1544,19 @@
         "second_opinion": {
             "com": "Wood Sandpiper",
             "agrees": true
-        }
+        },
+        "sci": "Tringa glareola",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 1661,
+        "residency": "migrant",
+        "dawn_frac": 0.0556,
+        "dawn_total": 36,
+        "v3_top_label": "Tringa glareola_Wood Sandpiper",
+        "v3_top_confidence": 0.9375,
+        "perch_top_label": "Tringa glareola_Wood Sandpiper",
+        "perch_top_confidence": 0.3965,
+        "photo": true
     },
     {
         "name": "Gadwall",
@@ -1052,7 +1580,19 @@
         "perch_confidence": 0.0666,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Mareca strepera",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "local": 371,
+        "residency": "migrant",
+        "dawn_frac": 0.15,
+        "dawn_total": 20,
+        "v3_top_label": "Mareca strepera_Gadwall",
+        "v3_top_confidence": 0.4762,
+        "perch_top_label": "Anas platyrhynchos_Mallard",
+        "perch_top_confidence": 0.1487,
+        "photo": true
     },
     {
         "name": "Barn Swallow",
@@ -1075,7 +1615,19 @@
         "second_opinion": {
             "com": "Barn Swallow",
             "agrees": true
-        }
+        },
+        "sci": "Hirundo rustica",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 5368,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 166,
+        "v3_top_label": "Hirundo rustica_Barn Swallow",
+        "v3_top_confidence": 0.905,
+        "perch_top_label": "Hirundo rustica_Barn Swallow",
+        "perch_top_confidence": 0.8648,
+        "photo": true
     },
     {
         "name": "Common Chaffinch",
@@ -1098,7 +1650,19 @@
         "second_opinion": {
             "com": "Eastern Red-rumped Swallow",
             "agrees": false
-        }
+        },
+        "sci": "Fringilla coelebs",
+        "order": "Passeriformes",
+        "family": "Fringillidae",
+        "local": 2533,
+        "residency": "migrant",
+        "dawn_frac": 0.1176,
+        "dawn_total": 17,
+        "v3_top_label": "Cecropis daurica_Eastern Red-rumped Swallow",
+        "v3_top_confidence": 0.4406,
+        "perch_top_label": "Cecropis daurica_Eastern Red-rumped Swallow",
+        "perch_top_confidence": 0.3934,
+        "photo": true
     },
     {
         "name": "Western Yellow Wagtail",
@@ -1116,7 +1680,19 @@
         "second_opinion": {
             "com": "Western Yellow Wagtail",
             "agrees": true
-        }
+        },
+        "sci": "Motacilla flava",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 1685,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 56,
+        "v3_top_label": "Motacilla flava_Western Yellow Wagtail",
+        "v3_top_confidence": 0.9239,
+        "perch_top_label": "Motacilla flava_Western Yellow Wagtail",
+        "perch_top_confidence": 0.8957,
+        "photo": true
     },
     {
         "name": "Common House-Martin",
@@ -1139,7 +1715,19 @@
         "second_opinion": {
             "com": "Laughing Dove",
             "agrees": false
-        }
+        },
+        "sci": "Delichon urbicum",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 480,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 67,
+        "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "v3_top_confidence": 0.7368,
+        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "perch_top_confidence": 0.0852,
+        "photo": true
     },
     {
         "name": "Common Quail",
@@ -1166,7 +1754,19 @@
         "second_opinion": {
             "com": "Common Quail",
             "agrees": true
-        }
+        },
+        "sci": "Coturnix coturnix",
+        "order": "Galliformes",
+        "family": "Phasianidae",
+        "local": 395,
+        "residency": "migrant",
+        "dawn_frac": 0.8667,
+        "dawn_total": 45,
+        "v3_top_label": "Coturnix coturnix_Common Quail",
+        "v3_top_confidence": 0.9259,
+        "perch_top_label": "Coturnix coturnix_Common Quail",
+        "perch_top_confidence": 0.8633,
+        "photo": true
     },
     {
         "name": "Black Redstart",
@@ -1189,7 +1789,19 @@
         "second_opinion": {
             "com": "Black Redstart",
             "agrees": true
-        }
+        },
+        "sci": "Phoenicurus ochruros",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 1575,
+        "residency": "migrant",
+        "dawn_frac": 0.1865,
+        "dawn_total": 193,
+        "v3_top_label": "Phoenicurus ochruros_Black Redstart",
+        "v3_top_confidence": 0.9386,
+        "perch_top_label": "Phoenicurus ochruros_Black Redstart",
+        "perch_top_confidence": 0.9259,
+        "photo": true
     },
     {
         "name": "Dunlin",
@@ -1213,7 +1825,19 @@
         "perch_confidence": 0.4505,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Calidris alpina",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 247,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 6,
+        "v3_top_label": "Troglodytes musculus_Southern House Wren",
+        "v3_top_confidence": 0.4137,
+        "perch_top_label": "Calidris alpina_Dunlin",
+        "perch_top_confidence": 0.4505,
+        "photo": true
     },
     {
         "name": "Sandwich Tern",
@@ -1237,7 +1861,19 @@
         "perch_confidence": 0.0656,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Thalasseus sandvicensis",
+        "order": "Charadriiformes",
+        "family": "Laridae",
+        "local": 207,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 11,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.2286,
+        "perch_top_label": "Tringa nebularia_Common Greenshank",
+        "perch_top_confidence": 0.0817,
+        "photo": true
     },
     {
         "name": "Black-crowned Night-Heron",
@@ -1264,7 +1900,19 @@
         "second_opinion": {
             "com": "Black-crowned Night Heron",
             "agrees": true
-        }
+        },
+        "sci": "Nycticorax nycticorax",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 434,
+        "residency": "resident",
+        "dawn_frac": 0.0125,
+        "dawn_total": 80,
+        "v3_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
+        "v3_top_confidence": 0.9422,
+        "perch_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
+        "perch_top_confidence": 0.8882,
+        "photo": true
     },
     {
         "name": "Red-vented Bulbul",
@@ -1284,7 +1932,19 @@
         "perch_confidence": 0.0209,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Pycnonotus cafer",
+        "order": "Passeriformes",
+        "family": "Pycnonotidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0.0986,
+        "dawn_total": 71,
+        "v3_top_label": "Pycnonotus cafer_Red-vented Bulbul",
+        "v3_top_confidence": 0.9549,
+        "perch_top_label": "Urocissa erythroryncha_Red-billed Blue Magpie",
+        "perch_top_confidence": 0.0364,
+        "photo": true
     },
     {
         "name": "Tree Pipit",
@@ -1302,7 +1962,19 @@
         "second_opinion": {
             "com": "Tree Pipit",
             "agrees": true
-        }
+        },
+        "sci": "Anthus trivialis",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 640,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 4,
+        "v3_top_label": "Anthus trivialis_Tree Pipit",
+        "v3_top_confidence": 0.9129,
+        "perch_top_label": "Anthus trivialis_Tree Pipit",
+        "perch_top_confidence": 0.8885,
+        "photo": true
     },
     {
         "name": "Common Buzzard",
@@ -1326,7 +1998,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Buteo buteo",
+        "order": "Accipitriformes",
+        "family": "Accipitridae",
+        "local": 3373,
+        "residency": "migrant",
+        "dawn_frac": 0.0667,
+        "dawn_total": 30,
+        "v3_top_label": "Vulpes vulpes_Red Fox",
+        "v3_top_confidence": 0.6915,
+        "perch_top_label": "Macropygia phasianella_Brown Cuckoo-Dove",
+        "perch_top_confidence": 0.0648,
+        "photo": true
     },
     {
         "name": "Bearded Reedling",
@@ -1349,7 +2033,19 @@
         "second_opinion": {
             "com": "Bearded Reedling",
             "agrees": true
-        }
+        },
+        "sci": "Panurus biarmicus",
+        "order": "Passeriformes",
+        "family": "Panuridae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0.0333,
+        "dawn_total": 30,
+        "v3_top_label": "Panurus biarmicus_Bearded Reedling",
+        "v3_top_confidence": 0.8256,
+        "perch_top_label": "Panurus biarmicus_Bearded Reedling",
+        "perch_top_confidence": 0.2002,
+        "photo": true
     },
     {
         "name": "Green-winged Teal",
@@ -1376,7 +2072,19 @@
         "second_opinion": {
             "com": "Eurasian Teal",
             "agrees": true
-        }
+        },
+        "sci": "Anas crecca",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "local": 3055,
+        "residency": "migrant",
+        "dawn_frac": 0.2,
+        "dawn_total": 30,
+        "v3_top_label": "Anas crecca_Eurasian Teal",
+        "v3_top_confidence": 0.4616,
+        "perch_top_label": "Anas crecca_Eurasian Teal",
+        "perch_top_confidence": 0.709,
+        "photo": true
     },
     {
         "name": "Oriental Honey-buzzard",
@@ -1404,7 +2112,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Pernis ptilorhynchus",
+        "order": "Accipitriformes",
+        "family": "Accipitridae",
+        "local": 1,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 13,
+        "v3_top_label": "Pernis apivorus_European Honey Buzzard",
+        "v3_top_confidence": 0.3201,
+        "perch_top_label": "Actitis hypoleucos_Common Sandpiper",
+        "perch_top_confidence": 0.1114,
+        "photo": true
     },
     {
         "name": "European Golden-Plover",
@@ -1431,7 +2151,19 @@
         "second_opinion": {
             "com": "European Golden Plover",
             "agrees": true
-        }
+        },
+        "sci": "Pluvialis apricaria",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 236,
+        "residency": "migrant",
+        "dawn_frac": 0.1333,
+        "dawn_total": 15,
+        "v3_top_label": "Pluvialis apricaria_European Golden Plover",
+        "v3_top_confidence": 0.4356,
+        "perch_top_label": "Pluvialis apricaria_European Golden Plover",
+        "perch_top_confidence": 0.2218,
+        "photo": true
     },
     {
         "name": "Great Bittern",
@@ -1455,7 +2187,19 @@
         "perch_confidence": 0.0357,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Botaurus stellaris",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 23,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 139,
+        "v3_top_label": "Falco tinnunculus_Common Kestrel",
+        "v3_top_confidence": 0.0605,
+        "perch_top_label": "Brotogeris chiriri_Yellow-chevroned Parakeet",
+        "perch_top_confidence": 0.0827,
+        "photo": true
     },
     {
         "name": "European Goldfinch",
@@ -1478,7 +2222,19 @@
         "second_opinion": {
             "com": "European Goldfinch",
             "agrees": true
-        }
+        },
+        "sci": "Carduelis carduelis",
+        "order": "Passeriformes",
+        "family": "Fringillidae",
+        "local": 2867,
+        "residency": "resident",
+        "dawn_frac": 0.1503,
+        "dawn_total": 153,
+        "v3_top_label": "Carduelis carduelis_European Goldfinch",
+        "v3_top_confidence": 0.9722,
+        "perch_top_label": "Carduelis carduelis_European Goldfinch",
+        "perch_top_confidence": 0.9528,
+        "photo": true
     },
     {
         "name": "Peregrine Falcon",
@@ -1498,7 +2254,19 @@
         "perch_confidence": 0.0176,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Falco peregrinus",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 865,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 7,
+        "v3_top_label": "Gryllus campestris_Field Cricket",
+        "v3_top_confidence": 0.5784,
+        "perch_top_label": "Cyanocorax yncas_Inca Jay",
+        "perch_top_confidence": 0.0717,
+        "photo": true
     },
     {
         "name": "Little Bittern",
@@ -1526,7 +2294,19 @@
         "perch_confidence": 0.0603,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Ixobrychus minutus",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 4,
+        "residency": "migrant",
+        "dawn_frac": 0.0435,
+        "dawn_total": 23,
+        "v3_top_label": "Botaurus minutus_Little Bittern",
+        "v3_top_confidence": 0.172,
+        "perch_top_label": "Momotus mexicanus_Russet-crowned Motmot",
+        "perch_top_confidence": 0.1183,
+        "photo": true
     },
     {
         "name": "Common Bulbul",
@@ -1546,7 +2326,19 @@
         "perch_confidence": 0.3777,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Pycnonotus barbatus",
+        "order": "Passeriformes",
+        "family": "Pycnonotidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0.275,
+        "dawn_total": 40,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.6364,
+        "perch_top_label": "Pycnonotus barbatus_Common Bulbul",
+        "perch_top_confidence": 0.3777,
+        "photo": true
     },
     {
         "name": "Red-billed Chough",
@@ -1569,7 +2361,19 @@
         "second_opinion": {
             "com": "Western Jackdaw",
             "agrees": false
-        }
+        },
+        "sci": "Pyrrhocorax pyrrhocorax",
+        "order": "Passeriformes",
+        "family": "Corvidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 4,
+        "v3_top_label": "Coloeus monedula_Western Jackdaw",
+        "v3_top_confidence": 0.6096,
+        "perch_top_label": "Coloeus monedula_Western Jackdaw",
+        "perch_top_confidence": 0.163,
+        "photo": true
     },
     {
         "name": "Eurasian Moorhen",
@@ -1596,7 +2400,19 @@
         "second_opinion": {
             "com": "Common Moorhen",
             "agrees": true
-        }
+        },
+        "sci": "Gallinula chloropus",
+        "order": "Gruiformes",
+        "family": "Rallidae",
+        "local": 2657,
+        "residency": "resident",
+        "dawn_frac": 0.1176,
+        "dawn_total": 17,
+        "v3_top_label": "Gallinula chloropus_Common Moorhen",
+        "v3_top_confidence": 0.9226,
+        "perch_top_label": "Gallinula chloropus_Common Moorhen",
+        "perch_top_confidence": 0.793,
+        "photo": true
     },
     {
         "name": "Black-winged Stilt",
@@ -1620,7 +2436,19 @@
         "perch_confidence": 0.1366,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Himantopus himantopus",
+        "order": "Charadriiformes",
+        "family": "Recurvirostridae",
+        "local": 1731,
+        "residency": "resident",
+        "dawn_frac": 0.1221,
+        "dawn_total": 131,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.7107,
+        "perch_top_label": "Himantopus himantopus_Black-winged Stilt",
+        "perch_top_confidence": 0.1366,
+        "photo": true
     },
     {
         "name": "Cattle Egret",
@@ -1647,7 +2475,19 @@
         "second_opinion": {
             "com": "Fieldfare",
             "agrees": false
-        }
+        },
+        "sci": "Bubulcus ibis",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 4675,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 5,
+        "v3_top_label": "Turdus pilaris_Fieldfare",
+        "v3_top_confidence": 0.5183,
+        "perch_top_label": "Turdus pilaris_Fieldfare",
+        "perch_top_confidence": 0.1124,
+        "photo": true
     },
     {
         "name": "White-spectacled Bulbul",
@@ -1667,7 +2507,19 @@
         "perch_confidence": 0.0955,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Pycnonotus xanthopygos",
+        "order": "Passeriformes",
+        "family": "Pycnonotidae",
+        "local": 6575,
+        "residency": "resident",
+        "dawn_frac": 0.0263,
+        "dawn_total": 228,
+        "v3_top_label": "Pycnonotus barbatus_Common Bulbul",
+        "v3_top_confidence": 0.6149,
+        "perch_top_label": "Pycnonotus xanthopygos_White-spectacled Bulbul",
+        "perch_top_confidence": 0.0955,
+        "photo": true
     },
     {
         "name": "Spotted Crake",
@@ -1690,7 +2542,19 @@
         "second_opinion": {
             "com": "Spotted Crake",
             "agrees": true
-        }
+        },
+        "sci": "Porzana porzana",
+        "order": "Gruiformes",
+        "family": "Rallidae",
+        "local": 171,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 21,
+        "v3_top_label": "Porzana porzana_Spotted Crake",
+        "v3_top_confidence": 0.3218,
+        "perch_top_label": "Porzana porzana_Spotted Crake",
+        "perch_top_confidence": 0.2157,
+        "photo": true
     },
     {
         "name": "Corn Crake",
@@ -1710,7 +2574,19 @@
         "perch_confidence": 0.0153,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Crex crex",
+        "order": "Gruiformes",
+        "family": "Rallidae",
+        "local": 73,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Bubo virginianus_Great Horned Owl",
+        "v3_top_confidence": 0.14,
+        "perch_top_label": "Otus spilocephalus_Mountain Scops Owl",
+        "perch_top_confidence": 0.6052,
+        "photo": true
     },
     {
         "name": "Eurasian Nuthatch",
@@ -1733,7 +2609,19 @@
         "second_opinion": {
             "com": "Common Quail",
             "agrees": false
-        }
+        },
+        "sci": "Sitta europaea",
+        "order": "Passeriformes",
+        "family": "Sittidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0.25,
+        "dawn_total": 4,
+        "v3_top_label": "Coturnix coturnix_Common Quail",
+        "v3_top_confidence": 0.9586,
+        "perch_top_label": "Coturnix coturnix_Common Quail",
+        "perch_top_confidence": 0.862,
+        "photo": true
     },
     {
         "name": "Rock Pigeon",
@@ -1756,7 +2644,19 @@
         "second_opinion": {
             "com": "Rock Dove",
             "agrees": true
-        }
+        },
+        "sci": "Columba livia",
+        "order": "Columbiformes",
+        "family": "Columbidae",
+        "local": 6647,
+        "residency": "resident",
+        "dawn_frac": 0.037,
+        "dawn_total": 27,
+        "v3_top_label": "Columba livia_Rock Dove",
+        "v3_top_confidence": 0.9179,
+        "perch_top_label": "Columba livia_Rock Dove",
+        "perch_top_confidence": 0.7172,
+        "photo": true
     },
     {
         "name": "Tawny Owl",
@@ -1788,7 +2688,19 @@
         "perch_confidence": 0.5575,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Strix aluco",
+        "order": "Strigiformes",
+        "family": "Strigidae",
+        "local": 0,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 17,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.4769,
+        "perch_top_label": "Strix aluco_Tawny Owl",
+        "perch_top_confidence": 0.5575,
+        "photo": true
     },
     {
         "name": "Great Tit",
@@ -1811,7 +2723,19 @@
         "second_opinion": {
             "com": "Great Tit",
             "agrees": true
-        }
+        },
+        "sci": "Parus major",
+        "order": "Passeriformes",
+        "family": "Paridae",
+        "local": 3702,
+        "residency": "resident",
+        "dawn_frac": 0.0278,
+        "dawn_total": 36,
+        "v3_top_label": "Parus major_Great Tit",
+        "v3_top_confidence": 0.3506,
+        "perch_top_label": "Parus major_Great Tit",
+        "perch_top_confidence": 0.6353,
+        "photo": true
     },
     {
         "name": "Common Kingfisher",
@@ -1829,7 +2753,19 @@
         "second_opinion": {
             "com": "Common Kingfisher",
             "agrees": true
-        }
+        },
+        "sci": "Alcedo atthis",
+        "order": "Coraciiformes",
+        "family": "Alcedinidae",
+        "local": 545,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Alcedo atthis_Common Kingfisher",
+        "v3_top_confidence": 0.5795,
+        "perch_top_label": "Alcedo atthis_Common Kingfisher",
+        "perch_top_confidence": 0.2864,
+        "photo": true
     },
     {
         "name": "Eurasian Jay",
@@ -1852,7 +2788,19 @@
         "second_opinion": {
             "com": "Eurasian Jay",
             "agrees": true
-        }
+        },
+        "sci": "Garrulus glandarius",
+        "order": "Passeriformes",
+        "family": "Corvidae",
+        "local": 3670,
+        "residency": "resident",
+        "dawn_frac": 0.2361,
+        "dawn_total": 72,
+        "v3_top_label": "Garrulus glandarius_Eurasian Jay",
+        "v3_top_confidence": 0.9605,
+        "perch_top_label": "Garrulus glandarius_Eurasian Jay",
+        "perch_top_confidence": 0.943,
+        "photo": true
     },
     {
         "name": "Bluethroat",
@@ -1870,7 +2818,19 @@
         "second_opinion": {
             "com": "Bluethroat",
             "agrees": true
-        }
+        },
+        "sci": "Luscinia svecica",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 1925,
+        "residency": "",
+        "dawn_frac": 0.0464,
+        "dawn_total": 1401,
+        "v3_top_label": "Luscinia svecica_Bluethroat",
+        "v3_top_confidence": 0.2195,
+        "perch_top_label": "Luscinia svecica_Bluethroat",
+        "perch_top_confidence": 0.2019,
+        "photo": true
     },
     {
         "name": "Short-toed Snake-Eagle",
@@ -1897,7 +2857,19 @@
         "second_opinion": {
             "com": "Short-toed Snake Eagle",
             "agrees": true
-        }
+        },
+        "sci": "Circaetus gallicus",
+        "order": "Accipitriformes",
+        "family": "Accipitridae",
+        "local": 2349,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 7,
+        "v3_top_label": "Circaetus gallicus_Short-toed Snake Eagle",
+        "v3_top_confidence": 0.4437,
+        "perch_top_label": "Circaetus gallicus_Short-toed Snake Eagle",
+        "perch_top_confidence": 0.5354,
+        "photo": true
     },
     {
         "name": "Common Sandpiper",
@@ -1924,7 +2896,19 @@
         "second_opinion": {
             "com": "Common Sandpiper",
             "agrees": true
-        }
+        },
+        "sci": "Actitis hypoleucos",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 2011,
+        "residency": "migrant",
+        "dawn_frac": 0.2414,
+        "dawn_total": 29,
+        "v3_top_label": "Actitis hypoleucos_Common Sandpiper",
+        "v3_top_confidence": 0.8271,
+        "perch_top_label": "Actitis hypoleucos_Common Sandpiper",
+        "perch_top_confidence": 0.7364,
+        "photo": true
     },
     {
         "name": "Little Owl",
@@ -1955,7 +2939,19 @@
         "second_opinion": {
             "com": "Little Owl",
             "agrees": true
-        }
+        },
+        "sci": "Athene noctua",
+        "order": "Strigiformes",
+        "family": "Strigidae",
+        "local": 1123,
+        "residency": "resident",
+        "dawn_frac": 0.0278,
+        "dawn_total": 108,
+        "v3_top_label": "Athene noctua_Little Owl",
+        "v3_top_confidence": 0.8716,
+        "perch_top_label": "Athene noctua_Little Owl",
+        "perch_top_confidence": 0.5193,
+        "photo": true
     },
     {
         "name": "Bank Swallow",
@@ -1978,7 +2974,19 @@
         "second_opinion": {
             "com": "Rose-ringed Parakeet",
             "agrees": false
-        }
+        },
+        "sci": "Riparia riparia",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 730,
+        "residency": "migrant",
+        "dawn_frac": 0.082,
+        "dawn_total": 61,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.934,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.4453,
+        "photo": true
     },
     {
         "name": "Caspian Tern",
@@ -2006,7 +3014,19 @@
         "perch_confidence": 0,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Hydroprogne caspia",
+        "order": "Charadriiformes",
+        "family": "Laridae",
+        "local": 2,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 8,
+        "v3_top_label": "Hydroprogne caspia_Caspian Tern",
+        "v3_top_confidence": 0.4581,
+        "perch_top_label": "Chroicocephalus ridibundus_Black-headed Gull",
+        "perch_top_confidence": 0.0529,
+        "photo": true
     },
     {
         "name": "Lesser Kestrel",
@@ -2030,7 +3050,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Falco naumanni",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 636,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 8,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.1406,
+        "perch_top_label": "Phasianus colchicus_Common Pheasant",
+        "perch_top_confidence": 0.0718,
+        "photo": true
     },
     {
         "name": "Great Gray Shrike",
@@ -2045,7 +3077,19 @@
         "perch_confidence": 0.0725,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Lanius excubitor",
+        "order": "Passeriformes",
+        "family": "Laniidae",
+        "local": 2750,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 3,
+        "v3_top_label": "Turdus torquatus_Ring Ouzel",
+        "v3_top_confidence": 0.1856,
+        "perch_top_label": "Pelobates fuscus_Pelobates fuscus",
+        "perch_top_confidence": 0.2974,
+        "photo": true
     },
     {
         "name": "Eurasian Golden Oriole",
@@ -2065,7 +3109,19 @@
         "perch_confidence": 0.2148,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Oriolus oriolus",
+        "order": "Passeriformes",
+        "family": "Oriolidae",
+        "local": 176,
+        "residency": "migrant",
+        "dawn_frac": 0.0769,
+        "dawn_total": 13,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.6488,
+        "perch_top_label": "Oriolus oriolus_Eurasian Golden Oriole",
+        "perch_top_confidence": 0.2148,
+        "photo": true
     },
     {
         "name": "Common Cuckoo",
@@ -2085,7 +3141,19 @@
         "perch_confidence": 0.3959,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Cuculus canorus",
+        "order": "Cuculiformes",
+        "family": "Cuculidae",
+        "local": 135,
+        "residency": "migrant",
+        "dawn_frac": 0.0909,
+        "dawn_total": 11,
+        "v3_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
+        "v3_top_confidence": 0.8798,
+        "perch_top_label": "Cuculus canorus_Common Cuckoo",
+        "perch_top_confidence": 0.3959,
+        "photo": true
     },
     {
         "name": "Eurasian Oystercatcher",
@@ -2112,7 +3180,19 @@
         "second_opinion": {
             "com": "Eurasian Oystercatcher",
             "agrees": true
-        }
+        },
+        "sci": "Haematopus ostralegus",
+        "order": "Charadriiformes",
+        "family": "Haematopodidae",
+        "local": 8,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 5,
+        "v3_top_label": "Haematopus ostralegus_Eurasian Oystercatcher",
+        "v3_top_confidence": 0.9026,
+        "perch_top_label": "Haematopus ostralegus_Eurasian Oystercatcher",
+        "perch_top_confidence": 0.4644,
+        "photo": true
     },
     {
         "name": "Red-breasted Flycatcher",
@@ -2127,7 +3207,19 @@
         "perch_confidence": 0.0089,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Ficedula parva",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 24,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Bubo virginianus_Great Horned Owl",
+        "v3_top_confidence": 0.2013,
+        "perch_top_label": "Thinornis dubius_Little Ringed Plover",
+        "perch_top_confidence": 0.6678,
+        "photo": true
     },
     {
         "name": "Osprey",
@@ -2151,7 +3243,19 @@
         "perch_confidence": 0.0862,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Pandion haliaetus",
+        "order": "Accipitriformes",
+        "family": "Pandionidae",
+        "local": 87,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 6,
+        "v3_top_label": "Catharus ustulatus_Swainson's Thrush",
+        "v3_top_confidence": 0.346,
+        "perch_top_label": "Parabuteo unicinctus_Harris's Hawk",
+        "perch_top_confidence": 0.1189,
+        "photo": true
     },
     {
         "name": "Eurasian Blackbird",
@@ -2171,7 +3275,19 @@
         "perch_confidence": 0.1539,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Turdus merula",
+        "order": "Passeriformes",
+        "family": "Turdidae",
+        "local": 3367,
+        "residency": "resident",
+        "dawn_frac": 0.2,
+        "dawn_total": 5,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.3308,
+        "perch_top_label": "Gallinula chloropus_Common Moorhen",
+        "perch_top_confidence": 0.2665,
+        "photo": true
     },
     {
         "name": "Common Redstart",
@@ -2191,7 +3307,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Phoenicurus phoenicurus",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 1337,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 5,
+        "v3_top_label": "Gallinula chloropus_Common Moorhen",
+        "v3_top_confidence": 0.5272,
+        "perch_top_label": "Turdus iliacus_Redwing",
+        "perch_top_confidence": 0.2946,
+        "photo": true
     },
     {
         "name": "Eurasian Siskin",
@@ -2211,7 +3339,19 @@
         "perch_confidence": 0.0894,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Spinus spinus",
+        "order": "Passeriformes",
+        "family": "Fringillidae",
+        "local": 288,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 5,
+        "v3_top_label": "Tyrannus melancholicus_Tropical Kingbird",
+        "v3_top_confidence": 0.4952,
+        "perch_top_label": "Spinus spinus_Eurasian Siskin",
+        "perch_top_confidence": 0.0894,
+        "photo": true
     },
     {
         "name": "Garden Warbler",
@@ -2226,7 +3366,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Sylvia borin",
+        "order": "Passeriformes",
+        "family": "Sylviidae",
+        "local": 433,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Pycnonotus jocosus_Red-whiskered Bulbul",
+        "v3_top_confidence": 0.5538,
+        "perch_top_label": "Turdus philomelos_Song Thrush",
+        "perch_top_confidence": 0.0845,
+        "photo": true
     },
     {
         "name": "Reed Bunting",
@@ -2241,7 +3393,19 @@
         "perch_confidence": 0.026,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Emberiza schoeniclus",
+        "order": "Passeriformes",
+        "family": "Emberizidae",
+        "local": 35,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 2,
+        "v3_top_label": "Emberiza schoeniclus_Common Reed Bunting",
+        "v3_top_confidence": 0.6842,
+        "perch_top_label": "Emberiza calandra_Corn Bunting",
+        "perch_top_confidence": 0.0703,
+        "photo": true
     },
     {
         "name": "Middle Spotted Woodpecker",
@@ -2264,7 +3428,19 @@
         "second_opinion": {
             "com": "Spur-winged Lapwing",
             "agrees": false
-        }
+        },
+        "sci": "Dendrocoptes medius",
+        "order": "Piciformes",
+        "family": "Picidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 8,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.4373,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.1501,
+        "photo": true
     },
     {
         "name": "House Sparrow",
@@ -2291,7 +3467,19 @@
         "second_opinion": {
             "com": "House Sparrow",
             "agrees": true
-        }
+        },
+        "sci": "Passer domesticus",
+        "order": "Passeriformes",
+        "family": "Passeridae",
+        "local": 5993,
+        "residency": "resident",
+        "dawn_frac": 0.7554,
+        "dawn_total": 323,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.9058,
+        "perch_top_label": "Passer domesticus_House Sparrow",
+        "perch_top_confidence": 0.6953,
+        "photo": true
     },
     {
         "name": "Black Francolin",
@@ -2311,7 +3499,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Francolinus francolinus",
+        "order": "Galliformes",
+        "family": "Phasianidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 2,
+        "v3_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
+        "v3_top_confidence": 0.4268,
+        "perch_top_label": "Sylvia atricapilla_Eurasian Blackcap",
+        "perch_top_confidence": 0.0467,
+        "photo": true
     },
     {
         "name": "Black Kite",
@@ -2338,7 +3538,19 @@
         "second_opinion": {
             "com": "Common Myna",
             "agrees": false
-        }
+        },
+        "sci": "Milvus migrans",
+        "order": "Accipitriformes",
+        "family": "Accipitridae",
+        "local": 4771,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 2,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.8696,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.2931,
+        "photo": true
     },
     {
         "name": "Delicate Prinia",
@@ -2358,7 +3570,19 @@
         "perch_confidence": 0.0288,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Prinia lepida",
+        "order": "Passeriformes",
+        "family": "Cisticolidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 3,
+        "v3_top_label": "Locustella naevia_Common Grasshopper Warbler",
+        "v3_top_confidence": 0.2807,
+        "perch_top_label": "Hirundo rustica_Barn Swallow",
+        "perch_top_confidence": 0.1057,
+        "photo": true
     },
     {
         "name": "Fieldfare",
@@ -2378,7 +3602,19 @@
         "perch_confidence": 0.1243,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Turdus pilaris",
+        "order": "Passeriformes",
+        "family": "Turdidae",
+        "local": 31,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 7,
+        "v3_top_label": "Turdus atrogularis_Black-throated Thrush",
+        "v3_top_confidence": 0.2373,
+        "perch_top_label": "Cyanocitta stelleri_Steller's Jay",
+        "perch_top_confidence": 0.1656,
+        "photo": true
     },
     {
         "name": "Eurasian Coot",
@@ -2405,7 +3641,19 @@
         "second_opinion": {
             "com": "Eurasian Coot",
             "agrees": true
-        }
+        },
+        "sci": "Fulica atra",
+        "order": "Gruiformes",
+        "family": "Rallidae",
+        "local": 3299,
+        "residency": "resident",
+        "dawn_frac": 0.4,
+        "dawn_total": 5,
+        "v3_top_label": "Fulica atra_Eurasian Coot",
+        "v3_top_confidence": 0.757,
+        "perch_top_label": "Fulica atra_Eurasian Coot",
+        "perch_top_confidence": 0.4847,
+        "photo": true
     },
     {
         "name": "European Serin",
@@ -2420,7 +3668,19 @@
         "perch_confidence": 0,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Serinus serinus",
+        "order": "Passeriformes",
+        "family": "Fringillidae",
+        "local": 726,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 9,
+        "v3_top_label": "Serinus serinus_European Serin",
+        "v3_top_confidence": 0.7995,
+        "perch_top_label": "Anser anser_Greylag Goose",
+        "perch_top_confidence": 0.5027,
+        "photo": true
     },
     {
         "name": "Rock Sparrow",
@@ -2440,7 +3700,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Petronia petronia",
+        "order": "Passeriformes",
+        "family": "Passeridae",
+        "local": 1,
+        "residency": "",
+        "dawn_frac": 0.2,
+        "dawn_total": 5,
+        "v3_top_label": "Crotophaga sulcirostris_Groove-billed Ani",
+        "v3_top_confidence": 0.3575,
+        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "perch_top_confidence": 0.0596,
+        "photo": true
     },
     {
         "name": "Dunnock",
@@ -2460,7 +3732,19 @@
         "perch_confidence": 0.0395,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Prunella modularis",
+        "order": "Passeriformes",
+        "family": "Prunellidae",
+        "local": 28,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 7,
+        "v3_top_label": "Prunella modularis_Dunnock",
+        "v3_top_confidence": 0.5903,
+        "perch_top_label": "Phylloscopus tenellipes_Pale-legged Leaf Warbler",
+        "perch_top_confidence": 0.0481,
+        "photo": true
     },
     {
         "name": "Whiskered Tern",
@@ -2480,7 +3764,19 @@
         "perch_confidence": 0.0086,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Chlidonias hybrida",
+        "order": "Charadriiformes",
+        "family": "Laridae",
+        "local": 269,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Gracupica nigricollis_Black-collared Starling",
+        "v3_top_confidence": 0.3037,
+        "perch_top_label": "Cyanocitta cristata_Blue Jay",
+        "perch_top_confidence": 0.0785,
+        "photo": true
     },
     {
         "name": "Yellow-billed Chough",
@@ -2500,7 +3796,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Pyrrhocorax graculus",
+        "order": "Passeriformes",
+        "family": "Corvidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 3,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.509,
+        "perch_top_label": "Saxicola rubetra_Whinchat",
+        "perch_top_confidence": 0.0955,
+        "photo": true
     },
     {
         "name": "European Robin",
@@ -2518,7 +3826,19 @@
         "second_opinion": {
             "com": "European Robin",
             "agrees": true
-        }
+        },
+        "sci": "Erithacus rubecula",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 2087,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 2,
+        "v3_top_label": "Erithacus rubecula_European Robin",
+        "v3_top_confidence": 0.2436,
+        "perch_top_label": "Erithacus rubecula_European Robin",
+        "perch_top_confidence": 0.3507,
+        "photo": true
     },
     {
         "name": "Yellowhammer",
@@ -2538,7 +3858,19 @@
         "perch_confidence": 0.1225,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Emberiza citrinella",
+        "order": "Passeriformes",
+        "family": "Emberizidae",
+        "local": 1,
+        "residency": "",
+        "dawn_frac": 0.0714,
+        "dawn_total": 14,
+        "v3_top_label": "Phoenicurus ochruros_Black Redstart",
+        "v3_top_confidence": 0.2762,
+        "perch_top_label": "Emberiza citrinella_Yellowhammer",
+        "perch_top_confidence": 0.1225,
+        "photo": true
     },
     {
         "name": "Common Swift",
@@ -2561,7 +3893,19 @@
         "second_opinion": {
             "com": "Common Swift",
             "agrees": true
-        }
+        },
+        "sci": "Apus apus",
+        "order": "Apodiformes",
+        "family": "Apodidae",
+        "local": 1490,
+        "residency": "migrant",
+        "dawn_frac": 0.0625,
+        "dawn_total": 32,
+        "v3_top_label": "Apus apus_Common Swift",
+        "v3_top_confidence": 0.5958,
+        "perch_top_label": "Apus apus_Common Swift",
+        "perch_top_confidence": 0.1085,
+        "photo": true
     },
     {
         "name": "Meadow Pipit",
@@ -2576,7 +3920,19 @@
         "perch_confidence": 0.2935,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Anthus pratensis",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 2466,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Limnodynastes peronii_Limnodynastes peronii",
+        "v3_top_confidence": 0.7907,
+        "perch_top_label": "Anthus pratensis_Meadow Pipit",
+        "perch_top_confidence": 0.2935,
+        "photo": true
     },
     {
         "name": "Brambling",
@@ -2599,7 +3955,19 @@
         "second_opinion": {
             "com": "Brambling",
             "agrees": true
-        }
+        },
+        "sci": "Fringilla montifringilla",
+        "order": "Passeriformes",
+        "family": "Fringillidae",
+        "local": 348,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 4,
+        "v3_top_label": "Fringilla montifringilla_Brambling",
+        "v3_top_confidence": 0.8158,
+        "perch_top_label": "Fringilla montifringilla_Brambling",
+        "perch_top_confidence": 0.2147,
+        "photo": true
     },
     {
         "name": "Booted Eagle",
@@ -2619,7 +3987,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Hieraaetus pennatus",
+        "order": "Accipitriformes",
+        "family": "Accipitridae",
+        "local": 613,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Bartramia longicauda_Upland Sandpiper",
+        "v3_top_confidence": 0.8366,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.0676,
+        "photo": true
     },
     {
         "name": "Blue Rock-Thrush",
@@ -2634,7 +4014,19 @@
         "perch_confidence": 0.0592,
         "v3_agrees": true,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Monticola solitarius",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 191,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 5,
+        "v3_top_label": "Monticola solitarius_Blue Rock Thrush",
+        "v3_top_confidence": 0.3677,
+        "perch_top_label": "Monticola solitarius_Blue Rock Thrush",
+        "perch_top_confidence": 0.0592,
+        "photo": true
     },
     {
         "name": "Horned Lark",
@@ -2657,7 +4049,19 @@
         "second_opinion": {
             "com": "Graceful Prinia",
             "agrees": false
-        }
+        },
+        "sci": "Eremophila alpestris",
+        "order": "Passeriformes",
+        "family": "Alaudidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 3,
+        "v3_top_label": "Prinia gracilis_Graceful Prinia",
+        "v3_top_confidence": 0.6823,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.8419,
+        "photo": true
     },
     {
         "name": "Common Redshank",
@@ -2684,7 +4088,19 @@
         "second_opinion": {
             "com": "Common Redshank",
             "agrees": true
-        }
+        },
+        "sci": "Tringa totanus",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 1638,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 3,
+        "v3_top_label": "Tringa totanus_Common Redshank",
+        "v3_top_confidence": 0.9113,
+        "perch_top_label": "Tringa totanus_Common Redshank",
+        "perch_top_confidence": 0.1309,
+        "photo": true
     },
     {
         "name": "Red-backed Shrike",
@@ -2699,7 +4115,19 @@
         "perch_confidence": 0.0564,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Lanius collurio",
+        "order": "Passeriformes",
+        "family": "Laniidae",
+        "local": 1313,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Lanius collurio_Red-backed Shrike",
+        "v3_top_confidence": 0.1732,
+        "perch_top_label": "Acrocephalus dumetorum_Blyth's Reed Warbler",
+        "perch_top_confidence": 0.0737,
+        "photo": true
     },
     {
         "name": "Syrian Woodpecker",
@@ -2722,7 +4150,19 @@
         "second_opinion": {
             "com": "Syrian Woodpecker",
             "agrees": true
-        }
+        },
+        "sci": "Dendrocopos syriacus",
+        "order": "Piciformes",
+        "family": "Picidae",
+        "local": 2148,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 5,
+        "v3_top_label": "Dendrocopos syriacus_Syrian Woodpecker",
+        "v3_top_confidence": 0.8904,
+        "perch_top_label": "Dendrocopos syriacus_Syrian Woodpecker",
+        "perch_top_confidence": 0.7713,
+        "photo": true
     },
     {
         "name": "Palestine Sunbird",
@@ -2742,7 +4182,19 @@
         "perch_confidence": 0,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Cinnyris osea",
+        "order": "Passeriformes",
+        "family": "Nectariniidae",
+        "local": 4906,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 12,
+        "v3_top_label": "Cinnyris osea_Palestine Sunbird",
+        "v3_top_confidence": 0.5097,
+        "perch_top_label": "Hippolais icterina_Icterine Warbler",
+        "perch_top_confidence": 0.1406,
+        "photo": true
     },
     {
         "name": "Common Goldeneye",
@@ -2770,7 +4222,19 @@
         "perch_confidence": 0.017,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Bucephala clangula",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "local": 0,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 2,
+        "v3_top_label": "Bubo virginianus_Great Horned Owl",
+        "v3_top_confidence": 0.0556,
+        "perch_top_label": "Buteo lineatus_Red-shouldered Hawk",
+        "perch_top_confidence": 0.0863,
+        "photo": true
     },
     {
         "name": "Cirl Bunting",
@@ -2790,7 +4254,19 @@
         "perch_confidence": 0.1747,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Emberiza cirlus",
+        "order": "Passeriformes",
+        "family": "Emberizidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Alopochen aegyptiaca_Egyptian Goose",
+        "v3_top_confidence": 0.2607,
+        "perch_top_label": "Emberiza cirlus_Cirl Bunting",
+        "perch_top_confidence": 0.1747,
+        "photo": true
     },
     {
         "name": "Hooded Crow",
@@ -2813,7 +4289,19 @@
         "second_opinion": {
             "com": "Hooded Crow",
             "agrees": true
-        }
+        },
+        "sci": "Corvus cornix",
+        "order": "Passeriformes",
+        "family": "Corvidae",
+        "local": 7913,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 2,
+        "v3_top_label": "Corvus cornix_Hooded Crow",
+        "v3_top_confidence": 0.926,
+        "perch_top_label": "Corvus cornix_Hooded Crow",
+        "perch_top_confidence": 0.5296,
+        "photo": true
     },
     {
         "name": "Long-eared Owl",
@@ -2840,7 +4328,19 @@
         "second_opinion": {
             "com": "Long-eared Owl",
             "agrees": true
-        }
+        },
+        "sci": "Asio otus",
+        "order": "Strigiformes",
+        "family": "Strigidae",
+        "local": 379,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 104,
+        "v3_top_label": "Asio otus_Long-eared Owl",
+        "v3_top_confidence": 0.873,
+        "perch_top_label": "Asio otus_Long-eared Owl",
+        "perch_top_confidence": 0.8383,
+        "photo": true
     },
     {
         "name": "Great Reed Warbler",
@@ -2860,7 +4360,19 @@
         "perch_confidence": 0.3475,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Acrocephalus arundinaceus",
+        "order": "Passeriformes",
+        "family": "Acrocephalidae",
+        "local": 492,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 5,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.6031,
+        "perch_top_label": "Acrocephalus arundinaceus_Great Reed Warbler",
+        "perch_top_confidence": 0.3475,
+        "photo": true
     },
     {
         "name": "Little Crake",
@@ -2884,7 +4396,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Zapornia parva",
+        "order": "Gruiformes",
+        "family": "Rallidae",
+        "local": 58,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Prosthemadera novaeseelandiae_Tui",
+        "v3_top_confidence": 0.2696,
+        "perch_top_label": "Agelaius phoeniceus_Red-winged Blackbird",
+        "perch_top_confidence": 0.1165,
+        "photo": true
     },
     {
         "name": "Eurasian Sparrowhawk",
@@ -2908,7 +4432,19 @@
         "perch_confidence": 0.0715,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Accipiter nisus",
+        "order": "Accipitriformes",
+        "family": "Accipitridae",
+        "local": 2098,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Accipiter nisus_Eurasian Sparrowhawk",
+        "v3_top_confidence": 0.8021,
+        "perch_top_label": "Asio otus_Long-eared Owl",
+        "perch_top_confidence": 0.1958,
+        "photo": true
     },
     {
         "name": "Wood Lark",
@@ -2923,7 +4459,19 @@
         "perch_confidence": 0.2704,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Lullula arborea",
+        "order": "Passeriformes",
+        "family": "Alaudidae",
+        "local": 311,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Thryothorus ludovicianus_Carolina Wren",
+        "v3_top_confidence": 0.7737,
+        "perch_top_label": "Lullula arborea_Woodlark",
+        "perch_top_confidence": 0.2704,
+        "photo": true
     },
     {
         "name": "Tawny Pipit",
@@ -2943,7 +4491,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Anthus campestris",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 549,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.0694,
+        "perch_top_label": "Curruca communis_Common Whitethroat",
+        "perch_top_confidence": 0.0824,
+        "photo": true
     },
     {
         "name": "Black-headed Bunting",
@@ -2963,7 +4523,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Emberiza melanocephala",
+        "order": "Passeriformes",
+        "family": "Emberizidae",
+        "local": 13,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Gracupica nigricollis_Black-collared Starling",
+        "v3_top_confidence": 0.6642,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.1375,
+        "photo": true
     },
     {
         "name": "Yellow-throated Sparrow",
@@ -2987,7 +4559,19 @@
         "perch_confidence": 0.0609,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Gymnoris xanthocollis",
+        "order": "Passeriformes",
+        "family": "Passeridae",
+        "local": 0,
+        "residency": "migrant",
+        "dawn_frac": 0.25,
+        "dawn_total": 4,
+        "v3_top_label": "Gymnoris xanthocollis_Yellow-throated Sparrow",
+        "v3_top_confidence": 0.6455,
+        "perch_top_label": "Passer domesticus_House Sparrow",
+        "perch_top_confidence": 0.2427,
+        "photo": true
     },
     {
         "name": "Purple Heron",
@@ -3011,7 +4595,19 @@
         "perch_confidence": 0.0267,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Ardea purpurea",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 142,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Otus scops_Eurasian Scops Owl",
+        "v3_top_confidence": 0.1997,
+        "perch_top_label": "Music_Music",
+        "perch_top_confidence": 0.1264,
+        "photo": true
     },
     {
         "name": "Eurasian Tree Sparrow",
@@ -3038,7 +4634,19 @@
         "second_opinion": {
             "com": "House Sparrow",
             "agrees": false
-        }
+        },
+        "sci": "Passer montanus",
+        "order": "Passeriformes",
+        "family": "Passeridae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0.625,
+        "dawn_total": 56,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.7384,
+        "perch_top_label": "Passer domesticus_House Sparrow",
+        "perch_top_confidence": 0.4,
+        "photo": true
     },
     {
         "name": "European Stonechat",
@@ -3058,7 +4666,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Saxicola rubicola",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 4335,
+        "residency": "migrant",
+        "dawn_frac": 0.25,
+        "dawn_total": 4,
+        "v3_top_label": "Phoenicurus ochruros_Black Redstart",
+        "v3_top_confidence": 0.1683,
+        "perch_top_label": "Hirundo rustica_Barn Swallow",
+        "perch_top_confidence": 0.0592,
+        "photo": true
     },
     {
         "name": "Redwing",
@@ -3078,7 +4698,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Turdus iliacus",
+        "order": "Passeriformes",
+        "family": "Turdidae",
+        "local": 6,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 2,
+        "v3_top_label": "Mimus polyglottos_Northern Mockingbird",
+        "v3_top_confidence": 0.3717,
+        "perch_top_label": "Vehicle_Vehicle",
+        "perch_top_confidence": 0.0509,
+        "photo": true
     },
     {
         "name": "Aquatic Warbler",
@@ -3105,7 +4737,19 @@
         "second_opinion": {
             "com": "House Sparrow",
             "agrees": false
-        }
+        },
+        "sci": "Acrocephalus paludicola",
+        "order": "Passeriformes",
+        "family": "Acrocephalidae",
+        "local": 0,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.2162,
+        "perch_top_label": "Passer domesticus_House Sparrow",
+        "perch_top_confidence": 0.1591,
+        "photo": true
     },
     {
         "name": "Green Bee-eater",
@@ -3132,7 +4776,19 @@
         "second_opinion": {
             "com": "Asian Green Bee-eater",
             "agrees": true
-        }
+        },
+        "sci": "Merops orientalis",
+        "order": "Coraciiformes",
+        "family": "Meropidae",
+        "local": 0,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 2,
+        "v3_top_label": "Merops orientalis_Asian Green Bee-eater",
+        "v3_top_confidence": 0.9404,
+        "perch_top_label": "Merops orientalis_Asian Green Bee-eater",
+        "perch_top_confidence": 0.1328,
+        "photo": true
     },
     {
         "name": "Whimbrel",
@@ -3160,7 +4816,19 @@
         "perch_confidence": 0.1366,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Numenius phaeopus",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 4,
+        "residency": "migrant",
+        "dawn_frac": 0.3333,
+        "dawn_total": 3,
+        "v3_top_label": "Hirundo rustica_Barn Swallow",
+        "v3_top_confidence": 0.4377,
+        "perch_top_label": "Numenius phaeopus_Eurasian Whimbrel",
+        "perch_top_confidence": 0.1366,
+        "photo": true
     },
     {
         "name": "Ortolan Bunting",
@@ -3180,7 +4848,19 @@
         "perch_confidence": 0.0921,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Emberiza hortulana",
+        "order": "Passeriformes",
+        "family": "Emberizidae",
+        "local": 549,
+        "residency": "migrant",
+        "dawn_frac": 1,
+        "dawn_total": 1,
+        "v3_top_label": "Emberiza hortulana_Ortolan Bunting",
+        "v3_top_confidence": 0.8263,
+        "perch_top_label": "Passer domesticus_House Sparrow",
+        "perch_top_confidence": 0.2712,
+        "photo": true
     },
     {
         "name": "Alexandrine Parakeet",
@@ -3207,7 +4887,19 @@
         "second_opinion": {
             "com": "Alexandrine Parakeet",
             "agrees": true
-        }
+        },
+        "sci": "Psittacula eupatria",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 4,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Psittacula eupatria_Alexandrine Parakeet",
+        "v3_top_confidence": 0.7804,
+        "perch_top_label": "Psittacula eupatria_Alexandrine Parakeet",
+        "perch_top_confidence": 0.2591,
+        "photo": true
     },
     {
         "name": "European Turtle-Dove",
@@ -3230,7 +4922,19 @@
         "second_opinion": {
             "com": "European Turtle Dove",
             "agrees": true
-        }
+        },
+        "sci": "Streptopelia turtur",
+        "order": "Columbiformes",
+        "family": "Columbidae",
+        "local": 2992,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 6,
+        "v3_top_label": "Streptopelia turtur_European Turtle Dove",
+        "v3_top_confidence": 0.9452,
+        "perch_top_label": "Streptopelia turtur_European Turtle Dove",
+        "perch_top_confidence": 0.7031,
+        "photo": true
     },
     {
         "name": "Clamorous Reed Warbler",
@@ -3250,7 +4954,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Acrocephalus stentoreus",
+        "order": "Passeriformes",
+        "family": "Acrocephalidae",
+        "local": 826,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Pycnonotus conradi_Streak-eared Bulbul",
+        "v3_top_confidence": 0.4211,
+        "perch_top_label": "Thryomanes bewickii_Bewick's Wren",
+        "perch_top_confidence": 0.0648,
+        "photo": true
     },
     {
         "name": "Black-winged Kite",
@@ -3277,7 +4993,19 @@
         "second_opinion": {
             "com": "Black-winged Kite",
             "agrees": true
-        }
+        },
+        "sci": "Elanus caeruleus",
+        "order": "Accipitriformes",
+        "family": "Accipitridae",
+        "local": 3721,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Elanus caeruleus_Black-winged Kite",
+        "v3_top_confidence": 0.7893,
+        "perch_top_label": "Elanus caeruleus_Black-winged Kite",
+        "perch_top_confidence": 0.2304,
+        "photo": true
     },
     {
         "name": "Eurasian Hobby",
@@ -3301,7 +5029,19 @@
         "perch_confidence": 0.2211,
         "v3_agrees": true,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Falco subbuteo",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 361,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Falco subbuteo_Eurasian Hobby",
+        "v3_top_confidence": 0.8061,
+        "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
+        "perch_top_confidence": 0.2584,
+        "photo": true
     },
     {
         "name": "Common Snipe",
@@ -3325,7 +5065,19 @@
         "perch_confidence": 0,
         "v3_agrees": true,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Gallinago gallinago",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 1535,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Gallinago gallinago_Common Snipe",
+        "v3_top_confidence": 0.6968,
+        "perch_top_label": "Gryllus bimaculatus_Gryllus bimaculatus",
+        "perch_top_confidence": 0.1022,
+        "photo": true
     },
     {
         "name": "Common Nightingale",
@@ -3345,7 +5097,19 @@
         "perch_confidence": 0.2246,
         "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Luscinia megarhynchos",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 361,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.8106,
+        "perch_top_label": "Luscinia megarhynchos_Common Nightingale",
+        "perch_top_confidence": 0.2246,
+        "photo": true
     },
     {
         "name": "Pallid Swift",
@@ -3368,7 +5132,19 @@
         "second_opinion": {
             "com": "Pallid Swift",
             "agrees": true
-        }
+        },
+        "sci": "Apus pallidus",
+        "order": "Apodiformes",
+        "family": "Apodidae",
+        "local": 367,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Apus pallidus_Pallid Swift",
+        "v3_top_confidence": 0.5984,
+        "perch_top_label": "Apus pallidus_Pallid Swift",
+        "perch_top_confidence": 0.8544,
+        "photo": true
     },
     {
         "name": "Eurasian Curlew",
@@ -3395,7 +5171,19 @@
         "second_opinion": {
             "com": "Eurasian Curlew",
             "agrees": true
-        }
+        },
+        "sci": "Numenius arquata",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 20,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Numenius arquata_Eurasian Curlew",
+        "v3_top_confidence": 0.6272,
+        "perch_top_label": "Numenius arquata_Eurasian Curlew",
+        "perch_top_confidence": 0.2868,
+        "photo": true
     },
     {
         "name": "Great Spotted Cuckoo",
@@ -3418,7 +5206,19 @@
         "second_opinion": {
             "com": "Great Spotted Cuckoo",
             "agrees": true
-        }
+        },
+        "sci": "Clamator glandarius",
+        "order": "Cuculiformes",
+        "family": "Cuculidae",
+        "local": 937,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 4,
+        "v3_top_label": "Clamator glandarius_Great Spotted Cuckoo",
+        "v3_top_confidence": 0.9856,
+        "perch_top_label": "Clamator glandarius_Great Spotted Cuckoo",
+        "perch_top_confidence": 0.7552,
+        "photo": true
     },
     {
         "name": "Rufous-tailed Scrub-Robin",
@@ -3438,7 +5238,19 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Cercotrichas galactotes",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 833,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Merops philippinus_Blue-tailed Bee-eater",
+        "v3_top_confidence": 0.3257,
+        "perch_top_label": "Pyrrhula pyrrhula_Eurasian Bullfinch",
+        "perch_top_confidence": 0.0732,
+        "photo": true
     },
     {
         "name": "House Crow",
@@ -3458,6 +5270,18 @@
         "perch_confidence": 0,
         "v3_agrees": false,
         "perch_agrees": false,
-        "second_opinion": null
+        "second_opinion": null,
+        "sci": "Corvus splendens",
+        "order": "Passeriformes",
+        "family": "Corvidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 1,
+        "dawn_total": 1,
+        "v3_top_label": "Corvus corone_Carrion Crow",
+        "v3_top_confidence": 0.3934,
+        "perch_top_label": "Garrulus glandarius_Eurasian Jay",
+        "perch_top_confidence": 0.2859,
+        "photo": true
     }
 ]
