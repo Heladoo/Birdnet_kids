@@ -4,8 +4,8 @@
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg/1280px-Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-01T04:49:43",
-        "week_count": 180,
+        "last_seen": "2026-10-01T06:59:31",
+        "week_count": 181,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -23,6 +23,44 @@
         "perch_agrees": true,
         "second_opinion": {
             "com": "Spur-winged Lapwing",
+            "agrees": true
+        }
+    },
+    {
+        "name": "Willow Warbler",
+        "he_name": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Willow_Warbler_Phylloscopus_trochilus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "audio": "audio/phylloscopus_trochilus.mp3",
+        "last_seen": "2026-10-01T06:52:37",
+        "week_count": 4,
+        "v2_confidence": 0.9138,
+        "badges": [],
+        "v3_confidence": null,
+        "perch_confidence": null,
+        "v3_agrees": null,
+        "perch_agrees": null,
+        "second_opinion": null
+    },
+    {
+        "name": "Gray Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05d6\u05e0\u05d1\u05ea\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/3840px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
+        "audio": "audio/motacilla_cinerea.mp3",
+        "last_seen": "2026-10-01T06:48:33",
+        "week_count": 2,
+        "v2_confidence": 0.9512,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.874,
+        "perch_confidence": 0.2349,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Grey Wagtail",
             "agrees": true
         }
     },
@@ -2141,21 +2179,6 @@
         "second_opinion": null
     },
     {
-        "name": "Willow Warbler",
-        "he_name": null,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Willow_Warbler_Phylloscopus_trochilus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "audio": "audio/phylloscopus_trochilus.mp3",
-        "last_seen": "2026-09-10T12:26:49",
-        "week_count": 0,
-        "v2_confidence": 0.776,
-        "badges": [],
-        "v3_confidence": null,
-        "perch_confidence": null,
-        "v3_agrees": null,
-        "perch_agrees": null,
-        "second_opinion": null
-    },
-    {
         "name": "Eurasian Siskin",
         "he_name": "\u05d7\u05d5\u05e8\u05e4\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eurasian_siskin_%28Spinus_spinus%29_male_Biebrzanski.jpg/1280px-Eurasian_siskin_%28Spinus_spinus%29_male_Biebrzanski.jpg",
@@ -2341,29 +2364,6 @@
         "v3_agrees": false,
         "perch_agrees": false,
         "second_opinion": null
-    },
-    {
-        "name": "Gray Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05d6\u05e0\u05d1\u05ea\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/3840px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
-        "audio": "audio/motacilla_cinerea.mp3",
-        "last_seen": "2026-09-04T10:03:17",
-        "week_count": 0,
-        "v2_confidence": 0.9386,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.874,
-        "perch_confidence": 0.2349,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Grey Wagtail",
-            "agrees": true
-        }
     },
     {
         "name": "Eurasian Coot",
