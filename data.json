@@ -1,5 +1,40 @@
 [
     {
+        "name": "Eurasian Collared-Dove",
+        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+        "audio": "audio/streptopelia_decaocto.mp3",
+        "last_seen": "2026-10-01T14:57:58",
+        "week_count": 20,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.96,
+        "perch_confidence": 0.8294,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Collared Dove",
+            "agrees": true
+        },
+        "sci": "Streptopelia decaocto",
+        "order": "Columbiformes",
+        "family": "Columbidae",
+        "local": 8650,
+        "residency": "resident",
+        "dawn_frac": 0.051,
+        "dawn_total": 2276,
+        "v3_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
+        "v3_top_confidence": 0.96,
+        "perch_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
+        "perch_top_confidence": 0.8294,
+        "photo": true
+    },
+    {
         "name": "European Bee-eater",
         "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
@@ -29,41 +64,6 @@
         "v3_top_confidence": 0.9088,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.7345,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Collared-Dove",
-        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-        "audio": "audio/streptopelia_decaocto.mp3",
-        "last_seen": "2026-10-01T13:50:16",
-        "week_count": 19,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.96,
-        "perch_confidence": 0.8294,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Collared Dove",
-            "agrees": true
-        },
-        "sci": "Streptopelia decaocto",
-        "order": "Columbiformes",
-        "family": "Columbidae",
-        "local": 8650,
-        "residency": "resident",
-        "dawn_frac": 0.051,
-        "dawn_total": 2275,
-        "v3_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
-        "v3_top_confidence": 0.96,
-        "perch_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
-        "perch_top_confidence": 0.8294,
         "photo": true
     },
     {
