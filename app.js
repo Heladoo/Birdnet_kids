@@ -254,6 +254,9 @@ const modalBadges = modal ? modal.querySelector('.modal-badges') : null;
 const modalAudio = modal ? modal.querySelector('.modal-audio') : null;
 const modalSecondOpinion = modal ? modal.querySelector('.modal-second-opinion') : null;
 const modalScores = modal ? modal.querySelector('.modal-scores') : null;
+const modalSuggestions = modal ? modal.querySelector('.modal-suggestions') : null;
+const modalClips = modal ? modal.querySelector('.modal-clips') : null;
+const modalClipInfo = modal ? modal.querySelector('.modal-clip-info') : null;
 const modalFacts = modal ? modal.querySelector('.modal-facts') : null;
 const chartWrap = modal ? modal.querySelector('.chart-wrap') : null;
 const periodButtons = modal ? Array.from(modal.querySelectorAll('.period-btn')) : [];
@@ -261,6 +264,10 @@ const periodButtons = modal ? Array.from(modal.querySelectorAll('.period-btn')) 
 // The whole history.json, fetched at most once per page load regardless of
 // how many popups get opened.
 let historyPromise = null;
+// Which species the popup is showing right now - lets a slow lazy fetch for
+// a previously-opened bird recognize it's stale instead of painting over the
+// current one.
+let currentSci = null;
 let currentHistory = null;
 let currentPeriod = 'daily';
 let lastFocused = null;
@@ -296,6 +303,7 @@ function populateModal(data) {
     .join('');
 
   modalAudio.src = data.audio || '';
+  renderClips(null, data.audio);
 
   // Unlike the card grid (where the confirmation half is Certainty-sort-only
   // to avoid clutter), the popup is a dedicated detail view - show whichever
@@ -315,17 +323,91 @@ function populateModal(data) {
     scoreSpan('<strong>G</strong>', 'Google Perch v2', data.perch_confidence, data.perch_agrees),
   ].join('');
 
-  const lastSeen = new Date(data.last_seen);
+  renderSuggestions(data);
+
+  const lastHeard = new Date(data.last_seen);
   modalFacts.innerHTML = [
-    fact('Scientific name', data.sci ? `<em>${data.sci}</em>` : ''),
-    fact('Order', data.order),
-    fact('Family', data.family),
     fact('Residency', data.residency),
-    fact('Local records', data.local === null || data.local === undefined ? null : data.local),
-    fact('Dawn calls', data.dawn_total > 0 ? `${Math.round(data.dawn_frac * 100)}% of ${data.dawn_total}` : null),
-    fact('Heard this week', `${data.week_count} time${Number(data.week_count) === 1 ? '' : 's'}`),
-    fact('Last seen', isNaN(lastSeen) ? '' : formatDate(lastSeen)),
+    // dawn_total is the species' all-time detection count at OUR station
+    // (kids_dawn_fraction returns [dawn share, total]); shown on its own so
+    // it isn't mistaken for the GBIF "regional records" figure below.
+    fact('Total detections', data.dawn_total > 0 ? Number(data.dawn_total).toLocaleString() : null),
+    fact('Heard this week', weekText(Number(data.week_count), weekRank(data))),
+    fact('Heard at dawn', data.dawn_total > 0 ? `${Math.round(data.dawn_frac * 100)}% (04:30–06:30)` : null),
+    fact('Regional records', data.local === null || data.local === undefined ? null : data.local),
+    fact('Last heard', isNaN(lastHeard) ? '' : formatDate(lastHeard)),
   ].join('');
+}
+
+// Where this species ranks among all species by detections in the last 7
+// days (ties share a rank). Null when it wasn't heard this week.
+function weekRank(data) {
+  const mine = Number(data.week_count);
+  if (!(mine > 0)) {
+    return null;
+  }
+  return cardsData.filter((d) => Number(d.week_count) > mine).length + 1;
+}
+
+function weekText(n, rank) {
+  const times = `${n} time${n === 1 ? '' : 's'}`;
+  return rank ? `${times} · #${rank} most common` : times;
+}
+
+// For each cross-check model that picked a different species, say what it
+// thought the clip was instead (label format is "Sci name_Common name").
+function renderSuggestions(data) {
+  modalSuggestions.innerHTML = '';
+  [
+    ['BirdNET+ V3.0', data.v3_agrees, data.v3_top_label, data.v3_top_confidence],
+    ['Google Perch', data.perch_agrees, data.perch_top_label, data.perch_top_confidence],
+  ].forEach(([model, agrees, label, conf]) => {
+    if (agrees !== false || !label) {
+      return;
+    }
+    const cut = label.indexOf('_');
+    const common = cut >= 0 ? label.slice(cut + 1) : label;
+    const line = document.createElement('div');
+    line.textContent = `⚠ ${model} suggestion: ${common}${conf === null || conf === undefined ? '' : ` (${formatScore(conf)})`}`;
+    modalSuggestions.appendChild(line);
+  });
+}
+
+function clipCaption(clip) {
+  const d = new Date(`${clip.date}T${clip.time}`);
+  return `Heard ${isNaN(d) ? clip.date : formatDate(d)} · ${Math.round(clip.confidence * 100)}% sure`;
+}
+
+// Offers the species' top recordings as a row of buttons under the player.
+// The clip the card plays (and the popup loads first) stays first; the other
+// two come from history.json. Nothing is shown until there's more than one
+// clip to choose from.
+function renderClips(clips, currentAudio) {
+  modalClips.innerHTML = '';
+  modalClipInfo.textContent = '';
+  if (!clips || clips.length < 2) {
+    return;
+  }
+  const first = clips.find((c) => c.audio === currentAudio) || { audio: currentAudio };
+  const options = [first, ...clips.filter((c) => c !== first).slice(0, 2)];
+  const names = ['Best', '2nd', '3rd'];
+  options.forEach((opt, i) => {
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = `clip-btn${i === 0 ? ' active' : ''}`;
+    btn.textContent = names[i];
+    btn.addEventListener('click', () => {
+      modalClips.querySelectorAll('.clip-btn').forEach((b) => b.classList.toggle('active', b === btn));
+      modalAudio.src = opt.audio;
+      const playing = modalAudio.play();
+      if (playing && playing.catch) {
+        playing.catch(() => {});
+      }
+      modalClipInfo.textContent = opt.date ? clipCaption(opt) : '';
+    });
+    modalClips.appendChild(btn);
+  });
+  modalClipInfo.textContent = first.date ? clipCaption(first) : '';
 }
 
 function dateLabel(d) {
@@ -344,21 +426,38 @@ function renderChart(counts, period) {
     chartWrap.innerHTML = '<p class="chart-empty">No data yet</p>';
     return;
   }
+  const unit = period === 'daily' ? 'day' : 'week';
   const max = Math.max(1, ...counts);
-  const width = 320;
-  const height = 120;
+  const W = 340;
+  const H = 150;
+  const left = 46;
+  const right = 6;
+  const top = 10;
+  const bottom = 20;
+  const plotW = W - left - right;
+  const plotH = H - top - bottom;
   const n = counts.length;
-  const barWidth = width / n;
+  const barWidth = plotW / n;
   const labelEvery = period === 'daily' ? 5 : 8;
   const today = new Date();
+  const yOf = (v) => top + plotH - (v / max) * plotH;
+  const tick = (v) => (v >= 10 ? String(Math.round(v)) : Number.isInteger(v) ? String(v) : v.toFixed(1));
+
+  // Gridlines at the top (busiest value) and middle, plus the zero baseline;
+  // the Y labels carry the unit so each bar reads as "N per day/week".
+  let grid = '';
+  [[max, 'chart-grid'], [max / 2, 'chart-grid'], [0, 'chart-baseline']].forEach(([v, cls]) => {
+    const y = yOf(v);
+    grid += `<line class="${cls}" x1="${left}" x2="${W - right}" y1="${y}" y2="${y}"/>`;
+    grid += `<text class="chart-axis" x="${left - 4}" y="${y + 2.8}" text-anchor="end">${v === 0 ? '0' : `${tick(v)}/${unit}`}</text>`;
+  });
 
   let bars = '';
   let labels = '';
   counts.forEach((c, i) => {
-    const barHeight = (c / max) * (height - 18);
-    const x = i * barWidth;
-    const y = height - 18 - barHeight;
-    bars += `<rect class="chart-bar" x="${x + 1}" y="${y}" width="${Math.max(1, barWidth - 2)}" height="${Math.max(0, barHeight)}"><title>${c}</title></rect>`;
+    const barHeight = (c / max) * plotH;
+    const x = left + i * barWidth;
+    bars += `<rect class="chart-bar" x="${x + 1}" y="${top + plotH - barHeight}" width="${Math.max(1, barWidth - 2)}" height="${barHeight}"><title>${c} per ${unit}</title></rect>`;
 
     const stepsFromNewest = n - 1 - i;
     const fromToday = period === 'daily' ? stepsFromNewest : stepsFromNewest * 7;
@@ -366,15 +465,11 @@ function renderChart(counts, period) {
       const d = new Date(today);
       d.setDate(d.getDate() - fromToday);
       const text = period === 'daily' ? dateLabel(d) : monthLabel(d);
-      labels += `<text class="chart-axis" x="${x + barWidth / 2}" y="${height - 4}" text-anchor="middle">${text}</text>`;
+      labels += `<text class="chart-axis" x="${x + barWidth / 2}" y="${H - 6}" text-anchor="middle">${text}</text>`;
     }
   });
 
-  chartWrap.innerHTML = `
-    <div class="chart-max">Busiest: ${max} in one ${period === 'daily' ? 'day' : 'week'}</div>
-    <svg class="chart-svg" viewBox="0 0 ${width} ${height}" preserveAspectRatio="none">
-      ${bars}${labels}
-    </svg>`;
+  chartWrap.innerHTML = `<svg class="chart-svg" viewBox="0 0 ${W} ${H}">${grid}${bars}${labels}</svg>`;
 }
 
 function setPeriod(period) {
@@ -396,8 +491,12 @@ function loadHistory(sci) {
   chartWrap.innerHTML = '<p class="chart-loading">Loading…</p>';
   currentHistory = null;
   fetchHistoryOnce().then((all) => {
-    currentHistory = all[sci] || { daily: [], weekly: [] };
+    if (sci !== currentSci) {
+      return;
+    }
+    currentHistory = all[sci] || { daily: [], weekly: [], clips: [] };
     renderChart(currentHistory[currentPeriod], currentPeriod);
+    renderClips(currentHistory.clips, modalAudio.getAttribute('src'));
   });
 }
 
@@ -405,6 +504,7 @@ function openModal(data) {
   if (!modal) {
     return;
   }
+  currentSci = data.sci || null;
   populateModal(data);
   setPeriod('daily');
   if (data.sci) {
