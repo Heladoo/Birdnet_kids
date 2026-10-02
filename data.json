@@ -1,5 +1,41 @@
 [
     {
+        "name": "Common Crane",
+        "he_name": "\u05e2\u05d2\u05d5\u05e8 \u05d0\u05e4\u05d5\u05e8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Common_crane_grus_grus.jpg/1280px-Common_crane_grus_grus.jpg",
+        "audio": "audio/grus_grus.mp3",
+        "last_seen": "2026-10-02T20:59:55",
+        "week_count": 3,
+        "v2_confidence": 0.861,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.1656,
+        "perch_confidence": 0.3963,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Grus grus",
+        "order": "Gruiformes",
+        "family": "Gruidae",
+        "local": 1339,
+        "residency": "migrant",
+        "dawn_frac": 0.1333,
+        "dawn_total": 15,
+        "v3_top_label": "Prinia gracilis_Graceful Prinia",
+        "v3_top_confidence": 0.5645,
+        "perch_top_label": "Grus grus_Common Crane",
+        "perch_top_confidence": 0.3963,
+        "photo": true
+    },
+    {
         "name": "Gray Heron",
         "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05d0\u05e4\u05d5\u05e8\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grey_Heron_%2854990114762%29_%28cropped%29.jpg/1280px-Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
@@ -1516,42 +1552,6 @@
         "v3_top_confidence": 0.6166,
         "perch_top_label": "Rallus aquaticus_Water Rail",
         "perch_top_confidence": 0.3527,
-        "photo": true
-    },
-    {
-        "name": "Common Crane",
-        "he_name": "\u05e2\u05d2\u05d5\u05e8 \u05d0\u05e4\u05d5\u05e8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Common_crane_grus_grus.jpg/1280px-Common_crane_grus_grus.jpg",
-        "audio": "audio/grus_grus.mp3",
-        "last_seen": "2026-09-29T00:49:28",
-        "week_count": 2,
-        "v2_confidence": 0.861,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.1656,
-        "perch_confidence": 0.3963,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Grus grus",
-        "order": "Gruiformes",
-        "family": "Gruidae",
-        "local": 1339,
-        "residency": "migrant",
-        "dawn_frac": 0.1429,
-        "dawn_total": 14,
-        "v3_top_label": "Prinia gracilis_Graceful Prinia",
-        "v3_top_confidence": 0.5645,
-        "perch_top_label": "Grus grus_Common Crane",
-        "perch_top_confidence": 0.3963,
         "photo": true
     },
     {
