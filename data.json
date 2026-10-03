@@ -1,11 +1,46 @@
 [
     {
+        "name": "Crested Lark",
+        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
+        "audio": "audio/galerida_cristata.mp3",
+        "last_seen": "2026-10-03T18:34:01",
+        "week_count": 30,
+        "v2_confidence": 0.9829,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9411,
+        "perch_confidence": 0.625,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Crested Lark",
+            "agrees": true
+        },
+        "sci": "Galerida cristata",
+        "order": "Passeriformes",
+        "family": "Alaudidae",
+        "local": 6844,
+        "residency": "resident",
+        "dawn_frac": 0.1494,
+        "dawn_total": 395,
+        "v3_top_label": "Galerida cristata_Crested Lark",
+        "v3_top_confidence": 0.9411,
+        "perch_top_label": "Galerida cristata_Crested Lark",
+        "perch_top_confidence": 0.625,
+        "photo": true
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-03T17:58:18",
-        "week_count": 203,
+        "last_seen": "2026-10-03T18:15:52",
+        "week_count": 204,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -27,11 +62,47 @@
         "local": 4483,
         "residency": "resident",
         "dawn_frac": 0.015,
-        "dawn_total": 5053,
+        "dawn_total": 5054,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Gadwall",
+        "he_name": "\u05d1\u05e8\u05d5\u05d5\u05d6 \u05d0\u05e4\u05d5\u05e8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gadwall-Anas-strepera.jpg/3840px-Gadwall-Anas-strepera.jpg",
+        "audio": "audio/mareca_strepera.mp3",
+        "last_seen": "2026-10-03T18:05:50",
+        "week_count": 5,
+        "v2_confidence": 0.9293,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.4762,
+        "perch_confidence": 0.0666,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Mareca strepera",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "local": 371,
+        "residency": "migrant",
+        "dawn_frac": 0.1304,
+        "dawn_total": 23,
+        "v3_top_label": "Mareca strepera_Gadwall",
+        "v3_top_confidence": 0.4762,
+        "perch_top_label": "Anas platyrhynchos_Mallard",
+        "perch_top_confidence": 0.1487,
         "photo": true
     },
     {
@@ -174,42 +245,6 @@
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
-        "photo": true
-    },
-    {
-        "name": "Gadwall",
-        "he_name": "\u05d1\u05e8\u05d5\u05d5\u05d6 \u05d0\u05e4\u05d5\u05e8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gadwall-Anas-strepera.jpg/3840px-Gadwall-Anas-strepera.jpg",
-        "audio": "audio/mareca_strepera.mp3",
-        "last_seen": "2026-10-03T16:36:54",
-        "week_count": 4,
-        "v2_confidence": 0.9293,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.4762,
-        "perch_confidence": 0.0666,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Mareca strepera",
-        "order": "Anseriformes",
-        "family": "Anatidae",
-        "local": 371,
-        "residency": "migrant",
-        "dawn_frac": 0.1364,
-        "dawn_total": 22,
-        "v3_top_label": "Mareca strepera_Gadwall",
-        "v3_top_confidence": 0.4762,
-        "perch_top_label": "Anas platyrhynchos_Mallard",
-        "perch_top_confidence": 0.1487,
         "photo": true
     },
     {
@@ -830,41 +865,6 @@
         "v3_top_confidence": 0.96,
         "perch_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
         "perch_top_confidence": 0.8294,
-        "photo": true
-    },
-    {
-        "name": "Crested Lark",
-        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
-        "audio": "audio/galerida_cristata.mp3",
-        "last_seen": "2026-10-01T13:31:07",
-        "week_count": 29,
-        "v2_confidence": 0.9829,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9411,
-        "perch_confidence": 0.625,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Crested Lark",
-            "agrees": true
-        },
-        "sci": "Galerida cristata",
-        "order": "Passeriformes",
-        "family": "Alaudidae",
-        "local": 6844,
-        "residency": "resident",
-        "dawn_frac": 0.1497,
-        "dawn_total": 394,
-        "v3_top_label": "Galerida cristata_Crested Lark",
-        "v3_top_confidence": 0.9411,
-        "perch_top_label": "Galerida cristata_Crested Lark",
-        "perch_top_confidence": 0.625,
         "photo": true
     },
     {
