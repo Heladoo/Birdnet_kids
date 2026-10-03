@@ -1,11 +1,46 @@
 [
     {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-10-03T15:58:24",
+        "week_count": 8,
+        "v2_confidence": 0.9539,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 5740,
+        "residency": "migrant",
+        "dawn_frac": 0.1721,
+        "dawn_total": 122,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg/1280px-African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-03T14:58:41",
-        "week_count": 175,
+        "last_seen": "2026-10-03T15:48:03",
+        "week_count": 189,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -27,7 +62,7 @@
         "local": 4483,
         "residency": "resident",
         "dawn_frac": 0.0151,
-        "dawn_total": 5025,
+        "dawn_total": 5039,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
@@ -39,8 +74,8 @@
         "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
         "audio": "audio/merops_apiaster.mp3",
-        "last_seen": "2026-10-03T14:54:41",
-        "week_count": 407,
+        "last_seen": "2026-10-03T15:16:33",
+        "week_count": 417,
         "v2_confidence": 0.9985,
         "badges": [
             {
@@ -58,8 +93,8 @@
         "family": "Meropidae",
         "local": 2128,
         "residency": "migrant",
-        "dawn_frac": 0.0662,
-        "dawn_total": 1706,
+        "dawn_frac": 0.0659,
+        "dawn_total": 1716,
         "v3_top_label": "Merops apiaster_European Bee-eater",
         "v3_top_confidence": 0.9088,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
@@ -107,41 +142,6 @@
         "v3_top_confidence": 0.9524,
         "perch_top_label": "Otus scops_Eurasian Scops Owl",
         "perch_top_confidence": 0.9787,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-03T14:18:56",
-        "week_count": 6,
-        "v2_confidence": 0.9539,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 5740,
-        "residency": "migrant",
-        "dawn_frac": 0.175,
-        "dawn_total": 120,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
