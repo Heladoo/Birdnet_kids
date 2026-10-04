@@ -354,7 +354,7 @@ function populateModal(data) {
     modalBadges.appendChild(chip);
   });
 
-  modalAudio.src = data.audio || '';
+  setModalAudio(data.audio || '', false);
   renderClips(null, data.audio);
 
   // Unlike the card grid (where the confirmation half is Certainty-sort-only
@@ -369,7 +369,7 @@ function populateModal(data) {
     modalSecondOpinion.className = 'modal-second-opinion';
   }
 
-  modalScores.innerHTML = [
+  modalScores.innerHTML = '<span class="scores-label">Confidence:</span>' + [
     scoreSpan('🐦', 'BirdNET v2.4 (our main model)', data.v2_confidence, true),
     scoreSpan('3️⃣', 'BirdNET+ V3.0 developer preview', data.v3_confidence, data.v3_agrees),
     scoreSpan('<strong>G</strong>', 'Google Perch v2', data.perch_confidence, data.perch_agrees),
@@ -380,7 +380,6 @@ function populateModal(data) {
 
   const lastHeard = new Date(data.last_seen);
   modalFacts.innerHTML = [
-    fact('Residency', data.residency),
     fact('Regional records', data.local === null || data.local === undefined ? null : data.local, TIP_REGIONAL),
     // dawn_total is the species' all-time detection count at OUR station
     // (kids_dawn_fraction returns [dawn share, total]).
@@ -471,11 +470,7 @@ function renderClips(clips, currentAudio) {
     btn.textContent = names[i];
     btn.addEventListener('click', () => {
       modalClips.querySelectorAll('.clip-btn').forEach((b) => b.classList.toggle('active', b === btn));
-      modalAudio.src = opt.audio;
-      const playing = modalAudio.play();
-      if (playing && playing.catch) {
-        playing.catch(() => {});
-      }
+      setModalAudio(opt.audio, true);
       modalClipInfo.textContent = opt.date ? clipCaption(opt) : '';
     });
     modalClips.appendChild(btn);
@@ -628,6 +623,328 @@ function loadHistory(sci) {
     renderPeriod();
     renderClips(currentHistory.clips, modalAudio.getAttribute('src'));
   });
+}
+
+/* ---------------------------------------------------------------------------
+ * Sound player. Instead of the browser's bare audio bar it draws what the
+ * clip looks like: a spectrogram on top (pitch on the vertical axis, time
+ * left to right, brighter = louder at that pitch) and the loudness envelope
+ * underneath, with a playhead you can click or drag to jump around.
+ *
+ * Playback itself is still a plain <audio> element (hidden); the picture is
+ * built once per clip by decoding the same mp3 with the Web Audio API and
+ * running a small FFT, then cached. If anything fails (old browser, decode
+ * error) it falls back to the native controls so playback always works.
+ * ------------------------------------------------------------------------ */
+
+const playerVisual = modal ? modal.querySelector('.player-visual') : null;
+const playerCanvas = modal ? modal.querySelector('.player-canvas') : null;
+const playerFreq = modal ? modal.querySelector('.player-freq') : null;
+const playerHead = modal ? modal.querySelector('.player-playhead') : null;
+const playerStatus = modal ? modal.querySelector('.player-status') : null;
+const playerControls = modal ? modal.querySelector('.player-controls') : null;
+const playerBtn = modal ? modal.querySelector('.player-btn') : null;
+const playerTime = modal ? modal.querySelector('.player-time') : null;
+
+const PLAYER_W = 800;
+const SPEC_H = 104;
+const WAVE_Y = 112;
+const WAVE_H = 32;
+const PLAYER_H = WAVE_Y + WAVE_H;
+const FMAX = 10000; // Hz shown; most bird song sits well below this
+const FFT_N = 1024;
+
+const visualCache = new Map(); // audio src -> {canvas, duration}
+let visualSrc = null;
+let visualDuration = 0;
+let audioCtx = null;
+let playerRaf = null;
+
+const hannWindow = new Float32Array(FFT_N).map((_, i) => 0.5 - 0.5 * Math.cos((2 * Math.PI * i) / (FFT_N - 1)));
+const fftCos = new Float32Array(FFT_N / 2).map((_, k) => Math.cos((2 * Math.PI * k) / FFT_N));
+const fftSin = new Float32Array(FFT_N / 2).map((_, k) => Math.sin((2 * Math.PI * k) / FFT_N));
+
+// In-place radix-2 FFT.
+function fft(re, im) {
+  const n = re.length;
+  for (let i = 1, j = 0; i < n; i++) {
+    let bit = n >> 1;
+    for (; j & bit; bit >>= 1) {
+      j ^= bit;
+    }
+    j ^= bit;
+    if (i < j) {
+      [re[i], re[j]] = [re[j], re[i]];
+      [im[i], im[j]] = [im[j], im[i]];
+    }
+  }
+  for (let len = 2; len <= n; len <<= 1) {
+    const half = len >> 1;
+    const step = n / len;
+    for (let i = 0; i < n; i += len) {
+      for (let k = 0; k < half; k++) {
+        const wr = fftCos[k * step];
+        const wi = -fftSin[k * step];
+        const a = i + k;
+        const b = a + half;
+        const xr = re[b] * wr - im[b] * wi;
+        const xi = re[b] * wi + im[b] * wr;
+        re[b] = re[a] - xr;
+        im[b] = im[a] - xi;
+        re[a] += xr;
+        im[a] += xi;
+      }
+    }
+  }
+}
+
+// Dark brown -> terracotta -> pale cream, matching the app's palette.
+const SPEC_STOPS = [
+  [0, [42, 33, 24]],
+  [0.4, [150, 60, 35]],
+  [0.75, [217, 122, 66]],
+  [1, [255, 236, 190]],
+];
+const specPalette = Array.from({ length: 256 }, (_, i) => {
+  const v = i / 255;
+  let s = 1;
+  while (s < SPEC_STOPS.length - 1 && v > SPEC_STOPS[s][0]) {
+    s++;
+  }
+  const [v0, c0] = SPEC_STOPS[s - 1];
+  const [v1, c1] = SPEC_STOPS[s];
+  const t = (v - v0) / (v1 - v0);
+  return c0.map((c, k) => Math.round(c + (c1[k] - c) * t));
+});
+
+// Renders a decoded clip to an offscreen PLAYER_W x PLAYER_H canvas.
+function buildVisual(buffer) {
+  const data = buffer.getChannelData(0);
+  const sr = buffer.sampleRate;
+  const off = document.createElement('canvas');
+  off.width = PLAYER_W;
+  off.height = PLAYER_H;
+  const ctx = off.getContext('2d');
+  ctx.fillStyle = '#2A2118';
+  ctx.fillRect(0, 0, PLAYER_W, PLAYER_H);
+
+  // Spectrogram: one FFT per pixel column, frequency axis 0..FMAX.
+  const bins = Math.max(8, Math.floor(FMAX / (sr / FFT_N)));
+  const mags = new Float32Array(PLAYER_W * bins);
+  const re = new Float32Array(FFT_N);
+  const im = new Float32Array(FFT_N);
+  let maxDb = -Infinity;
+  for (let c = 0; c < PLAYER_W; c++) {
+    const start = Math.floor(((c + 0.5) / PLAYER_W) * data.length) - FFT_N / 2;
+    for (let i = 0; i < FFT_N; i++) {
+      const idx = start + i;
+      re[i] = idx >= 0 && idx < data.length ? data[idx] * hannWindow[i] : 0;
+      im[i] = 0;
+    }
+    fft(re, im);
+    for (let b = 0; b < bins; b++) {
+      const db = 20 * Math.log10(Math.sqrt(re[b] * re[b] + im[b] * im[b]) / FFT_N + 1e-9);
+      mags[c * bins + b] = db;
+      if (db > maxDb) {
+        maxDb = db;
+      }
+    }
+  }
+  const floorDb = maxDb - 60;
+  const img = ctx.createImageData(PLAYER_W, SPEC_H);
+  for (let c = 0; c < PLAYER_W; c++) {
+    for (let y = 0; y < SPEC_H; y++) {
+      const bin = Math.min(bins - 1, Math.floor((1 - (y + 0.5) / SPEC_H) * bins));
+      const v = Math.pow(Math.min(1, Math.max(0, (mags[c * bins + bin] - floorDb) / (maxDb - floorDb))), 1.4);
+      const [r, g, b] = specPalette[Math.round(v * 255)];
+      const p = (y * PLAYER_W + c) * 4;
+      img.data[p] = r;
+      img.data[p + 1] = g;
+      img.data[p + 2] = b;
+      img.data[p + 3] = 255;
+    }
+  }
+  ctx.putImageData(img, 0, 0);
+
+  // Loudness envelope: peak per column, mirrored around a centre line.
+  const peaks = new Float32Array(PLAYER_W);
+  let maxPeak = 1e-6;
+  for (let c = 0; c < PLAYER_W; c++) {
+    const from = Math.floor((c / PLAYER_W) * data.length);
+    const to = Math.max(from + 1, Math.floor(((c + 1) / PLAYER_W) * data.length));
+    let peak = 0;
+    for (let i = from; i < to; i++) {
+      const a = Math.abs(data[i]);
+      if (a > peak) {
+        peak = a;
+      }
+    }
+    peaks[c] = peak;
+    if (peak > maxPeak) {
+      maxPeak = peak;
+    }
+  }
+  const cy = WAVE_Y + WAVE_H / 2;
+  ctx.fillStyle = 'rgba(255, 249, 239, 0.18)';
+  ctx.fillRect(0, cy, PLAYER_W, 1);
+  ctx.fillStyle = '#E8955E';
+  for (let c = 0; c < PLAYER_W; c++) {
+    const h = Math.max(1, (peaks[c] / maxPeak) * (WAVE_H / 2));
+    ctx.fillRect(c, cy - h, 1, h * 2);
+  }
+  return off;
+}
+
+function decodeAudio(arrayBuffer) {
+  if (!audioCtx) {
+    audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  }
+  // Callback form: older Safari has no promise version.
+  return new Promise((resolve, reject) => audioCtx.decodeAudioData(arrayBuffer, resolve, reject));
+}
+
+function fmtSec(s) {
+  return (Number.isFinite(s) ? s : 0).toFixed(1);
+}
+
+function updatePlayerUi() {
+  const dur = modalAudio.duration || visualDuration || 0;
+  const cur = modalAudio.currentTime || 0;
+  playerHead.style.left = dur ? `${Math.min(100, (cur / dur) * 100)}%` : '0%';
+  playerTime.textContent = `${fmtSec(cur)} / ${fmtSec(dur)} s`;
+}
+
+function playerTick() {
+  updatePlayerUi();
+  if (!modalAudio.paused) {
+    playerRaf = requestAnimationFrame(playerTick);
+  }
+}
+
+function fallbackToNativePlayer() {
+  playerVisual.hidden = true;
+  playerControls.hidden = true;
+  modalAudio.controls = true;
+}
+
+function loadVisual(src) {
+  visualSrc = src;
+  visualDuration = 0;
+  const ctx = playerCanvas.getContext && playerCanvas.getContext('2d');
+  if (!ctx) {
+    fallbackToNativePlayer();
+    return;
+  }
+  ctx.fillStyle = '#2A2118';
+  ctx.fillRect(0, 0, PLAYER_W, PLAYER_H);
+  playerStatus.textContent = src ? 'Loading sound…' : '';
+  if (!src) {
+    return;
+  }
+  const show = (entry) => {
+    if (src !== visualSrc) {
+      return;
+    }
+    ctx.drawImage(entry.canvas, 0, 0);
+    playerStatus.textContent = '';
+    visualDuration = entry.duration;
+    updatePlayerUi();
+  };
+  if (visualCache.has(src)) {
+    show(visualCache.get(src));
+    return;
+  }
+  fetch(src)
+    .then((r) => r.arrayBuffer())
+    .then(decodeAudio)
+    .then((buffer) => {
+      const entry = { canvas: buildVisual(buffer), duration: buffer.duration };
+      visualCache.set(src, entry);
+      show(entry);
+    })
+    .catch(() => {
+      if (src === visualSrc) {
+        playerStatus.textContent = '';
+        fallbackToNativePlayer();
+      }
+    });
+}
+
+// The one place the popup's audio source changes (initial clip, or picking
+// the 2nd/3rd recording).
+function setModalAudio(src, autoplay) {
+  cancelAnimationFrame(playerRaf);
+  modalAudio.pause();
+  modalAudio.src = src || '';
+  modalAudio.controls = false;
+  playerVisual.hidden = false;
+  playerControls.hidden = false;
+  playerBtn.textContent = '▶';
+  updatePlayerUi();
+  loadVisual(src);
+  if (autoplay) {
+    const playing = modalAudio.play();
+    if (playing && playing.catch) {
+      playing.catch(() => {});
+    }
+  }
+}
+
+if (modal) {
+  // Frequency scale along the left edge of the spectrogram.
+  [2, 4, 6, 8].forEach((k) => {
+    const label = document.createElement('span');
+    label.className = 'player-freq-label';
+    label.textContent = `${k}k`;
+    label.style.top = `${(1 - (k * 1000) / FMAX) * (SPEC_H / PLAYER_H) * 100}%`;
+    playerFreq.appendChild(label);
+  });
+
+  playerBtn.addEventListener('click', () => {
+    if (modalAudio.paused) {
+      const playing = modalAudio.play();
+      if (playing && playing.catch) {
+        playing.catch(() => {});
+      }
+    } else {
+      modalAudio.pause();
+    }
+  });
+  modalAudio.addEventListener('play', () => {
+    playerBtn.textContent = '⏸';
+    playerTick();
+  });
+  ['pause', 'ended'].forEach((name) => modalAudio.addEventListener(name, () => {
+    playerBtn.textContent = '▶';
+    cancelAnimationFrame(playerRaf);
+    updatePlayerUi();
+  }));
+  ['timeupdate', 'loadedmetadata', 'seeked'].forEach((name) => modalAudio.addEventListener(name, updatePlayerUi));
+
+  // Click or drag on the picture to jump to that moment.
+  let scrubbing = false;
+  const seekTo = (e) => {
+    const rect = playerVisual.getBoundingClientRect();
+    const dur = modalAudio.duration || visualDuration;
+    if (!dur || !rect.width) {
+      return;
+    }
+    modalAudio.currentTime = Math.min(1, Math.max(0, (e.clientX - rect.left) / rect.width)) * dur;
+    updatePlayerUi();
+  };
+  playerVisual.addEventListener('pointerdown', (e) => {
+    scrubbing = true;
+    playerVisual.setPointerCapture(e.pointerId);
+    seekTo(e);
+  });
+  playerVisual.addEventListener('pointermove', (e) => {
+    if (scrubbing) {
+      seekTo(e);
+    }
+  });
+  ['pointerup', 'pointercancel'].forEach((name) => playerVisual.addEventListener(name, () => {
+    scrubbing = false;
+  }));
 }
 
 // Put each (?) bubble just under its own row. Needs layout, so it runs after

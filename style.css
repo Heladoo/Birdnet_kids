@@ -517,12 +517,110 @@ body.modal-open {
   font-weight: 700;
 }
 
-/* Recordings and model opinions sit below the screenshot-friendly part of
-   the popup (photo, name, stats, graph). */
-.modal-extra {
-  margin-top: 18px;
-  padding-top: 14px;
-  border-top: 1px solid #E8DFC8;
+.modal-player {
+  margin-top: 14px;
+}
+
+/* The spectrogram + waveform picture of the clip (see the sound player in
+   app.js). Dark background so the warm spectrogram colours stand out. */
+.player-visual {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 800 / 144;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #2A2118;
+  cursor: pointer;
+  touch-action: pan-y;
+  user-select: none;
+}
+
+.player-canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.player-freq-label {
+  position: absolute;
+  left: 4px;
+  transform: translateY(-50%);
+  font-size: 9px;
+  font-weight: 700;
+  color: rgba(255, 249, 239, 0.75);
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.8);
+  pointer-events: none;
+}
+
+.player-playhead {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 2px;
+  background: #FFF9EF;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
+  pointer-events: none;
+}
+
+.player-status {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(255, 249, 239, 0.8);
+  font-size: 0.8rem;
+  font-weight: 600;
+  pointer-events: none;
+}
+
+.player-status:empty {
+  display: none;
+}
+
+.player-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.player-visual[hidden],
+.player-controls[hidden] {
+  display: none;
+}
+
+.player-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: var(--terracotta);
+  color: #FFF9EF;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(184, 98, 47, 0.4);
+}
+
+.player-time {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+}
+
+.player-legend {
+  margin-left: auto;
+  font-size: 0.68rem;
+  color: var(--muted);
+  text-align: right;
 }
 
 .modal-audio {
@@ -691,7 +789,8 @@ body.modal-open {
   color: var(--warn);
 }
 
-.clips-label {
+.clips-label,
+.scores-label {
   align-self: center;
   font-size: 0.8rem;
   font-weight: 700;
