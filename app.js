@@ -53,6 +53,45 @@ function clearPlaying() {
   }
 }
 
+// Badge tooltips on the cards (Migrant, Rare, ...). Desktop: hover. Touch:
+// tap (hover doesn't exist there). Tapping a badge shows its tip instead of
+// playing the card; tapping anywhere else hides it.
+let badgeTipTimer = null;
+
+function hideBadgeTips() {
+  clearTimeout(badgeTipTimer);
+  document.querySelectorAll('.badge-tip.show').forEach((t) => t.classList.remove('show'));
+}
+
+function showBadgeTip(badge) {
+  const tip = badge.closest('.photo').querySelector('.badge-tip');
+  if (!tip) {
+    return;
+  }
+  hideBadgeTips();
+  tip.textContent = badge.dataset.en || '';
+  if (badge.dataset.he) {
+    const he = document.createElement('span');
+    he.lang = 'he';
+    he.dir = 'rtl';
+    he.textContent = badge.dataset.he;
+    tip.append(' · ', he);
+  }
+  tip.classList.add('show');
+  badgeTipTimer = setTimeout(hideBadgeTips, 3500);
+}
+
+function wireBadge(badge) {
+  badge.addEventListener('mouseenter', () => showBadgeTip(badge));
+  badge.addEventListener('mouseleave', hideBadgeTips);
+  badge.addEventListener('click', (e) => {
+    e.stopPropagation();
+    showBadgeTip(badge);
+  });
+}
+
+document.addEventListener('click', hideBadgeTips);
+
 function makeCard(data) {
   const btn = document.createElement('button');
   btn.className = 'card';
@@ -78,13 +117,16 @@ function makeCard(data) {
       const chip = document.createElement('span');
       chip.className = 'badge';
       chip.textContent = b.i;
-      if (b.he) {
-        chip.title = b.he;
-        chip.setAttribute('aria-label', b.he);
-      }
+      chip.dataset.en = b.en || '';
+      chip.dataset.he = b.he || '';
+      chip.setAttribute('aria-label', `${b.en || ''} - ${b.he || ''}`);
+      wireBadge(chip);
       badges.appendChild(chip);
     });
     photo.appendChild(badges);
+    const badgeTip = document.createElement('span');
+    badgeTip.className = 'badge-tip';
+    photo.appendChild(badgeTip);
   }
 
   // A real <button> can't legally nest inside the card's own outer <button>
@@ -299,9 +341,18 @@ function populateModal(data) {
   modalPhoto.src = data.image || 'bird-placeholder.svg';
   modalPhoto.alt = data.name;
 
-  modalBadges.innerHTML = (Array.isArray(data.badges) ? data.badges : [])
-    .map((b) => `<span class="badge" title="${b.he || ''}" aria-label="${b.he || ''}">${b.i}</span>`)
-    .join('');
+  // Labelled chips (icon + name) rather than bare icons: nothing to hover or
+  // tap, and they read properly in a screenshot.
+  modalBadges.innerHTML = '';
+  (Array.isArray(data.badges) ? data.badges : []).forEach((b) => {
+    const chip = document.createElement('span');
+    chip.className = 'modal-chip';
+    chip.textContent = `${b.i} ${b.en || ''}`;
+    if (b.he) {
+      chip.title = b.he;
+    }
+    modalBadges.appendChild(chip);
+  });
 
   modalAudio.src = data.audio || '';
   renderClips(null, data.audio);

@@ -306,7 +306,6 @@ header {
   justify-content: flex-end;
   gap: 5px;
   max-width: calc(100% - 40px);
-  pointer-events: none;
 }
 
 .badge {
@@ -320,6 +319,34 @@ header {
   border-radius: 50%;
   background: rgba(255, 253, 246, 0.92);
   box-shadow: 0 2px 5px rgba(58, 50, 38, 0.25);
+  cursor: pointer;
+}
+
+/* One tooltip bubble per card, filled in by showBadgeTip() in app.js. */
+.badge-tip {
+  display: none;
+  position: absolute;
+  left: 12px;
+  right: 12px;
+  bottom: 62px;
+  z-index: 6;
+  padding: 6px 10px;
+  border-radius: 10px;
+  background: var(--ink);
+  color: #FFF9EF;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-align: center;
+  pointer-events: none;
+  box-shadow: 0 6px 16px rgba(58, 50, 38, 0.3);
+}
+
+.badge-tip.show {
+  display: block;
+}
+
+.badge-tip [lang="he"] {
+  unicode-bidi: isolate;
 }
 
 /* Info button, top-right of the photo (tapping the card itself plays the
@@ -419,14 +446,18 @@ body.modal-open {
 
 .modal-photo {
   width: 100%;
-  aspect-ratio: 4 / 3;
+  max-width: 280px;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 18px;
   background: #EFE7D3;
 }
 
 .modal-credit {
-  align-self: flex-end;
+  align-self: center;
+  width: 100%;
+  max-width: 280px;
+  text-align: right;
   margin-top: -6px;
   font-size: 0.66rem;
   color: var(--muted);
@@ -473,10 +504,30 @@ body.modal-open {
   margin-top: 12px;
 }
 
+.modal-badges:empty {
+  display: none;
+}
+
+.modal-chip {
+  padding: 3px 11px;
+  border-radius: 999px;
+  background: var(--cream);
+  color: var(--ink);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+/* Recordings and model opinions sit below the screenshot-friendly part of
+   the popup (photo, name, stats, graph). */
+.modal-extra {
+  margin-top: 18px;
+  padding-top: 14px;
+  border-top: 1px solid #E8DFC8;
+}
+
 .modal-audio {
   display: block;
   width: 100%;
-  margin-top: 14px;
 }
 
 .modal-second-opinion {

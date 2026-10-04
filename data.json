@@ -1,5 +1,90 @@
 [
     {
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
+            "license": null
+        },
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-10-04T09:31:23",
+        "week_count": 34,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        },
+        "sci": "Acridotheres tristis",
+        "order": "Passeriformes",
+        "family": "Sturnidae",
+        "local": 6200,
+        "residency": "resident",
+        "dawn_frac": 0.0924,
+        "dawn_total": 1104,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-04T09:25:31",
+        "week_count": 187,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.0857,
+        "dawn_total": 13608,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -14,6 +99,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -39,49 +125,6 @@
         "photo": true
     },
     {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-04T01:16:41",
-        "week_count": 186,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0857,
-        "dawn_total": 13607,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
-        "photo": true
-    },
-    {
         "name": "Black-crowned Night-Heron",
         "he_name": "\u05d0\u05e0\u05e4\u05ea \u05dc\u05d9\u05dc\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nycticorax_nycticorax_457953189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -96,10 +139,12 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -139,10 +184,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -182,6 +229,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -221,10 +269,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -261,6 +311,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -297,10 +348,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
@@ -337,6 +390,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -376,6 +430,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -415,14 +470,17 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             },
             {
                 "i": "\ud83c\udf19",
+                "en": "Nocturnal",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
             }
         ],
@@ -462,10 +520,12 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -505,6 +565,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -544,10 +605,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -618,18 +681,22 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             },
             {
                 "i": "\ud83c\udf19",
+                "en": "Nocturnal",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
             }
         ],
@@ -652,45 +719,6 @@
         "photo": true
     },
     {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
-            "license": null
-        },
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-10-02T13:26:25",
-        "week_count": 32,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": true
-        },
-        "sci": "Acridotheres tristis",
-        "order": "Passeriformes",
-        "family": "Sturnidae",
-        "local": 6200,
-        "residency": "resident",
-        "dawn_frac": 0.0926,
-        "dawn_total": 1102,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9523,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.4667,
-        "photo": true
-    },
-    {
         "name": "Barn Owl",
         "he_name": "\u05ea\u05e0\u05e9\u05de\u05ea \u05dc\u05d1\u05e0\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
@@ -705,14 +733,17 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             },
             {
                 "i": "\ud83c\udf19",
+                "en": "Nocturnal",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
             }
         ],
@@ -752,10 +783,12 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
@@ -795,6 +828,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -831,6 +865,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -870,6 +905,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -943,6 +979,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -982,10 +1019,12 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83c\udf05",
+                "en": "Dawn Caller",
                 "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
             }
         ],
@@ -1025,6 +1064,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -1064,6 +1104,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -1100,10 +1141,12 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -1143,6 +1186,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -1216,6 +1260,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -1255,10 +1300,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -1295,10 +1342,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -1338,6 +1387,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -1377,6 +1427,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -1481,6 +1532,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -1517,6 +1569,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -1556,6 +1609,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -1592,10 +1646,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -1632,10 +1688,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -1672,10 +1730,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -1712,10 +1772,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -1752,6 +1814,7 @@
         "badges": [
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -1788,14 +1851,17 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -1835,6 +1901,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -1874,6 +1941,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -1910,10 +1978,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -1953,6 +2023,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -1992,6 +2063,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -2031,10 +2103,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf05",
+                "en": "Dawn Caller",
                 "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
             }
         ],
@@ -2074,6 +2148,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -2113,10 +2188,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -2153,10 +2230,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -2193,6 +2272,7 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -2263,10 +2343,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
@@ -2303,6 +2385,7 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -2342,10 +2425,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -2385,14 +2470,17 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
@@ -2429,10 +2517,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -2472,10 +2562,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -2512,6 +2604,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -2551,6 +2644,7 @@
         "badges": [
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
@@ -2587,10 +2681,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -2627,6 +2723,7 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -2663,6 +2760,7 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -2702,10 +2800,12 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -2745,10 +2845,12 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -2785,10 +2887,12 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -2828,6 +2932,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -2864,6 +2969,7 @@
         "badges": [
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -2903,6 +3009,7 @@
         "badges": [
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -2939,6 +3046,7 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -2978,6 +3086,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -3017,6 +3126,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -3090,6 +3200,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -3163,10 +3274,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
@@ -3206,10 +3319,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -3249,14 +3364,17 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             },
             {
                 "i": "\ud83c\udf19",
+                "en": "Nocturnal",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
             }
         ],
@@ -3296,6 +3414,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -3335,14 +3454,17 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -3379,10 +3501,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
@@ -3450,6 +3574,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -3486,6 +3611,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -3522,14 +3648,17 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -3600,10 +3729,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
@@ -3640,6 +3771,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -3676,6 +3808,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -3712,6 +3845,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -3810,6 +3944,7 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -3849,10 +3984,12 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83c\udf05",
+                "en": "Dawn Caller",
                 "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
             }
         ],
@@ -3892,6 +4029,7 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -3928,10 +4066,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
@@ -3971,6 +4111,7 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -4007,6 +4148,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -4043,10 +4185,12 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -4117,6 +4261,7 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -4153,6 +4298,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -4189,6 +4335,7 @@
         "badges": [
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -4225,6 +4372,7 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -4295,6 +4443,7 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -4331,6 +4480,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -4401,6 +4551,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -4440,6 +4591,7 @@
         "badges": [
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
@@ -4507,6 +4659,7 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -4546,10 +4699,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -4620,6 +4775,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -4659,6 +4815,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -4695,14 +4852,17 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -4739,6 +4899,7 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -4775,6 +4936,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -4814,10 +4976,12 @@
         "badges": [
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             },
             {
                 "i": "\ud83c\udf19",
+                "en": "Nocturnal",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
             }
         ],
@@ -4857,6 +5021,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -4893,10 +5058,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -4933,10 +5100,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
@@ -5004,6 +5173,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -5040,6 +5210,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -5076,10 +5247,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -5116,10 +5289,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -5156,10 +5331,12 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             },
             {
                 "i": "\ud83c\udf05",
+                "en": "Dawn Caller",
                 "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
             }
         ],
@@ -5199,6 +5376,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -5235,10 +5413,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -5275,10 +5455,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -5318,10 +5500,12 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -5361,14 +5545,17 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -5405,6 +5592,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -5441,10 +5629,12 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],
@@ -5484,6 +5674,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -5523,6 +5714,7 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
@@ -5559,10 +5751,12 @@
         "badges": [
             {
                 "i": "\ud83c\udfe0",
+                "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
@@ -5602,10 +5796,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83e\udd85",
+                "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
@@ -5642,10 +5838,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -5682,6 +5880,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -5718,6 +5917,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -5757,10 +5957,12 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
                 "i": "\ud83c\udf0a",
+                "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
@@ -5800,6 +6002,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -5839,6 +6042,7 @@
         "badges": [
             {
                 "i": "\u2708\ufe0f",
+                "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
@@ -5875,6 +6079,7 @@
         "badges": [
             {
                 "i": "\ud83d\udc8e",
+                "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
             }
         ],

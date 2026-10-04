@@ -6,7 +6,7 @@
 <title>Birdnet Kids - Bird sounds!</title>
 <link rel="icon" href="favicon.png?v=2">
 <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=11">
+<link rel="stylesheet" href="style.css?v=12">
 </head>
 <body>
 <a class="expert-link" href="expert.html" title="Expert data view" aria-label="Expert data view">🔬</a>
@@ -63,12 +63,6 @@
       </div>
     </div>
     <div class="modal-badges"></div>
-    <audio class="modal-audio" controls preload="none"></audio>
-    <div class="modal-clips"></div>
-    <div class="modal-clip-info"></div>
-    <div class="modal-second-opinion"></div>
-    <div class="modal-scores"></div>
-    <div class="modal-suggestions"></div>
     <dl class="modal-facts"></dl>
     <div class="modal-graph">
       <p class="control-label">Detections over time</p>
@@ -79,9 +73,19 @@
       </div>
       <div class="chart-wrap"></div>
     </div>
+    <!-- Everything above is meant to fit one screenshot (photo, name, stats,
+         graph); recordings and model opinions live below it. -->
+    <div class="modal-extra">
+      <audio class="modal-audio" controls preload="none"></audio>
+      <div class="modal-clips"></div>
+      <div class="modal-clip-info"></div>
+      <div class="modal-scores"></div>
+      <div class="modal-second-opinion"></div>
+      <div class="modal-suggestions"></div>
+    </div>
   </div>
 </div>
 
-<script src="app.js?v=11"></script>
+<script src="app.js?v=12"></script>
 </body>
 </html>
