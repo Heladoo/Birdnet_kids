@@ -1,5 +1,50 @@
 [
     {
+        "name": "Common Quail",
+        "he_name": "\u05e9\u05dc\u05d9\u05d5 \u05e0\u05d5\u05d3\u05d3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Coturnix_coturnix%2C_Fraunberg%2C_Bayern%2C_Deutschland_1%2C_Ausschnitt.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Coturnix_coturnix%2C_Fraunberg%2C_Bayern%2C_Deutschland_1%2C_Ausschnitt.jpg",
+            "license": "CC BY 4.0"
+        },
+        "audio": "audio/coturnix_coturnix.mp3",
+        "last_seen": "2026-10-04T22:58:23",
+        "week_count": 2,
+        "v2_confidence": 0.9922,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf05",
+                "en": "Dawn Caller",
+                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
+            }
+        ],
+        "v3_confidence": 0.9259,
+        "perch_confidence": 0.8633,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Quail",
+            "agrees": true
+        },
+        "sci": "Coturnix coturnix",
+        "order": "Galliformes",
+        "family": "Phasianidae",
+        "local": 718,
+        "residency": "migrant",
+        "dawn_frac": 0.8478,
+        "dawn_total": 46,
+        "v3_top_label": "Coturnix coturnix_Common Quail",
+        "v3_top_confidence": 0.9259,
+        "perch_top_label": "Coturnix coturnix_Common Quail",
+        "perch_top_confidence": 0.8633,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -2241,51 +2286,6 @@
         "v3_top_confidence": 0.4406,
         "perch_top_label": "Cecropis daurica_Eastern Red-rumped Swallow",
         "perch_top_confidence": 0.3934,
-        "photo": true
-    },
-    {
-        "name": "Common Quail",
-        "he_name": "\u05e9\u05dc\u05d9\u05d5 \u05e0\u05d5\u05d3\u05d3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Coturnix_coturnix%2C_Fraunberg%2C_Bayern%2C_Deutschland_1%2C_Ausschnitt.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Coturnix_coturnix%2C_Fraunberg%2C_Bayern%2C_Deutschland_1%2C_Ausschnitt.jpg",
-            "license": "CC BY 4.0"
-        },
-        "audio": "audio/coturnix_coturnix.mp3",
-        "last_seen": "2026-09-28T04:31:20",
-        "week_count": 1,
-        "v2_confidence": 0.9922,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf05",
-                "en": "Dawn Caller",
-                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
-            }
-        ],
-        "v3_confidence": 0.9259,
-        "perch_confidence": 0.8633,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Quail",
-            "agrees": true
-        },
-        "sci": "Coturnix coturnix",
-        "order": "Galliformes",
-        "family": "Phasianidae",
-        "local": 718,
-        "residency": "migrant",
-        "dawn_frac": 0.8667,
-        "dawn_total": 45,
-        "v3_top_label": "Coturnix coturnix_Common Quail",
-        "v3_top_confidence": 0.9259,
-        "perch_top_label": "Coturnix coturnix_Common Quail",
-        "perch_top_confidence": 0.8633,
         "photo": true
     },
     {
