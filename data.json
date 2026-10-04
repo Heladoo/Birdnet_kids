@@ -1,5 +1,55 @@
 [
     {
+        "name": "Eurasian Scops-Owl",
+        "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/otus_scops.mp3",
+        "last_seen": "2026-10-04T23:53:50",
+        "week_count": 11,
+        "v2_confidence": 0.9954,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "en": "Nocturnal",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9524,
+        "perch_confidence": 0.9787,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Scops Owl",
+            "agrees": true
+        },
+        "sci": "Otus scops",
+        "order": "Strigiformes",
+        "family": "Strigidae",
+        "local": 309,
+        "residency": "migrant",
+        "dawn_frac": 0.1992,
+        "dawn_total": 758,
+        "v3_top_label": "Otus scops_Eurasian Scops Owl",
+        "v3_top_confidence": 0.9524,
+        "perch_top_label": "Otus scops_Eurasian Scops Owl",
+        "perch_top_confidence": 0.9787,
+        "photo": true
+    },
+    {
         "name": "Common Quail",
         "he_name": "\u05e9\u05dc\u05d9\u05d5 \u05e0\u05d5\u05d3\u05d3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Coturnix_coturnix%2C_Fraunberg%2C_Bayern%2C_Deutschland_1%2C_Ausschnitt.jpg",
@@ -9,7 +59,7 @@
         },
         "audio": "audio/coturnix_coturnix.mp3",
         "last_seen": "2026-10-04T22:58:23",
-        "week_count": 2,
+        "week_count": 1,
         "v2_confidence": 0.9922,
         "badges": [
             {
@@ -54,7 +104,7 @@
         },
         "audio": "audio/vanellus_spinosus.mp3",
         "last_seen": "2026-10-04T20:38:25",
-        "week_count": 194,
+        "week_count": 166,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -99,7 +149,7 @@
         },
         "audio": "audio/psittacula_krameri.mp3",
         "last_seen": "2026-10-04T17:43:46",
-        "week_count": 225,
+        "week_count": 207,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -139,7 +189,7 @@
         },
         "audio": "audio/merops_apiaster.mp3",
         "last_seen": "2026-10-04T17:02:20",
-        "week_count": 489,
+        "week_count": 450,
         "v2_confidence": 0.9985,
         "badges": [
             {
@@ -256,7 +306,7 @@
         },
         "audio": "audio/prinia_gracilis.mp3",
         "last_seen": "2026-10-04T14:56:57",
-        "week_count": 29,
+        "week_count": 28,
         "v2_confidence": 0.9958,
         "badges": [
             {
@@ -333,7 +383,7 @@
         },
         "audio": "audio/galerida_cristata.mp3",
         "last_seen": "2026-10-04T13:37:33",
-        "week_count": 28,
+        "week_count": 11,
         "v2_confidence": 0.9829,
         "badges": [
             {
@@ -447,7 +497,7 @@
         },
         "audio": "audio/halcyon_smyrnensis.mp3",
         "last_seen": "2026-10-04T10:17:23",
-        "week_count": 11,
+        "week_count": 10,
         "v2_confidence": 0.9996,
         "badges": [
             {
@@ -624,7 +674,7 @@
         },
         "audio": "audio/tringa_ochropus.mp3",
         "last_seen": "2026-10-03T19:01:13",
-        "week_count": 7,
+        "week_count": 5,
         "v2_confidence": 0.9967,
         "badges": [
             {
@@ -669,7 +719,7 @@
         },
         "audio": "audio/mareca_strepera.mp3",
         "last_seen": "2026-10-03T18:05:50",
-        "week_count": 5,
+        "week_count": 3,
         "v2_confidence": 0.9293,
         "badges": [
             {
@@ -753,7 +803,7 @@
         },
         "audio": "audio/motacilla_alba.mp3",
         "last_seen": "2026-10-03T16:55:58",
-        "week_count": 9,
+        "week_count": 8,
         "v2_confidence": 0.9539,
         "badges": [
             {
@@ -824,56 +874,6 @@
         "photo": true
     },
     {
-        "name": "Eurasian Scops-Owl",
-        "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/otus_scops.mp3",
-        "last_seen": "2026-10-03T14:49:07",
-        "week_count": 17,
-        "v2_confidence": 0.9954,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "en": "Nocturnal",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9524,
-        "perch_confidence": 0.9787,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Scops Owl",
-            "agrees": true
-        },
-        "sci": "Otus scops",
-        "order": "Strigiformes",
-        "family": "Strigidae",
-        "local": 309,
-        "residency": "migrant",
-        "dawn_frac": 0.1997,
-        "dawn_total": 756,
-        "v3_top_label": "Otus scops_Eurasian Scops Owl",
-        "v3_top_confidence": 0.9524,
-        "perch_top_label": "Otus scops_Eurasian Scops Owl",
-        "perch_top_confidence": 0.9787,
-        "photo": true
-    },
-    {
         "name": "Gray Heron",
         "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05d0\u05e4\u05d5\u05e8\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grey_Heron_%2854990114762%29_%28cropped%29.jpg/1280px-Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
@@ -883,7 +883,7 @@
         },
         "audio": "audio/ardea_cinerea.mp3",
         "last_seen": "2026-10-03T03:29:26",
-        "week_count": 5,
+        "week_count": 3,
         "v2_confidence": 0.9394,
         "badges": [
             {
@@ -928,7 +928,7 @@
         },
         "audio": "audio/burhinus_oedicnemus.mp3",
         "last_seen": "2026-10-03T03:29:03",
-        "week_count": 29,
+        "week_count": 17,
         "v2_confidence": 0.9974,
         "badges": [
             {
@@ -968,7 +968,7 @@
         },
         "audio": "audio/grus_grus.mp3",
         "last_seen": "2026-10-02T20:59:55",
-        "week_count": 3,
+        "week_count": 2,
         "v2_confidence": 0.861,
         "badges": [
             {
@@ -1010,7 +1010,7 @@
         },
         "audio": "audio/motacilla_flava.mp3",
         "last_seen": "2026-10-02T16:47:17",
-        "week_count": 2,
+        "week_count": 1,
         "v2_confidence": 0.9731,
         "badges": [],
         "v3_confidence": 0.9239,
@@ -1096,7 +1096,7 @@
         },
         "audio": "audio/tyto_alba.mp3",
         "last_seen": "2026-10-02T13:13:51",
-        "week_count": 3,
+        "week_count": 2,
         "v2_confidence": 0.9991,
         "badges": [
             {
@@ -1146,7 +1146,7 @@
         },
         "audio": "audio/falco_tinnunculus.mp3",
         "last_seen": "2026-10-02T09:17:42",
-        "week_count": 14,
+        "week_count": 8,
         "v2_confidence": 0.9943,
         "badges": [
             {
@@ -1191,7 +1191,7 @@
         },
         "audio": "audio/streptopelia_senegalensis.mp3",
         "last_seen": "2026-10-02T07:59:28",
-        "week_count": 94,
+        "week_count": 75,
         "v2_confidence": 0.9985,
         "badges": [
             {
@@ -1231,7 +1231,7 @@
         },
         "audio": "audio/delichon_urbicum.mp3",
         "last_seen": "2026-10-01T17:07:56",
-        "week_count": 2,
+        "week_count": 1,
         "v2_confidence": 0.9666,
         "badges": [
             {
@@ -1305,7 +1305,7 @@
         },
         "audio": "audio/streptopelia_decaocto.mp3",
         "last_seen": "2026-10-01T15:12:11",
-        "week_count": 10,
+        "week_count": 9,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -1345,7 +1345,7 @@
         },
         "audio": "audio/tachybaptus_ruficollis.mp3",
         "last_seen": "2026-10-01T08:19:37",
-        "week_count": 3,
+        "week_count": 2,
         "v2_confidence": 0.9656,
         "badges": [
             {
@@ -1546,7 +1546,7 @@
         },
         "audio": "audio/tringa_nebularia.mp3",
         "last_seen": "2026-09-30T18:12:39",
-        "week_count": 3,
+        "week_count": 1,
         "v2_confidence": 0.945,
         "badges": [
             {
@@ -2046,7 +2046,7 @@
         },
         "audio": "audio/charadrius_dubius.mp3",
         "last_seen": "2026-09-28T22:32:22",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.9111,
         "badges": [
             {
@@ -2096,7 +2096,7 @@
         },
         "audio": "audio/upupa_epops.mp3",
         "last_seen": "2026-09-28T17:23:39",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.9831,
         "badges": [
             {
@@ -2136,7 +2136,7 @@
         },
         "audio": "audio/ficedula_albicollis.mp3",
         "last_seen": "2026-09-28T16:21:05",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.7853,
         "badges": [
             {
@@ -2173,7 +2173,7 @@
         },
         "audio": "audio/tringa_glareola.mp3",
         "last_seen": "2026-09-28T15:21:39",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.9596,
         "badges": [
             {
@@ -2218,7 +2218,7 @@
         },
         "audio": "audio/hirundo_rustica.mp3",
         "last_seen": "2026-09-28T13:04:22",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.968,
         "badges": [
             {
@@ -2258,7 +2258,7 @@
         },
         "audio": "audio/fringilla_coelebs.mp3",
         "last_seen": "2026-09-28T10:02:46",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.8908,
         "badges": [
             {
@@ -2298,7 +2298,7 @@
         },
         "audio": "audio/phoenicurus_ochruros.mp3",
         "last_seen": "2026-09-28T00:42:40",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.9952,
         "badges": [
             {
