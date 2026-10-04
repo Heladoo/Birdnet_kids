@@ -48,6 +48,12 @@
     <tbody id="events"></tbody>
   </table>
 
+  <h2>Where visits came from</h2>
+  <table>
+    <thead><tr><th>Source</th><th>Visits</th><th>Share</th><th>New users</th></tr></thead>
+    <tbody id="sources"></tbody>
+  </table>
+
   <h2>Reach</h2>
   <table>
     <tbody id="reach"></tbody>
@@ -57,8 +63,9 @@
     A <b>visit</b> starts with the first activity after 30 minutes of quiet. A <b>user</b> is a browser
     seen for the first time (one phone or computer, not a person; clearing site data makes it new).
     <b>Active time</b> only counts while the page is open <i>and</i> touched, scrolled or typed in during
-    the last minute, in 30-second steps, so it is rounded and slightly low. Counts are anonymous
-    numbers only. Add <code>?stats=off</code> to any page address on your own devices to stop them being
+    the last minute, in 30-second steps, so it is rounded and slightly low. Sources come from the referrer the browser sends, or from a tag on the link, e.g.
+    <code>?src=whatsapp</code>: WhatsApp and most chat apps send no referrer, so untagged
+    links from them show up as Direct. Counts are anonymous numbers only. Add <code>?stats=off</code> to any page address on your own devices to stop them being
     counted. <a href="index.html">Back to Bird Sounds</a>
   </p>
 </main>
@@ -66,7 +73,7 @@
 (function () {
   var BASE = 'https://abacus.jasoncameron.dev/get/heladoo/';
   // ?stats=off / ?stats=on works here too (same switch stats.js reads).
-  var m = /[?&]stats=(on|off)/.exec(location.search);
+  var m = /[?&]stats=(on|off)\b/.exec(location.search);
   if (m) { try { localStorage.setItem('bk-off', m[1] === 'off' ? '1' : '0'); } catch (e) {} }
   var KINDS = [
     ['play', 'Played a card\'s sound'],
@@ -79,8 +86,16 @@
     ['tip', 'Tapped a badge for its meaning'],
     ['expert', 'Opened the expert data view']
   ];
+  var SOURCES = [
+    ['whatsapp', 'WhatsApp'], ['facebook', 'Facebook'], ['instagram', 'Instagram'],
+    ['telegram', 'Telegram'], ['x', 'X / Twitter'], ['reddit', 'Reddit'], ['youtube', 'YouTube'],
+    ['google', 'Search engines'], ['github', 'GitHub'], ['birdweather', 'BirdWeather'],
+    ['email', 'Email'], ['other', 'Other websites'], ['direct', 'Direct / unknown']
+  ];
   var KEYS = ['visit', 'user', 'event', 'visit-active', 'visit-popup', 'user-active', 'user-popup', 'tick']
-    .concat(KINDS.map(function (k) { return 'event-' + k[0]; }));
+    .concat(KINDS.map(function (k) { return 'event-' + k[0]; }))
+    .concat(SOURCES.map(function (s) { return 'src-' + s[0]; }))
+    .concat(SOURCES.map(function (s) { return 'usersrc-' + s[0]; }));
 
   function get(key) {
     return fetch(BASE + key).then(function (r) { return r.ok ? r.json() : { value: 0 }; })
@@ -137,6 +152,14 @@
       var v = c['event-' + k[0]];
       return row([k[1], n(v), div(v, c.visit, 2)]);
     }).join('');
+
+    var srcTotal = SOURCES.reduce(function (t, s) { return t + (c['src-' + s[0]] || 0); }, 0);
+    document.getElementById('sources').innerHTML = SOURCES.map(function (s) {
+      return [s, c['src-' + s[0]] || 0, c['usersrc-' + s[0]] || 0];
+    }).filter(function (r) { return r[1] || r[2]; })
+      .sort(function (a, b) { return b[1] - a[1]; })
+      .map(function (r) { return row([r[0][1], n(r[1]), pct(r[1], srcTotal), n(r[2])]); })
+      .join('') || row(['No visits counted yet', '', '', '']);
 
     document.getElementById('reach').innerHTML = [
       row(['Visits per user', div(c.visit, c.user)]),

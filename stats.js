@@ -17,6 +17,12 @@
  *   bk-event            every interaction (total)
  *   bk-event-<name>     per kind: play, popup, clip, soundplay, graph, sort,
  *                       filter, tip, expert
+ *   bk-src-<name>       where each visit came from (see sourceOf()):
+ *                       whatsapp, facebook, instagram, telegram, x, reddit, youtube,
+ *                       google, github, birdweather, email, other (a site we don't
+ *                       list) and direct (no referrer - typed address, bookmark,
+ *                       and most chat apps, WhatsApp included, which hide it)
+ *   bk-usersrc-<name>   the same, for a browser's first visit only
  *   bk-tick             one per 30 s of *active* time (tab visible and the
  *                       person touched / scrolled / typed in the last minute)
  *
@@ -29,6 +35,51 @@
   var SESSION_GAP = 30 * 60 * 1000;
   var TICK_MS = 30 * 1000;
   var IDLE_MS = 60 * 1000;
+
+  // Referrer host -> source name. A link you share can also say so itself
+  // (?src=whatsapp), which beats the referrer - chat apps rarely send one.
+  var SOURCES = {
+    whatsapp: ['whatsapp.com', 'wa.me'],
+    facebook: ['facebook.com', 'fb.com', 'fb.me', 'messenger.com'],
+    instagram: ['instagram.com'],
+    telegram: ['t.me', 'telegram.org', 'telegram.me'],
+    x: ['t.co', 'twitter.com', 'x.com'],
+    reddit: ['reddit.com'],
+    youtube: ['youtube.com', 'youtu.be'],
+    google: ['google.com', 'google.co.il', 'bing.com', 'duckduckgo.com'],
+    github: ['github.com', 'github.io'],
+    birdweather: ['birdweather.com'],
+    email: ['mail.google.com', 'outlook.live.com', 'outlook.office.com', 'mail.yahoo.com']
+  };
+
+  function sourceOf() {
+    var tag = /[?&](?:src|utm_source)=([a-z]+)/i.exec(location.search);
+    if (tag) {
+      var name = tag[1].toLowerCase();
+      return name === 'twitter' ? 'x' : (SOURCES[name] ? name : 'other');
+    }
+    var host = '';
+    try {
+      host = new URL(document.referrer).hostname.toLowerCase();
+    } catch (e) { /* no referrer */ }
+    if (!host || host === location.hostname) {
+      return 'direct';
+    }
+    for (var name2 in SOURCES) {
+      for (var i = 0; i < SOURCES[name2].length; i++) {
+        var d = SOURCES[name2][i];
+        if (host === d || host.slice(-d.length - 1) === '.' + d) {
+          // github.io is any GitHub Pages site, but ours is skipped above
+          return name2;
+        }
+      }
+    }
+    return 'other';
+  }
+
+  // Only the page load that starts a visit knows its referrer; a visit that
+  // resumes later in the same open page is not a new arrival.
+  var arrival = sourceOf();
 
   var memory = {};
   function store(key, value) {
@@ -90,10 +141,14 @@
     if (!sessionChecked || now - last > SESSION_GAP) {
       if (now - last > SESSION_GAP) {
         visitFlags = {};
+        var src = arrival || 'direct';
+        arrival = null;
         hit('bk-visit');
+        hit('bk-src-' + src);
         if (store('bk-f-user') !== '1') {
           store('bk-f-user', '1');
           hit('bk-user');
+          hit('bk-usersrc-' + src);
         }
       }
       sessionChecked = true;
