@@ -579,6 +579,14 @@ function loadHistory(sci) {
   });
 }
 
+// Put each (?) bubble just under its own row. Needs layout, so it runs after
+// the popup is shown.
+function positionTips() {
+  modalFacts.querySelectorAll('.tip').forEach((tip) => {
+    tip.style.setProperty('--tip-top', `${tip.offsetTop + tip.offsetHeight + 6}px`);
+  });
+}
+
 function openModal(data) {
   if (!modal) {
     return;
@@ -593,6 +601,7 @@ function openModal(data) {
   lastFocused = document.activeElement;
   modal.hidden = false;
   document.body.classList.add('modal-open');
+  positionTips();
   if (modalClose) {
     modalClose.focus();
   }

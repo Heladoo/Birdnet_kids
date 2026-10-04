@@ -666,9 +666,14 @@ body.modal-open {
 }
 
 /* Tiny (?) next to a label: hover/focus on desktop, tap-to-toggle (.open) on
-   touch screens. */
-.tip {
+   touch screens. The bubble is positioned against the whole facts card (the
+   (?) itself is static) and spans its width, so it never runs off the edge
+   on a narrow screen; --tip-top is set per tip in app.js (positionTips). */
+.modal-facts {
   position: relative;
+}
+
+.tip {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -689,10 +694,10 @@ body.modal-open {
   content: attr(data-tip);
   display: none;
   position: absolute;
-  left: -4px;
-  top: calc(100% + 6px);
+  left: 14px;
+  right: 14px;
+  top: var(--tip-top, 100%);
   z-index: 5;
-  width: 210px;
   padding: 8px 10px;
   border-radius: 10px;
   background: var(--ink);
