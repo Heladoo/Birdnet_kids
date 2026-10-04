@@ -87,11 +87,6 @@ function makeCard(data) {
     photo.appendChild(badges);
   }
 
-  const badge = document.createElement('span');
-  badge.className = 'play-badge';
-  badge.textContent = '▶';
-  photo.appendChild(badge);
-
   // A real <button> can't legally nest inside the card's own outer <button>
   // (browsers would hoist it out, breaking the DOM/click wiring), so this is
   // a span acting as a button: role, tabindex, and a keydown handler below
@@ -258,6 +253,7 @@ const modalSuggestions = modal ? modal.querySelector('.modal-suggestions') : nul
 const modalClips = modal ? modal.querySelector('.modal-clips') : null;
 const modalClipInfo = modal ? modal.querySelector('.modal-clip-info') : null;
 const modalFacts = modal ? modal.querySelector('.modal-facts') : null;
+const modalCredit = modal ? modal.querySelector('.modal-credit') : null;
 const chartWrap = modal ? modal.querySelector('.chart-wrap') : null;
 const periodButtons = modal ? Array.from(modal.querySelectorAll('.period-btn')) : [];
 
@@ -272,11 +268,16 @@ let currentHistory = null;
 let currentPeriod = 'daily';
 let lastFocused = null;
 
-function fact(label, value) {
+// `tip` adds a tiny (?) next to the label: hover/focus shows it on desktop,
+// tapping toggles it on touch screens (see the click handlers below).
+function fact(label, value, tip) {
   if (value === null || value === undefined || value === '') {
     return '';
   }
-  return `<dt>${label}</dt><dd>${value}</dd>`;
+  const help = tip
+    ? `<span class="tip" role="button" tabindex="0" aria-label="${tip}" data-tip="${tip}">?</span>`
+    : '';
+  return `<dt>${label}${help}</dt><dd>${value}</dd>`;
 }
 
 function scoreSpan(icon, label, conf, agrees) {
@@ -324,19 +325,36 @@ function populateModal(data) {
   ].join('');
 
   renderSuggestions(data);
+  renderCredit(data.credit);
 
   const lastHeard = new Date(data.last_seen);
   modalFacts.innerHTML = [
     fact('Residency', data.residency),
+    fact('Regional records', data.local === null || data.local === undefined ? null : data.local, TIP_REGIONAL),
     // dawn_total is the species' all-time detection count at OUR station
-    // (kids_dawn_fraction returns [dawn share, total]); shown on its own so
-    // it isn't mistaken for the GBIF "regional records" figure below.
-    fact('Total detections', data.dawn_total > 0 ? Number(data.dawn_total).toLocaleString() : null),
+    // (kids_dawn_fraction returns [dawn share, total]).
+    fact('Total detections', data.dawn_total > 0 ? Number(data.dawn_total).toLocaleString() : null, TIP_TOTAL),
     fact('Heard this week', weekText(Number(data.week_count), weekRank(data))),
-    fact('Heard at dawn', data.dawn_total > 0 ? `${Math.round(data.dawn_frac * 100)}% (04:30–06:30)` : null),
-    fact('Regional records', data.local === null || data.local === undefined ? null : data.local),
     fact('Last heard', isNaN(lastHeard) ? '' : formatDate(lastHeard)),
   ].join('');
+}
+
+const TIP_REGIONAL = 'Public GBIF sightings within ~35 km (not our own station)';
+const TIP_TOTAL = 'How many times our own station has heard this species, all time';
+
+// Minimal photo credit: a link to the Wikimedia file page (which names the
+// author and license) plus the license when known.
+function renderCredit(credit) {
+  modalCredit.textContent = '';
+  if (!credit) {
+    return;
+  }
+  const link = document.createElement('a');
+  link.href = credit.url;
+  link.target = '_blank';
+  link.rel = 'noopener';
+  link.textContent = 'Wikimedia Commons';
+  modalCredit.append('Photo: ', link, credit.license ? ` · ${credit.license}` : '');
 }
 
 // Where this species ranks among all species by detections in the last 7
@@ -391,6 +409,10 @@ function renderClips(clips, currentAudio) {
   const first = clips.find((c) => c.audio === currentAudio) || { audio: currentAudio };
   const options = [first, ...clips.filter((c) => c !== first).slice(0, 2)];
   const names = ['Best', '2nd', '3rd'];
+  const label = document.createElement('span');
+  label.className = 'clips-label';
+  label.textContent = 'Recordings:';
+  modalClips.appendChild(label);
   options.forEach((opt, i) => {
     const btn = document.createElement('button');
     btn.type = 'button';
@@ -472,12 +494,69 @@ function renderChart(counts, period) {
   chartWrap.innerHTML = `<svg class="chart-svg" viewBox="0 0 ${W} ${H}">${grid}${bars}${labels}</svg>`;
 }
 
+// Share of all-time detections per time-of-day band (dawn, morning, ...).
+// Bands come from the server (kids_time_of_day) so their names and clock
+// windows live in one place.
+function renderTimeOfDay(tod) {
+  const total = (tod || []).reduce((sum, b) => sum + b.count, 0);
+  if (!total) {
+    chartWrap.innerHTML = '<p class="chart-empty">No data yet</p>';
+    return;
+  }
+  const W = 340;
+  const H = 172;
+  const left = 36;
+  const right = 6;
+  const top = 16;
+  const bottom = 40;
+  const plotW = W - left - right;
+  const plotH = H - top - bottom;
+  const n = tod.length;
+  const slot = plotW / n;
+  const barWidth = slot * 0.66;
+  const shares = tod.map((b) => (b.count / total) * 100);
+  const axisMax = Math.max(10, Math.ceil(Math.max(...shares) / 10) * 10);
+  const yOf = (v) => top + plotH - (v / axisMax) * plotH;
+
+  let grid = '';
+  [[axisMax, 'chart-grid'], [axisMax / 2, 'chart-grid'], [0, 'chart-baseline']].forEach(([v, cls]) => {
+    const y = yOf(v);
+    grid += `<line class="${cls}" x1="${left}" x2="${W - right}" y1="${y}" y2="${y}"/>`;
+    grid += `<text class="chart-axis" x="${left - 4}" y="${y + 2.8}" text-anchor="end">${v === 0 ? '0' : `${v}%`}</text>`;
+  });
+
+  let bars = '';
+  tod.forEach((b, i) => {
+    const share = shares[i];
+    const cx = left + i * slot + slot / 2;
+    const barHeight = (share / axisMax) * plotH;
+    const y = top + plotH - barHeight;
+    const shareText = share > 0 && share < 1 ? '<1%' : `${Math.round(share)}%`;
+    bars += `<rect class="chart-bar" x="${cx - barWidth / 2}" y="${y}" width="${barWidth}" height="${barHeight}"><title>${b.count} detections</title></rect>`;
+    bars += `<text class="chart-value" x="${cx}" y="${y - 3}" text-anchor="middle">${shareText}</text>`;
+    bars += `<text class="chart-axis chart-axis-strong" x="${cx}" y="${H - 22}" text-anchor="middle">${b.label}</text>`;
+    bars += `<text class="chart-axis" x="${cx}" y="${H - 11}" text-anchor="middle">${b.range}</text>`;
+  });
+
+  chartWrap.innerHTML = `<svg class="chart-svg" viewBox="0 0 ${W} ${H}">${grid}${bars}</svg>`
+    + `<p class="chart-note">Share of all ${total.toLocaleString()} detections, by time of day (all time)</p>`;
+}
+
+function renderPeriod() {
+  if (!currentHistory) {
+    return;
+  }
+  if (currentPeriod === 'tod') {
+    renderTimeOfDay(currentHistory.tod);
+  } else {
+    renderChart(currentHistory[currentPeriod], currentPeriod);
+  }
+}
+
 function setPeriod(period) {
   currentPeriod = period;
   periodButtons.forEach((b) => b.classList.toggle('active', b.dataset.period === period));
-  if (currentHistory) {
-    renderChart(currentHistory[period], period);
-  }
+  renderPeriod();
 }
 
 function fetchHistoryOnce() {
@@ -494,8 +573,8 @@ function loadHistory(sci) {
     if (sci !== currentSci) {
       return;
     }
-    currentHistory = all[sci] || { daily: [], weekly: [], clips: [] };
-    renderChart(currentHistory[currentPeriod], currentPeriod);
+    currentHistory = all[sci] || { daily: [], weekly: [], clips: [], tod: [] };
+    renderPeriod();
     renderClips(currentHistory.clips, modalAudio.getAttribute('src'));
   });
 }
@@ -547,8 +626,26 @@ if (modalClose) {
 
 if (modal) {
   modal.addEventListener('click', (e) => {
+    // (?) tooltips: tapping one toggles it (hover alone doesn't exist on
+    // touch screens); tapping anywhere else closes any that are open.
+    const tip = e.target.closest('.tip');
+    modal.querySelectorAll('.tip.open').forEach((t) => {
+      if (t !== tip) {
+        t.classList.remove('open');
+      }
+    });
+    if (tip) {
+      tip.classList.toggle('open');
+      return;
+    }
     if (e.target === modal) {
       closeModal();
+    }
+  });
+  modal.addEventListener('keydown', (e) => {
+    if ((e.key === 'Enter' || e.key === ' ') && e.target.classList && e.target.classList.contains('tip')) {
+      e.preventDefault();
+      e.target.click();
     }
   });
 }

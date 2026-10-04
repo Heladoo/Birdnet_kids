@@ -131,6 +131,12 @@ header {
   margin: 28px auto 0;
 }
 
+@media (min-width: 900px) {
+  .grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
 .card {
   position: relative;
   border: none;
@@ -174,20 +180,6 @@ header {
   border-radius: 18px;
   background: #EFE7D3;
   display: block;
-}
-
-.play-badge {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  background: var(--terracotta);
-  color: #FFF9EF;
-  border-radius: 50%;
-  width: 34px;
-  height: 34px;
-  line-height: 34px;
-  font-size: 1rem;
-  box-shadow: 0 3px 6px rgba(184, 98, 47, 0.4);
 }
 
 .name {
@@ -330,15 +322,15 @@ header {
   box-shadow: 0 2px 5px rgba(58, 50, 38, 0.25);
 }
 
-/* Info button: same circular-badge treatment as .play-badge, opposite
-   corner, so the two affordances read as a pair without competing. A real
+/* Info button, top-right of the photo (tapping the card itself plays the
+   clip, so there's no separate play badge). A real
    <button> can't nest inside the card's own outer <button> (see app.js's
    makeCard()), so this is a span acting as one - :focus-visible gives it a
    visible ring since it has no native button focus styling to fall back on. */
 .info-badge {
   position: absolute;
   top: 20px;
-  left: 20px;
+  right: 20px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -426,11 +418,26 @@ body.modal-open {
 }
 
 .modal-photo {
-  width: 140px;
-  height: 140px;
+  width: 100%;
+  aspect-ratio: 4 / 3;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 18px;
   background: #EFE7D3;
+}
+
+.modal-credit {
+  align-self: flex-end;
+  margin-top: -6px;
+  font-size: 0.66rem;
+  color: var(--muted);
+}
+
+.modal-credit:empty {
+  display: none;
+}
+
+.modal-credit a {
+  color: inherit;
 }
 
 .modal-title {
@@ -534,6 +541,7 @@ body.modal-open {
 .period-toggle {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 8px;
 }
 
@@ -632,10 +640,79 @@ body.modal-open {
   color: var(--warn);
 }
 
-.modal-hint {
-  margin: 8px 0 0;
+.clips-label {
+  align-self: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--muted);
+}
+
+.chart-value {
+  font-size: 9px;
+  font-weight: 700;
+  fill: var(--ink);
+  font-family: inherit;
+}
+
+.chart-axis-strong {
+  font-weight: 700;
+  fill: var(--ink);
+}
+
+.chart-note {
+  margin: 6px 0 0;
   font-size: 0.72rem;
   color: var(--muted);
+}
+
+/* Tiny (?) next to a label: hover/focus on desktop, tap-to-toggle (.open) on
+   touch screens. */
+.tip {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 14px;
+  height: 14px;
+  margin-left: 5px;
+  border: 1px solid var(--muted);
+  border-radius: 50%;
+  color: var(--muted);
+  font-size: 0.62rem;
+  font-weight: 700;
+  line-height: 1;
+  vertical-align: middle;
+  cursor: help;
+}
+
+.tip::after {
+  content: attr(data-tip);
+  display: none;
+  position: absolute;
+  left: -4px;
+  top: calc(100% + 6px);
+  z-index: 5;
+  width: 210px;
+  padding: 8px 10px;
+  border-radius: 10px;
+  background: var(--ink);
+  color: #FFF9EF;
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1.35;
+  text-align: left;
+  box-shadow: 0 6px 16px rgba(58, 50, 38, 0.3);
+}
+
+.tip:hover::after,
+.tip:focus-visible::after,
+.tip.open::after {
+  display: block;
+}
+
+.tip:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 1px;
 }
 
 .chart-empty,
