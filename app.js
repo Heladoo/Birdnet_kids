@@ -733,7 +733,6 @@ function buildVisual(buffer) {
   const mags = new Float32Array(PLAYER_W * bins);
   const re = new Float32Array(FFT_N);
   const im = new Float32Array(FFT_N);
-  let maxDb = -Infinity;
   for (let c = 0; c < PLAYER_W; c++) {
     const start = Math.floor(((c + 0.5) / PLAYER_W) * data.length) - FFT_N / 2;
     for (let i = 0; i < FFT_N; i++) {
@@ -745,17 +744,19 @@ function buildVisual(buffer) {
     for (let b = 0; b < bins; b++) {
       const db = 20 * Math.log10(Math.sqrt(re[b] * re[b] + im[b] * im[b]) / FFT_N + 1e-9);
       mags[c * bins + b] = db;
-      if (db > maxDb) {
-        maxDb = db;
-      }
     }
   }
-  const floorDb = maxDb - 60;
+  // Scale to the clip itself: the median level is background noise (shown
+  // dark) and the 99.7th percentile is the loud end. Scaling to the single
+  // loudest pixel would make quiet, faint recordings look empty.
+  const sorted = Float32Array.from(mags).sort();
+  const floorDb = sorted[Math.floor(sorted.length * 0.6)];
+  const topDb = Math.max(floorDb + 6, sorted[Math.floor(sorted.length * 0.997)]);
   const img = ctx.createImageData(PLAYER_W, SPEC_H);
   for (let c = 0; c < PLAYER_W; c++) {
     for (let y = 0; y < SPEC_H; y++) {
       const bin = Math.min(bins - 1, Math.floor((1 - (y + 0.5) / SPEC_H) * bins));
-      const v = Math.pow(Math.min(1, Math.max(0, (mags[c * bins + bin] - floorDb) / (maxDb - floorDb))), 1.4);
+      const v = Math.pow(Math.min(1, Math.max(0, (mags[c * bins + bin] - floorDb) / (topDb - floorDb))), 1.2);
       const [r, g, b] = specPalette[Math.round(v * 255)];
       const p = (y * PLAYER_W + c) * 4;
       img.data[p] = r;
