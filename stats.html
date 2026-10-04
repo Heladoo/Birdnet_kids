@@ -65,6 +65,9 @@
 <script>
 (function () {
   var BASE = 'https://abacus.jasoncameron.dev/get/heladoo/';
+  // ?stats=off / ?stats=on works here too (same switch stats.js reads).
+  var m = /[?&]stats=(on|off)/.exec(location.search);
+  if (m) { try { localStorage.setItem('bk-off', m[1] === 'off' ? '1' : '0'); } catch (e) {} }
   var KINDS = [
     ['play', 'Played a card\'s sound'],
     ['popup', 'Opened the info popup'],
