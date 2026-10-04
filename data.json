@@ -1,5 +1,42 @@
 [
     {
+        "name": "River Warbler",
+        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Flodsangare.jpg",
+            "license": null
+        },
+        "audio": "audio/locustella_fluviatilis.mp3",
+        "last_seen": "2026-10-04T12:59:25",
+        "week_count": 4,
+        "v2_confidence": 0.995,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0012,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Locustella fluviatilis",
+        "order": "Passeriformes",
+        "family": "Locustellidae",
+        "local": 20,
+        "residency": "migrant",
+        "dawn_frac": 0.0118,
+        "dawn_total": 170,
+        "v3_top_label": "Delichon urbicum_Western House Martin",
+        "v3_top_confidence": 0.1843,
+        "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
+        "perch_top_confidence": 0.0639,
+        "photo": true
+    },
+    {
         "name": "European Bee-eater",
         "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bee-eater_%2819270331108%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +45,8 @@
             "license": null
         },
         "audio": "audio/merops_apiaster.mp3",
-        "last_seen": "2026-10-04T11:36:33",
-        "week_count": 415,
+        "last_seen": "2026-10-04T12:48:25",
+        "week_count": 428,
         "v2_confidence": 0.9985,
         "badges": [
             {
@@ -28,8 +65,8 @@
         "family": "Meropidae",
         "local": 3144,
         "residency": "migrant",
-        "dawn_frac": 0.0655,
-        "dawn_total": 1725,
+        "dawn_frac": 0.065,
+        "dawn_total": 1738,
         "v3_top_label": "Merops apiaster_European Bee-eater",
         "v3_top_confidence": 0.9088,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
@@ -45,8 +82,8 @@
             "license": null
         },
         "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-10-04T11:31:10",
-        "week_count": 5,
+        "last_seen": "2026-10-04T12:11:25",
+        "week_count": 7,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -65,8 +102,8 @@
         "family": "Hirundinidae",
         "local": 147,
         "residency": "migrant",
-        "dawn_frac": 0.0525,
-        "dawn_total": 2153,
+        "dawn_frac": 0.0524,
+        "dawn_total": 2155,
         "v3_top_label": "Scolopax minor_American Woodcock",
         "v3_top_confidence": 0.5984,
         "perch_top_label": "Cecropis daurica_Eastern Red-rumped Swallow",
@@ -1639,43 +1676,6 @@
         "v3_top_confidence": 0.0984,
         "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
         "perch_top_confidence": 0.0381,
-        "photo": true
-    },
-    {
-        "name": "River Warbler",
-        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Flodsangare.jpg",
-            "license": null
-        },
-        "audio": "audio/locustella_fluviatilis.mp3",
-        "last_seen": "2026-09-29T16:51:01",
-        "week_count": 3,
-        "v2_confidence": 0.995,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0012,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Locustella fluviatilis",
-        "order": "Passeriformes",
-        "family": "Locustellidae",
-        "local": 20,
-        "residency": "migrant",
-        "dawn_frac": 0.0118,
-        "dawn_total": 169,
-        "v3_top_label": "Delichon urbicum_Western House Martin",
-        "v3_top_confidence": 0.1843,
-        "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
-        "perch_top_confidence": 0.0639,
         "photo": true
     },
     {
