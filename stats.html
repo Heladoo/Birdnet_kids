@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Site usage</title>
+<link rel="icon" type="image/png" href="favicon.png">
+<style>
+  :root {
+    --bg: #F6F1E0; --card: #FFFDF4; --ink: #2B2B2B; --muted: #6B6657;
+    --green: #2F6B33; --line: #E5DDC3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #1E2119; --card: #2A2D24; --ink: #ECE8D8; --muted: #A9A592; --green: #8CC98F; --line: #3C4033; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 20px 16px 48px; background: var(--bg); color: var(--ink);
+         font: 16px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 760px; margin: 0 auto; }
+  h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  h2 { font-size: 1.05rem; margin: 28px 0 10px; }
+  .sub { color: var(--muted); font-size: .9rem; margin: 0 0 16px; }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+  .tile { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 12px 14px; }
+  .tile b { display: block; font-size: 1.6rem; color: var(--green); line-height: 1.15; }
+  .tile span { color: var(--muted); font-size: .85rem; }
+  table { width: 100%; border-collapse: collapse; background: var(--card); border: 1px solid var(--line);
+          border-radius: 14px; overflow: hidden; }
+  th, td { text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--line); font-size: .95rem; }
+  th { color: var(--muted); font-weight: 600; font-size: .8rem; text-transform: uppercase; letter-spacing: .03em; }
+  td:not(:first-child), th:not(:first-child) { text-align: right; }
+  tr:last-child td { border-bottom: 0; }
+  .note { color: var(--muted); font-size: .85rem; margin-top: 24px; }
+  a { color: var(--green); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Site usage</h1>
+  <p class="sub" id="since">Counting since 4 Oct 2026 &middot; <span id="status">loading&hellip;</span></p>
+
+  <div class="tiles" id="tiles"></div>
+
+  <h2>What people do</h2>
+  <table>
+    <thead><tr><th>Action</th><th>Total</th><th>Per visit</th></tr></thead>
+    <tbody id="events"></tbody>
+  </table>
+
+  <h2>Reach</h2>
+  <table>
+    <tbody id="reach"></tbody>
+  </table>
+
+  <p class="note">
+    A <b>visit</b> starts with the first activity after 30 minutes of quiet. A <b>user</b> is a browser
+    seen for the first time (one phone or computer, not a person; clearing site data makes it new).
+    <b>Active time</b> only counts while the page is open <i>and</i> touched, scrolled or typed in during
+    the last minute, in 30-second steps, so it is rounded and slightly low. Counts are anonymous
+    numbers only. Add <code>?stats=off</code> to any page address on your own devices to stop them being
+    counted. <a href="index.html">Back to Bird Sounds</a>
+  </p>
+</main>
+<script>
+(function () {
+  var BASE = 'https://abacus.jasoncameron.dev/get/heladoo/';
+  var KINDS = [
+    ['play', 'Played a card\'s sound'],
+    ['popup', 'Opened the info popup'],
+    ['soundplay', 'Played sound in the popup'],
+    ['clip', 'Chose another recording'],
+    ['graph', 'Switched graph period'],
+    ['sort', 'Changed sorting'],
+    ['filter', 'Used a badge filter'],
+    ['tip', 'Tapped a badge for its meaning'],
+    ['expert', 'Opened the expert data view']
+  ];
+  var KEYS = ['visit', 'user', 'event', 'visit-active', 'visit-popup', 'user-active', 'user-popup', 'tick']
+    .concat(KINDS.map(function (k) { return 'event-' + k[0]; }));
+
+  function get(key) {
+    return fetch(BASE + key).then(function (r) { return r.ok ? r.json() : { value: 0 }; })
+      .then(function (d) { return d.value || 0; }, function () { return null; });
+  }
+
+  // 30 requests per 10 s are allowed per visitor: stay under it.
+  function getAll(keys) {
+    var out = {};
+    var i = 0;
+    function next() {
+      if (i >= keys.length) { return Promise.resolve(out); }
+      var batch = keys.slice(i, i + 12);
+      i += 12;
+      return Promise.all(batch.map(function (k) {
+        return get('bk-' + k).then(function (v) { out[k] = v; });
+      })).then(function () {
+        return i < keys.length ? new Promise(function (res) { setTimeout(res, 1500); }).then(next) : out;
+      });
+    }
+    return next();
+  }
+
+  function n(v) { return v === null ? '–' : v.toLocaleString(); }
+  function div(a, b, d) { return (a === null || b === null || !b) ? '–' : (a / b).toFixed(d === undefined ? 1 : d); }
+  function pct(a, b) { return (a === null || b === null || !b) ? '–' : Math.round(100 * a / b) + '%'; }
+  function dur(sec) {
+    if (sec === null || isNaN(sec)) { return '–'; }
+    if (sec < 90) { return Math.round(sec) + ' s'; }
+    if (sec < 5400) { return (sec / 60).toFixed(1) + ' min'; }
+    return (sec / 3600).toFixed(1) + ' h';
+  }
+  function tile(value, label) {
+    return '<div class="tile"><b>' + value + '</b><span>' + label + '</span></div>';
+  }
+  function row(cells) {
+    return '<tr>' + cells.map(function (c) { return '<td>' + c + '</td>'; }).join('') + '</tr>';
+  }
+
+  getAll(KEYS).then(function (c) {
+    var activeSec = c.tick === null ? null : c.tick * 30;
+    document.getElementById('tiles').innerHTML = [
+      tile(n(c.visit), 'visits'),
+      tile(n(c.user), 'users (devices)'),
+      tile(n(c.event), 'interactions'),
+      tile(div(c.event, c.visit), 'interactions per visit'),
+      tile(div(c.event, c.user), 'interactions per user'),
+      tile(n(c['event-popup']), 'info popups opened'),
+      tile(dur(activeSec === null || !c.visit ? null : activeSec / c.visit), 'active time per visit'),
+      tile(dur(activeSec === null || !c.user ? null : activeSec / c.user), 'active time per user')
+    ].join('');
+
+    document.getElementById('events').innerHTML = KINDS.map(function (k) {
+      var v = c['event-' + k[0]];
+      return row([k[1], n(v), div(v, c.visit, 2)]);
+    }).join('');
+
+    document.getElementById('reach').innerHTML = [
+      row(['Visits per user', div(c.visit, c.user)]),
+      row(['Visits with at least one interaction', n(c['visit-active']) + ' (' + pct(c['visit-active'], c.visit) + ')']),
+      row(['Visits that opened an info popup', n(c['visit-popup']) + ' (' + pct(c['visit-popup'], c.visit) + ')']),
+      row(['Users who ever interacted', n(c['user-active']) + ' (' + pct(c['user-active'], c.user) + ')']),
+      row(['Users who ever opened an info popup', n(c['user-popup']) + ' (' + pct(c['user-popup'], c.user) + ')']),
+      row(['Popups opened per popup-visit', div(c['event-popup'], c['visit-popup'])]),
+      row(['Total active time', dur(activeSec)])
+    ].join('');
+    document.getElementById('status').textContent = 'updated ' + new Date().toLocaleTimeString();
+  });
+}());
+</script>
+</body>
+</html>

@@ -86,6 +86,7 @@ function wireBadge(badge) {
   badge.addEventListener('mouseleave', hideBadgeTips);
   badge.addEventListener('click', (e) => {
     e.stopPropagation();
+    window.kidsStats && window.kidsStats.event('tip');
     showBadgeTip(badge);
   });
 }
@@ -226,6 +227,7 @@ function makeCard(data) {
   btn.appendChild(scores);
 
   btn.addEventListener('click', () => {
+    window.kidsStats && window.kidsStats.event('play');
     const src = btn.dataset.audio;
     if (player.src.endsWith(src) && !player.paused) {
       player.pause();
@@ -470,6 +472,7 @@ function renderClips(clips, currentAudio) {
     btn.textContent = names[i];
     btn.addEventListener('click', () => {
       modalClips.querySelectorAll('.clip-btn').forEach((b) => b.classList.toggle('active', b === btn));
+      window.kidsStats && window.kidsStats.event('clip');
       setModalAudio(opt.audio, true);
       modalClipInfo.textContent = opt.date ? clipCaption(opt) : '';
     });
@@ -903,6 +906,7 @@ if (modal) {
 
   playerBtn.addEventListener('click', () => {
     if (modalAudio.paused) {
+      window.kidsStats && window.kidsStats.event('soundplay');
       const playing = modalAudio.play();
       if (playing && playing.catch) {
         playing.catch(() => {});
@@ -960,6 +964,7 @@ function openModal(data) {
   if (!modal) {
     return;
   }
+  window.kidsStats && window.kidsStats.event('popup');
   currentSci = data.sci || null;
   populateModal(data);
   setPeriod('daily');
@@ -989,7 +994,10 @@ function closeModal() {
 }
 
 periodButtons.forEach((btn) => {
-  btn.addEventListener('click', () => setPeriod(btn.dataset.period));
+  btn.addEventListener('click', () => {
+    window.kidsStats && window.kidsStats.event('graph');
+    setPeriod(btn.dataset.period);
+  });
 });
 
 if (modalClose) {
@@ -1039,6 +1047,7 @@ document.querySelectorAll('.sort-btn').forEach((btn) => {
     document.querySelectorAll('.sort-btn').forEach((b) => b.classList.remove('active'));
     btn.classList.add('active');
     currentSortKey = btn.dataset.sort;
+    window.kidsStats && window.kidsStats.event('sort');
     applyView();
   });
 });
@@ -1048,6 +1057,7 @@ document.querySelectorAll('.filter-btn').forEach((btn) => {
     document.querySelectorAll('.filter-btn').forEach((b) => b.classList.remove('active'));
     btn.classList.add('active');
     currentFilter = btn.dataset.badge || null;
+    window.kidsStats && window.kidsStats.event('filter');
     applyView();
   });
 });

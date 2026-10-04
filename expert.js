@@ -1,3 +1,7 @@
+if (window.kidsStats) {
+  window.kidsStats.event('expert');
+}
+
 const tbody = document.getElementById('tbody');
 const countLine = document.getElementById('count-line');
 const search = document.getElementById('search');
