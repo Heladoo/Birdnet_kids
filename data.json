@@ -1,16 +1,16 @@
 [
     {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
             "license": null
         },
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-10-04T09:31:23",
-        "week_count": 34,
-        "v2_confidence": 0.9867,
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-10-04T10:45:27",
+        "week_count": 25,
+        "v2_confidence": 0.9958,
         "badges": [
             {
                 "i": "\ud83c\udfe0",
@@ -18,25 +18,104 @@
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Prinia gracilis",
+        "order": "Passeriformes",
+        "family": "Cisticolidae",
+        "local": 8390,
+        "residency": "resident",
+        "dawn_frac": 0.0041,
+        "dawn_total": 3137,
+        "v3_top_label": "Prinia lepida_Delicate Prinia",
+        "v3_top_confidence": 0.4048,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.2728,
+        "photo": true
+    },
+    {
+        "name": "European Bee-eater",
+        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Bee-eater_%2819270331108%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/merops_apiaster.mp3",
+        "last_seen": "2026-10-04T10:37:27",
+        "week_count": 411,
+        "v2_confidence": 0.9985,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9088,
+        "perch_confidence": 0.6554,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Merops apiaster",
+        "order": "Coraciiformes",
+        "family": "Meropidae",
+        "local": 3144,
+        "residency": "migrant",
+        "dawn_frac": 0.0657,
+        "dawn_total": 1721,
+        "v3_top_label": "Merops apiaster_European Bee-eater",
+        "v3_top_confidence": 0.9088,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.7345,
+        "photo": true
+    },
+    {
+        "name": "White-throated Kingfisher",
+        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg/1280px-White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/halcyon_smyrnensis.mp3",
+        "last_seen": "2026-10-04T10:17:23",
+        "week_count": 11,
+        "v2_confidence": 0.9996,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf05",
+                "en": "Dawn Caller",
+                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
+            }
+        ],
+        "v3_confidence": 0.9623,
+        "perch_confidence": 0.2317,
         "v3_agrees": true,
         "perch_agrees": true,
         "second_opinion": {
-            "com": "Common Myna",
+            "com": "White-throated Kingfisher",
             "agrees": true
         },
-        "sci": "Acridotheres tristis",
-        "order": "Passeriformes",
-        "family": "Sturnidae",
-        "local": 6200,
+        "sci": "Halcyon smyrnensis",
+        "order": "Coraciiformes",
+        "family": "Alcedinidae",
+        "local": 4228,
         "residency": "resident",
-        "dawn_frac": 0.0924,
-        "dawn_total": 1104,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9523,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.4667,
+        "dawn_frac": 0.4172,
+        "dawn_total": 1335,
+        "v3_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "v3_top_confidence": 0.9623,
+        "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "perch_top_confidence": 0.2317,
         "photo": true
     },
     {
@@ -48,8 +127,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-04T09:25:31",
-        "week_count": 187,
+        "last_seen": "2026-10-04T10:17:08",
+        "week_count": 188,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -77,11 +156,51 @@
         "local": 7526,
         "residency": "resident",
         "dawn_frac": 0.0857,
-        "dawn_total": 13608,
+        "dawn_total": 13609,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "European Pied Flycatcher",
+        "he_name": "\u05d7\u05d8\u05e4\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05e2\u05d5\u05e8\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/ficedula_hypoleuca.mp3",
+        "last_seen": "2026-10-04T10:10:53",
+        "week_count": 3,
+        "v2_confidence": 0.9651,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.3758,
+        "perch_confidence": 0.7878,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Pied Flycatcher",
+            "agrees": true
+        },
+        "sci": "Ficedula hypoleuca",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 69,
+        "residency": "migrant",
+        "dawn_frac": 0.0182,
+        "dawn_total": 55,
+        "v3_top_label": "Ficedula hypoleuca_European Pied Flycatcher",
+        "v3_top_confidence": 0.3758,
+        "perch_top_label": "Ficedula hypoleuca_European Pied Flycatcher",
+        "perch_top_confidence": 0.7878,
         "photo": true
     },
     {
@@ -93,8 +212,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-04T07:52:12",
-        "week_count": 186,
+        "last_seen": "2026-10-04T10:10:25",
+        "week_count": 188,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -117,11 +236,98 @@
         "local": 5255,
         "residency": "resident",
         "dawn_frac": 0.015,
-        "dawn_total": 5057,
+        "dawn_total": 5059,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
+            "license": null
+        },
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-10-04T10:09:50",
+        "week_count": 35,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        },
+        "sci": "Acridotheres tristis",
+        "order": "Passeriformes",
+        "family": "Sturnidae",
+        "local": 6200,
+        "residency": "resident",
+        "dawn_frac": 0.0923,
+        "dawn_total": 1105,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "Caspian Tern",
+        "he_name": "\u05e9\u05d7\u05e4\u05d9\u05ea \u05db\u05e1\u05e4\u05d9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sterna-caspia-010.jpg/1280px-Sterna-caspia-010.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Sterna-caspia-010.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "audio": "audio/hydroprogne_caspia.mp3",
+        "last_seen": "2026-10-04T10:05:23",
+        "week_count": 1,
+        "v2_confidence": 0.9281,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.4581,
+        "perch_confidence": 0,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Hydroprogne caspia",
+        "order": "Charadriiformes",
+        "family": "Laridae",
+        "local": 2,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 9,
+        "v3_top_label": "Hydroprogne caspia_Caspian Tern",
+        "v3_top_confidence": 0.4581,
+        "perch_top_label": "Chroicocephalus ridibundus_Black-headed Gull",
+        "perch_top_confidence": 0.0529,
         "photo": true
     },
     {
@@ -294,43 +500,6 @@
         "v3_top_confidence": 0.4762,
         "perch_top_label": "Anas platyrhynchos_Mallard",
         "perch_top_confidence": 0.1487,
-        "photo": true
-    },
-    {
-        "name": "European Bee-eater",
-        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/1280px-Bee-eater_%2819270331108%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Bee-eater_%2819270331108%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/merops_apiaster.mp3",
-        "last_seen": "2026-10-03T17:57:56",
-        "week_count": 409,
-        "v2_confidence": 0.9985,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9088,
-        "perch_confidence": 0.6554,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Merops apiaster",
-        "order": "Coraciiformes",
-        "family": "Meropidae",
-        "local": 3144,
-        "residency": "migrant",
-        "dawn_frac": 0.0657,
-        "dawn_total": 1719,
-        "v3_top_label": "Merops apiaster_European Bee-eater",
-        "v3_top_confidence": 0.9088,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.7345,
         "photo": true
     },
     {
@@ -1005,51 +1174,6 @@
         "photo": true
     },
     {
-        "name": "White-throated Kingfisher",
-        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg/1280px-White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/halcyon_smyrnensis.mp3",
-        "last_seen": "2026-10-01T15:54:16",
-        "week_count": 9,
-        "v2_confidence": 0.9996,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf05",
-                "en": "Dawn Caller",
-                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
-            }
-        ],
-        "v3_confidence": 0.9623,
-        "perch_confidence": 0.2317,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White-throated Kingfisher",
-            "agrees": true
-        },
-        "sci": "Halcyon smyrnensis",
-        "order": "Coraciiformes",
-        "family": "Alcedinidae",
-        "local": 4228,
-        "residency": "resident",
-        "dawn_frac": 0.4179,
-        "dawn_total": 1333,
-        "v3_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
-        "v3_top_confidence": 0.9623,
-        "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
-        "perch_top_confidence": 0.2317,
-        "photo": true
-    },
-    {
         "name": "Eurasian Collared-Dove",
         "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
@@ -1087,43 +1211,6 @@
         "v3_top_confidence": 0.96,
         "perch_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
         "perch_top_confidence": 0.8294,
-        "photo": true
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
-            "license": null
-        },
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-10-01T13:25:58",
-        "week_count": 22,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Prinia gracilis",
-        "order": "Passeriformes",
-        "family": "Cisticolidae",
-        "local": 8390,
-        "residency": "resident",
-        "dawn_frac": 0.0041,
-        "dawn_total": 3134,
-        "v3_top_label": "Prinia lepida_Delicate Prinia",
-        "v3_top_confidence": 0.4048,
-        "perch_top_label": "Prinia gracilis_Graceful Prinia",
-        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
@@ -1552,46 +1639,6 @@
         "v3_top_confidence": 0.0984,
         "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
         "perch_top_confidence": 0.0381,
-        "photo": true
-    },
-    {
-        "name": "European Pied Flycatcher",
-        "he_name": "\u05d7\u05d8\u05e4\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05e2\u05d5\u05e8\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/ficedula_hypoleuca.mp3",
-        "last_seen": "2026-09-29T17:51:28",
-        "week_count": 2,
-        "v2_confidence": 0.9651,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.3758,
-        "perch_confidence": 0.7878,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "European Pied Flycatcher",
-            "agrees": true
-        },
-        "sci": "Ficedula hypoleuca",
-        "order": "Passeriformes",
-        "family": "Muscicapidae",
-        "local": 69,
-        "residency": "migrant",
-        "dawn_frac": 0.0185,
-        "dawn_total": 54,
-        "v3_top_label": "Ficedula hypoleuca_European Pied Flycatcher",
-        "v3_top_confidence": 0.3758,
-        "perch_top_label": "Ficedula hypoleuca_European Pied Flycatcher",
-        "perch_top_confidence": 0.7878,
         "photo": true
     },
     {
@@ -3437,53 +3484,6 @@
         "v3_top_confidence": 0.934,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.4453,
-        "photo": true
-    },
-    {
-        "name": "Caspian Tern",
-        "he_name": "\u05e9\u05d7\u05e4\u05d9\u05ea \u05db\u05e1\u05e4\u05d9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sterna-caspia-010.jpg/1280px-Sterna-caspia-010.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Sterna-caspia-010.jpg",
-            "license": "CC BY-SA 3.0"
-        },
-        "audio": "audio/hydroprogne_caspia.mp3",
-        "last_seen": "2026-09-15T20:12:55",
-        "week_count": 0,
-        "v2_confidence": 0.8706,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.4581,
-        "perch_confidence": 0,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Hydroprogne caspia",
-        "order": "Charadriiformes",
-        "family": "Laridae",
-        "local": 2,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 8,
-        "v3_top_label": "Hydroprogne caspia_Caspian Tern",
-        "v3_top_confidence": 0.4581,
-        "perch_top_label": "Chroicocephalus ridibundus_Black-headed Gull",
-        "perch_top_confidence": 0.0529,
         "photo": true
     },
     {
