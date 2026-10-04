@@ -1679,6 +1679,74 @@
         "photo": true
     },
     {
+        "name": "Savi's Warbler",
+        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05d6\u05de\u05d9\u05e8\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Locustellaluscinioides.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Locustellaluscinioides.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/locustella_luscinioides.mp3",
+        "last_seen": "2026-09-30T05:48:20",
+        "week_count": 1,
+        "v2_confidence": 0.904,
+        "badges": [
+            {
+                "i": "\ud83c\udf05",
+                "en": "Dawn Caller",
+                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
+            }
+        ],
+        "v3_confidence": 0.564,
+        "perch_confidence": 0.0758,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Locustella luscinioides",
+        "order": "Passeriformes",
+        "family": "Locustellidae",
+        "local": 570,
+        "residency": "",
+        "dawn_frac": 0.5385,
+        "dawn_total": 13,
+        "v3_top_label": "Locustella luscinioides_Savi's Warbler",
+        "v3_top_confidence": 0.564,
+        "perch_top_label": "Bubo virginianus_Great Horned Owl",
+        "perch_top_confidence": 0.2394,
+        "photo": true
+    },
+    {
+        "name": "Cory's Shearwater",
+        "he_name": "\u05d9\u05e1\u05e2\u05d5\u05e8 \u05d2\u05d3\u05d5\u05dc",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Scopoli%27s_Shearwater.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Scopoli%27s_Shearwater.jpg",
+            "license": null
+        },
+        "audio": "audio/calonectris_diomedea.mp3",
+        "last_seen": "2026-09-30T05:09:11",
+        "week_count": 1,
+        "v2_confidence": 0.7271,
+        "badges": [],
+        "v3_confidence": 0,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Calonectris diomedea",
+        "order": "Procellariiformes",
+        "family": "Procellariidae",
+        "local": 38,
+        "residency": "",
+        "dawn_frac": 0.5,
+        "dawn_total": 2,
+        "v3_top_label": "Scolopax minor_American Woodcock",
+        "v3_top_confidence": 0.6332,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.0919,
+        "photo": true
+    },
+    {
         "name": "Pied Avocet",
         "he_name": "\u05e1\u05d9\u05d9\u05e4\u05df \u05e2\u05e7\u05d5\u05d3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pied_Avocet_Recurvirostra_avosetta.jpg/1280px-Pied_Avocet_Recurvirostra_avosetta.jpg",
@@ -4216,6 +4284,40 @@
         "photo": true
     },
     {
+        "name": "Cetti's Warbler",
+        "he_name": "\u05e6\u05d8\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/37-090505-cettis-warbler-at-Kalloni-east-river.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:37-090505-cettis-warbler-at-Kalloni-east-river.jpg",
+            "license": null
+        },
+        "audio": "audio/cettia_cetti.mp3",
+        "last_seen": "2026-09-01T14:59:47",
+        "week_count": 0,
+        "v2_confidence": 0.7928,
+        "badges": [],
+        "v3_confidence": 0.2704,
+        "perch_confidence": 0.4347,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Cetti's Warbler",
+            "agrees": true
+        },
+        "sci": "Cettia cetti",
+        "order": "Passeriformes",
+        "family": "Cettiidae",
+        "local": 1457,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Cettia cetti_Cetti's Warbler",
+        "v3_top_confidence": 0.2704,
+        "perch_top_label": "Cettia cetti_Cetti's Warbler",
+        "perch_top_confidence": 0.4347,
+        "photo": true
+    },
+    {
         "name": "European Serin",
         "he_name": "\u05d1\u05d6\u05d1\u05d5\u05d6 \u05d0\u05d9\u05e8\u05d5\u05e4\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/European_serin_%28Serinus_serinus%29_male.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -4395,6 +4497,40 @@
         "photo": true
     },
     {
+        "name": "Richard's Pipit",
+        "he_name": "\u05e4\u05d9\u05e4\u05d9\u05d5\u05df \u05d0\u05e8\u05d5\u05da \u05e8\u05d2\u05dc\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Anthus_richardi_-_Laem_Pak_Bia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Anthus_richardi_-_Laem_Pak_Bia.jpg",
+            "license": null
+        },
+        "audio": "audio/anthus_richardi.mp3",
+        "last_seen": "2026-08-18T17:59:43",
+        "week_count": 0,
+        "v2_confidence": 0.8186,
+        "badges": [],
+        "v3_confidence": 0.8353,
+        "perch_confidence": 0.6508,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Richard's Pipit",
+            "agrees": true
+        },
+        "sci": "Anthus richardi",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 18,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 3,
+        "v3_top_label": "Anthus richardi_Richard's Pipit",
+        "v3_top_confidence": 0.8353,
+        "perch_top_label": "Anthus richardi_Richard's Pipit",
+        "perch_top_confidence": 0.6508,
+        "photo": true
+    },
+    {
         "name": "European Robin",
         "he_name": "\u05d0\u05d3\u05d5\u05dd-\u05d4\u05d7\u05d6\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Erithacus_rubecula_with_cocked_head.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -4426,6 +4562,37 @@
         "v3_top_confidence": 0.2436,
         "perch_top_label": "Erithacus rubecula_European Robin",
         "perch_top_confidence": 0.3507,
+        "photo": true
+    },
+    {
+        "name": "Eastern Bonelli's Warbler",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05dc\u05d1\u05e0\u05ea-\u05d1\u05d8\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Eastern_Bonelli%27s_Warbler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Eastern_Bonelli%27s_Warbler.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_orientalis.mp3",
+        "last_seen": "2026-08-12T13:30:32",
+        "week_count": 0,
+        "v2_confidence": 0.7284,
+        "badges": [],
+        "v3_confidence": 0.0069,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Phylloscopus orientalis",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 522,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": "Ficedula albicilla_Taiga Flycatcher",
+        "v3_top_confidence": 0.2469,
+        "perch_top_label": "Emberiza citrinella_Yellowhammer",
+        "perch_top_confidence": 0.0904,
         "photo": true
     },
     {
@@ -4614,6 +4781,43 @@
         "photo": true
     },
     {
+        "name": "Western Bonelli's Warbler",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d0\u05d9\u05d1\u05e8\u05d9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Phylloscopus_bonelli_2.jpg/3840px-Phylloscopus_bonelli_2.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Phylloscopus_bonelli_2.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_bonelli.mp3",
+        "last_seen": "2026-08-05T17:06:38",
+        "week_count": 0,
+        "v2_confidence": 0.946,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1175,
+        "perch_confidence": 0.7078,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Phylloscopus bonelli",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 6,
+        "v3_top_label": "Aethopyga christinae_Fork-tailed Sunbird",
+        "v3_top_confidence": 0.1836,
+        "perch_top_label": "Phylloscopus bonelli_Western Bonelli's Warbler",
+        "perch_top_confidence": 0.7078,
+        "photo": true
+    },
+    {
         "name": "Blue Rock-Thrush",
         "he_name": "\u05e6\u05d5\u05e7\u05d9\u05ea \u05d1\u05d5\u05d3\u05d3\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Monticola_solitarius%2C_Spain_1.jpg",
@@ -4732,7 +4936,7 @@
     {
         "name": "Red-backed Shrike",
         "he_name": "\u05d7\u05e0\u05e7\u05df \u05d0\u05d3\u05d5\u05dd-\u05d2\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Red-backed_shrike.jpg/3840px-Red-backed_shrike.jpg",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Red-backed_shrike.jpg/3840px-Red-backed_shrike.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "credit": {
             "url": "https://commons.wikimedia.org/wiki/File:Red-backed_shrike.jpg",
             "license": null
