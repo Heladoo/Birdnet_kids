@@ -1,5 +1,122 @@
 [
     {
+        "name": "European Bee-eater",
+        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bee-eater_%2819270331108%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Bee-eater_%2819270331108%29.jpg",
+            "license": null
+        },
+        "audio": "audio/merops_apiaster.mp3",
+        "last_seen": "2026-10-05T15:52:54",
+        "week_count": 481,
+        "v2_confidence": 0.9985,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9088,
+        "perch_confidence": 0.6554,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Merops apiaster",
+        "order": "Coraciiformes",
+        "family": "Meropidae",
+        "local": 3144,
+        "residency": "migrant",
+        "dawn_frac": 0.0617,
+        "dawn_total": 1830,
+        "v3_top_label": "Merops apiaster_European Bee-eater",
+        "v3_top_confidence": 0.9088,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.7345,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-10-05T15:46:30",
+        "week_count": 259,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5255,
+        "residency": "resident",
+        "dawn_frac": 0.0148,
+        "dawn_total": 5148,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Collared-Dove",
+        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+            "license": "CC BY 4.0"
+        },
+        "audio": "audio/streptopelia_decaocto.mp3",
+        "last_seen": "2026-10-05T15:28:39",
+        "week_count": 12,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.96,
+        "perch_confidence": 0.8294,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Collared Dove",
+            "agrees": true
+        },
+        "sci": "Streptopelia decaocto",
+        "order": "Columbiformes",
+        "family": "Columbidae",
+        "local": 9492,
+        "residency": "resident",
+        "dawn_frac": 0.0508,
+        "dawn_total": 2282,
+        "v3_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
+        "v3_top_confidence": 0.96,
+        "perch_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
+        "perch_top_confidence": 0.8294,
+        "photo": true
+    },
+    {
         "name": "Laughing Dove",
         "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
@@ -8,8 +125,8 @@
             "license": null
         },
         "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-10-05T14:56:34",
-        "week_count": 129,
+        "last_seen": "2026-10-05T15:03:26",
+        "week_count": 139,
         "v2_confidence": 0.9985,
         "badges": [
             {
@@ -31,8 +148,8 @@
         "family": "Columbidae",
         "local": 5565,
         "residency": "resident",
-        "dawn_frac": 0.0634,
-        "dawn_total": 5458,
+        "dawn_frac": 0.0633,
+        "dawn_total": 5468,
         "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
         "v3_top_confidence": 0.924,
         "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
@@ -79,83 +196,6 @@
         "v3_top_confidence": 0.0605,
         "perch_top_label": "Brotogeris chiriri_Yellow-chevroned Parakeet",
         "perch_top_confidence": 0.0827,
-        "photo": true
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-05T14:18:39",
-        "week_count": 237,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5255,
-        "residency": "resident",
-        "dawn_frac": 0.0148,
-        "dawn_total": 5126,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
-        "photo": true
-    },
-    {
-        "name": "European Bee-eater",
-        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bee-eater_%2819270331108%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Bee-eater_%2819270331108%29.jpg",
-            "license": null
-        },
-        "audio": "audio/merops_apiaster.mp3",
-        "last_seen": "2026-10-05T13:58:09",
-        "week_count": 468,
-        "v2_confidence": 0.9985,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9088,
-        "perch_confidence": 0.6554,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Merops apiaster",
-        "order": "Coraciiformes",
-        "family": "Meropidae",
-        "local": 3144,
-        "residency": "migrant",
-        "dawn_frac": 0.0622,
-        "dawn_total": 1817,
-        "v3_top_label": "Merops apiaster_European Bee-eater",
-        "v3_top_confidence": 0.9088,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.7345,
         "photo": true
     },
     {
@@ -273,46 +313,6 @@
         "v3_top_confidence": 0.9523,
         "perch_top_label": "Acridotheres tristis_Common Myna",
         "perch_top_confidence": 0.4667,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Collared-Dove",
-        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-            "license": "CC BY 4.0"
-        },
-        "audio": "audio/streptopelia_decaocto.mp3",
-        "last_seen": "2026-10-05T11:50:11",
-        "week_count": 11,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.96,
-        "perch_confidence": 0.8294,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Collared Dove",
-            "agrees": true
-        },
-        "sci": "Streptopelia decaocto",
-        "order": "Columbiformes",
-        "family": "Columbidae",
-        "local": 9492,
-        "residency": "resident",
-        "dawn_frac": 0.0509,
-        "dawn_total": 2281,
-        "v3_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
-        "v3_top_confidence": 0.96,
-        "perch_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
-        "perch_top_confidence": 0.8294,
         "photo": true
     },
     {
