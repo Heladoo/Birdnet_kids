@@ -1,5 +1,113 @@
 [
     {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-10-05T17:48:54",
+        "week_count": 274,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5255,
+        "residency": "resident",
+        "dawn_frac": 0.0147,
+        "dawn_total": 5163,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Western Yellow Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Wiesenschafstelze.JPG",
+            "license": null
+        },
+        "audio": "audio/motacilla_flava.mp3",
+        "last_seen": "2026-10-05T17:19:32",
+        "week_count": 3,
+        "v2_confidence": 0.9731,
+        "badges": [],
+        "v3_confidence": 0.9239,
+        "perch_confidence": 0.8957,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Western Yellow Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla flava",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 1693,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 59,
+        "v3_top_label": "Motacilla flava_Western Yellow Wagtail",
+        "v3_top_confidence": 0.9239,
+        "perch_top_label": "Motacilla flava_Western Yellow Wagtail",
+        "perch_top_confidence": 0.8957,
+        "photo": true
+    },
+    {
+        "name": "Willow Warbler",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d0\u05e4\u05d5\u05e8\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Willow_Warbler_Phylloscopus_trochilus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Willow_Warbler_Phylloscopus_trochilus.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_trochilus.mp3",
+        "last_seen": "2026-10-05T17:11:47",
+        "week_count": 5,
+        "v2_confidence": 0.9138,
+        "badges": [],
+        "v3_confidence": 0.9711,
+        "perch_confidence": 0.9402,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Willow Warbler",
+            "agrees": true
+        },
+        "sci": "Phylloscopus trochilus",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 1958,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 6,
+        "v3_top_label": "Phylloscopus trochilus_Willow Warbler",
+        "v3_top_confidence": 0.9711,
+        "perch_top_label": "Phylloscopus trochilus_Willow Warbler",
+        "perch_top_confidence": 0.9402,
+        "photo": true
+    },
+    {
         "name": "Dunnock",
         "he_name": "\u05e1\u05ea\u05e8\u05d9 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dunnock_%28Prunella_modularis%29_3.jpg/3840px-Dunnock_%28Prunella_modularis%29_3.jpg",
@@ -246,46 +354,6 @@
         "v3_top_confidence": 0.9113,
         "perch_top_label": "Tringa totanus_Common Redshank",
         "perch_top_confidence": 0.1309,
-        "photo": true
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-05T16:24:45",
-        "week_count": 266,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5255,
-        "residency": "resident",
-        "dawn_frac": 0.0147,
-        "dawn_total": 5155,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
         "photo": true
     },
     {
@@ -1403,40 +1471,6 @@
         "photo": true
     },
     {
-        "name": "Western Yellow Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Wiesenschafstelze.JPG",
-            "license": null
-        },
-        "audio": "audio/motacilla_flava.mp3",
-        "last_seen": "2026-10-02T16:47:17",
-        "week_count": 1,
-        "v2_confidence": 0.9731,
-        "badges": [],
-        "v3_confidence": 0.9239,
-        "perch_confidence": 0.8957,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Western Yellow Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla flava",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 1693,
-        "residency": "",
-        "dawn_frac": 0,
-        "dawn_total": 57,
-        "v3_top_label": "Motacilla flava_Western Yellow Wagtail",
-        "v3_top_confidence": 0.9239,
-        "perch_top_label": "Motacilla flava_Western Yellow Wagtail",
-        "perch_top_confidence": 0.8957,
-        "photo": true
-    },
-    {
         "name": "Tawny Owl",
         "he_name": "\u05dc\u05d9\u05dc\u05d9\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Strix_aluco_3_%28Martin_Mecnarowski%29.jpg",
@@ -1740,40 +1774,6 @@
         "v3_top_confidence": 0.943,
         "perch_top_label": "Chloris chloris_European Greenfinch",
         "perch_top_confidence": 0.9595,
-        "photo": true
-    },
-    {
-        "name": "Willow Warbler",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d0\u05e4\u05d5\u05e8\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Willow_Warbler_Phylloscopus_trochilus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Willow_Warbler_Phylloscopus_trochilus.jpg",
-            "license": null
-        },
-        "audio": "audio/phylloscopus_trochilus.mp3",
-        "last_seen": "2026-10-01T06:52:37",
-        "week_count": 4,
-        "v2_confidence": 0.9138,
-        "badges": [],
-        "v3_confidence": 0.9711,
-        "perch_confidence": 0.9402,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Willow Warbler",
-            "agrees": true
-        },
-        "sci": "Phylloscopus trochilus",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 1958,
-        "residency": "",
-        "dawn_frac": 0,
-        "dawn_total": 5,
-        "v3_top_label": "Phylloscopus trochilus_Willow Warbler",
-        "v3_top_confidence": 0.9711,
-        "perch_top_label": "Phylloscopus trochilus_Willow Warbler",
-        "perch_top_confidence": 0.9402,
         "photo": true
     },
     {
