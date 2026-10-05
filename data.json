@@ -1,5 +1,42 @@
 [
     {
+        "name": "European Bee-eater",
+        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bee-eater_%2819270331108%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Bee-eater_%2819270331108%29.jpg",
+            "license": null
+        },
+        "audio": "audio/merops_apiaster.mp3",
+        "last_seen": "2026-10-05T13:58:09",
+        "week_count": 468,
+        "v2_confidence": 0.9985,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9088,
+        "perch_confidence": 0.6554,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Merops apiaster",
+        "order": "Coraciiformes",
+        "family": "Meropidae",
+        "local": 3144,
+        "residency": "migrant",
+        "dawn_frac": 0.0622,
+        "dawn_total": 1817,
+        "v3_top_label": "Merops apiaster_European Bee-eater",
+        "v3_top_confidence": 0.9088,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.7345,
+        "photo": true
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +45,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-05T12:50:49",
-        "week_count": 230,
+        "last_seen": "2026-10-05T13:57:06",
+        "week_count": 234,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -32,11 +69,88 @@
         "local": 5255,
         "residency": "resident",
         "dawn_frac": 0.0148,
-        "dawn_total": 5119,
+        "dawn_total": 5123,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Booted Eagle",
+        "he_name": "\u05e2\u05d9\u05d8 \u05d2\u05de\u05d3\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Booted_eagle_%28India%2C_2012%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Booted_eagle_%28India%2C_2012%29.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "audio": "audio/hieraaetus_pennatus.mp3",
+        "last_seen": "2026-10-05T13:28:36",
+        "week_count": 1,
+        "v2_confidence": 0.8482,
+        "badges": [
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.0146,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Hieraaetus pennatus",
+        "order": "Accipitriformes",
+        "family": "Accipitridae",
+        "local": 613,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 2,
+        "v3_top_label": "Bartramia longicauda_Upland Sandpiper",
+        "v3_top_confidence": 0.8366,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.0676,
+        "photo": true
+    },
+    {
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-10-05T13:14:17",
+        "week_count": 8,
+        "v2_confidence": 0.9897,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        },
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 4066,
+        "residency": "migrant",
+        "dawn_frac": 0.0175,
+        "dawn_total": 57,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
         "photo": true
     },
     {
@@ -241,43 +355,6 @@
         "photo": true
     },
     {
-        "name": "European Bee-eater",
-        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bee-eater_%2819270331108%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Bee-eater_%2819270331108%29.jpg",
-            "license": null
-        },
-        "audio": "audio/merops_apiaster.mp3",
-        "last_seen": "2026-10-05T11:04:26",
-        "week_count": 452,
-        "v2_confidence": 0.9985,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9088,
-        "perch_confidence": 0.6554,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Merops apiaster",
-        "order": "Coraciiformes",
-        "family": "Meropidae",
-        "local": 3144,
-        "residency": "migrant",
-        "dawn_frac": 0.0627,
-        "dawn_total": 1801,
-        "v3_top_label": "Merops apiaster_European Bee-eater",
-        "v3_top_confidence": 0.9088,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.7345,
-        "photo": true
-    },
-    {
         "name": "Common Greenshank",
         "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05d9\u05e8\u05d5\u05e7\u05ea-\u05e8\u05d2\u05dc",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Common-Greenshank.jpg/1280px-Common-Greenshank.jpg",
@@ -320,46 +397,6 @@
         "v3_top_confidence": 0.3484,
         "perch_top_label": "Tringa nebularia_Common Greenshank",
         "perch_top_confidence": 0.2477,
-        "photo": true
-    },
-    {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
-            "license": null
-        },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-10-05T10:47:21",
-        "week_count": 7,
-        "v2_confidence": 0.9897,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Chiffchaff",
-            "agrees": true
-        },
-        "sci": "Phylloscopus collybita",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4066,
-        "residency": "migrant",
-        "dawn_frac": 0.0179,
-        "dawn_total": 56,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
         "photo": true
     },
     {
@@ -4741,43 +4778,6 @@
         "v3_top_confidence": 0.8158,
         "perch_top_label": "Fringilla montifringilla_Brambling",
         "perch_top_confidence": 0.2147,
-        "photo": true
-    },
-    {
-        "name": "Booted Eagle",
-        "he_name": "\u05e2\u05d9\u05d8 \u05d2\u05de\u05d3\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Booted_eagle_%28India%2C_2012%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Booted_eagle_%28India%2C_2012%29.jpg",
-            "license": "CC BY-SA 3.0"
-        },
-        "audio": "audio/hieraaetus_pennatus.mp3",
-        "last_seen": "2026-08-06T06:52:25",
-        "week_count": 0,
-        "v2_confidence": 0.7571,
-        "badges": [
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.0146,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Hieraaetus pennatus",
-        "order": "Accipitriformes",
-        "family": "Accipitridae",
-        "local": 613,
-        "residency": "",
-        "dawn_frac": 0,
-        "dawn_total": 1,
-        "v3_top_label": "Bartramia longicauda_Upland Sandpiper",
-        "v3_top_confidence": 0.8366,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.0676,
         "photo": true
     },
     {
