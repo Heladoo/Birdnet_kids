@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-06T20:15:13",
-        "week_count": 168,
+        "last_seen": "2026-10-06T23:46:00",
+        "week_count": 134,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -37,11 +37,61 @@
         "local": 7526,
         "residency": "resident",
         "dawn_frac": 0.0857,
-        "dawn_total": 13658,
+        "dawn_total": 13660,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Little Owl",
+        "he_name": "\u05db\u05d5\u05e1 \u05d4\u05d7\u05d5\u05e8\u05d1\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg/3840px-%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg",
+            "license": null
+        },
+        "audio": "audio/athene_noctua.mp3",
+        "last_seen": "2026-10-06T23:17:49",
+        "week_count": 1,
+        "v2_confidence": 0.9793,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "en": "Nocturnal",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.8716,
+        "perch_confidence": 0.5193,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Little Owl",
+            "agrees": true
+        },
+        "sci": "Athene noctua",
+        "order": "Strigiformes",
+        "family": "Strigidae",
+        "local": 1878,
+        "residency": "resident",
+        "dawn_frac": 0.0275,
+        "dawn_total": 109,
+        "v3_top_label": "Athene noctua_Little Owl",
+        "v3_top_confidence": 0.8716,
+        "perch_top_label": "Athene noctua_Little Owl",
+        "perch_top_confidence": 0.5193,
         "photo": true
     },
     {
@@ -54,7 +104,7 @@
         },
         "audio": "audio/merops_apiaster.mp3",
         "last_seen": "2026-10-06T18:09:13",
-        "week_count": 321,
+        "week_count": 262,
         "v2_confidence": 0.9985,
         "badges": [
             {
@@ -91,7 +141,7 @@
         },
         "audio": "audio/acridotheres_tristis.mp3",
         "last_seen": "2026-10-06T17:58:11",
-        "week_count": 78,
+        "week_count": 50,
         "v2_confidence": 0.9867,
         "badges": [
             {
@@ -131,7 +181,7 @@
         },
         "audio": "audio/psittacula_krameri.mp3",
         "last_seen": "2026-10-06T17:40:09",
-        "week_count": 281,
+        "week_count": 254,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -171,7 +221,7 @@
         },
         "audio": "audio/tringa_ochropus.mp3",
         "last_seen": "2026-10-06T17:05:54",
-        "week_count": 9,
+        "week_count": 8,
         "v2_confidence": 0.9967,
         "badges": [
             {
@@ -216,7 +266,7 @@
         },
         "audio": "audio/falco_tinnunculus.mp3",
         "last_seen": "2026-10-06T17:02:19",
-        "week_count": 10,
+        "week_count": 5,
         "v2_confidence": 0.9943,
         "badges": [
             {
@@ -301,7 +351,7 @@
         },
         "audio": "audio/phylloscopus_collybita.mp3",
         "last_seen": "2026-10-06T16:13:32",
-        "week_count": 11,
+        "week_count": 10,
         "v2_confidence": 0.9897,
         "badges": [
             {
@@ -495,7 +545,7 @@
         },
         "audio": "audio/otus_scops.mp3",
         "last_seen": "2026-10-06T15:20:36",
-        "week_count": 19,
+        "week_count": 15,
         "v2_confidence": 0.9954,
         "badges": [
             {
@@ -545,7 +595,7 @@
         },
         "audio": "audio/streptopelia_senegalensis.mp3",
         "last_seen": "2026-10-06T14:27:13",
-        "week_count": 130,
+        "week_count": 116,
         "v2_confidence": 0.9985,
         "badges": [
             {
@@ -585,7 +635,7 @@
         },
         "audio": "audio/prinia_gracilis.mp3",
         "last_seen": "2026-10-06T14:26:04",
-        "week_count": 15,
+        "week_count": 13,
         "v2_confidence": 0.9958,
         "badges": [
             {
@@ -1206,7 +1256,7 @@
         },
         "audio": "audio/linaria_cannabina.mp3",
         "last_seen": "2026-10-05T11:19:13",
-        "week_count": 2,
+        "week_count": 1,
         "v2_confidence": 0.8074,
         "badges": [],
         "v3_confidence": 0.0019,
@@ -1240,7 +1290,7 @@
         },
         "audio": "audio/tringa_nebularia.mp3",
         "last_seen": "2026-10-05T10:57:51",
-        "week_count": 5,
+        "week_count": 4,
         "v2_confidence": 0.945,
         "badges": [
             {
@@ -1370,7 +1420,7 @@
         },
         "audio": "audio/burhinus_oedicnemus.mp3",
         "last_seen": "2026-10-05T05:52:30",
-        "week_count": 5,
+        "week_count": 2,
         "v2_confidence": 0.9974,
         "badges": [
             {
@@ -1847,7 +1897,7 @@
         },
         "audio": "audio/tyto_alba.mp3",
         "last_seen": "2026-10-02T13:13:51",
-        "week_count": 2,
+        "week_count": 1,
         "v2_confidence": 0.9991,
         "badges": [
             {
@@ -1971,7 +2021,7 @@
         },
         "audio": "audio/tachybaptus_ruficollis.mp3",
         "last_seen": "2026-10-01T08:19:37",
-        "week_count": 2,
+        "week_count": 1,
         "v2_confidence": 0.9656,
         "badges": [
             {
@@ -2096,7 +2146,7 @@
         },
         "audio": "audio/pluvialis_squatarola.mp3",
         "last_seen": "2026-09-30T22:05:39",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.7979,
         "badges": [
             {
@@ -2138,7 +2188,7 @@
         },
         "audio": "audio/jynx_torquilla.mp3",
         "last_seen": "2026-09-30T18:09:26",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.978,
         "badges": [
             {
@@ -2178,7 +2228,7 @@
         },
         "audio": "audio/curruca_melanocephala.mp3",
         "last_seen": "2026-09-30T14:27:24",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.8566,
         "badges": [
             {
@@ -2215,7 +2265,7 @@
         },
         "audio": "audio/corvus_corax.mp3",
         "last_seen": "2026-09-30T11:25:24",
-        "week_count": 12,
+        "week_count": 0,
         "v2_confidence": 0.9246,
         "badges": [],
         "v3_confidence": 0.6548,
@@ -2249,7 +2299,7 @@
         },
         "audio": "audio/pastor_roseus.mp3",
         "last_seen": "2026-09-30T06:31:09",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.8503,
         "badges": [
             {
@@ -2286,7 +2336,7 @@
         },
         "audio": "audio/locustella_luscinioides.mp3",
         "last_seen": "2026-09-30T05:48:20",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.904,
         "badges": [
             {
@@ -2323,7 +2373,7 @@
         },
         "audio": "audio/calonectris_diomedea.mp3",
         "last_seen": "2026-09-30T05:09:11",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.7271,
         "badges": [],
         "v3_confidence": 0,
@@ -3658,56 +3708,6 @@
         "v3_top_confidence": 0.8271,
         "perch_top_label": "Actitis hypoleucos_Common Sandpiper",
         "perch_top_confidence": 0.7364,
-        "photo": true
-    },
-    {
-        "name": "Little Owl",
-        "he_name": "\u05db\u05d5\u05e1 \u05d4\u05d7\u05d5\u05e8\u05d1\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg/3840px-%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg",
-            "license": null
-        },
-        "audio": "audio/athene_noctua.mp3",
-        "last_seen": "2026-09-16T11:41:05",
-        "week_count": 0,
-        "v2_confidence": 0.9793,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "en": "Nocturnal",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.8716,
-        "perch_confidence": 0.5193,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Little Owl",
-            "agrees": true
-        },
-        "sci": "Athene noctua",
-        "order": "Strigiformes",
-        "family": "Strigidae",
-        "local": 1878,
-        "residency": "resident",
-        "dawn_frac": 0.0278,
-        "dawn_total": 108,
-        "v3_top_label": "Athene noctua_Little Owl",
-        "v3_top_confidence": 0.8716,
-        "perch_top_label": "Athene noctua_Little Owl",
-        "perch_top_confidence": 0.5193,
         "photo": true
     },
     {
