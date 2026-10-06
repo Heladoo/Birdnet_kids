@@ -1,5 +1,125 @@
 [
     {
+        "name": "Barn Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/hirundo_rustica.mp3",
+        "last_seen": "2026-10-06T15:45:24",
+        "week_count": 4,
+        "v2_confidence": 0.968,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.905,
+        "perch_confidence": 0.8648,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Barn Swallow",
+            "agrees": true
+        },
+        "sci": "Hirundo rustica",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 5846,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 170,
+        "v3_top_label": "Hirundo rustica_Barn Swallow",
+        "v3_top_confidence": 0.905,
+        "perch_top_label": "Hirundo rustica_Barn Swallow",
+        "perch_top_confidence": 0.8648,
+        "photo": true
+    },
+    {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-10-06T15:36:32",
+        "week_count": 14,
+        "v2_confidence": 0.9539,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6360,
+        "residency": "migrant",
+        "dawn_frac": 0.1705,
+        "dawn_total": 129,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Crested Lark",
+        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Cochevis_hupp%C3%A9_Gbollat.jpg",
+            "license": null
+        },
+        "audio": "audio/galerida_cristata.mp3",
+        "last_seen": "2026-10-06T15:35:30",
+        "week_count": 10,
+        "v2_confidence": 0.9829,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9411,
+        "perch_confidence": 0.625,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Crested Lark",
+            "agrees": true
+        },
+        "sci": "Galerida cristata",
+        "order": "Passeriformes",
+        "family": "Alaudidae",
+        "local": 7863,
+        "residency": "resident",
+        "dawn_frac": 0.1471,
+        "dawn_total": 401,
+        "v3_top_label": "Galerida cristata_Crested Lark",
+        "v3_top_confidence": 0.9411,
+        "perch_top_label": "Galerida cristata_Crested Lark",
+        "perch_top_confidence": 0.625,
+        "photo": true
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +128,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-06T14:42:26",
-        "week_count": 269,
+        "last_seen": "2026-10-06T15:30:58",
+        "week_count": 270,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -32,51 +152,11 @@
         "local": 5255,
         "residency": "resident",
         "dawn_frac": 0.0146,
-        "dawn_total": 5203,
+        "dawn_total": 5204,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-06T14:37:56",
-        "week_count": 13,
-        "v2_confidence": 0.9539,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6360,
-        "residency": "migrant",
-        "dawn_frac": 0.1719,
-        "dawn_total": 128,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -88,8 +168,8 @@
             "license": null
         },
         "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-10-06T14:33:36",
-        "week_count": 74,
+        "last_seen": "2026-10-06T15:29:56",
+        "week_count": 75,
         "v2_confidence": 0.9867,
         "badges": [
             {
@@ -111,12 +191,173 @@
         "family": "Sturnidae",
         "local": 6200,
         "residency": "resident",
-        "dawn_frac": 0.0891,
-        "dawn_total": 1145,
+        "dawn_frac": 0.089,
+        "dawn_total": 1146,
         "v3_top_label": "Acridotheres tristis_Common Myna",
         "v3_top_confidence": 0.9523,
         "perch_top_label": "Acridotheres tristis_Common Myna",
         "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "Western Yellow Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Wiesenschafstelze.JPG",
+            "license": null
+        },
+        "audio": "audio/motacilla_flava.mp3",
+        "last_seen": "2026-10-06T15:29:28",
+        "week_count": 5,
+        "v2_confidence": 0.9731,
+        "badges": [],
+        "v3_confidence": 0.9239,
+        "perch_confidence": 0.8957,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Western Yellow Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla flava",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 1693,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 61,
+        "v3_top_label": "Motacilla flava_Western Yellow Wagtail",
+        "v3_top_confidence": 0.9239,
+        "perch_top_label": "Motacilla flava_Western Yellow Wagtail",
+        "perch_top_confidence": 0.8957,
+        "photo": true
+    },
+    {
+        "name": "European Bee-eater",
+        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bee-eater_%2819270331108%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Bee-eater_%2819270331108%29.jpg",
+            "license": null
+        },
+        "audio": "audio/merops_apiaster.mp3",
+        "last_seen": "2026-10-06T15:28:06",
+        "week_count": 316,
+        "v2_confidence": 0.9985,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9088,
+        "perch_confidence": 0.6554,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Merops apiaster",
+        "order": "Coraciiformes",
+        "family": "Meropidae",
+        "local": 3144,
+        "residency": "migrant",
+        "dawn_frac": 0.0611,
+        "dawn_total": 1848,
+        "v3_top_label": "Merops apiaster_European Bee-eater",
+        "v3_top_confidence": 0.9088,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.7345,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Collared-Dove",
+        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+            "license": "CC BY 4.0"
+        },
+        "audio": "audio/streptopelia_decaocto.mp3",
+        "last_seen": "2026-10-06T15:25:15",
+        "week_count": 12,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.96,
+        "perch_confidence": 0.8294,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Collared Dove",
+            "agrees": true
+        },
+        "sci": "Streptopelia decaocto",
+        "order": "Columbiformes",
+        "family": "Columbidae",
+        "local": 9492,
+        "residency": "resident",
+        "dawn_frac": 0.0507,
+        "dawn_total": 2286,
+        "v3_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
+        "v3_top_confidence": 0.96,
+        "perch_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
+        "perch_top_confidence": 0.8294,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Scops-Owl",
+        "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/otus_scops.mp3",
+        "last_seen": "2026-10-06T15:20:36",
+        "week_count": 19,
+        "v2_confidence": 0.9954,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "en": "Nocturnal",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9524,
+        "perch_confidence": 0.9787,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Scops Owl",
+            "agrees": true
+        },
+        "sci": "Otus scops",
+        "order": "Strigiformes",
+        "family": "Strigidae",
+        "local": 309,
+        "residency": "migrant",
+        "dawn_frac": 0.1969,
+        "dawn_total": 767,
+        "v3_top_label": "Otus scops_Eurasian Scops Owl",
+        "v3_top_confidence": 0.9524,
+        "perch_top_label": "Otus scops_Eurasian Scops Owl",
+        "perch_top_confidence": 0.9787,
         "photo": true
     },
     {
@@ -197,46 +438,6 @@
         "photo": true
     },
     {
-        "name": "Eurasian Collared-Dove",
-        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-            "license": "CC BY 4.0"
-        },
-        "audio": "audio/streptopelia_decaocto.mp3",
-        "last_seen": "2026-10-06T13:08:15",
-        "week_count": 11,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.96,
-        "perch_confidence": 0.8294,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Collared Dove",
-            "agrees": true
-        },
-        "sci": "Streptopelia decaocto",
-        "order": "Columbiformes",
-        "family": "Columbidae",
-        "local": 9492,
-        "residency": "resident",
-        "dawn_frac": 0.0508,
-        "dawn_total": 2285,
-        "v3_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
-        "v3_top_confidence": 0.96,
-        "perch_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
-        "perch_top_confidence": 0.8294,
-        "photo": true
-    },
-    {
         "name": "Palestine Sunbird",
         "he_name": "\u05e6\u05d5\u05e4\u05d9\u05ea \u05d1\u05d5\u05d4\u05e7\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg/1280px-Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
@@ -271,56 +472,6 @@
         "v3_top_confidence": 0.5097,
         "perch_top_label": "Hippolais icterina_Icterine Warbler",
         "perch_top_confidence": 0.1406,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Scops-Owl",
-        "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/otus_scops.mp3",
-        "last_seen": "2026-10-06T12:25:45",
-        "week_count": 15,
-        "v2_confidence": 0.9954,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "en": "Nocturnal",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9524,
-        "perch_confidence": 0.9787,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Scops Owl",
-            "agrees": true
-        },
-        "sci": "Otus scops",
-        "order": "Strigiformes",
-        "family": "Strigidae",
-        "local": 309,
-        "residency": "migrant",
-        "dawn_frac": 0.1979,
-        "dawn_total": 763,
-        "v3_top_label": "Otus scops_Eurasian Scops Owl",
-        "v3_top_confidence": 0.9524,
-        "perch_top_label": "Otus scops_Eurasian Scops Owl",
-        "perch_top_confidence": 0.9787,
         "photo": true
     },
     {
@@ -766,43 +917,6 @@
         "photo": true
     },
     {
-        "name": "European Bee-eater",
-        "he_name": "\u05e9\u05e8\u05e7\u05e8\u05e7 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bee-eater_%2819270331108%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Bee-eater_%2819270331108%29.jpg",
-            "license": null
-        },
-        "audio": "audio/merops_apiaster.mp3",
-        "last_seen": "2026-10-06T06:32:06",
-        "week_count": 312,
-        "v2_confidence": 0.9985,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9088,
-        "perch_confidence": 0.6554,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Merops apiaster",
-        "order": "Coraciiformes",
-        "family": "Meropidae",
-        "local": 3144,
-        "residency": "migrant",
-        "dawn_frac": 0.0613,
-        "dawn_total": 1844,
-        "v3_top_label": "Merops apiaster_European Bee-eater",
-        "v3_top_confidence": 0.9088,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.7345,
-        "photo": true
-    },
-    {
         "name": "Green Sandpiper",
         "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05db\u05e0\u05e3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Green_sandpiper_%28Tringa_ochropus%29.jpg/1280px-Green_sandpiper_%28Tringa_ochropus%29.jpg",
@@ -845,80 +959,6 @@
         "v3_top_confidence": 0.8386,
         "perch_top_label": "Tringa ochropus_Green Sandpiper",
         "perch_top_confidence": 0.8631,
-        "photo": true
-    },
-    {
-        "name": "Crested Lark",
-        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Cochevis_hupp%C3%A9_Gbollat.jpg",
-            "license": null
-        },
-        "audio": "audio/galerida_cristata.mp3",
-        "last_seen": "2026-10-05T18:19:36",
-        "week_count": 9,
-        "v2_confidence": 0.9829,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9411,
-        "perch_confidence": 0.625,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Crested Lark",
-            "agrees": true
-        },
-        "sci": "Galerida cristata",
-        "order": "Passeriformes",
-        "family": "Alaudidae",
-        "local": 7863,
-        "residency": "resident",
-        "dawn_frac": 0.1475,
-        "dawn_total": 400,
-        "v3_top_label": "Galerida cristata_Crested Lark",
-        "v3_top_confidence": 0.9411,
-        "perch_top_label": "Galerida cristata_Crested Lark",
-        "perch_top_confidence": 0.625,
-        "photo": true
-    },
-    {
-        "name": "Western Yellow Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Wiesenschafstelze.JPG",
-            "license": null
-        },
-        "audio": "audio/motacilla_flava.mp3",
-        "last_seen": "2026-10-05T17:19:32",
-        "week_count": 3,
-        "v2_confidence": 0.9731,
-        "badges": [],
-        "v3_confidence": 0.9239,
-        "perch_confidence": 0.8957,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Western Yellow Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla flava",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 1693,
-        "residency": "",
-        "dawn_frac": 0,
-        "dawn_total": 59,
-        "v3_top_label": "Motacilla flava_Western Yellow Wagtail",
-        "v3_top_confidence": 0.9239,
-        "perch_top_label": "Motacilla flava_Western Yellow Wagtail",
-        "perch_top_confidence": 0.8957,
         "photo": true
     },
     {
@@ -990,46 +1030,6 @@
         "v3_top_confidence": 0.5903,
         "perch_top_label": "Phylloscopus tenellipes_Pale-legged Leaf Warbler",
         "perch_top_confidence": 0.0481,
-        "photo": true
-    },
-    {
-        "name": "Barn Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/hirundo_rustica.mp3",
-        "last_seen": "2026-10-05T16:46:58",
-        "week_count": 3,
-        "v2_confidence": 0.968,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.905,
-        "perch_confidence": 0.8648,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Barn Swallow",
-            "agrees": true
-        },
-        "sci": "Hirundo rustica",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 5846,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 169,
-        "v3_top_label": "Hirundo rustica_Barn Swallow",
-        "v3_top_confidence": 0.905,
-        "perch_top_label": "Hirundo rustica_Barn Swallow",
-        "perch_top_confidence": 0.8648,
         "photo": true
     },
     {
