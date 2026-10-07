@@ -1,5 +1,55 @@
 [
     {
+        "name": "Barn Owl",
+        "he_name": "\u05ea\u05e0\u05e9\u05de\u05ea \u05dc\u05d1\u05e0\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Barn_Owl%2C_Lancashire.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/tyto_alba.mp3",
+        "last_seen": "2026-10-08T01:38:05",
+        "week_count": 2,
+        "v2_confidence": 0.9991,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "en": "Nocturnal",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.8618,
+        "perch_confidence": 0.8305,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Western Barn Owl",
+            "agrees": true
+        },
+        "sci": "Tyto alba",
+        "order": "Strigiformes",
+        "family": "Tytonidae",
+        "local": 1415,
+        "residency": "resident",
+        "dawn_frac": 0.0743,
+        "dawn_total": 269,
+        "v3_top_label": "Tyto alba_Western Barn Owl",
+        "v3_top_confidence": 0.8618,
+        "perch_top_label": "Tyto alba_Western Barn Owl",
+        "perch_top_confidence": 0.8305,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -2123,56 +2173,6 @@
         "v3_top_confidence": 0.4769,
         "perch_top_label": "Strix aluco_Tawny Owl",
         "perch_top_confidence": 0.5575,
-        "photo": true
-    },
-    {
-        "name": "Barn Owl",
-        "he_name": "\u05ea\u05e0\u05e9\u05de\u05ea \u05dc\u05d1\u05e0\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Barn_Owl%2C_Lancashire.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/tyto_alba.mp3",
-        "last_seen": "2026-10-02T13:13:51",
-        "week_count": 1,
-        "v2_confidence": 0.9991,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "en": "Nocturnal",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.8618,
-        "perch_confidence": 0.8305,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Western Barn Owl",
-            "agrees": true
-        },
-        "sci": "Tyto alba",
-        "order": "Strigiformes",
-        "family": "Tytonidae",
-        "local": 1415,
-        "residency": "resident",
-        "dawn_frac": 0.0746,
-        "dawn_total": 268,
-        "v3_top_label": "Tyto alba_Western Barn Owl",
-        "v3_top_confidence": 0.8618,
-        "perch_top_label": "Tyto alba_Western Barn Owl",
-        "perch_top_confidence": 0.8305,
         "photo": true
     },
     {
