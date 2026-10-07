@@ -1,5 +1,90 @@
 [
     {
+        "name": "Eurasian Moorhen",
+        "he_name": "\u05e1\u05d5\u05e4\u05d9\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Common_moorhen_%28Gallinula_chloropus%29_France.jpg/3840px-Common_moorhen_%28Gallinula_chloropus%29_France.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_moorhen_%28Gallinula_chloropus%29_France.jpg",
+            "license": null
+        },
+        "audio": "audio/gallinula_chloropus.mp3",
+        "last_seen": "2026-10-07T14:53:31",
+        "week_count": 1,
+        "v2_confidence": 0.9797,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9226,
+        "perch_confidence": 0.793,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Moorhen",
+            "agrees": true
+        },
+        "sci": "Gallinula chloropus",
+        "order": "Gruiformes",
+        "family": "Rallidae",
+        "local": 2791,
+        "residency": "resident",
+        "dawn_frac": 0.1111,
+        "dawn_total": 18,
+        "v3_top_label": "Gallinula chloropus_Common Moorhen",
+        "v3_top_confidence": 0.9226,
+        "perch_top_label": "Gallinula chloropus_Common Moorhen",
+        "perch_top_confidence": 0.793,
+        "photo": true
+    },
+    {
+        "name": "Laughing Dove",
+        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+            "license": null
+        },
+        "audio": "audio/streptopelia_senegalensis.mp3",
+        "last_seen": "2026-10-07T14:32:42",
+        "week_count": 127,
+        "v2_confidence": 0.9985,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.924,
+        "perch_confidence": 0.5157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": true
+        },
+        "sci": "Streptopelia senegalensis",
+        "order": "Columbiformes",
+        "family": "Columbidae",
+        "local": 5565,
+        "residency": "resident",
+        "dawn_frac": 0.0629,
+        "dawn_total": 5502,
+        "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "v3_top_confidence": 0.924,
+        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "perch_top_confidence": 0.5157,
+        "photo": true
+    },
+    {
         "name": "Graceful Prinia",
         "he_name": "\u05e4\u05e9\u05d5\u05e9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -74,46 +159,6 @@
         "v3_top_confidence": 0.9523,
         "perch_top_label": "Acridotheres tristis_Common Myna",
         "perch_top_confidence": 0.4667,
-        "photo": true
-    },
-    {
-        "name": "Laughing Dove",
-        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-            "license": null
-        },
-        "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-10-07T12:56:20",
-        "week_count": 121,
-        "v2_confidence": 0.9985,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.924,
-        "perch_confidence": 0.5157,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Laughing Dove",
-            "agrees": true
-        },
-        "sci": "Streptopelia senegalensis",
-        "order": "Columbiformes",
-        "family": "Columbidae",
-        "local": 5565,
-        "residency": "resident",
-        "dawn_frac": 0.063,
-        "dawn_total": 5496,
-        "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
-        "v3_top_confidence": 0.924,
-        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
-        "perch_top_confidence": 0.5157,
         "photo": true
     },
     {
@@ -3294,51 +3339,6 @@
         "v3_top_confidence": 0.6096,
         "perch_top_label": "Coloeus monedula_Western Jackdaw",
         "perch_top_confidence": 0.163,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Moorhen",
-        "he_name": "\u05e1\u05d5\u05e4\u05d9\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Common_moorhen_%28Gallinula_chloropus%29_France.jpg/3840px-Common_moorhen_%28Gallinula_chloropus%29_France.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_moorhen_%28Gallinula_chloropus%29_France.jpg",
-            "license": null
-        },
-        "audio": "audio/gallinula_chloropus.mp3",
-        "last_seen": "2026-09-23T13:19:10",
-        "week_count": 0,
-        "v2_confidence": 0.9797,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9226,
-        "perch_confidence": 0.793,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Moorhen",
-            "agrees": true
-        },
-        "sci": "Gallinula chloropus",
-        "order": "Gruiformes",
-        "family": "Rallidae",
-        "local": 2791,
-        "residency": "resident",
-        "dawn_frac": 0.1176,
-        "dawn_total": 17,
-        "v3_top_label": "Gallinula chloropus_Common Moorhen",
-        "v3_top_confidence": 0.9226,
-        "perch_top_label": "Gallinula chloropus_Common Moorhen",
-        "perch_top_confidence": 0.793,
         "photo": true
     },
     {
