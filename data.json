@@ -1,5 +1,42 @@
 [
     {
+        "name": "Fieldfare",
+        "he_name": "\u05e7\u05d9\u05db\u05dc\u05d9 \u05d0\u05e4\u05d5\u05e8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Turdus_pilaris_EM1B9020_%2834450664312%29.jpg/1280px-Turdus_pilaris_EM1B9020_%2834450664312%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Turdus_pilaris_EM1B9020_%2834450664312%29.jpg",
+            "license": null
+        },
+        "audio": "audio/turdus_pilaris.mp3",
+        "last_seen": "2026-10-08T15:38:24",
+        "week_count": 1,
+        "v2_confidence": 0.9461,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.1298,
+        "perch_confidence": 0.1243,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Turdus pilaris",
+        "order": "Passeriformes",
+        "family": "Turdidae",
+        "local": 32,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 8,
+        "v3_top_label": "Turdus atrogularis_Black-throated Thrush",
+        "v3_top_confidence": 0.2373,
+        "perch_top_label": "Cyanocitta stelleri_Steller's Jay",
+        "perch_top_confidence": 0.1656,
+        "photo": true
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +45,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-08T14:46:19",
-        "week_count": 336,
+        "last_seen": "2026-10-08T15:33:54",
+        "week_count": 345,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -31,12 +68,57 @@
         "family": "Psittacidae",
         "local": 5255,
         "residency": "resident",
-        "dawn_frac": 0.0143,
-        "dawn_total": 5325,
+        "dawn_frac": 0.0142,
+        "dawn_total": 5334,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Kestrel",
+        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/falco_tinnunculus.mp3",
+        "last_seen": "2026-10-08T15:05:36",
+        "week_count": 16,
+        "v2_confidence": 0.9943,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.4129,
+        "perch_confidence": 0.4165,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Kestrel",
+            "agrees": true
+        },
+        "sci": "Falco tinnunculus",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 12490,
+        "residency": "resident",
+        "dawn_frac": 0.0778,
+        "dawn_total": 270,
+        "v3_top_label": "Falco tinnunculus_Common Kestrel",
+        "v3_top_confidence": 0.4129,
+        "perch_top_label": "Falco tinnunculus_Common Kestrel",
+        "perch_top_confidence": 0.4165,
         "photo": true
     },
     {
@@ -243,51 +325,6 @@
         "v3_top_confidence": 0.9458,
         "perch_top_label": "Acridotheres tristis_Common Myna",
         "perch_top_confidence": 0.1292,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Kestrel",
-        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/falco_tinnunculus.mp3",
-        "last_seen": "2026-10-08T12:23:47",
-        "week_count": 7,
-        "v2_confidence": 0.9943,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.4129,
-        "perch_confidence": 0.4165,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Kestrel",
-            "agrees": true
-        },
-        "sci": "Falco tinnunculus",
-        "order": "Falconiformes",
-        "family": "Falconidae",
-        "local": 12490,
-        "residency": "resident",
-        "dawn_frac": 0.0805,
-        "dawn_total": 261,
-        "v3_top_label": "Falco tinnunculus_Common Kestrel",
-        "v3_top_confidence": 0.4129,
-        "perch_top_label": "Falco tinnunculus_Common Kestrel",
-        "perch_top_confidence": 0.4165,
         "photo": true
     },
     {
@@ -4423,43 +4460,6 @@
         "v3_top_confidence": 0.2807,
         "perch_top_label": "Hirundo rustica_Barn Swallow",
         "perch_top_confidence": 0.1057,
-        "photo": true
-    },
-    {
-        "name": "Fieldfare",
-        "he_name": "\u05e7\u05d9\u05db\u05dc\u05d9 \u05d0\u05e4\u05d5\u05e8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Turdus_pilaris_EM1B9020_%2834450664312%29.jpg/1280px-Turdus_pilaris_EM1B9020_%2834450664312%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Turdus_pilaris_EM1B9020_%2834450664312%29.jpg",
-            "license": null
-        },
-        "audio": "audio/turdus_pilaris.mp3",
-        "last_seen": "2026-09-05T15:15:05",
-        "week_count": 0,
-        "v2_confidence": 0.9461,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.1298,
-        "perch_confidence": 0.1243,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Turdus pilaris",
-        "order": "Passeriformes",
-        "family": "Turdidae",
-        "local": 32,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 7,
-        "v3_top_label": "Turdus atrogularis_Black-throated Thrush",
-        "v3_top_confidence": 0.2373,
-        "perch_top_label": "Cyanocitta stelleri_Steller's Jay",
-        "perch_top_confidence": 0.1656,
         "photo": true
     },
     {
