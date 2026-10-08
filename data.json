@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-08T22:53:06",
-        "week_count": 122,
+        "last_seen": "2026-10-08T23:59:30",
+        "week_count": 107,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -37,11 +37,61 @@
         "local": 7526,
         "residency": "resident",
         "dawn_frac": 0.0855,
-        "dawn_total": 13698,
+        "dawn_total": 13702,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Scops-Owl",
+        "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/otus_scops.mp3",
+        "last_seen": "2026-10-08T23:45:54",
+        "week_count": 15,
+        "v2_confidence": 0.9954,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "en": "Nocturnal",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9524,
+        "perch_confidence": 0.9787,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Scops Owl",
+            "agrees": true
+        },
+        "sci": "Otus scops",
+        "order": "Strigiformes",
+        "family": "Strigidae",
+        "local": 309,
+        "residency": "migrant",
+        "dawn_frac": 0.1964,
+        "dawn_total": 769,
+        "v3_top_label": "Otus scops_Eurasian Scops Owl",
+        "v3_top_confidence": 0.9524,
+        "perch_top_label": "Otus scops_Eurasian Scops Owl",
+        "perch_top_confidence": 0.9787,
         "photo": true
     },
     {
@@ -91,7 +141,7 @@
         },
         "audio": "audio/tyto_alba.mp3",
         "last_seen": "2026-10-08T19:24:21",
-        "week_count": 5,
+        "week_count": 4,
         "v2_confidence": 0.9991,
         "badges": [
             {
@@ -141,7 +191,7 @@
         },
         "audio": "audio/motacilla_alba.mp3",
         "last_seen": "2026-10-08T18:27:02",
-        "week_count": 32,
+        "week_count": 29,
         "v2_confidence": 0.963,
         "badges": [
             {
@@ -226,7 +276,7 @@
         },
         "audio": "audio/falco_tinnunculus.mp3",
         "last_seen": "2026-10-08T18:01:09",
-        "week_count": 19,
+        "week_count": 18,
         "v2_confidence": 0.9943,
         "badges": [
             {
@@ -271,7 +321,7 @@
         },
         "audio": "audio/psittacula_krameri.mp3",
         "last_seen": "2026-10-08T17:53:39",
-        "week_count": 363,
+        "week_count": 328,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -517,7 +567,7 @@
         },
         "audio": "audio/acridotheres_tristis.mp3",
         "last_seen": "2026-10-08T14:17:51",
-        "week_count": 101,
+        "week_count": 99,
         "v2_confidence": 0.9867,
         "badges": [
             {
@@ -992,7 +1042,7 @@
         },
         "audio": "audio/streptopelia_senegalensis.mp3",
         "last_seen": "2026-10-07T14:32:42",
-        "week_count": 106,
+        "week_count": 98,
         "v2_confidence": 0.9985,
         "badges": [
             {
@@ -1105,56 +1155,6 @@
         "v3_top_confidence": 0.96,
         "perch_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
         "perch_top_confidence": 0.8294,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Scops-Owl",
-        "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/otus_scops.mp3",
-        "last_seen": "2026-10-07T12:17:48",
-        "week_count": 14,
-        "v2_confidence": 0.9954,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "en": "Nocturnal",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9524,
-        "perch_confidence": 0.9787,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Scops Owl",
-            "agrees": true
-        },
-        "sci": "Otus scops",
-        "order": "Strigiformes",
-        "family": "Strigidae",
-        "local": 309,
-        "residency": "migrant",
-        "dawn_frac": 0.1966,
-        "dawn_total": 768,
-        "v3_top_label": "Otus scops_Eurasian Scops Owl",
-        "v3_top_confidence": 0.9524,
-        "perch_top_label": "Otus scops_Eurasian Scops Owl",
-        "perch_top_confidence": 0.9787,
         "photo": true
     },
     {
@@ -1452,7 +1452,7 @@
         },
         "audio": "audio/motacilla_flava.mp3",
         "last_seen": "2026-10-06T15:29:28",
-        "week_count": 5,
+        "week_count": 4,
         "v2_confidence": 0.9731,
         "badges": [],
         "v3_confidence": 0.9239,
@@ -2036,7 +2036,7 @@
         },
         "audio": "audio/cecropis_daurica.mp3",
         "last_seen": "2026-10-04T12:11:25",
-        "week_count": 5,
+        "week_count": 3,
         "v2_confidence": 0.9982,
         "badges": [
             {
@@ -2247,7 +2247,7 @@
         },
         "audio": "audio/ardea_cinerea.mp3",
         "last_seen": "2026-10-03T03:29:26",
-        "week_count": 2,
+        "week_count": 1,
         "v2_confidence": 0.9394,
         "badges": [
             {
@@ -2292,7 +2292,7 @@
         },
         "audio": "audio/grus_grus.mp3",
         "last_seen": "2026-10-02T20:59:55",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.861,
         "badges": [
             {
@@ -2334,7 +2334,7 @@
         },
         "audio": "audio/strix_aluco.mp3",
         "last_seen": "2026-10-02T14:20:34",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.894,
         "badges": [
             {
