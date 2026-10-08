@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-10-08T11:56:43",
-        "week_count": 91,
+        "last_seen": "2026-10-08T12:46:26",
+        "week_count": 99,
         "v2_confidence": 0.9867,
         "badges": [
             {
@@ -31,12 +31,213 @@
         "family": "Sturnidae",
         "local": 6200,
         "residency": "resident",
-        "dawn_frac": 0.0865,
-        "dawn_total": 1191,
+        "dawn_frac": 0.0859,
+        "dawn_total": 1199,
         "v3_top_label": "Acridotheres tristis_Common Myna",
         "v3_top_confidence": 0.9523,
         "perch_top_label": "Acridotheres tristis_Common Myna",
         "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-10-08T12:34:15",
+        "week_count": 11,
+        "v2_confidence": 0.9897,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        },
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 4066,
+        "residency": "migrant",
+        "dawn_frac": 0.0156,
+        "dawn_total": 64,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Linnet",
+        "he_name": "\u05ea\u05e4\u05d5\u05d7\u05d9\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Carduelis_cannabina_-England_-male-8.jpg/1280px-Carduelis_cannabina_-England_-male-8.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Carduelis_cannabina_-England_-male-8.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/linaria_cannabina.mp3",
+        "last_seen": "2026-10-08T12:30:36",
+        "week_count": 2,
+        "v2_confidence": 0.8074,
+        "badges": [],
+        "v3_confidence": 0.0019,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": false
+        },
+        "sci": "Linaria cannabina",
+        "order": "Passeriformes",
+        "family": "Fringillidae",
+        "local": 1337,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 5,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9458,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.1292,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Kestrel",
+        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/falco_tinnunculus.mp3",
+        "last_seen": "2026-10-08T12:23:47",
+        "week_count": 7,
+        "v2_confidence": 0.9943,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.4129,
+        "perch_confidence": 0.4165,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Kestrel",
+            "agrees": true
+        },
+        "sci": "Falco tinnunculus",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 12490,
+        "residency": "resident",
+        "dawn_frac": 0.0805,
+        "dawn_total": 261,
+        "v3_top_label": "Falco tinnunculus_Common Kestrel",
+        "v3_top_confidence": 0.4129,
+        "perch_top_label": "Falco tinnunculus_Common Kestrel",
+        "perch_top_confidence": 0.4165,
+        "photo": true
+    },
+    {
+        "name": "Great Reed Warbler",
+        "he_name": "\u05e7\u05e0\u05d9\u05ea \u05d0\u05d9\u05e8\u05d5\u05e4\u05d9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg/1280px-Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/acrocephalus_arundinaceus.mp3",
+        "last_seen": "2026-10-08T12:16:28",
+        "week_count": 1,
+        "v2_confidence": 0.8563,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0537,
+        "perch_confidence": 0.3475,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Acrocephalus arundinaceus",
+        "order": "Passeriformes",
+        "family": "Acrocephalidae",
+        "local": 537,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 6,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.6031,
+        "perch_top_label": "Acrocephalus arundinaceus_Great Reed Warbler",
+        "perch_top_confidence": 0.3475,
+        "photo": true
+    },
+    {
+        "name": "Green-winged Teal",
+        "he_name": "\u05e9\u05e8\u05e9\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Eurasian_teal_%28Anas_crecca%29_Photograph_by_Shantanu_Kuveskar.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Eurasian_teal_%28Anas_crecca%29_Photograph_by_Shantanu_Kuveskar.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/anas_crecca.mp3",
+        "last_seen": "2026-10-08T12:15:49",
+        "week_count": 1,
+        "v2_confidence": 0.9431,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.4616,
+        "perch_confidence": 0.709,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Teal",
+            "agrees": true
+        },
+        "sci": "Anas crecca",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "local": 3229,
+        "residency": "migrant",
+        "dawn_frac": 0.1935,
+        "dawn_total": 31,
+        "v3_top_label": "Anas crecca_Eurasian Teal",
+        "v3_top_confidence": 0.4616,
+        "perch_top_label": "Anas crecca_Eurasian Teal",
+        "perch_top_confidence": 0.709,
         "photo": true
     },
     {
@@ -159,51 +360,6 @@
         "v3_top_confidence": 0.9386,
         "perch_top_label": "Phoenicurus ochruros_Black Redstart",
         "perch_top_confidence": 0.9259,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Kestrel",
-        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/falco_tinnunculus.mp3",
-        "last_seen": "2026-10-08T10:42:17",
-        "week_count": 6,
-        "v2_confidence": 0.9943,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.4129,
-        "perch_confidence": 0.4165,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Kestrel",
-            "agrees": true
-        },
-        "sci": "Falco tinnunculus",
-        "order": "Falconiformes",
-        "family": "Falconidae",
-        "local": 12490,
-        "residency": "resident",
-        "dawn_frac": 0.0808,
-        "dawn_total": 260,
-        "v3_top_label": "Falco tinnunculus_Common Kestrel",
-        "v3_top_confidence": 0.4129,
-        "perch_top_label": "Falco tinnunculus_Common Kestrel",
-        "perch_top_confidence": 0.4165,
         "photo": true
     },
     {
@@ -826,46 +982,6 @@
         "v3_top_confidence": null,
         "perch_top_label": null,
         "perch_top_confidence": null,
-        "photo": true
-    },
-    {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
-            "license": null
-        },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-10-07T11:31:14",
-        "week_count": 10,
-        "v2_confidence": 0.9897,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Chiffchaff",
-            "agrees": true
-        },
-        "sci": "Phylloscopus collybita",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4066,
-        "residency": "migrant",
-        "dawn_frac": 0.0159,
-        "dawn_total": 63,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
         "photo": true
     },
     {
@@ -1662,40 +1778,6 @@
         "v3_top_confidence": 0.8366,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.0676,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Linnet",
-        "he_name": "\u05ea\u05e4\u05d5\u05d7\u05d9\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Carduelis_cannabina_-England_-male-8.jpg/1280px-Carduelis_cannabina_-England_-male-8.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Carduelis_cannabina_-England_-male-8.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/linaria_cannabina.mp3",
-        "last_seen": "2026-10-05T11:19:13",
-        "week_count": 1,
-        "v2_confidence": 0.8074,
-        "badges": [],
-        "v3_confidence": 0.0019,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": false
-        },
-        "sci": "Linaria cannabina",
-        "order": "Passeriformes",
-        "family": "Fringillidae",
-        "local": 1337,
-        "residency": "",
-        "dawn_frac": 0,
-        "dawn_total": 4,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9458,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.1292,
         "photo": true
     },
     {
@@ -3043,51 +3125,6 @@
         "v3_top_confidence": 0.9129,
         "perch_top_label": "Anthus trivialis_Tree Pipit",
         "perch_top_confidence": 0.8885,
-        "photo": true
-    },
-    {
-        "name": "Green-winged Teal",
-        "he_name": "\u05e9\u05e8\u05e9\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Eurasian_teal_%28Anas_crecca%29_Photograph_by_Shantanu_Kuveskar.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Eurasian_teal_%28Anas_crecca%29_Photograph_by_Shantanu_Kuveskar.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/anas_crecca.mp3",
-        "last_seen": "2026-09-25T13:33:54",
-        "week_count": 0,
-        "v2_confidence": 0.9431,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.4616,
-        "perch_confidence": 0.709,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Teal",
-            "agrees": true
-        },
-        "sci": "Anas crecca",
-        "order": "Anseriformes",
-        "family": "Anatidae",
-        "local": 3229,
-        "residency": "migrant",
-        "dawn_frac": 0.2,
-        "dawn_total": 30,
-        "v3_top_label": "Anas crecca_Eurasian Teal",
-        "v3_top_confidence": 0.4616,
-        "perch_top_label": "Anas crecca_Eurasian Teal",
-        "perch_top_confidence": 0.709,
         "photo": true
     },
     {
@@ -5202,43 +5239,6 @@
         "v3_top_confidence": 0.873,
         "perch_top_label": "Asio otus_Long-eared Owl",
         "perch_top_confidence": 0.8383,
-        "photo": true
-    },
-    {
-        "name": "Great Reed Warbler",
-        "he_name": "\u05e7\u05e0\u05d9\u05ea \u05d0\u05d9\u05e8\u05d5\u05e4\u05d9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg/1280px-Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/acrocephalus_arundinaceus.mp3",
-        "last_seen": "2026-07-11T04:06:58",
-        "week_count": 0,
-        "v2_confidence": 0.8242,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0537,
-        "perch_confidence": 0.3475,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Acrocephalus arundinaceus",
-        "order": "Passeriformes",
-        "family": "Acrocephalidae",
-        "local": 537,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 5,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.6031,
-        "perch_top_label": "Acrocephalus arundinaceus_Great Reed Warbler",
-        "perch_top_confidence": 0.3475,
         "photo": true
     },
     {
