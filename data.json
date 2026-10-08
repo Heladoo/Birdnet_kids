@@ -1,5 +1,87 @@
 [
     {
+        "name": "Eurasian Golden Oriole",
+        "he_name": "\u05d6\u05d4\u05d1\u05df \u05de\u05d7\u05dc\u05dc",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rigogolo-%28Oriolus_oriolus%29_Lazio%2C_isola_di_Ventotene_%28LT%29_19.4.2024_%28cropped%29.png",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Rigogolo-%28Oriolus_oriolus%29_Lazio%2C_isola_di_Ventotene_%28LT%29_19.4.2024_%28cropped%29.png",
+            "license": "CC0"
+        },
+        "audio": "audio/oriolus_oriolus.mp3",
+        "last_seen": "2026-10-08T20:40:45",
+        "week_count": 1,
+        "v2_confidence": 0.8535,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.3975,
+        "perch_confidence": 0.2148,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Oriolus oriolus",
+        "order": "Passeriformes",
+        "family": "Oriolidae",
+        "local": 203,
+        "residency": "migrant",
+        "dawn_frac": 0.0714,
+        "dawn_total": 14,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.6488,
+        "perch_top_label": "Oriolus oriolus_Eurasian Golden Oriole",
+        "perch_top_confidence": 0.2148,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-08T20:35:58",
+        "week_count": 114,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.0855,
+        "dawn_total": 13690,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
         "name": "Barn Owl",
         "he_name": "\u05ea\u05e0\u05e9\u05de\u05ea \u05dc\u05d1\u05e0\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
@@ -217,51 +299,6 @@
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-08T17:12:58",
-        "week_count": 109,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0856,
-        "dawn_total": 13685,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -3928,43 +3965,6 @@
         "v3_top_confidence": 0.1856,
         "perch_top_label": "Pelobates fuscus_Pelobates fuscus",
         "perch_top_confidence": 0.2974,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Golden Oriole",
-        "he_name": "\u05d6\u05d4\u05d1\u05df \u05de\u05d7\u05dc\u05dc",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rigogolo-%28Oriolus_oriolus%29_Lazio%2C_isola_di_Ventotene_%28LT%29_19.4.2024_%28cropped%29.png",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Rigogolo-%28Oriolus_oriolus%29_Lazio%2C_isola_di_Ventotene_%28LT%29_19.4.2024_%28cropped%29.png",
-            "license": "CC0"
-        },
-        "audio": "audio/oriolus_oriolus.mp3",
-        "last_seen": "2026-09-14T10:05:48",
-        "week_count": 0,
-        "v2_confidence": 0.8535,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.3975,
-        "perch_confidence": 0.2148,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Oriolus oriolus",
-        "order": "Passeriformes",
-        "family": "Oriolidae",
-        "local": 203,
-        "residency": "migrant",
-        "dawn_frac": 0.0769,
-        "dawn_total": 13,
-        "v3_top_label": "Passer domesticus_House Sparrow",
-        "v3_top_confidence": 0.6488,
-        "perch_top_label": "Oriolus oriolus_Eurasian Golden Oriole",
-        "perch_top_confidence": 0.2148,
         "photo": true
     },
     {
