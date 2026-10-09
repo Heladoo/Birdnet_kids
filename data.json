@@ -1,5 +1,97 @@
 [
     {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-09T14:56:17",
+        "week_count": 138,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.0859,
+        "dawn_total": 13733,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Common Goldeneye",
+        "he_name": "\u05e2\u05d1\u05e8\u05d0\u05e9 \u05d9\u05e8\u05d5\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Common_Goldeneye_%28Bucephala_clangula%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Goldeneye_%28Bucephala_clangula%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/bucephala_clangula.mp3",
+        "last_seen": "2026-10-09T14:43:09",
+        "week_count": 1,
+        "v2_confidence": 0.8407,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.0281,
+        "perch_confidence": 0.017,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Bucephala clangula",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "local": 0,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 3,
+        "v3_top_label": "Bubo virginianus_Great Horned Owl",
+        "v3_top_confidence": 0.0556,
+        "perch_top_label": "Buteo lineatus_Red-shouldered Hawk",
+        "perch_top_confidence": 0.0863,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
@@ -77,51 +169,6 @@
         "v3_top_confidence": 0.9722,
         "perch_top_label": "Carduelis carduelis_European Goldfinch",
         "perch_top_confidence": 0.9528,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-09T10:44:24",
-        "week_count": 136,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0859,
-        "dawn_total": 13731,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -5070,53 +5117,6 @@
         "v3_top_confidence": 0.8904,
         "perch_top_label": "Dendrocopos syriacus_Syrian Woodpecker",
         "perch_top_confidence": 0.7713,
-        "photo": true
-    },
-    {
-        "name": "Common Goldeneye",
-        "he_name": "\u05e2\u05d1\u05e8\u05d0\u05e9 \u05d9\u05e8\u05d5\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Common_Goldeneye_%28Bucephala_clangula%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Goldeneye_%28Bucephala_clangula%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/bucephala_clangula.mp3",
-        "last_seen": "2026-07-23T08:22:27",
-        "week_count": 0,
-        "v2_confidence": 0.8407,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.0281,
-        "perch_confidence": 0.017,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Bucephala clangula",
-        "order": "Anseriformes",
-        "family": "Anatidae",
-        "local": 0,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 2,
-        "v3_top_label": "Bubo virginianus_Great Horned Owl",
-        "v3_top_confidence": 0.0556,
-        "perch_top_label": "Buteo lineatus_Red-shouldered Hawk",
-        "perch_top_confidence": 0.0863,
         "photo": true
     },
     {
