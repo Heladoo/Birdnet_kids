@@ -1,85 +1,5 @@
 [
     {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-09T16:57:04",
-        "week_count": 374,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5255,
-        "residency": "resident",
-        "dawn_frac": 0.0141,
-        "dawn_total": 5398,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
-        "photo": true
-    },
-    {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
-            "license": null
-        },
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-10-09T16:50:21",
-        "week_count": 105,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": true
-        },
-        "sci": "Acridotheres tristis",
-        "order": "Passeriformes",
-        "family": "Sturnidae",
-        "local": 6200,
-        "residency": "resident",
-        "dawn_frac": 0.0853,
-        "dawn_total": 1207,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9523,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.4667,
-        "photo": true
-    },
-    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -88,8 +8,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-09T16:38:32",
-        "week_count": 140,
+        "last_seen": "2026-10-09T17:42:51",
+        "week_count": 150,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -117,11 +37,176 @@
         "local": 7526,
         "residency": "resident",
         "dawn_frac": 0.0858,
-        "dawn_total": 13735,
+        "dawn_total": 13745,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-10-09T17:22:47",
+        "week_count": 43,
+        "v2_confidence": 0.963,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6360,
+        "residency": "migrant",
+        "dawn_frac": 0.1481,
+        "dawn_total": 162,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-10-09T17:21:21",
+        "week_count": 376,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5255,
+        "residency": "resident",
+        "dawn_frac": 0.0141,
+        "dawn_total": 5400,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
+            "license": null
+        },
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-10-09T17:09:13",
+        "week_count": 106,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        },
+        "sci": "Acridotheres tristis",
+        "order": "Passeriformes",
+        "family": "Sturnidae",
+        "local": 6200,
+        "residency": "resident",
+        "dawn_frac": 0.0853,
+        "dawn_total": 1208,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "Little Grebe",
+        "he_name": "\u05d8\u05d1\u05dc\u05df \u05d2\u05de\u05d3\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Little_grebe_Zwergtaucher.jpg/1920px-Little_grebe_Zwergtaucher.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Little_grebe_Zwergtaucher.jpg",
+            "license": null
+        },
+        "audio": "audio/tachybaptus_ruficollis.mp3",
+        "last_seen": "2026-10-09T17:06:26",
+        "week_count": 3,
+        "v2_confidence": 0.9656,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.8192,
+        "perch_confidence": 0.672,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Little Grebe",
+            "agrees": true
+        },
+        "sci": "Tachybaptus ruficollis",
+        "order": "Podicipediformes",
+        "family": "Podicipedidae",
+        "local": 4593,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 21,
+        "v3_top_label": "Tachybaptus ruficollis_Little Grebe",
+        "v3_top_confidence": 0.8192,
+        "perch_top_label": "Tachybaptus ruficollis_Little Grebe",
+        "perch_top_confidence": 0.672,
         "photo": true
     },
     {
@@ -209,46 +294,6 @@
         "v3_top_confidence": 0.0556,
         "perch_top_label": "Buteo lineatus_Red-shouldered Hawk",
         "perch_top_confidence": 0.0863,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-09T12:19:43",
-        "week_count": 42,
-        "v2_confidence": 0.963,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6360,
-        "residency": "migrant",
-        "dawn_frac": 0.1491,
-        "dawn_total": 161,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -984,51 +1029,6 @@
         "v3_top_confidence": 0.905,
         "perch_top_label": "Hirundo rustica_Barn Swallow",
         "perch_top_confidence": 0.8648,
-        "photo": true
-    },
-    {
-        "name": "Little Grebe",
-        "he_name": "\u05d8\u05d1\u05dc\u05df \u05d2\u05de\u05d3\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Little_grebe_Zwergtaucher.jpg/1920px-Little_grebe_Zwergtaucher.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Little_grebe_Zwergtaucher.jpg",
-            "license": null
-        },
-        "audio": "audio/tachybaptus_ruficollis.mp3",
-        "last_seen": "2026-10-08T16:14:13",
-        "week_count": 1,
-        "v2_confidence": 0.9656,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.8192,
-        "perch_confidence": 0.672,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Little Grebe",
-            "agrees": true
-        },
-        "sci": "Tachybaptus ruficollis",
-        "order": "Podicipediformes",
-        "family": "Podicipedidae",
-        "local": 4593,
-        "residency": "resident",
-        "dawn_frac": 0,
-        "dawn_total": 19,
-        "v3_top_label": "Tachybaptus ruficollis_Little Grebe",
-        "v3_top_confidence": 0.8192,
-        "perch_top_label": "Tachybaptus ruficollis_Little Grebe",
-        "perch_top_confidence": 0.672,
         "photo": true
     },
     {
