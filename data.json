@@ -1,5 +1,86 @@
 [
     {
+        "name": "Cory's Shearwater",
+        "he_name": "\u05d9\u05e1\u05e2\u05d5\u05e8 \u05d2\u05d3\u05d5\u05dc",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Scopoli%27s_Shearwater.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Scopoli%27s_Shearwater.jpg",
+            "license": null
+        },
+        "audio": "audio/calonectris_diomedea.mp3",
+        "last_seen": "2026-10-10T20:53:20",
+        "week_count": 1,
+        "v2_confidence": 0.7363,
+        "badges": [],
+        "v3_confidence": 0,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Calonectris diomedea",
+        "order": "Procellariiformes",
+        "family": "Procellariidae",
+        "local": 38,
+        "residency": "",
+        "dawn_frac": 0.3333,
+        "dawn_total": 3,
+        "v3_top_label": "Scolopax minor_American Woodcock",
+        "v3_top_confidence": 0.6332,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.0919,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Scops-Owl",
+        "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/otus_scops.mp3",
+        "last_seen": "2026-10-10T20:22:38",
+        "week_count": 19,
+        "v2_confidence": 0.9954,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "en": "Nocturnal",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9524,
+        "perch_confidence": 0.9787,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Scops Owl",
+            "agrees": true
+        },
+        "sci": "Otus scops",
+        "order": "Strigiformes",
+        "family": "Strigidae",
+        "local": 309,
+        "residency": "migrant",
+        "dawn_frac": 0.1961,
+        "dawn_total": 775,
+        "v3_top_label": "Otus scops_Eurasian Scops Owl",
+        "v3_top_confidence": 0.9524,
+        "perch_top_label": "Otus scops_Eurasian Scops Owl",
+        "perch_top_confidence": 0.9787,
+        "photo": true
+    },
+    {
         "name": "Black-crowned Night-Heron",
         "he_name": "\u05d0\u05e0\u05e4\u05ea \u05dc\u05d9\u05dc\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nycticorax_nycticorax_457953189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -207,56 +288,6 @@
         "v3_top_confidence": 0.9233,
         "perch_top_label": "Coloeus monedula_Western Jackdaw",
         "perch_top_confidence": 0.7874,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Scops-Owl",
-        "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/otus_scops.mp3",
-        "last_seen": "2026-10-10T16:14:33",
-        "week_count": 18,
-        "v2_confidence": 0.9954,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "en": "Nocturnal",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9524,
-        "perch_confidence": 0.9787,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Scops Owl",
-            "agrees": true
-        },
-        "sci": "Otus scops",
-        "order": "Strigiformes",
-        "family": "Strigidae",
-        "local": 309,
-        "residency": "migrant",
-        "dawn_frac": 0.1964,
-        "dawn_total": 774,
-        "v3_top_label": "Otus scops_Eurasian Scops Owl",
-        "v3_top_confidence": 0.9524,
-        "perch_top_label": "Otus scops_Eurasian Scops Owl",
-        "perch_top_confidence": 0.9787,
         "photo": true
     },
     {
@@ -3062,37 +3093,6 @@
         "v3_top_confidence": 0.564,
         "perch_top_label": "Bubo virginianus_Great Horned Owl",
         "perch_top_confidence": 0.2394,
-        "photo": true
-    },
-    {
-        "name": "Cory's Shearwater",
-        "he_name": "\u05d9\u05e1\u05e2\u05d5\u05e8 \u05d2\u05d3\u05d5\u05dc",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Scopoli%27s_Shearwater.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Scopoli%27s_Shearwater.jpg",
-            "license": null
-        },
-        "audio": "audio/calonectris_diomedea.mp3",
-        "last_seen": "2026-09-30T05:09:11",
-        "week_count": 0,
-        "v2_confidence": 0.7271,
-        "badges": [],
-        "v3_confidence": 0,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Calonectris diomedea",
-        "order": "Procellariiformes",
-        "family": "Procellariidae",
-        "local": 38,
-        "residency": "",
-        "dawn_frac": 0.5,
-        "dawn_total": 2,
-        "v3_top_label": "Scolopax minor_American Woodcock",
-        "v3_top_confidence": 0.6332,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.0919,
         "photo": true
     },
     {
