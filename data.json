@@ -1,5 +1,135 @@
 [
     {
+        "name": "Eurasian Thick-knee",
+        "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/burhinus_oedicnemus.mp3",
+        "last_seen": "2026-10-10T02:59:29",
+        "week_count": 12,
+        "v2_confidence": 0.9974,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.876,
+        "perch_confidence": 0.8837,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Stone-curlew",
+            "agrees": true
+        },
+        "sci": "Burhinus oedicnemus",
+        "order": "Charadriiformes",
+        "family": "Burhinidae",
+        "local": 3703,
+        "residency": "resident",
+        "dawn_frac": 0.1429,
+        "dawn_total": 1246,
+        "v3_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
+        "v3_top_confidence": 0.876,
+        "perch_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
+        "perch_top_confidence": 0.8837,
+        "photo": true
+    },
+    {
+        "name": "European Golden-Plover",
+        "he_name": "\u05d7\u05d5\u05e4\u05d6\u05d9 \u05d6\u05d4\u05d5\u05d1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg/1280px-European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/pluvialis_apricaria.mp3",
+        "last_seen": "2026-10-10T02:59:05",
+        "week_count": 2,
+        "v2_confidence": 0.9154,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.4356,
+        "perch_confidence": 0.2218,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Golden Plover",
+            "agrees": true
+        },
+        "sci": "Pluvialis apricaria",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 259,
+        "residency": "migrant",
+        "dawn_frac": 0.1176,
+        "dawn_total": 17,
+        "v3_top_label": "Pluvialis apricaria_European Golden Plover",
+        "v3_top_confidence": 0.4356,
+        "perch_top_label": "Pluvialis apricaria_European Golden Plover",
+        "perch_top_confidence": 0.2218,
+        "photo": true
+    },
+    {
+        "name": "Green Sandpiper",
+        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05db\u05e0\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Green_sandpiper_%28Tringa_ochropus%29.jpg/1280px-Green_sandpiper_%28Tringa_ochropus%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Green_sandpiper_%28Tringa_ochropus%29.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/tringa_ochropus.mp3",
+        "last_seen": "2026-10-10T02:30:20",
+        "week_count": 11,
+        "v2_confidence": 0.9967,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.8386,
+        "perch_confidence": 0.8631,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Green Sandpiper",
+            "agrees": true
+        },
+        "sci": "Tringa ochropus",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 1834,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 63,
+        "v3_top_label": "Tringa ochropus_Green Sandpiper",
+        "v3_top_confidence": 0.8386,
+        "perch_top_label": "Tringa ochropus_Green Sandpiper",
+        "perch_top_confidence": 0.8631,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -891,46 +1021,6 @@
         "photo": true
     },
     {
-        "name": "Eurasian Thick-knee",
-        "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/burhinus_oedicnemus.mp3",
-        "last_seen": "2026-10-09T04:58:58",
-        "week_count": 10,
-        "v2_confidence": 0.9974,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.876,
-        "perch_confidence": 0.8837,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Stone-curlew",
-            "agrees": true
-        },
-        "sci": "Burhinus oedicnemus",
-        "order": "Charadriiformes",
-        "family": "Burhinidae",
-        "local": 3703,
-        "residency": "resident",
-        "dawn_frac": 0.1431,
-        "dawn_total": 1244,
-        "v3_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
-        "v3_top_confidence": 0.876,
-        "perch_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
-        "perch_top_confidence": 0.8837,
-        "photo": true
-    },
-    {
         "name": "Eurasian Golden Oriole",
         "he_name": "\u05d6\u05d4\u05d1\u05df \u05de\u05d7\u05dc\u05dc",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rigogolo-%28Oriolus_oriolus%29_Lazio%2C_isola_di_Ventotene_%28LT%29_19.4.2024_%28cropped%29.png",
@@ -1015,51 +1105,6 @@
         "v3_top_confidence": 0.8618,
         "perch_top_label": "Tyto alba_Western Barn Owl",
         "perch_top_confidence": 0.8305,
-        "photo": true
-    },
-    {
-        "name": "Green Sandpiper",
-        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05db\u05e0\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Green_sandpiper_%28Tringa_ochropus%29.jpg/1280px-Green_sandpiper_%28Tringa_ochropus%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Green_sandpiper_%28Tringa_ochropus%29.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/tringa_ochropus.mp3",
-        "last_seen": "2026-10-08T18:01:26",
-        "week_count": 10,
-        "v2_confidence": 0.9967,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.8386,
-        "perch_confidence": 0.8631,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Green Sandpiper",
-            "agrees": true
-        },
-        "sci": "Tringa ochropus",
-        "order": "Charadriiformes",
-        "family": "Scolopacidae",
-        "local": 1834,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 62,
-        "v3_top_label": "Tringa ochropus_Green Sandpiper",
-        "v3_top_confidence": 0.8386,
-        "perch_top_label": "Tringa ochropus_Green Sandpiper",
-        "perch_top_confidence": 0.8631,
         "photo": true
     },
     {
@@ -3395,51 +3440,6 @@
         "v3_top_confidence": 0.3201,
         "perch_top_label": "Actitis hypoleucos_Common Sandpiper",
         "perch_top_confidence": 0.1114,
-        "photo": true
-    },
-    {
-        "name": "European Golden-Plover",
-        "he_name": "\u05d7\u05d5\u05e4\u05d6\u05d9 \u05d6\u05d4\u05d5\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg/1280px-European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/pluvialis_apricaria.mp3",
-        "last_seen": "2026-09-25T02:13:24",
-        "week_count": 0,
-        "v2_confidence": 0.9154,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.4356,
-        "perch_confidence": 0.2218,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "European Golden Plover",
-            "agrees": true
-        },
-        "sci": "Pluvialis apricaria",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 259,
-        "residency": "migrant",
-        "dawn_frac": 0.1333,
-        "dawn_total": 15,
-        "v3_top_label": "Pluvialis apricaria_European Golden Plover",
-        "v3_top_confidence": 0.4356,
-        "perch_top_label": "Pluvialis apricaria_European Golden Plover",
-        "perch_top_confidence": 0.2218,
         "photo": true
     },
     {
