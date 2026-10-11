@@ -1,5 +1,45 @@
 [
     {
+        "name": "Crested Lark",
+        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Cochevis_hupp%C3%A9_Gbollat.jpg",
+            "license": null
+        },
+        "audio": "audio/galerida_cristata.mp3",
+        "last_seen": "2026-10-11T04:52:07",
+        "week_count": 14,
+        "v2_confidence": 0.9829,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9411,
+        "perch_confidence": 0.625,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Crested Lark",
+            "agrees": true
+        },
+        "sci": "Galerida cristata",
+        "order": "Passeriformes",
+        "family": "Alaudidae",
+        "local": 7863,
+        "residency": "resident",
+        "dawn_frac": 0.1463,
+        "dawn_total": 410,
+        "v3_top_label": "Galerida cristata_Crested Lark",
+        "v3_top_confidence": 0.9411,
+        "perch_top_label": "Galerida cristata_Crested Lark",
+        "perch_top_confidence": 0.625,
+        "photo": true
+    },
+    {
         "name": "European Golden-Plover",
         "he_name": "\u05d7\u05d5\u05e4\u05d6\u05d9 \u05d6\u05d4\u05d5\u05d1",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg/1280px-European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg",
@@ -8,8 +48,8 @@
             "license": "CC BY-SA 4.0"
         },
         "audio": "audio/pluvialis_apricaria.mp3",
-        "last_seen": "2026-10-11T03:38:31",
-        "week_count": 3,
+        "last_seen": "2026-10-11T04:02:25",
+        "week_count": 4,
         "v2_confidence": 0.9154,
         "badges": [
             {
@@ -36,8 +76,8 @@
         "family": "Charadriidae",
         "local": 259,
         "residency": "migrant",
-        "dawn_frac": 0.1111,
-        "dawn_total": 18,
+        "dawn_frac": 0.1053,
+        "dawn_total": 19,
         "v3_top_label": "Pluvialis apricaria_European Golden Plover",
         "v3_top_confidence": 0.4356,
         "perch_top_label": "Pluvialis apricaria_European Golden Plover",
@@ -813,46 +853,6 @@
         "v3_top_confidence": 0.7442,
         "perch_top_label": "Ardea cinerea_Grey Heron",
         "perch_top_confidence": 0.8582,
-        "photo": true
-    },
-    {
-        "name": "Crested Lark",
-        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Cochevis_hupp%C3%A9_Gbollat.jpg",
-            "license": null
-        },
-        "audio": "audio/galerida_cristata.mp3",
-        "last_seen": "2026-10-10T08:18:18",
-        "week_count": 13,
-        "v2_confidence": 0.9829,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9411,
-        "perch_confidence": 0.625,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Crested Lark",
-            "agrees": true
-        },
-        "sci": "Galerida cristata",
-        "order": "Passeriformes",
-        "family": "Alaudidae",
-        "local": 7863,
-        "residency": "resident",
-        "dawn_frac": 0.1443,
-        "dawn_total": 409,
-        "v3_top_label": "Galerida cristata_Crested Lark",
-        "v3_top_confidence": 0.9411,
-        "perch_top_label": "Galerida cristata_Crested Lark",
-        "perch_top_confidence": 0.625,
         "photo": true
     },
     {
