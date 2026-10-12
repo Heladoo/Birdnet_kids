@@ -1,5 +1,45 @@
 [
     {
+        "name": "Gray Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05d6\u05e0\u05d1\u05ea\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/3840px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_cinerea.mp3",
+        "last_seen": "2026-10-12T13:58:44",
+        "week_count": 13,
+        "v2_confidence": 0.9512,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.874,
+        "perch_confidence": 0.2349,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Grey Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla cinerea",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 103,
+        "residency": "migrant",
+        "dawn_frac": 0.0556,
+        "dawn_total": 36,
+        "v3_top_label": "Motacilla cinerea_Grey Wagtail",
+        "v3_top_confidence": 0.874,
+        "perch_top_label": "Motacilla cinerea_Grey Wagtail",
+        "perch_top_confidence": 0.2349,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
@@ -8,8 +48,8 @@
             "license": "CC BY 2.0"
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-12T12:52:18",
-        "week_count": 155,
+        "last_seen": "2026-10-12T13:57:44",
+        "week_count": 159,
         "v2_confidence": 0.9742,
         "badges": [
             {
@@ -31,12 +71,174 @@
         "family": "Motacillidae",
         "local": 6360,
         "residency": "migrant",
-        "dawn_frac": 0.0899,
-        "dawn_total": 278,
+        "dawn_frac": 0.0887,
+        "dawn_total": 282,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Barn Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/hirundo_rustica.mp3",
+        "last_seen": "2026-10-12T13:53:14",
+        "week_count": 5,
+        "v2_confidence": 0.968,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.905,
+        "perch_confidence": 0.8648,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Barn Swallow",
+            "agrees": true
+        },
+        "sci": "Hirundo rustica",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 5846,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 174,
+        "v3_top_label": "Hirundo rustica_Barn Swallow",
+        "v3_top_confidence": 0.905,
+        "perch_top_label": "Hirundo rustica_Barn Swallow",
+        "perch_top_confidence": 0.8648,
+        "photo": true
+    },
+    {
+        "name": "Savi's Warbler",
+        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05d6\u05de\u05d9\u05e8\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Locustellaluscinioides.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Locustellaluscinioides.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/locustella_luscinioides.mp3",
+        "last_seen": "2026-10-12T13:11:59",
+        "week_count": 1,
+        "v2_confidence": 0.904,
+        "badges": [
+            {
+                "i": "\ud83c\udf05",
+                "en": "Dawn Caller",
+                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
+            }
+        ],
+        "v3_confidence": 0.564,
+        "perch_confidence": 0.0758,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Locustella luscinioides",
+        "order": "Passeriformes",
+        "family": "Locustellidae",
+        "local": 570,
+        "residency": "",
+        "dawn_frac": 0.5,
+        "dawn_total": 14,
+        "v3_top_label": "Locustella luscinioides_Savi's Warbler",
+        "v3_top_confidence": 0.564,
+        "perch_top_label": "Bubo virginianus_Great Horned Owl",
+        "perch_top_confidence": 0.2394,
+        "photo": true
+    },
+    {
+        "name": "Black-crowned Night-Heron",
+        "he_name": "\u05d0\u05e0\u05e4\u05ea \u05dc\u05d9\u05dc\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nycticorax_nycticorax_457953189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Nycticorax_nycticorax_457953189.jpg",
+            "license": null
+        },
+        "audio": "audio/nycticorax_nycticorax.mp3",
+        "last_seen": "2026-10-12T13:07:07",
+        "week_count": 7,
+        "v2_confidence": 0.9878,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9422,
+        "perch_confidence": 0.8882,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Black-crowned Night Heron",
+            "agrees": true
+        },
+        "sci": "Nycticorax nycticorax",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 472,
+        "residency": "resident",
+        "dawn_frac": 0.0114,
+        "dawn_total": 88,
+        "v3_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
+        "v3_top_confidence": 0.9422,
+        "perch_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
+        "perch_top_confidence": 0.8882,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-10-12T13:05:25",
+        "week_count": 412,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5255,
+        "residency": "resident",
+        "dawn_frac": 0.0136,
+        "dawn_total": 5584,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
         "photo": true
     },
     {
@@ -379,46 +581,6 @@
         "photo": true
     },
     {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-12T09:57:33",
-        "week_count": 407,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5255,
-        "residency": "resident",
-        "dawn_frac": 0.0136,
-        "dawn_total": 5579,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
-        "photo": true
-    },
-    {
         "name": "Graceful Prinia",
         "he_name": "\u05e4\u05e9\u05d5\u05e9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -453,46 +615,6 @@
         "v3_top_confidence": 0.4048,
         "perch_top_label": "Prinia gracilis_Graceful Prinia",
         "perch_top_confidence": 0.2728,
-        "photo": true
-    },
-    {
-        "name": "Gray Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05d6\u05e0\u05d1\u05ea\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/3840px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_cinerea.mp3",
-        "last_seen": "2026-10-12T07:35:35",
-        "week_count": 12,
-        "v2_confidence": 0.9512,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.874,
-        "perch_confidence": 0.2349,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Grey Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla cinerea",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 103,
-        "residency": "migrant",
-        "dawn_frac": 0.0571,
-        "dawn_total": 35,
-        "v3_top_label": "Motacilla cinerea_Grey Wagtail",
-        "v3_top_confidence": 0.874,
-        "perch_top_label": "Motacilla cinerea_Grey Wagtail",
-        "perch_top_confidence": 0.2349,
         "photo": true
     },
     {
@@ -578,51 +700,6 @@
         "v3_top_confidence": 0.876,
         "perch_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
         "perch_top_confidence": 0.8837,
-        "photo": true
-    },
-    {
-        "name": "Black-crowned Night-Heron",
-        "he_name": "\u05d0\u05e0\u05e4\u05ea \u05dc\u05d9\u05dc\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nycticorax_nycticorax_457953189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Nycticorax_nycticorax_457953189.jpg",
-            "license": null
-        },
-        "audio": "audio/nycticorax_nycticorax.mp3",
-        "last_seen": "2026-10-11T21:05:19",
-        "week_count": 6,
-        "v2_confidence": 0.9878,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9422,
-        "perch_confidence": 0.8882,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Black-crowned Night Heron",
-            "agrees": true
-        },
-        "sci": "Nycticorax nycticorax",
-        "order": "Pelecaniformes",
-        "family": "Ardeidae",
-        "local": 472,
-        "residency": "resident",
-        "dawn_frac": 0.0115,
-        "dawn_total": 87,
-        "v3_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
-        "v3_top_confidence": 0.9422,
-        "perch_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
-        "perch_top_confidence": 0.8882,
         "photo": true
     },
     {
@@ -1663,46 +1740,6 @@
         "v3_top_confidence": 0.7442,
         "perch_top_label": "Ardea cinerea_Grey Heron",
         "perch_top_confidence": 0.8582,
-        "photo": true
-    },
-    {
-        "name": "Barn Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/hirundo_rustica.mp3",
-        "last_seen": "2026-10-10T07:42:40",
-        "week_count": 4,
-        "v2_confidence": 0.968,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.905,
-        "perch_confidence": 0.8648,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Barn Swallow",
-            "agrees": true
-        },
-        "sci": "Hirundo rustica",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 5846,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 173,
-        "v3_top_label": "Hirundo rustica_Barn Swallow",
-        "v3_top_confidence": 0.905,
-        "perch_top_label": "Hirundo rustica_Barn Swallow",
-        "perch_top_confidence": 0.8648,
         "photo": true
     },
     {
@@ -3265,43 +3302,6 @@
         "v3_top_confidence": 0.0984,
         "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
         "perch_top_confidence": 0.0381,
-        "photo": true
-    },
-    {
-        "name": "Savi's Warbler",
-        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05d6\u05de\u05d9\u05e8\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Locustellaluscinioides.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Locustellaluscinioides.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/locustella_luscinioides.mp3",
-        "last_seen": "2026-09-30T05:48:20",
-        "week_count": 0,
-        "v2_confidence": 0.904,
-        "badges": [
-            {
-                "i": "\ud83c\udf05",
-                "en": "Dawn Caller",
-                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
-            }
-        ],
-        "v3_confidence": 0.564,
-        "perch_confidence": 0.0758,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Locustella luscinioides",
-        "order": "Passeriformes",
-        "family": "Locustellidae",
-        "local": 570,
-        "residency": "",
-        "dawn_frac": 0.5385,
-        "dawn_total": 13,
-        "v3_top_label": "Locustella luscinioides_Savi's Warbler",
-        "v3_top_confidence": 0.564,
-        "perch_top_label": "Bubo virginianus_Great Horned Owl",
-        "perch_top_confidence": 0.2394,
         "photo": true
     },
     {
