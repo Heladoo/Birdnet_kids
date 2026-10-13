@@ -1,5 +1,125 @@
 [
     {
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
+            "license": null
+        },
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-10-13T09:55:44",
+        "week_count": 149,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        },
+        "sci": "Acridotheres tristis",
+        "order": "Passeriformes",
+        "family": "Sturnidae",
+        "local": 6200,
+        "residency": "resident",
+        "dawn_frac": 0.0809,
+        "dawn_total": 1298,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "Barn Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/hirundo_rustica.mp3",
+        "last_seen": "2026-10-13T09:31:10",
+        "week_count": 5,
+        "v2_confidence": 0.968,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.905,
+        "perch_confidence": 0.8648,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Barn Swallow",
+            "agrees": true
+        },
+        "sci": "Hirundo rustica",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 5846,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 175,
+        "v3_top_label": "Hirundo rustica_Barn Swallow",
+        "v3_top_confidence": 0.905,
+        "perch_top_label": "Hirundo rustica_Barn Swallow",
+        "perch_top_confidence": 0.8648,
+        "photo": true
+    },
+    {
+        "name": "Gray Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05d6\u05e0\u05d1\u05ea\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/3840px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_cinerea.mp3",
+        "last_seen": "2026-10-13T09:25:40",
+        "week_count": 14,
+        "v2_confidence": 0.9512,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.874,
+        "perch_confidence": 0.2349,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Grey Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla cinerea",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 103,
+        "residency": "migrant",
+        "dawn_frac": 0.0541,
+        "dawn_total": 37,
+        "v3_top_label": "Motacilla cinerea_Grey Wagtail",
+        "v3_top_confidence": 0.874,
+        "perch_top_label": "Motacilla cinerea_Grey Wagtail",
+        "perch_top_confidence": 0.2349,
+        "photo": true
+    },
+    {
         "name": "Eurasian Scops-Owl",
         "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
@@ -127,46 +247,6 @@
         "v3_top_confidence": 0.8256,
         "perch_top_label": "Panurus biarmicus_Bearded Reedling",
         "perch_top_confidence": 0.2002,
-        "photo": true
-    },
-    {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
-            "license": null
-        },
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-10-13T07:56:52",
-        "week_count": 144,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": true
-        },
-        "sci": "Acridotheres tristis",
-        "order": "Passeriformes",
-        "family": "Sturnidae",
-        "local": 6200,
-        "residency": "resident",
-        "dawn_frac": 0.0812,
-        "dawn_total": 1293,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9523,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.4667,
         "photo": true
     },
     {
@@ -594,86 +674,6 @@
         "v3_top_confidence": 0.4048,
         "perch_top_label": "Prinia gracilis_Graceful Prinia",
         "perch_top_confidence": 0.2728,
-        "photo": true
-    },
-    {
-        "name": "Gray Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05d6\u05e0\u05d1\u05ea\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/3840px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_cinerea.mp3",
-        "last_seen": "2026-10-12T13:58:44",
-        "week_count": 13,
-        "v2_confidence": 0.9512,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.874,
-        "perch_confidence": 0.2349,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Grey Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla cinerea",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 103,
-        "residency": "migrant",
-        "dawn_frac": 0.0556,
-        "dawn_total": 36,
-        "v3_top_label": "Motacilla cinerea_Grey Wagtail",
-        "v3_top_confidence": 0.874,
-        "perch_top_label": "Motacilla cinerea_Grey Wagtail",
-        "perch_top_confidence": 0.2349,
-        "photo": true
-    },
-    {
-        "name": "Barn Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/hirundo_rustica.mp3",
-        "last_seen": "2026-10-12T13:53:14",
-        "week_count": 4,
-        "v2_confidence": 0.968,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.905,
-        "perch_confidence": 0.8648,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Barn Swallow",
-            "agrees": true
-        },
-        "sci": "Hirundo rustica",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 5846,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 174,
-        "v3_top_label": "Hirundo rustica_Barn Swallow",
-        "v3_top_confidence": 0.905,
-        "perch_top_label": "Hirundo rustica_Barn Swallow",
-        "perch_top_confidence": 0.8648,
         "photo": true
     },
     {
