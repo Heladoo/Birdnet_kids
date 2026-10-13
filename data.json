@@ -1,5 +1,45 @@
 [
     {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-10-13T11:58:27",
+        "week_count": 186,
+        "v2_confidence": 0.9742,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6360,
+        "residency": "migrant",
+        "dawn_frac": 0.0791,
+        "dawn_total": 316,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
         "name": "Common Myna",
         "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +48,8 @@
             "license": null
         },
         "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-10-13T10:58:05",
-        "week_count": 160,
+        "last_seen": "2026-10-13T11:51:50",
+        "week_count": 163,
         "v2_confidence": 0.9867,
         "badges": [
             {
@@ -31,12 +71,102 @@
         "family": "Sturnidae",
         "local": 6200,
         "residency": "resident",
-        "dawn_frac": 0.0802,
-        "dawn_total": 1309,
+        "dawn_frac": 0.08,
+        "dawn_total": 1312,
         "v3_top_label": "Acridotheres tristis_Common Myna",
         "v3_top_confidence": 0.9523,
         "perch_top_label": "Acridotheres tristis_Common Myna",
         "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "White-throated Kingfisher",
+        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
+            "license": null
+        },
+        "audio": "audio/halcyon_smyrnensis.mp3",
+        "last_seen": "2026-10-13T11:39:07",
+        "week_count": 49,
+        "v2_confidence": 0.9996,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf05",
+                "en": "Dawn Caller",
+                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
+            }
+        ],
+        "v3_confidence": 0.9623,
+        "perch_confidence": 0.2317,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White-throated Kingfisher",
+            "agrees": true
+        },
+        "sci": "Halcyon smyrnensis",
+        "order": "Coraciiformes",
+        "family": "Alcedinidae",
+        "local": 4228,
+        "residency": "resident",
+        "dawn_frac": 0.412,
+        "dawn_total": 1386,
+        "v3_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "v3_top_confidence": 0.9623,
+        "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "perch_top_confidence": 0.2317,
+        "photo": true
+    },
+    {
+        "name": "Common Greenshank",
+        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05d9\u05e8\u05d5\u05e7\u05ea-\u05e8\u05d2\u05dc",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Common-Greenshank.jpg/1280px-Common-Greenshank.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common-Greenshank.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/tringa_nebularia.mp3",
+        "last_seen": "2026-10-13T11:28:16",
+        "week_count": 11,
+        "v2_confidence": 0.945,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.3484,
+        "perch_confidence": 0.2477,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Greenshank",
+            "agrees": true
+        },
+        "sci": "Tringa nebularia",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 371,
+        "residency": "migrant",
+        "dawn_frac": 0.0225,
+        "dawn_total": 89,
+        "v3_top_label": "Tringa nebularia_Common Greenshank",
+        "v3_top_confidence": 0.3484,
+        "perch_top_label": "Tringa nebularia_Common Greenshank",
+        "perch_top_confidence": 0.2477,
         "photo": true
     },
     {
@@ -48,8 +178,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-13T10:56:22",
-        "week_count": 219,
+        "last_seen": "2026-10-13T11:26:59",
+        "week_count": 221,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -77,51 +207,11 @@
         "local": 7526,
         "residency": "resident",
         "dawn_frac": 0.0854,
-        "dawn_total": 13879,
+        "dawn_total": 13881,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-13T10:53:44",
-        "week_count": 184,
-        "v2_confidence": 0.9742,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6360,
-        "residency": "migrant",
-        "dawn_frac": 0.0796,
-        "dawn_total": 314,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -172,51 +262,6 @@
         "v3_top_confidence": 0.9524,
         "perch_top_label": "Otus scops_Eurasian Scops Owl",
         "perch_top_confidence": 0.9787,
-        "photo": true
-    },
-    {
-        "name": "Common Greenshank",
-        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05d9\u05e8\u05d5\u05e7\u05ea-\u05e8\u05d2\u05dc",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Common-Greenshank.jpg/1280px-Common-Greenshank.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common-Greenshank.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/tringa_nebularia.mp3",
-        "last_seen": "2026-10-13T10:17:16",
-        "week_count": 10,
-        "v2_confidence": 0.945,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.3484,
-        "perch_confidence": 0.2477,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Greenshank",
-            "agrees": true
-        },
-        "sci": "Tringa nebularia",
-        "order": "Charadriiformes",
-        "family": "Scolopacidae",
-        "local": 371,
-        "residency": "migrant",
-        "dawn_frac": 0.0227,
-        "dawn_total": 88,
-        "v3_top_label": "Tringa nebularia_Common Greenshank",
-        "v3_top_confidence": 0.3484,
-        "perch_top_label": "Tringa nebularia_Common Greenshank",
-        "perch_top_confidence": 0.2477,
         "photo": true
     },
     {
@@ -417,51 +462,6 @@
         "v3_top_confidence": 0.934,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.4453,
-        "photo": true
-    },
-    {
-        "name": "White-throated Kingfisher",
-        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
-            "license": null
-        },
-        "audio": "audio/halcyon_smyrnensis.mp3",
-        "last_seen": "2026-10-13T06:57:01",
-        "week_count": 44,
-        "v2_confidence": 0.9996,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf05",
-                "en": "Dawn Caller",
-                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
-            }
-        ],
-        "v3_confidence": 0.9623,
-        "perch_confidence": 0.2317,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White-throated Kingfisher",
-            "agrees": true
-        },
-        "sci": "Halcyon smyrnensis",
-        "order": "Coraciiformes",
-        "family": "Alcedinidae",
-        "local": 4228,
-        "residency": "resident",
-        "dawn_frac": 0.4135,
-        "dawn_total": 1381,
-        "v3_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
-        "v3_top_confidence": 0.9623,
-        "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
-        "perch_top_confidence": 0.2317,
         "photo": true
     },
     {
