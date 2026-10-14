@@ -1,5 +1,127 @@
 [
     {
+        "name": "White-throated Kingfisher",
+        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
+            "license": null
+        },
+        "audio": "audio/halcyon_smyrnensis.mp3",
+        "last_seen": "2026-10-14T10:58:55",
+        "week_count": 54,
+        "v2_confidence": 0.9996,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf05",
+                "en": "Dawn Caller",
+                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
+            }
+        ],
+        "v3_confidence": 0.9623,
+        "perch_confidence": 0.2317,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White-throated Kingfisher",
+            "agrees": true
+        },
+        "sci": "Halcyon smyrnensis",
+        "order": "Coraciiformes",
+        "family": "Alcedinidae",
+        "local": 4228,
+        "residency": "resident",
+        "dawn_frac": 0.4084,
+        "dawn_total": 1398,
+        "v3_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "v3_top_confidence": 0.9623,
+        "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "perch_top_confidence": 0.2317,
+        "photo": true
+    },
+    {
+        "name": "Palestine Sunbird",
+        "he_name": "\u05e6\u05d5\u05e4\u05d9\u05ea \u05d1\u05d5\u05d4\u05e7\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg/1280px-Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/cinnyris_osea.mp3",
+        "last_seen": "2026-10-14T10:47:40",
+        "week_count": 1,
+        "v2_confidence": 0.8927,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.5097,
+        "perch_confidence": 0,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Cinnyris osea",
+        "order": "Passeriformes",
+        "family": "Nectariniidae",
+        "local": 5372,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 16,
+        "v3_top_label": "Cinnyris osea_Palestine Sunbird",
+        "v3_top_confidence": 0.5097,
+        "perch_top_label": "Hippolais icterina_Icterine Warbler",
+        "perch_top_confidence": 0.1406,
+        "photo": true
+    },
+    {
+        "name": "Brambling",
+        "he_name": "\u05e4\u05e8\u05d5\u05e9 \u05d4\u05e8\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pinson_du_nord.jpg/1280px-Pinson_du_nord.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Pinson_du_nord.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "audio": "audio/fringilla_montifringilla.mp3",
+        "last_seen": "2026-10-14T10:47:10",
+        "week_count": 1,
+        "v2_confidence": 0.9764,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.8158,
+        "perch_confidence": 0.2147,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Brambling",
+            "agrees": true
+        },
+        "sci": "Fringilla montifringilla",
+        "order": "Passeriformes",
+        "family": "Fringillidae",
+        "local": 380,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 5,
+        "v3_top_label": "Fringilla montifringilla_Brambling",
+        "v3_top_confidence": 0.8158,
+        "perch_top_label": "Fringilla montifringilla_Brambling",
+        "perch_top_confidence": 0.2147,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
@@ -8,8 +130,8 @@
             "license": "CC BY 2.0"
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-14T09:57:55",
-        "week_count": 203,
+        "last_seen": "2026-10-14T10:45:50",
+        "week_count": 204,
         "v2_confidence": 0.9742,
         "badges": [
             {
@@ -31,12 +153,97 @@
         "family": "Motacillidae",
         "local": 6360,
         "residency": "migrant",
-        "dawn_frac": 0.0733,
-        "dawn_total": 341,
+        "dawn_frac": 0.0731,
+        "dawn_total": 342,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Common Greenshank",
+        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05d9\u05e8\u05d5\u05e7\u05ea-\u05e8\u05d2\u05dc",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Common-Greenshank.jpg/1280px-Common-Greenshank.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common-Greenshank.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/tringa_nebularia.mp3",
+        "last_seen": "2026-10-14T10:09:35",
+        "week_count": 10,
+        "v2_confidence": 0.945,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.3484,
+        "perch_confidence": 0.2477,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Greenshank",
+            "agrees": true
+        },
+        "sci": "Tringa nebularia",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 371,
+        "residency": "migrant",
+        "dawn_frac": 0.0217,
+        "dawn_total": 92,
+        "v3_top_label": "Tringa nebularia_Common Greenshank",
+        "v3_top_confidence": 0.3484,
+        "perch_top_label": "Tringa nebularia_Common Greenshank",
+        "perch_top_confidence": 0.2477,
+        "photo": true
+    },
+    {
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
+            "license": null
+        },
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-10-14T10:08:18",
+        "week_count": 159,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        },
+        "sci": "Acridotheres tristis",
+        "order": "Passeriformes",
+        "family": "Sturnidae",
+        "local": 6200,
+        "residency": "resident",
+        "dawn_frac": 0.0792,
+        "dawn_total": 1326,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
         "photo": true
     },
     {
@@ -79,51 +286,6 @@
         "v3_top_confidence": 0.0605,
         "perch_top_label": "Brotogeris chiriri_Yellow-chevroned Parakeet",
         "perch_top_confidence": 0.0827,
-        "photo": true
-    },
-    {
-        "name": "Common Greenshank",
-        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05d9\u05e8\u05d5\u05e7\u05ea-\u05e8\u05d2\u05dc",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Common-Greenshank.jpg/1280px-Common-Greenshank.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common-Greenshank.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/tringa_nebularia.mp3",
-        "last_seen": "2026-10-14T08:59:59",
-        "week_count": 9,
-        "v2_confidence": 0.945,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.3484,
-        "perch_confidence": 0.2477,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Greenshank",
-            "agrees": true
-        },
-        "sci": "Tringa nebularia",
-        "order": "Charadriiformes",
-        "family": "Scolopacidae",
-        "local": 371,
-        "residency": "migrant",
-        "dawn_frac": 0.022,
-        "dawn_total": 91,
-        "v3_top_label": "Tringa nebularia_Common Greenshank",
-        "v3_top_confidence": 0.3484,
-        "perch_top_label": "Tringa nebularia_Common Greenshank",
-        "perch_top_confidence": 0.2477,
         "photo": true
     },
     {
@@ -212,51 +374,6 @@
         "photo": true
     },
     {
-        "name": "White-throated Kingfisher",
-        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
-            "license": null
-        },
-        "audio": "audio/halcyon_smyrnensis.mp3",
-        "last_seen": "2026-10-14T08:05:59",
-        "week_count": 46,
-        "v2_confidence": 0.9996,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf05",
-                "en": "Dawn Caller",
-                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
-            }
-        ],
-        "v3_confidence": 0.9623,
-        "perch_confidence": 0.2317,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White-throated Kingfisher",
-            "agrees": true
-        },
-        "sci": "Halcyon smyrnensis",
-        "order": "Coraciiformes",
-        "family": "Alcedinidae",
-        "local": 4228,
-        "residency": "resident",
-        "dawn_frac": 0.4108,
-        "dawn_total": 1390,
-        "v3_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
-        "v3_top_confidence": 0.9623,
-        "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
-        "perch_top_confidence": 0.2317,
-        "photo": true
-    },
-    {
         "name": "Bank Swallow",
         "he_name": "\u05db\u05d5\u05db\u05d9\u05ea \u05d2\u05d3\u05d5\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -334,46 +451,6 @@
         "v3_top_confidence": 0.874,
         "perch_top_label": "Motacilla cinerea_Grey Wagtail",
         "perch_top_confidence": 0.2349,
-        "photo": true
-    },
-    {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
-            "license": null
-        },
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-10-14T06:54:18",
-        "week_count": 158,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": true
-        },
-        "sci": "Acridotheres tristis",
-        "order": "Passeriformes",
-        "family": "Sturnidae",
-        "local": 6200,
-        "residency": "resident",
-        "dawn_frac": 0.0792,
-        "dawn_total": 1325,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9523,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.4667,
         "photo": true
     },
     {
@@ -2702,43 +2779,6 @@
         "photo": true
     },
     {
-        "name": "Palestine Sunbird",
-        "he_name": "\u05e6\u05d5\u05e4\u05d9\u05ea \u05d1\u05d5\u05d4\u05e7\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg/1280px-Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/cinnyris_osea.mp3",
-        "last_seen": "2026-10-06T12:48:06",
-        "week_count": 0,
-        "v2_confidence": 0.8927,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.5097,
-        "perch_confidence": 0,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Cinnyris osea",
-        "order": "Passeriformes",
-        "family": "Nectariniidae",
-        "local": 5372,
-        "residency": "resident",
-        "dawn_frac": 0,
-        "dawn_total": 15,
-        "v3_top_label": "Cinnyris osea_Palestine Sunbird",
-        "v3_top_confidence": 0.5097,
-        "perch_top_label": "Hippolais icterina_Icterine Warbler",
-        "perch_top_confidence": 0.1406,
-        "photo": true
-    },
-    {
         "name": "Eurasian Hoopoe",
         "he_name": "\u05d3\u05d5\u05db\u05d9\u05e4\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Israel._Eurasian_Hoopoe_%286497645007%29.jpg/3840px-Israel._Eurasian_Hoopoe_%286497645007%29.jpg",
@@ -5050,46 +5090,6 @@
         "v3_top_confidence": 0.7907,
         "perch_top_label": "Anthus pratensis_Meadow Pipit",
         "perch_top_confidence": 0.2935,
-        "photo": true
-    },
-    {
-        "name": "Brambling",
-        "he_name": "\u05e4\u05e8\u05d5\u05e9 \u05d4\u05e8\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pinson_du_nord.jpg/1280px-Pinson_du_nord.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Pinson_du_nord.jpg",
-            "license": "CC BY-SA 3.0"
-        },
-        "audio": "audio/fringilla_montifringilla.mp3",
-        "last_seen": "2026-08-06T09:20:29",
-        "week_count": 0,
-        "v2_confidence": 0.9764,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.8158,
-        "perch_confidence": 0.2147,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Brambling",
-            "agrees": true
-        },
-        "sci": "Fringilla montifringilla",
-        "order": "Passeriformes",
-        "family": "Fringillidae",
-        "local": 380,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 4,
-        "v3_top_label": "Fringilla montifringilla_Brambling",
-        "v3_top_confidence": 0.8158,
-        "perch_top_label": "Fringilla montifringilla_Brambling",
-        "perch_top_confidence": 0.2147,
         "photo": true
     },
     {
