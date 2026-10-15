@@ -1,5 +1,50 @@
 [
     {
+        "name": "Black-crowned Night-Heron",
+        "he_name": "\u05d0\u05e0\u05e4\u05ea \u05dc\u05d9\u05dc\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nycticorax_nycticorax_457953189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Nycticorax_nycticorax_457953189.jpg",
+            "license": null
+        },
+        "audio": "audio/nycticorax_nycticorax.mp3",
+        "last_seen": "2026-10-15T18:57:29",
+        "week_count": 8,
+        "v2_confidence": 0.9878,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9422,
+        "perch_confidence": 0.8882,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Black-crowned Night Heron",
+            "agrees": true
+        },
+        "sci": "Nycticorax nycticorax",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 472,
+        "residency": "resident",
+        "dawn_frac": 0.0112,
+        "dawn_total": 89,
+        "v3_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
+        "v3_top_confidence": 0.9422,
+        "perch_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
+        "perch_top_confidence": 0.8882,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +53,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-15T17:44:31",
-        "week_count": 269,
+        "last_seen": "2026-10-15T18:26:59",
+        "week_count": 274,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -36,12 +81,94 @@
         "family": "Charadriidae",
         "local": 7526,
         "residency": "resident",
-        "dawn_frac": 0.085,
-        "dawn_total": 13971,
+        "dawn_frac": 0.0849,
+        "dawn_total": 13976,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Crested Lark",
+        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Cochevis_hupp%C3%A9_Gbollat.jpg",
+            "license": null
+        },
+        "audio": "audio/galerida_cristata.mp3",
+        "last_seen": "2026-10-15T18:10:07",
+        "week_count": 16,
+        "v2_confidence": 0.9829,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9411,
+        "perch_confidence": 0.625,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Crested Lark",
+            "agrees": true
+        },
+        "sci": "Galerida cristata",
+        "order": "Passeriformes",
+        "family": "Alaudidae",
+        "local": 7863,
+        "residency": "resident",
+        "dawn_frac": 0.1449,
+        "dawn_total": 421,
+        "v3_top_label": "Galerida cristata_Crested Lark",
+        "v3_top_confidence": 0.9411,
+        "perch_top_label": "Galerida cristata_Crested Lark",
+        "perch_top_confidence": 0.625,
+        "photo": true
+    },
+    {
+        "name": "Graylag Goose",
+        "he_name": "\u05d0\u05d5\u05d5\u05d6 \u05d0\u05e4\u05d5\u05e8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg/1280px-Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "audio": "audio/anser_anser.mp3",
+        "last_seen": "2026-10-15T18:03:29",
+        "week_count": 1,
+        "v2_confidence": 0.8807,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.004,
+        "perch_confidence": 0.0395,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Anser anser",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "local": 14,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 8,
+        "v3_top_label": "Tachymarptis melba_Alpine Swift",
+        "v3_top_confidence": 0.078,
+        "perch_top_label": "Phasianus colchicus_Common Pheasant",
+        "perch_top_confidence": 0.3889,
         "photo": true
     },
     {
@@ -127,46 +254,6 @@
         "v3_top_confidence": 0.8386,
         "perch_top_label": "Tringa ochropus_Green Sandpiper",
         "perch_top_confidence": 0.8631,
-        "photo": true
-    },
-    {
-        "name": "Crested Lark",
-        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Cochevis_hupp%C3%A9_Gbollat.jpg",
-            "license": null
-        },
-        "audio": "audio/galerida_cristata.mp3",
-        "last_seen": "2026-10-15T17:35:35",
-        "week_count": 14,
-        "v2_confidence": 0.9829,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9411,
-        "perch_confidence": 0.625,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Crested Lark",
-            "agrees": true
-        },
-        "sci": "Galerida cristata",
-        "order": "Passeriformes",
-        "family": "Alaudidae",
-        "local": 7863,
-        "residency": "resident",
-        "dawn_frac": 0.1456,
-        "dawn_total": 419,
-        "v3_top_label": "Galerida cristata_Crested Lark",
-        "v3_top_confidence": 0.9411,
-        "perch_top_label": "Galerida cristata_Crested Lark",
-        "perch_top_confidence": 0.625,
         "photo": true
     },
     {
@@ -1664,51 +1751,6 @@
         "v3_top_confidence": 0.564,
         "perch_top_label": "Bubo virginianus_Great Horned Owl",
         "perch_top_confidence": 0.2394,
-        "photo": true
-    },
-    {
-        "name": "Black-crowned Night-Heron",
-        "he_name": "\u05d0\u05e0\u05e4\u05ea \u05dc\u05d9\u05dc\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nycticorax_nycticorax_457953189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Nycticorax_nycticorax_457953189.jpg",
-            "license": null
-        },
-        "audio": "audio/nycticorax_nycticorax.mp3",
-        "last_seen": "2026-10-12T13:07:07",
-        "week_count": 7,
-        "v2_confidence": 0.9878,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9422,
-        "perch_confidence": 0.8882,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Black-crowned Night Heron",
-            "agrees": true
-        },
-        "sci": "Nycticorax nycticorax",
-        "order": "Pelecaniformes",
-        "family": "Ardeidae",
-        "local": 472,
-        "residency": "resident",
-        "dawn_frac": 0.0114,
-        "dawn_total": 88,
-        "v3_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
-        "v3_top_confidence": 0.9422,
-        "perch_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
-        "perch_top_confidence": 0.8882,
         "photo": true
     },
     {
@@ -3696,48 +3738,6 @@
         "v3_top_confidence": 0.2636,
         "perch_top_label": "Pycnonotus goiavier_Yellow-vented Bulbul",
         "perch_top_confidence": 0.0547,
-        "photo": true
-    },
-    {
-        "name": "Graylag Goose",
-        "he_name": "\u05d0\u05d5\u05d5\u05d6 \u05d0\u05e4\u05d5\u05e8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg/1280px-Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg",
-            "license": "CC BY-SA 3.0"
-        },
-        "audio": "audio/anser_anser.mp3",
-        "last_seen": "2026-09-29T12:26:35",
-        "week_count": 0,
-        "v2_confidence": 0.8807,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.004,
-        "perch_confidence": 0.0395,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Anser anser",
-        "order": "Anseriformes",
-        "family": "Anatidae",
-        "local": 14,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 7,
-        "v3_top_label": "Tachymarptis melba_Alpine Swift",
-        "v3_top_confidence": 0.078,
-        "perch_top_label": "Phasianus colchicus_Common Pheasant",
-        "perch_top_confidence": 0.3889,
         "photo": true
     },
     {
