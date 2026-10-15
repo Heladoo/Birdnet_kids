@@ -1,5 +1,291 @@
 [
     {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-15T09:55:31",
+        "week_count": 254,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.0851,
+        "dawn_total": 13956,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
+            "license": null
+        },
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-10-15T09:54:03",
+        "week_count": 157,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        },
+        "sci": "Acridotheres tristis",
+        "order": "Passeriformes",
+        "family": "Sturnidae",
+        "local": 6200,
+        "residency": "resident",
+        "dawn_frac": 0.0773,
+        "dawn_total": 1358,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Linnet",
+        "he_name": "\u05ea\u05e4\u05d5\u05d7\u05d9\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Carduelis_cannabina_-England_-male-8.jpg/1280px-Carduelis_cannabina_-England_-male-8.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Carduelis_cannabina_-England_-male-8.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/linaria_cannabina.mp3",
+        "last_seen": "2026-10-15T09:35:05",
+        "week_count": 1,
+        "v2_confidence": 0.8208,
+        "badges": [],
+        "v3_confidence": 0.0019,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": false
+        },
+        "sci": "Linaria cannabina",
+        "order": "Passeriformes",
+        "family": "Fringillidae",
+        "local": 1337,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 6,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9458,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.1292,
+        "photo": true
+    },
+    {
+        "name": "Common Greenshank",
+        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05d9\u05e8\u05d5\u05e7\u05ea-\u05e8\u05d2\u05dc",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Common-Greenshank.jpg/1280px-Common-Greenshank.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common-Greenshank.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/tringa_nebularia.mp3",
+        "last_seen": "2026-10-15T09:33:31",
+        "week_count": 14,
+        "v2_confidence": 0.9475,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.3484,
+        "perch_confidence": 0.2477,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Greenshank",
+            "agrees": true
+        },
+        "sci": "Tringa nebularia",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 371,
+        "residency": "migrant",
+        "dawn_frac": 0.0208,
+        "dawn_total": 96,
+        "v3_top_label": "Tringa nebularia_Common Greenshank",
+        "v3_top_confidence": 0.3484,
+        "perch_top_label": "Tringa nebularia_Common Greenshank",
+        "perch_top_confidence": 0.2477,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-10-15T09:15:01",
+        "week_count": 418,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5255,
+        "residency": "resident",
+        "dawn_frac": 0.0132,
+        "dawn_total": 5770,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Great Bittern",
+        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05de\u05e1\u05d5\u05e8\u05d8\u05d8\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
+            "license": "CC BY-SA 2.0"
+        },
+        "audio": "audio/botaurus_stellaris.mp3",
+        "last_seen": "2026-10-15T09:12:37",
+        "week_count": 15,
+        "v2_confidence": 0.9858,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.0007,
+        "perch_confidence": 0.0357,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Botaurus stellaris",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 29,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 170,
+        "v3_top_label": "Falco tinnunculus_Common Kestrel",
+        "v3_top_confidence": 0.0605,
+        "perch_top_label": "Brotogeris chiriri_Yellow-chevroned Parakeet",
+        "perch_top_confidence": 0.0827,
+        "photo": true
+    },
+    {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-10-15T09:02:59",
+        "week_count": 249,
+        "v2_confidence": 0.9742,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6360,
+        "residency": "migrant",
+        "dawn_frac": 0.0655,
+        "dawn_total": 397,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
         "name": "White-throated Kingfisher",
         "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -82,86 +368,6 @@
         "v3_top_confidence": 0.9411,
         "perch_top_label": "Galerida cristata_Crested Lark",
         "perch_top_confidence": 0.625,
-        "photo": true
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-15T08:43:44",
-        "week_count": 416,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5255,
-        "residency": "resident",
-        "dawn_frac": 0.0132,
-        "dawn_total": 5768,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-15T08:37:37",
-        "week_count": 246,
-        "v2_confidence": 0.9742,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6360,
-        "residency": "migrant",
-        "dawn_frac": 0.066,
-        "dawn_total": 394,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -282,91 +488,6 @@
         "v3_top_confidence": 0.874,
         "perch_top_label": "Motacilla cinerea_Grey Wagtail",
         "perch_top_confidence": 0.2349,
-        "photo": true
-    },
-    {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
-            "license": null
-        },
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-10-15T06:44:03",
-        "week_count": 152,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": true
-        },
-        "sci": "Acridotheres tristis",
-        "order": "Passeriformes",
-        "family": "Sturnidae",
-        "local": 6200,
-        "residency": "resident",
-        "dawn_frac": 0.0776,
-        "dawn_total": 1353,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9523,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.4667,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-15T06:41:07",
-        "week_count": 249,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0851,
-        "dawn_total": 13951,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -664,51 +785,6 @@
         "photo": true
     },
     {
-        "name": "Common Greenshank",
-        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05d9\u05e8\u05d5\u05e7\u05ea-\u05e8\u05d2\u05dc",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Common-Greenshank.jpg/1280px-Common-Greenshank.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common-Greenshank.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/tringa_nebularia.mp3",
-        "last_seen": "2026-10-14T14:17:52",
-        "week_count": 13,
-        "v2_confidence": 0.9475,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.3484,
-        "perch_confidence": 0.2477,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Greenshank",
-            "agrees": true
-        },
-        "sci": "Tringa nebularia",
-        "order": "Charadriiformes",
-        "family": "Scolopacidae",
-        "local": 371,
-        "residency": "migrant",
-        "dawn_frac": 0.0211,
-        "dawn_total": 95,
-        "v3_top_label": "Tringa nebularia_Common Greenshank",
-        "v3_top_confidence": 0.3484,
-        "perch_top_label": "Tringa nebularia_Common Greenshank",
-        "perch_top_confidence": 0.2477,
-        "photo": true
-    },
-    {
         "name": "Greater White-fronted Goose",
         "he_name": "\u05d0\u05d5\u05d5\u05d6 \u05dc\u05d1\u05df-\u05de\u05e6\u05d7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Greater_white-fronted_goose_in_flight-1045.jpg/1280px-Greater_white-fronted_goose_in_flight-1045.jpg",
@@ -748,48 +824,6 @@
         "v3_top_confidence": 0.3275,
         "perch_top_label": "Branta canadensis_Canada Goose",
         "perch_top_confidence": 0.1104,
-        "photo": true
-    },
-    {
-        "name": "Great Bittern",
-        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05de\u05e1\u05d5\u05e8\u05d8\u05d8\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
-            "license": "CC BY-SA 2.0"
-        },
-        "audio": "audio/botaurus_stellaris.mp3",
-        "last_seen": "2026-10-14T13:37:29",
-        "week_count": 13,
-        "v2_confidence": 0.9858,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.0007,
-        "perch_confidence": 0.0357,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Botaurus stellaris",
-        "order": "Pelecaniformes",
-        "family": "Ardeidae",
-        "local": 29,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 168,
-        "v3_top_label": "Falco tinnunculus_Common Kestrel",
-        "v3_top_confidence": 0.0605,
-        "perch_top_label": "Brotogeris chiriri_Yellow-chevroned Parakeet",
-        "perch_top_confidence": 0.0827,
         "photo": true
     },
     {
@@ -2590,40 +2624,6 @@
         "v3_top_confidence": 0.2373,
         "perch_top_label": "Cyanocitta stelleri_Steller's Jay",
         "perch_top_confidence": 0.1656,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Linnet",
-        "he_name": "\u05ea\u05e4\u05d5\u05d7\u05d9\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Carduelis_cannabina_-England_-male-8.jpg/1280px-Carduelis_cannabina_-England_-male-8.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Carduelis_cannabina_-England_-male-8.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/linaria_cannabina.mp3",
-        "last_seen": "2026-10-08T12:30:36",
-        "week_count": 0,
-        "v2_confidence": 0.8074,
-        "badges": [],
-        "v3_confidence": 0.0019,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": false
-        },
-        "sci": "Linaria cannabina",
-        "order": "Passeriformes",
-        "family": "Fringillidae",
-        "local": 1337,
-        "residency": "",
-        "dawn_frac": 0,
-        "dawn_total": 5,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9458,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.1292,
         "photo": true
     },
     {
