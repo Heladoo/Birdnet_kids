@@ -8,8 +8,8 @@
             "license": "CC BY 2.0"
         },
         "audio": "audio/otus_scops.mp3",
-        "last_seen": "2026-10-16T21:45:29",
-        "week_count": 38,
+        "last_seen": "2026-10-16T23:37:07",
+        "week_count": 35,
         "v2_confidence": 0.9954,
         "badges": [
             {
@@ -41,12 +41,57 @@
         "family": "Strigidae",
         "local": 309,
         "residency": "migrant",
-        "dawn_frac": 0.1879,
-        "dawn_total": 809,
+        "dawn_frac": 0.1877,
+        "dawn_total": 810,
         "v3_top_label": "Otus scops_Eurasian Scops Owl",
         "v3_top_confidence": 0.9524,
         "perch_top_label": "Otus scops_Eurasian Scops Owl",
         "perch_top_confidence": 0.9787,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-16T23:31:48",
+        "week_count": 219,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.0848,
+        "dawn_total": 14016,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -109,7 +154,7 @@
         },
         "audio": "audio/motacilla_alba.mp3",
         "last_seen": "2026-10-16T17:57:37",
-        "week_count": 298,
+        "week_count": 259,
         "v2_confidence": 0.9742,
         "badges": [
             {
@@ -140,51 +185,6 @@
         "photo": true
     },
     {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-16T17:49:16",
-        "week_count": 264,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0848,
-        "dawn_total": 14015,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
-        "photo": true
-    },
-    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -194,7 +194,7 @@
         },
         "audio": "audio/psittacula_krameri.mp3",
         "last_seen": "2026-10-16T17:29:01",
-        "week_count": 494,
+        "week_count": 438,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -234,7 +234,7 @@
         },
         "audio": "audio/galerida_cristata.mp3",
         "last_seen": "2026-10-16T17:24:37",
-        "week_count": 18,
+        "week_count": 16,
         "v2_confidence": 0.9829,
         "badges": [
             {
@@ -274,7 +274,7 @@
         },
         "audio": "audio/corvus_monedula.mp3",
         "last_seen": "2026-10-16T15:00:40",
-        "week_count": 8,
+        "week_count": 4,
         "v2_confidence": 0.99,
         "badges": [
             {
@@ -354,7 +354,7 @@
         },
         "audio": "audio/acridotheres_tristis.mp3",
         "last_seen": "2026-10-16T13:41:52",
-        "week_count": 169,
+        "week_count": 161,
         "v2_confidence": 0.9867,
         "badges": [
             {
@@ -518,7 +518,7 @@
         },
         "audio": "audio/locustella_fluviatilis.mp3",
         "last_seen": "2026-10-16T10:31:52",
-        "week_count": 17,
+        "week_count": 16,
         "v2_confidence": 0.995,
         "badges": [
             {
@@ -555,7 +555,7 @@
         },
         "audio": "audio/prinia_gracilis.mp3",
         "last_seen": "2026-10-16T10:30:46",
-        "week_count": 34,
+        "week_count": 27,
         "v2_confidence": 0.9958,
         "badges": [
             {
@@ -746,7 +746,7 @@
         },
         "audio": "audio/jynx_torquilla.mp3",
         "last_seen": "2026-10-16T08:30:40",
-        "week_count": 2,
+        "week_count": 1,
         "v2_confidence": 0.978,
         "badges": [
             {
@@ -823,7 +823,7 @@
         },
         "audio": "audio/falco_tinnunculus.mp3",
         "last_seen": "2026-10-16T07:40:20",
-        "week_count": 12,
+        "week_count": 11,
         "v2_confidence": 0.9943,
         "badges": [
             {
@@ -868,7 +868,7 @@
         },
         "audio": "audio/halcyon_smyrnensis.mp3",
         "last_seen": "2026-10-16T07:00:12",
-        "week_count": 73,
+        "week_count": 61,
         "v2_confidence": 0.9996,
         "badges": [
             {
@@ -913,7 +913,7 @@
         },
         "audio": "audio/calonectris_diomedea.mp3",
         "last_seen": "2026-10-16T06:27:44",
-        "week_count": 2,
+        "week_count": 1,
         "v2_confidence": 0.7363,
         "badges": [],
         "v3_confidence": 0,
@@ -944,7 +944,7 @@
         },
         "audio": "audio/nycticorax_nycticorax.mp3",
         "last_seen": "2026-10-15T18:57:29",
-        "week_count": 8,
+        "week_count": 6,
         "v2_confidence": 0.9878,
         "badges": [
             {
@@ -1031,7 +1031,7 @@
         },
         "audio": "audio/tringa_ochropus.mp3",
         "last_seen": "2026-10-15T17:37:50",
-        "week_count": 4,
+        "week_count": 2,
         "v2_confidence": 0.9967,
         "badges": [
             {
@@ -1439,7 +1439,7 @@
         },
         "audio": "audio/burhinus_oedicnemus.mp3",
         "last_seen": "2026-10-15T05:07:05",
-        "week_count": 13,
+        "week_count": 7,
         "v2_confidence": 0.9974,
         "badges": [
             {
@@ -1479,7 +1479,7 @@
         },
         "audio": "audio/ardea_cinerea.mp3",
         "last_seen": "2026-10-15T02:53:28",
-        "week_count": 3,
+        "week_count": 2,
         "v2_confidence": 0.9394,
         "badges": [
             {
@@ -1680,7 +1680,7 @@
         },
         "audio": "audio/pluvialis_apricaria.mp3",
         "last_seen": "2026-10-14T05:22:14",
-        "week_count": 5,
+        "week_count": 3,
         "v2_confidence": 0.9154,
         "badges": [
             {
@@ -1757,7 +1757,7 @@
     },
     {
         "name": "Red-throated Pipit",
-        "he_name": null,
+        "he_name": "\u05e4\u05d9\u05e4\u05d9\u05d5\u05df \u05d0\u05d3\u05d5\u05dd-\u05d2\u05e8\u05d5\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Red-throated_Pipit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "credit": {
             "url": "https://commons.wikimedia.org/wiki/File:Red-throated_Pipit.jpg",
@@ -1873,7 +1873,7 @@
         },
         "audio": "audio/hirundo_rustica.mp3",
         "last_seen": "2026-10-13T09:31:10",
-        "week_count": 4,
+        "week_count": 2,
         "v2_confidence": 0.968,
         "badges": [
             {
@@ -2124,7 +2124,7 @@
         },
         "audio": "audio/streptopelia_senegalensis.mp3",
         "last_seen": "2026-10-11T14:05:42",
-        "week_count": 16,
+        "week_count": 6,
         "v2_confidence": 0.9985,
         "badges": [
             {
@@ -2374,7 +2374,7 @@
         },
         "audio": "audio/cuculus_canorus.mp3",
         "last_seen": "2026-10-10T14:52:33",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.844,
         "badges": [
             {
@@ -2411,7 +2411,7 @@
         },
         "audio": "audio/pycnonotus_xanthopygos.mp3",
         "last_seen": "2026-10-10T11:20:14",
-        "week_count": 11,
+        "week_count": 0,
         "v2_confidence": 0.9915,
         "badges": [
             {
@@ -2448,7 +2448,7 @@
         },
         "audio": "audio/falco_peregrinus.mp3",
         "last_seen": "2026-10-10T10:35:59",
-        "week_count": 1,
+        "week_count": 0,
         "v2_confidence": 0.8115,
         "badges": [
             {
@@ -2485,7 +2485,7 @@
         },
         "audio": "audio/passer_domesticus.mp3",
         "last_seen": "2026-10-10T07:39:14",
-        "week_count": 3,
+        "week_count": 0,
         "v2_confidence": 0.951,
         "badges": [
             {
@@ -2993,7 +2993,7 @@
     },
     {
         "name": "Eurasian Reed Warbler",
-        "he_name": null,
+        "he_name": "\u05e7\u05e0\u05d9\u05ea \u05e7\u05d8\u05e0\u05d4 \u05d0\u05d9\u05e8\u05d5\u05e4\u05d0\u05d9\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/PleidelsheimerWiesentalTeichrohrsaenger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "credit": {
             "url": "https://commons.wikimedia.org/wiki/File:PleidelsheimerWiesentalTeichrohrsaenger.jpg",
