@@ -8,8 +8,8 @@
             "license": "CC BY 2.0"
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-16T16:54:50",
-        "week_count": 293,
+        "last_seen": "2026-10-16T17:57:37",
+        "week_count": 298,
         "v2_confidence": 0.9742,
         "badges": [
             {
@@ -31,12 +31,57 @@
         "family": "Motacillidae",
         "local": 6360,
         "residency": "migrant",
-        "dawn_frac": 0.0571,
-        "dawn_total": 455,
+        "dawn_frac": 0.0565,
+        "dawn_total": 460,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-16T17:49:16",
+        "week_count": 264,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.0848,
+        "dawn_total": 14015,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -48,8 +93,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-16T16:49:20",
-        "week_count": 490,
+        "last_seen": "2026-10-16T17:29:01",
+        "week_count": 494,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -72,11 +117,51 @@
         "local": 5255,
         "residency": "resident",
         "dawn_frac": 0.0129,
-        "dawn_total": 5890,
+        "dawn_total": 5894,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Crested Lark",
+        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Cochevis_hupp%C3%A9_Gbollat.jpg",
+            "license": null
+        },
+        "audio": "audio/galerida_cristata.mp3",
+        "last_seen": "2026-10-16T17:24:37",
+        "week_count": 18,
+        "v2_confidence": 0.9829,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9411,
+        "perch_confidence": 0.625,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Crested Lark",
+            "agrees": true
+        },
+        "sci": "Galerida cristata",
+        "order": "Passeriformes",
+        "family": "Alaudidae",
+        "local": 7863,
+        "residency": "resident",
+        "dawn_frac": 0.1435,
+        "dawn_total": 425,
+        "v3_top_label": "Galerida cristata_Crested Lark",
+        "v3_top_confidence": 0.9411,
+        "perch_top_label": "Galerida cristata_Crested Lark",
+        "perch_top_confidence": 0.625,
         "photo": true
     },
     {
@@ -117,91 +202,6 @@
         "v3_top_confidence": 0.9233,
         "perch_top_label": "Coloeus monedula_Western Jackdaw",
         "perch_top_confidence": 0.7874,
-        "photo": true
-    },
-    {
-        "name": "Crested Lark",
-        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Cochevis_hupp%C3%A9_Gbollat.jpg",
-            "license": null
-        },
-        "audio": "audio/galerida_cristata.mp3",
-        "last_seen": "2026-10-16T14:58:42",
-        "week_count": 17,
-        "v2_confidence": 0.9829,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9411,
-        "perch_confidence": 0.625,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Crested Lark",
-            "agrees": true
-        },
-        "sci": "Galerida cristata",
-        "order": "Passeriformes",
-        "family": "Alaudidae",
-        "local": 7863,
-        "residency": "resident",
-        "dawn_frac": 0.1439,
-        "dawn_total": 424,
-        "v3_top_label": "Galerida cristata_Crested Lark",
-        "v3_top_confidence": 0.9411,
-        "perch_top_label": "Galerida cristata_Crested Lark",
-        "perch_top_confidence": 0.625,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-16T14:37:12",
-        "week_count": 258,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0848,
-        "dawn_total": 14009,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
