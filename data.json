@@ -1,5 +1,85 @@
 [
     {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-10-17T15:56:06",
+        "week_count": 277,
+        "v2_confidence": 0.9782,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6360,
+        "residency": "migrant",
+        "dawn_frac": 0.0544,
+        "dawn_total": 478,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-10-17T15:55:21",
+        "week_count": 458,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5255,
+        "residency": "resident",
+        "dawn_frac": 0.0129,
+        "dawn_total": 5914,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
         "name": "Common Myna",
         "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +88,8 @@
             "license": null
         },
         "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-10-17T14:46:54",
-        "week_count": 163,
+        "last_seen": "2026-10-17T15:49:34",
+        "week_count": 164,
         "v2_confidence": 0.9867,
         "badges": [
             {
@@ -32,11 +112,199 @@
         "local": 6200,
         "residency": "resident",
         "dawn_frac": 0.0761,
-        "dawn_total": 1379,
+        "dawn_total": 1380,
         "v3_top_label": "Acridotheres tristis_Common Myna",
         "v3_top_confidence": 0.9523,
         "perch_top_label": "Acridotheres tristis_Common Myna",
         "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Jackdaw",
+        "he_name": "\u05e7\u05d0\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nordic_jackdaw_%2852563242448%29.jpg/1280px-Nordic_jackdaw_%2852563242448%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Nordic_jackdaw_%2852563242448%29.jpg",
+            "license": "CC BY-SA 2.0"
+        },
+        "audio": "audio/corvus_monedula.mp3",
+        "last_seen": "2026-10-17T15:43:13",
+        "week_count": 6,
+        "v2_confidence": 0.99,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9233,
+        "perch_confidence": 0.6594,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Western Jackdaw",
+            "agrees": true
+        },
+        "sci": "Corvus monedula",
+        "order": "Passeriformes",
+        "family": "Corvidae",
+        "local": 3255,
+        "residency": "resident",
+        "dawn_frac": 0.0261,
+        "dawn_total": 612,
+        "v3_top_label": "Coloeus monedula_Western Jackdaw",
+        "v3_top_confidence": 0.9233,
+        "perch_top_label": "Coloeus monedula_Western Jackdaw",
+        "perch_top_confidence": 0.7874,
+        "photo": true
+    },
+    {
+        "name": "Great Reed Warbler",
+        "he_name": "\u05e7\u05e0\u05d9\u05ea \u05d0\u05d9\u05e8\u05d5\u05e4\u05d9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg/1280px-Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/acrocephalus_arundinaceus.mp3",
+        "last_seen": "2026-10-17T15:36:30",
+        "week_count": 5,
+        "v2_confidence": 0.8563,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0537,
+        "perch_confidence": 0.3475,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Acrocephalus arundinaceus",
+        "order": "Passeriformes",
+        "family": "Acrocephalidae",
+        "local": 537,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 11,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.6031,
+        "perch_top_label": "Acrocephalus arundinaceus_Great Reed Warbler",
+        "perch_top_confidence": 0.3475,
+        "photo": true
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
+            "license": null
+        },
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-10-17T15:22:45",
+        "week_count": 34,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Prinia gracilis",
+        "order": "Passeriformes",
+        "family": "Cisticolidae",
+        "local": 8390,
+        "residency": "resident",
+        "dawn_frac": 0.0041,
+        "dawn_total": 3192,
+        "v3_top_label": "Prinia lepida_Delicate Prinia",
+        "v3_top_confidence": 0.4048,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.2728,
+        "photo": true
+    },
+    {
+        "name": "River Warbler",
+        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Flodsangare.jpg",
+            "license": null
+        },
+        "audio": "audio/locustella_fluviatilis.mp3",
+        "last_seen": "2026-10-17T15:21:02",
+        "week_count": 17,
+        "v2_confidence": 0.995,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0012,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Locustella fluviatilis",
+        "order": "Passeriformes",
+        "family": "Locustellidae",
+        "local": 20,
+        "residency": "migrant",
+        "dawn_frac": 0.0095,
+        "dawn_total": 210,
+        "v3_top_label": "Delichon urbicum_Western House Martin",
+        "v3_top_confidence": 0.1843,
+        "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
+        "perch_top_confidence": 0.0639,
+        "photo": true
+    },
+    {
+        "name": "Red-rumped Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
+            "license": null
+        },
+        "audio": "audio/cecropis_daurica.mp3",
+        "last_seen": "2026-10-17T15:08:09",
+        "week_count": 1,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.344,
+        "perch_confidence": 0.7221,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Cecropis daurica",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 147,
+        "residency": "migrant",
+        "dawn_frac": 0.0524,
+        "dawn_total": 2156,
+        "v3_top_label": "Scolopax minor_American Woodcock",
+        "v3_top_confidence": 0.5984,
+        "perch_top_label": "Cecropis daurica_Eastern Red-rumped Swallow",
+        "perch_top_confidence": 0.7221,
         "photo": true
     },
     {
@@ -77,46 +345,6 @@
         "v3_top_confidence": 0.9411,
         "perch_top_label": "Galerida cristata_Crested Lark",
         "perch_top_confidence": 0.625,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-17T13:33:51",
-        "week_count": 274,
-        "v2_confidence": 0.9742,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6360,
-        "residency": "migrant",
-        "dawn_frac": 0.0547,
-        "dawn_total": 475,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -162,46 +390,6 @@
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
-        "photo": true
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-17T12:23:00",
-        "week_count": 457,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5255,
-        "residency": "resident",
-        "dawn_frac": 0.0129,
-        "dawn_total": 5913,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
         "photo": true
     },
     {
@@ -287,46 +475,6 @@
         "v3_top_confidence": 0.886,
         "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
         "perch_top_confidence": 0.9336,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Jackdaw",
-        "he_name": "\u05e7\u05d0\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nordic_jackdaw_%2852563242448%29.jpg/1280px-Nordic_jackdaw_%2852563242448%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Nordic_jackdaw_%2852563242448%29.jpg",
-            "license": "CC BY-SA 2.0"
-        },
-        "audio": "audio/corvus_monedula.mp3",
-        "last_seen": "2026-10-17T06:37:25",
-        "week_count": 5,
-        "v2_confidence": 0.99,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9233,
-        "perch_confidence": 0.6594,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Western Jackdaw",
-            "agrees": true
-        },
-        "sci": "Corvus monedula",
-        "order": "Passeriformes",
-        "family": "Corvidae",
-        "local": 3255,
-        "residency": "resident",
-        "dawn_frac": 0.0262,
-        "dawn_total": 611,
-        "v3_top_label": "Coloeus monedula_Western Jackdaw",
-        "v3_top_confidence": 0.9233,
-        "perch_top_label": "Coloeus monedula_Western Jackdaw",
-        "perch_top_confidence": 0.7874,
         "photo": true
     },
     {
@@ -641,117 +789,6 @@
         "v3_top_confidence": 0.7069,
         "perch_top_label": "Falco columbarius_Merlin",
         "perch_top_confidence": 0.4578,
-        "photo": true
-    },
-    {
-        "name": "River Warbler",
-        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Flodsangare.jpg",
-            "license": null
-        },
-        "audio": "audio/locustella_fluviatilis.mp3",
-        "last_seen": "2026-10-16T10:31:52",
-        "week_count": 16,
-        "v2_confidence": 0.995,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0012,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Locustella fluviatilis",
-        "order": "Passeriformes",
-        "family": "Locustellidae",
-        "local": 20,
-        "residency": "migrant",
-        "dawn_frac": 0.0096,
-        "dawn_total": 209,
-        "v3_top_label": "Delichon urbicum_Western House Martin",
-        "v3_top_confidence": 0.1843,
-        "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
-        "perch_top_confidence": 0.0639,
-        "photo": true
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
-            "license": null
-        },
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-10-16T10:30:46",
-        "week_count": 27,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Prinia gracilis",
-        "order": "Passeriformes",
-        "family": "Cisticolidae",
-        "local": 8390,
-        "residency": "resident",
-        "dawn_frac": 0.0041,
-        "dawn_total": 3185,
-        "v3_top_label": "Prinia lepida_Delicate Prinia",
-        "v3_top_confidence": 0.4048,
-        "perch_top_label": "Prinia gracilis_Graceful Prinia",
-        "perch_top_confidence": 0.2728,
-        "photo": true
-    },
-    {
-        "name": "Great Reed Warbler",
-        "he_name": "\u05e7\u05e0\u05d9\u05ea \u05d0\u05d9\u05e8\u05d5\u05e4\u05d9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg/1280px-Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/acrocephalus_arundinaceus.mp3",
-        "last_seen": "2026-10-16T10:22:52",
-        "week_count": 4,
-        "v2_confidence": 0.8563,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0537,
-        "perch_confidence": 0.3475,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Acrocephalus arundinaceus",
-        "order": "Passeriformes",
-        "family": "Acrocephalidae",
-        "local": 537,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 10,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.6031,
-        "perch_top_label": "Acrocephalus arundinaceus_Great Reed Warbler",
-        "perch_top_confidence": 0.3475,
         "photo": true
     },
     {
@@ -3326,43 +3363,6 @@
         "v3_top_confidence": 0.9259,
         "perch_top_label": "Coturnix coturnix_Common Quail",
         "perch_top_confidence": 0.8633,
-        "photo": true
-    },
-    {
-        "name": "Red-rumped Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
-            "license": null
-        },
-        "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-10-04T12:11:25",
-        "week_count": 0,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.344,
-        "perch_confidence": 0.7221,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Cecropis daurica",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 147,
-        "residency": "migrant",
-        "dawn_frac": 0.0524,
-        "dawn_total": 2155,
-        "v3_top_label": "Scolopax minor_American Woodcock",
-        "v3_top_confidence": 0.5984,
-        "perch_top_label": "Cecropis daurica_Eastern Red-rumped Swallow",
-        "perch_top_confidence": 0.7221,
         "photo": true
     },
     {
