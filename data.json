@@ -8,8 +8,8 @@
             "license": "CC BY 2.0"
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-17T15:56:06",
-        "week_count": 277,
+        "last_seen": "2026-10-17T16:57:00",
+        "week_count": 282,
         "v2_confidence": 0.9782,
         "badges": [
             {
@@ -31,12 +31,97 @@
         "family": "Motacillidae",
         "local": 6360,
         "residency": "migrant",
-        "dawn_frac": 0.0544,
-        "dawn_total": 478,
+        "dawn_frac": 0.0538,
+        "dawn_total": 483,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "European Goldfinch",
+        "he_name": "\u05d7\u05d5\u05d7\u05d9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg/1280px-072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/carduelis_carduelis.mp3",
+        "last_seen": "2026-10-17T16:52:41",
+        "week_count": 1,
+        "v2_confidence": 0.9882,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9722,
+        "perch_confidence": 0.9528,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Goldfinch",
+            "agrees": true
+        },
+        "sci": "Carduelis carduelis",
+        "order": "Passeriformes",
+        "family": "Fringillidae",
+        "local": 4238,
+        "residency": "resident",
+        "dawn_frac": 0.1484,
+        "dawn_total": 155,
+        "v3_top_label": "Carduelis carduelis_European Goldfinch",
+        "v3_top_confidence": 0.9722,
+        "perch_top_label": "Carduelis carduelis_European Goldfinch",
+        "perch_top_confidence": 0.9528,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-17T16:49:58",
+        "week_count": 244,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.0846,
+        "dawn_total": 14041,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -48,8 +133,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-17T15:55:21",
-        "week_count": 458,
+        "last_seen": "2026-10-17T16:49:09",
+        "week_count": 471,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -71,12 +156,99 @@
         "family": "Psittacidae",
         "local": 5255,
         "residency": "resident",
-        "dawn_frac": 0.0129,
-        "dawn_total": 5914,
+        "dawn_frac": 0.0128,
+        "dawn_total": 5927,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Red-rumped Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
+            "license": null
+        },
+        "audio": "audio/cecropis_daurica.mp3",
+        "last_seen": "2026-10-17T16:48:00",
+        "week_count": 2,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.344,
+        "perch_confidence": 0.7221,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Cecropis daurica",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 147,
+        "residency": "migrant",
+        "dawn_frac": 0.0524,
+        "dawn_total": 2157,
+        "v3_top_label": "Scolopax minor_American Woodcock",
+        "v3_top_confidence": 0.5984,
+        "perch_top_label": "Cecropis daurica_Eastern Red-rumped Swallow",
+        "perch_top_confidence": 0.7221,
+        "photo": true
+    },
+    {
+        "name": "Barn Owl",
+        "he_name": "\u05ea\u05e0\u05e9\u05de\u05ea \u05dc\u05d1\u05e0\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Barn_Owl%2C_Lancashire.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/tyto_alba.mp3",
+        "last_seen": "2026-10-17T16:08:02",
+        "week_count": 9,
+        "v2_confidence": 0.9991,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "en": "Nocturnal",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.8618,
+        "perch_confidence": 0.8305,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Western Barn Owl",
+            "agrees": true
+        },
+        "sci": "Tyto alba",
+        "order": "Strigiformes",
+        "family": "Tytonidae",
+        "local": 1415,
+        "residency": "resident",
+        "dawn_frac": 0.0747,
+        "dawn_total": 281,
+        "v3_top_label": "Tyto alba_Western Barn Owl",
+        "v3_top_confidence": 0.8618,
+        "perch_top_label": "Tyto alba_Western Barn Owl",
+        "perch_top_confidence": 0.8305,
         "photo": true
     },
     {
@@ -271,43 +443,6 @@
         "photo": true
     },
     {
-        "name": "Red-rumped Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
-            "license": null
-        },
-        "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-10-17T15:08:09",
-        "week_count": 1,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.344,
-        "perch_confidence": 0.7221,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Cecropis daurica",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 147,
-        "residency": "migrant",
-        "dawn_frac": 0.0524,
-        "dawn_total": 2156,
-        "v3_top_label": "Scolopax minor_American Woodcock",
-        "v3_top_confidence": 0.5984,
-        "perch_top_label": "Cecropis daurica_Eastern Red-rumped Swallow",
-        "perch_top_confidence": 0.7221,
-        "photo": true
-    },
-    {
         "name": "Crested Lark",
         "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
@@ -345,51 +480,6 @@
         "v3_top_confidence": 0.9411,
         "perch_top_label": "Galerida cristata_Crested Lark",
         "perch_top_confidence": 0.625,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-17T13:02:45",
-        "week_count": 243,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0846,
-        "dawn_total": 14040,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -615,56 +705,6 @@
         "v3_top_confidence": 0.7442,
         "perch_top_label": "Ardea cinerea_Grey Heron",
         "perch_top_confidence": 0.8582,
-        "photo": true
-    },
-    {
-        "name": "Barn Owl",
-        "he_name": "\u05ea\u05e0\u05e9\u05de\u05ea \u05dc\u05d1\u05e0\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Barn_Owl%2C_Lancashire.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/tyto_alba.mp3",
-        "last_seen": "2026-10-16T19:58:20",
-        "week_count": 8,
-        "v2_confidence": 0.9991,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "en": "Nocturnal",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.8618,
-        "perch_confidence": 0.8305,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Western Barn Owl",
-            "agrees": true
-        },
-        "sci": "Tyto alba",
-        "order": "Strigiformes",
-        "family": "Tytonidae",
-        "local": 1415,
-        "residency": "resident",
-        "dawn_frac": 0.075,
-        "dawn_total": 280,
-        "v3_top_label": "Tyto alba_Western Barn Owl",
-        "v3_top_confidence": 0.8618,
-        "perch_top_label": "Tyto alba_Western Barn Owl",
-        "perch_top_confidence": 0.8305,
         "photo": true
     },
     {
@@ -2673,46 +2713,6 @@
         "v3_top_confidence": 0.0556,
         "perch_top_label": "Buteo lineatus_Red-shouldered Hawk",
         "perch_top_confidence": 0.0863,
-        "photo": true
-    },
-    {
-        "name": "European Goldfinch",
-        "he_name": "\u05d7\u05d5\u05d7\u05d9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg/1280px-072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/carduelis_carduelis.mp3",
-        "last_seen": "2026-10-09T10:57:49",
-        "week_count": 0,
-        "v2_confidence": 0.9882,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9722,
-        "perch_confidence": 0.9528,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "European Goldfinch",
-            "agrees": true
-        },
-        "sci": "Carduelis carduelis",
-        "order": "Passeriformes",
-        "family": "Fringillidae",
-        "local": 4238,
-        "residency": "resident",
-        "dawn_frac": 0.1494,
-        "dawn_total": 154,
-        "v3_top_label": "Carduelis carduelis_European Goldfinch",
-        "v3_top_confidence": 0.9722,
-        "perch_top_label": "Carduelis carduelis_European Goldfinch",
-        "perch_top_confidence": 0.9528,
         "photo": true
     },
     {
