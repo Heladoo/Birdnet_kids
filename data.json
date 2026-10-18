@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-18T00:21:06",
-        "week_count": 221,
+        "last_seen": "2026-10-18T02:33:21",
+        "week_count": 225,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -37,11 +37,51 @@
         "local": 7526,
         "residency": "resident",
         "dawn_frac": 0.0845,
-        "dawn_total": 14051,
+        "dawn_total": 14055,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Wryneck",
+        "he_name": "\u05e1\u05d1\u05e8\u05d0\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg/1280px-Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/jynx_torquilla.mp3",
+        "last_seen": "2026-10-18T02:28:29",
+        "week_count": 2,
+        "v2_confidence": 0.978,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.2748,
+        "perch_confidence": 0.3786,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Wryneck",
+            "agrees": true
+        },
+        "sci": "Jynx torquilla",
+        "order": "Piciformes",
+        "family": "Picidae",
+        "local": 416,
+        "residency": "migrant",
+        "dawn_frac": 0.0408,
+        "dawn_total": 49,
+        "v3_top_label": "Jynx torquilla_Eurasian Wryneck",
+        "v3_top_confidence": 0.2748,
+        "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
+        "perch_top_confidence": 0.3786,
         "photo": true
     },
     {
@@ -991,46 +1031,6 @@
         "v3_top_confidence": 0.874,
         "perch_top_label": "Motacilla cinerea_Grey Wagtail",
         "perch_top_confidence": 0.2349,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Wryneck",
-        "he_name": "\u05e1\u05d1\u05e8\u05d0\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg/1280px-Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/jynx_torquilla.mp3",
-        "last_seen": "2026-10-16T08:30:40",
-        "week_count": 1,
-        "v2_confidence": 0.978,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.2748,
-        "perch_confidence": 0.3786,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Wryneck",
-            "agrees": true
-        },
-        "sci": "Jynx torquilla",
-        "order": "Piciformes",
-        "family": "Picidae",
-        "local": 416,
-        "residency": "migrant",
-        "dawn_frac": 0.0417,
-        "dawn_total": 48,
-        "v3_top_label": "Jynx torquilla_Eurasian Wryneck",
-        "v3_top_confidence": 0.2748,
-        "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
-        "perch_top_confidence": 0.3786,
         "photo": true
     },
     {
