@@ -1,5 +1,50 @@
 [
     {
+        "name": "White-throated Kingfisher",
+        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
+            "license": null
+        },
+        "audio": "audio/halcyon_smyrnensis.mp3",
+        "last_seen": "2026-10-18T10:01:33",
+        "week_count": 57,
+        "v2_confidence": 0.9996,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf05",
+                "en": "Dawn Caller",
+                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
+            }
+        ],
+        "v3_confidence": 0.9623,
+        "perch_confidence": 0.2317,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White-throated Kingfisher",
+            "agrees": true
+        },
+        "sci": "Halcyon smyrnensis",
+        "order": "Coraciiformes",
+        "family": "Alcedinidae",
+        "local": 4228,
+        "residency": "resident",
+        "dawn_frac": 0.4042,
+        "dawn_total": 1430,
+        "v3_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "v3_top_confidence": 0.9623,
+        "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "perch_top_confidence": 0.2317,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -122,51 +167,6 @@
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
-        "photo": true
-    },
-    {
-        "name": "White-throated Kingfisher",
-        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
-            "license": null
-        },
-        "audio": "audio/halcyon_smyrnensis.mp3",
-        "last_seen": "2026-10-18T09:50:59",
-        "week_count": 55,
-        "v2_confidence": 0.9996,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf05",
-                "en": "Dawn Caller",
-                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
-            }
-        ],
-        "v3_confidence": 0.9623,
-        "perch_confidence": 0.2317,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White-throated Kingfisher",
-            "agrees": true
-        },
-        "sci": "Halcyon smyrnensis",
-        "order": "Coraciiformes",
-        "family": "Alcedinidae",
-        "local": 4228,
-        "residency": "resident",
-        "dawn_frac": 0.4048,
-        "dawn_total": 1428,
-        "v3_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
-        "v3_top_confidence": 0.9623,
-        "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
-        "perch_top_confidence": 0.2317,
         "photo": true
     },
     {
@@ -639,6 +639,12 @@
         "v2_confidence": 0.995,
         "badges": [
             {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
+            {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
@@ -970,6 +976,12 @@
         "v2_confidence": 0.7866,
         "badges": [
             {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
+            {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
@@ -1122,7 +1134,14 @@
         "last_seen": "2026-10-16T06:27:44",
         "week_count": 1,
         "v2_confidence": 0.7363,
-        "badges": [],
+        "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            }
+        ],
         "v3_confidence": 0,
         "perch_confidence": 0,
         "v3_agrees": false,
@@ -1199,6 +1218,12 @@
         "week_count": 1,
         "v2_confidence": 0.8807,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
@@ -1289,6 +1314,12 @@
         "v2_confidence": 0.7553,
         "badges": [
             {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
+            {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
@@ -1374,7 +1405,14 @@
         "last_seen": "2026-10-15T13:18:52",
         "week_count": 1,
         "v2_confidence": 0.8966,
-        "badges": [],
+        "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            }
+        ],
         "v3_confidence": 0.079,
         "perch_confidence": 0.0725,
         "v3_agrees": false,
@@ -1406,6 +1444,12 @@
         "week_count": 19,
         "v2_confidence": 0.9858,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
@@ -1489,7 +1533,14 @@
         "last_seen": "2026-10-15T09:35:05",
         "week_count": 1,
         "v2_confidence": 0.8208,
-        "badges": [],
+        "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            }
+        ],
         "v3_confidence": 0.0019,
         "perch_confidence": 0,
         "v3_agrees": false,
@@ -1524,6 +1575,12 @@
         "week_count": 1,
         "v2_confidence": 0.9666,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
@@ -1564,6 +1621,12 @@
         "week_count": 3,
         "v2_confidence": 0.9467,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
@@ -1718,6 +1781,12 @@
         "week_count": 4,
         "v2_confidence": 0.9039,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
@@ -1916,6 +1985,12 @@
         "week_count": 1,
         "v2_confidence": 0.9035,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\ud83d\udc8e",
                 "en": "Rare",
@@ -2118,6 +2193,12 @@
         "v2_confidence": 0.8874,
         "badges": [
             {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
+            {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
@@ -2162,6 +2243,12 @@
         "week_count": 0,
         "v2_confidence": 0.9667,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
@@ -2529,6 +2616,12 @@
         "v2_confidence": 0.8115,
         "badges": [
             {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
+            {
                 "i": "\ud83e\udd85",
                 "en": "Raptor",
                 "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
@@ -2681,6 +2774,12 @@
         "week_count": 0,
         "v2_confidence": 0.8407,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
@@ -3073,6 +3172,12 @@
         "v2_confidence": 0.8024,
         "badges": [
             {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
+            {
                 "i": "\ud83c\udf0a",
                 "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
@@ -3183,6 +3288,12 @@
         "week_count": 0,
         "v2_confidence": 0.8861,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
@@ -3296,6 +3407,12 @@
         "week_count": 0,
         "v2_confidence": 0.8482,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\ud83e\udd85",
                 "en": "Raptor",
@@ -3636,6 +3753,12 @@
         "v2_confidence": 0.7979,
         "badges": [
             {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
+            {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
@@ -3748,6 +3871,12 @@
         "week_count": 0,
         "v2_confidence": 0.8503,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
@@ -4124,6 +4253,12 @@
         "v2_confidence": 0.8548,
         "badges": [
             {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
+            {
                 "i": "\ud83c\udfe0",
                 "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
@@ -4168,6 +4303,12 @@
         "week_count": 0,
         "v2_confidence": 0.7626,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\ud83c\udf0a",
                 "en": "Waterbird",
@@ -4444,6 +4585,12 @@
         "v2_confidence": 0.8868,
         "badges": [
             {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
+            {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
@@ -4534,7 +4681,14 @@
         "last_seen": "2026-09-11T21:46:43",
         "week_count": 0,
         "v2_confidence": 0.8073,
-        "badges": [],
+        "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            }
+        ],
         "v3_confidence": 0.0349,
         "perch_confidence": 0.0089,
         "v3_agrees": false,
@@ -4566,6 +4720,12 @@
         "week_count": 0,
         "v2_confidence": 0.8792,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
@@ -4604,6 +4764,12 @@
         "v2_confidence": 0.7669,
         "badges": [
             {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
+            {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
@@ -4639,7 +4805,14 @@
         "last_seen": "2026-09-09T15:40:39",
         "week_count": 0,
         "v2_confidence": 0.7238,
-        "badges": [],
+        "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            }
+        ],
         "v3_confidence": 0.0016,
         "perch_confidence": 0,
         "v3_agrees": false,
@@ -4702,6 +4875,12 @@
         "week_count": 0,
         "v2_confidence": 0.9231,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\ud83d\udc8e",
                 "en": "Rare",
@@ -4904,6 +5083,12 @@
         "v2_confidence": 0.8787,
         "badges": [
             {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
+            {
                 "i": "\ud83d\udc8e",
                 "en": "Rare",
                 "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
@@ -4940,6 +5125,12 @@
         "week_count": 0,
         "v2_confidence": 0.863,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\ud83d\udc8e",
                 "en": "Rare",
@@ -5044,7 +5235,14 @@
         "last_seen": "2026-08-12T13:30:32",
         "week_count": 0,
         "v2_confidence": 0.7284,
-        "badges": [],
+        "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            }
+        ],
         "v3_confidence": 0.0069,
         "perch_confidence": 0,
         "v3_agrees": false,
@@ -5252,6 +5450,12 @@
         "week_count": 0,
         "v2_confidence": 0.7743,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\ud83d\udc8e",
                 "en": "Rare",
@@ -5483,6 +5687,12 @@
         "v2_confidence": 0.8146,
         "badges": [
             {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
+            {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
@@ -5561,6 +5771,12 @@
         "week_count": 0,
         "v2_confidence": 0.8385,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
@@ -5649,6 +5865,12 @@
         "v2_confidence": 0.8754,
         "badges": [
             {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
+            {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
@@ -5685,6 +5907,12 @@
         "week_count": 0,
         "v2_confidence": 0.8468,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
@@ -5941,6 +6169,12 @@
         "week_count": 0,
         "v2_confidence": 0.8609,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\ud83c\udfe0",
                 "en": "Resident",
@@ -6269,6 +6503,12 @@
         "week_count": 0,
         "v2_confidence": 0.8326,
         "badges": [
+            {
+                "i": "?",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
+                "c": "low"
+            },
             {
                 "i": "\u2708\ufe0f",
                 "en": "Migrant",
