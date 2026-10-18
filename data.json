@@ -8,8 +8,8 @@
             "license": "CC BY 2.0"
         },
         "audio": "audio/otus_scops.mp3",
-        "last_seen": "2026-10-18T20:16:47",
-        "week_count": 51,
+        "last_seen": "2026-10-18T21:43:45",
+        "week_count": 52,
         "v2_confidence": 0.9954,
         "badges": [
             {
@@ -41,12 +41,62 @@
         "family": "Strigidae",
         "local": 309,
         "residency": "migrant",
-        "dawn_frac": 0.1901,
-        "dawn_total": 826,
+        "dawn_frac": 0.1898,
+        "dawn_total": 827,
         "v3_top_label": "Otus scops_Eurasian Scops Owl",
         "v3_top_confidence": 0.9524,
         "perch_top_label": "Otus scops_Eurasian Scops Owl",
         "perch_top_confidence": 0.9787,
+        "photo": true
+    },
+    {
+        "name": "Cattle Egret",
+        "he_name": "\u05d0\u05e0\u05e4\u05d9\u05ea \u05d1\u05e7\u05e8 \u05de\u05e2\u05e8\u05d1\u05d9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kuhreiher_am_Strand_in_%C3%84gypten_9528BE.jpg/1280px-Kuhreiher_am_Strand_in_%C3%84gypten_9528BE.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Kuhreiher_am_Strand_in_%C3%84gypten_9528BE.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/bubulcus_ibis.mp3",
+        "last_seen": "2026-10-18T21:18:17",
+        "week_count": 1,
+        "v2_confidence": 0.8548,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Fieldfare",
+            "agrees": false
+        },
+        "sci": "Bubulcus ibis",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 5180,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 6,
+        "v3_top_label": "Turdus pilaris_Fieldfare",
+        "v3_top_confidence": 0.5183,
+        "perch_top_label": "Turdus pilaris_Fieldfare",
+        "perch_top_confidence": 0.1124,
         "photo": true
     },
     {
@@ -4258,56 +4308,6 @@
         "v3_top_confidence": 0.7107,
         "perch_top_label": "Himantopus himantopus_Black-winged Stilt",
         "perch_top_confidence": 0.1366,
-        "photo": true
-    },
-    {
-        "name": "Cattle Egret",
-        "he_name": "\u05d0\u05e0\u05e4\u05d9\u05ea \u05d1\u05e7\u05e8 \u05de\u05e2\u05e8\u05d1\u05d9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kuhreiher_am_Strand_in_%C3%84gypten_9528BE.jpg/1280px-Kuhreiher_am_Strand_in_%C3%84gypten_9528BE.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Kuhreiher_am_Strand_in_%C3%84gypten_9528BE.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/bubulcus_ibis.mp3",
-        "last_seen": "2026-09-22T17:42:23",
-        "week_count": 0,
-        "v2_confidence": 0.8548,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": {
-            "com": "Fieldfare",
-            "agrees": false
-        },
-        "sci": "Bubulcus ibis",
-        "order": "Pelecaniformes",
-        "family": "Ardeidae",
-        "local": 5180,
-        "residency": "resident",
-        "dawn_frac": 0,
-        "dawn_total": 5,
-        "v3_top_label": "Turdus pilaris_Fieldfare",
-        "v3_top_confidence": 0.5183,
-        "perch_top_label": "Turdus pilaris_Fieldfare",
-        "perch_top_confidence": 0.1124,
         "photo": true
     },
     {
