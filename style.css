@@ -322,14 +322,6 @@ header {
   cursor: pointer;
 }
 
-/* Low-confidence "?" tag: orange so it stands out from the cream badges. */
-.badge.low {
-  background: #F28C28;
-  color: var(--ink);
-  font-size: 19px;
-  font-weight: 800;
-}
-
 /* One tooltip bubble per card, filled in by showBadgeTip() in app.js. */
 .badge-tip {
   display: none;
@@ -514,11 +506,6 @@ body.modal-open {
 
 .modal-badges:empty {
   display: none;
-}
-
-.modal-chip.low {
-  background: #F28C28;
-  font-weight: 800;
 }
 
 .modal-chip {

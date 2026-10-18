@@ -116,7 +116,7 @@ function makeCard(data) {
     badges.className = 'badges';
     data.badges.forEach((b) => {
       const chip = document.createElement('span');
-      chip.className = b.c ? `badge ${b.c}` : 'badge';
+      chip.className = 'badge';
       chip.textContent = b.i;
       chip.dataset.en = b.en || '';
       chip.dataset.he = b.he || '';
@@ -258,7 +258,7 @@ function applyView() {
   if (currentFilter) {
     const hasBadge = (d, icon) => Array.isArray(d.badges) && d.badges.some((b) => b.i === icon);
     visible = currentFilter === 'confident'
-      ? visible.filter((d) => !hasBadge(d, '?'))
+      ? visible.filter((d) => !hasBadge(d, '❓'))
       : visible.filter((d) => hasBadge(d, currentFilter));
   }
   const sorted = [...visible].sort((a, b) => {
@@ -351,7 +351,7 @@ function populateModal(data) {
   modalBadges.innerHTML = '';
   (Array.isArray(data.badges) ? data.badges : []).forEach((b) => {
     const chip = document.createElement('span');
-    chip.className = b.c ? `modal-chip ${b.c}` : 'modal-chip';
+    chip.className = 'modal-chip';
     chip.textContent = `${b.i} ${b.en || ''}`;
     if (b.he) {
       chip.title = b.he;

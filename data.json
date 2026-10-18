@@ -1,5 +1,132 @@
 [
     {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-10-18T10:16:44",
+        "week_count": 256,
+        "v2_confidence": 0.9782,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6360,
+        "residency": "migrant",
+        "dawn_frac": 0.051,
+        "dawn_total": 510,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Little Ringed Plover",
+        "he_name": "\u05d7\u05d5\u05e4\u05de\u05d9 \u05d2\u05d3\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Charadrius_dubius_-_Little_ringed_plover_05.jpg/1280px-Charadrius_dubius_-_Little_ringed_plover_05.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Charadrius_dubius_-_Little_ringed_plover_05.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/charadrius_dubius.mp3",
+        "last_seen": "2026-10-18T10:06:23",
+        "week_count": 1,
+        "v2_confidence": 0.9111,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.676,
+        "perch_confidence": 0.4571,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Little Ringed Plover",
+            "agrees": true
+        },
+        "sci": "Charadrius dubius",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 6,
+        "residency": "migrant",
+        "dawn_frac": 0.0909,
+        "dawn_total": 11,
+        "v3_top_label": "Charadrius dubius_Little Ringed Plover",
+        "v3_top_confidence": 0.676,
+        "perch_top_label": "Thinornis dubius_Little Ringed Plover",
+        "perch_top_confidence": 0.4571,
+        "photo": true
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
+            "license": null
+        },
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-10-18T10:03:08",
+        "week_count": 22,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Prinia gracilis",
+        "order": "Passeriformes",
+        "family": "Cisticolidae",
+        "local": 8390,
+        "residency": "resident",
+        "dawn_frac": 0.0041,
+        "dawn_total": 3193,
+        "v3_top_label": "Prinia lepida_Delicate Prinia",
+        "v3_top_confidence": 0.4048,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.2728,
+        "photo": true
+    },
+    {
         "name": "White-throated Kingfisher",
         "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -127,46 +254,6 @@
         "v3_top_confidence": 0.3758,
         "perch_top_label": "Ficedula hypoleuca_European Pied Flycatcher",
         "perch_top_confidence": 0.7878,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-18T09:51:48",
-        "week_count": 253,
-        "v2_confidence": 0.9782,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6360,
-        "residency": "migrant",
-        "dawn_frac": 0.0513,
-        "dawn_total": 507,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -589,43 +676,6 @@
         "photo": true
     },
     {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
-            "license": null
-        },
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-10-17T15:22:45",
-        "week_count": 21,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Prinia gracilis",
-        "order": "Passeriformes",
-        "family": "Cisticolidae",
-        "local": 8390,
-        "residency": "resident",
-        "dawn_frac": 0.0041,
-        "dawn_total": 3192,
-        "v3_top_label": "Prinia lepida_Delicate Prinia",
-        "v3_top_confidence": 0.4048,
-        "perch_top_label": "Prinia gracilis_Graceful Prinia",
-        "perch_top_confidence": 0.2728,
-        "photo": true
-    },
-    {
         "name": "River Warbler",
         "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -641,8 +691,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -978,8 +1027,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -1138,8 +1186,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             }
         ],
         "v3_confidence": 0,
@@ -1221,8 +1268,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -1316,8 +1362,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -1409,8 +1454,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             }
         ],
         "v3_confidence": 0.079,
@@ -1447,8 +1491,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -1537,8 +1580,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             }
         ],
         "v3_confidence": 0.0019,
@@ -1578,8 +1620,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -1624,8 +1665,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -1784,8 +1824,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -1988,8 +2027,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\ud83d\udc8e",
@@ -2195,8 +2233,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -2246,8 +2283,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -2618,8 +2654,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\ud83e\udd85",
@@ -2777,8 +2812,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -3174,8 +3208,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\ud83c\udf0a",
@@ -3291,8 +3324,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -3410,8 +3442,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\ud83e\udd85",
@@ -3755,8 +3786,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -3874,8 +3904,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -3941,56 +3970,6 @@
         "v3_top_confidence": 0.2636,
         "perch_top_label": "Pycnonotus goiavier_Yellow-vented Bulbul",
         "perch_top_confidence": 0.0547,
-        "photo": true
-    },
-    {
-        "name": "Little Ringed Plover",
-        "he_name": "\u05d7\u05d5\u05e4\u05de\u05d9 \u05d2\u05d3\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Charadrius_dubius_-_Little_ringed_plover_05.jpg/1280px-Charadrius_dubius_-_Little_ringed_plover_05.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Charadrius_dubius_-_Little_ringed_plover_05.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/charadrius_dubius.mp3",
-        "last_seen": "2026-09-28T22:32:22",
-        "week_count": 0,
-        "v2_confidence": 0.9111,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.676,
-        "perch_confidence": 0.4571,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Little Ringed Plover",
-            "agrees": true
-        },
-        "sci": "Charadrius dubius",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 6,
-        "residency": "migrant",
-        "dawn_frac": 0.1,
-        "dawn_total": 10,
-        "v3_top_label": "Charadrius dubius_Little Ringed Plover",
-        "v3_top_confidence": 0.676,
-        "perch_top_label": "Thinornis dubius_Little Ringed Plover",
-        "perch_top_confidence": 0.4571,
         "photo": true
     },
     {
@@ -4255,8 +4234,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\ud83c\udfe0",
@@ -4306,8 +4284,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\ud83c\udf0a",
@@ -4587,8 +4564,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -4685,8 +4661,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             }
         ],
         "v3_confidence": 0.0349,
@@ -4723,8 +4698,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -4766,8 +4740,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -4809,8 +4782,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             }
         ],
         "v3_confidence": 0.0016,
@@ -4878,8 +4850,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\ud83d\udc8e",
@@ -5085,8 +5056,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\ud83d\udc8e",
@@ -5128,8 +5098,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\ud83d\udc8e",
@@ -5239,8 +5208,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             }
         ],
         "v3_confidence": 0.0069,
@@ -5453,8 +5421,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\ud83d\udc8e",
@@ -5689,8 +5656,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -5774,8 +5740,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -5867,8 +5832,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -5910,8 +5874,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
@@ -6172,8 +6135,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\ud83c\udfe0",
@@ -6506,8 +6468,7 @@
             {
                 "i": "?",
                 "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da",
-                "c": "low"
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
             {
                 "i": "\u2708\ufe0f",
