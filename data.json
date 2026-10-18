@@ -1,5 +1,45 @@
 [
     {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-10-18T10:21:01",
+        "week_count": 394,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5255,
+        "residency": "resident",
+        "dawn_frac": 0.0127,
+        "dawn_total": 5962,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/1280px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
@@ -304,46 +344,6 @@
         "v3_top_confidence": 0.9524,
         "perch_top_label": "Otus scops_Eurasian Scops Owl",
         "perch_top_confidence": 0.9787,
-        "photo": true
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-18T08:32:25",
-        "week_count": 392,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5255,
-        "residency": "resident",
-        "dawn_frac": 0.0128,
-        "dawn_total": 5960,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
         "photo": true
     },
     {
@@ -689,7 +689,7 @@
         "v2_confidence": 0.995,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -1025,7 +1025,7 @@
         "v2_confidence": 0.7866,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -1184,7 +1184,7 @@
         "v2_confidence": 0.7363,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             }
@@ -1266,7 +1266,7 @@
         "v2_confidence": 0.8807,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -1360,7 +1360,7 @@
         "v2_confidence": 0.7553,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -1452,7 +1452,7 @@
         "v2_confidence": 0.8966,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             }
@@ -1489,7 +1489,7 @@
         "v2_confidence": 0.9858,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -1578,7 +1578,7 @@
         "v2_confidence": 0.8208,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             }
@@ -1618,7 +1618,7 @@
         "v2_confidence": 0.9666,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -1663,7 +1663,7 @@
         "v2_confidence": 0.9467,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -1822,7 +1822,7 @@
         "v2_confidence": 0.9039,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -2025,7 +2025,7 @@
         "v2_confidence": 0.9035,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -2231,7 +2231,7 @@
         "v2_confidence": 0.8874,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -2281,7 +2281,7 @@
         "v2_confidence": 0.9667,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -2652,7 +2652,7 @@
         "v2_confidence": 0.8115,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -2810,7 +2810,7 @@
         "v2_confidence": 0.8407,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -3206,7 +3206,7 @@
         "v2_confidence": 0.8024,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -3322,7 +3322,7 @@
         "v2_confidence": 0.8861,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -3440,7 +3440,7 @@
         "v2_confidence": 0.8482,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -3784,7 +3784,7 @@
         "v2_confidence": 0.7979,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -3902,7 +3902,7 @@
         "v2_confidence": 0.8503,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -4232,7 +4232,7 @@
         "v2_confidence": 0.8548,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -4282,7 +4282,7 @@
         "v2_confidence": 0.7626,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -4562,7 +4562,7 @@
         "v2_confidence": 0.8868,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -4659,7 +4659,7 @@
         "v2_confidence": 0.8073,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             }
@@ -4696,7 +4696,7 @@
         "v2_confidence": 0.8792,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -4738,7 +4738,7 @@
         "v2_confidence": 0.7669,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -4780,7 +4780,7 @@
         "v2_confidence": 0.7238,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             }
@@ -4848,7 +4848,7 @@
         "v2_confidence": 0.9231,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -5054,7 +5054,7 @@
         "v2_confidence": 0.8787,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -5096,7 +5096,7 @@
         "v2_confidence": 0.863,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -5206,7 +5206,7 @@
         "v2_confidence": 0.7284,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             }
@@ -5419,7 +5419,7 @@
         "v2_confidence": 0.7743,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -5654,7 +5654,7 @@
         "v2_confidence": 0.8146,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -5738,7 +5738,7 @@
         "v2_confidence": 0.8385,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -5830,7 +5830,7 @@
         "v2_confidence": 0.8754,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -5872,7 +5872,7 @@
         "v2_confidence": 0.8468,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -6133,7 +6133,7 @@
         "v2_confidence": 0.8609,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
@@ -6466,7 +6466,7 @@
         "v2_confidence": 0.8326,
         "badges": [
             {
-                "i": "?",
+                "i": "\u2753",
                 "en": "Low confidence",
                 "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
             },
