@@ -1072,11 +1072,89 @@ player.addEventListener('pause', () => {
   }
 });
 
+// News strip: stories come from news.json (written by the export, same
+// source as the LAN page), each paired with its bird's card by sci name.
+function renderNews(items) {
+  const section = document.getElementById('news');
+  const list = document.getElementById('news-list');
+  if (!section || !list) {
+    return;
+  }
+  list.innerHTML = '';
+  let shown = 0;
+  items.forEach((n) => {
+    const data = cardsData.find((d) => d.sci === n.sci);
+    if (!data) {
+      return;
+    }
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = `news-item news-${n.type}`;
+
+    const thumb = document.createElement('img');
+    thumb.className = 'news-thumb';
+    thumb.alt = '';
+    thumb.src = data.image || 'bird-placeholder.svg';
+    thumb.onerror = () => {
+      thumb.onerror = null;
+      thumb.src = 'bird-placeholder.svg';
+    };
+    btn.appendChild(thumb);
+
+    const body = document.createElement('span');
+    body.className = 'news-body';
+    const title = document.createElement('span');
+    title.className = 'news-title';
+    title.textContent = `${n.icon} ${n.title}`;
+    body.appendChild(title);
+    const bird = document.createElement('span');
+    bird.className = 'news-bird';
+    const nameEn = document.createElement('span');
+    nameEn.className = 'news-name';
+    nameEn.textContent = data.name;
+    bird.appendChild(nameEn);
+    if (data.he_name) {
+      const nameHe = document.createElement('span');
+      nameHe.className = 'news-name-he';
+      nameHe.lang = 'he';
+      nameHe.dir = 'rtl';
+      nameHe.textContent = data.he_name;
+      bird.appendChild(nameHe);
+    }
+    body.appendChild(bird);
+    const text = document.createElement('span');
+    text.className = 'news-text';
+    text.textContent = n.text;
+    body.appendChild(text);
+    btn.appendChild(body);
+
+    const go = document.createElement('span');
+    go.className = 'news-go';
+    go.setAttribute('aria-hidden', 'true');
+    go.textContent = 'ⓘ';
+    btn.appendChild(go);
+
+    btn.addEventListener('click', () => {
+      window.kidsStats && window.kidsStats.event('news');
+      openModal(data);
+    });
+    list.appendChild(btn);
+    shown += 1;
+  });
+  section.hidden = shown === 0;
+}
+
 fetch('data.json')
   .then((r) => r.json())
   .then((data) => {
     cardsData = data;
     applyView();
+    // Stories are optional: no news.json (or an empty one) just leaves the
+    // strip hidden. cache:'no-cache' so a stale copy can't outlive its birds.
+    fetch('news.json', { cache: 'no-cache' })
+      .then((r) => r.json())
+      .then(renderNews)
+      .catch(() => {});
   })
   .catch(() => {
     grid.innerHTML = '<p class="loading">Could not load the birds right now. Try again later!</p>';

@@ -16,7 +16,7 @@
  *   bk-user-popup       users who ever opened an info popup
  *   bk-event            every interaction (total)
  *   bk-event-<name>     per kind: play, popup, clip, soundplay, graph, sort,
- *                       filter, tip, expert
+ *                       filter, news, tip, expert
  *   bk-src-<name>       where each visit came from (see sourceOf()):
  *                       whatsapp, facebook, instagram, telegram, x, reddit, youtube,
  *                       google, github, birdweather, email, other (a site we don't
