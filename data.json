@@ -8,8 +8,8 @@
             "license": "CC BY 2.0"
         },
         "audio": "audio/otus_scops.mp3",
-        "last_seen": "2026-10-18T21:43:45",
-        "week_count": 52,
+        "last_seen": "2026-10-18T22:38:00",
+        "week_count": 53,
         "v2_confidence": 0.9954,
         "badges": [
             {
@@ -41,12 +41,57 @@
         "family": "Strigidae",
         "local": 309,
         "residency": "migrant",
-        "dawn_frac": 0.1898,
-        "dawn_total": 827,
+        "dawn_frac": 0.1896,
+        "dawn_total": 828,
         "v3_top_label": "Otus scops_Eurasian Scops Owl",
         "v3_top_confidence": 0.9524,
         "perch_top_label": "Otus scops_Eurasian Scops Owl",
         "perch_top_confidence": 0.9787,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-18T22:25:35",
+        "week_count": 277,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.0842,
+        "dawn_total": 14107,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -147,51 +192,6 @@
         "v3_top_confidence": 0.8716,
         "perch_top_label": "Athene noctua_Little Owl",
         "perch_top_confidence": 0.5193,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-18T19:12:39",
-        "week_count": 276,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0842,
-        "dawn_total": 14106,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
