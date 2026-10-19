@@ -1,5 +1,39 @@
 [
     {
+        "name": "Bluethroat",
+        "he_name": "\u05db\u05d7\u05d5\u05dc-\u05d4\u05d7\u05d6\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg/3840px-Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg",
+            "license": null
+        },
+        "audio": "audio/luscinia_svecica.mp3",
+        "last_seen": "2026-10-19T19:57:14",
+        "week_count": 4,
+        "v2_confidence": 0.9748,
+        "badges": [],
+        "v3_confidence": 0.2195,
+        "perch_confidence": 0.2019,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Bluethroat",
+            "agrees": true
+        },
+        "sci": "Luscinia svecica",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 2044,
+        "residency": "",
+        "dawn_frac": 0.0463,
+        "dawn_total": 1405,
+        "v3_top_label": "Luscinia svecica_Bluethroat",
+        "v3_top_confidence": 0.2195,
+        "perch_top_label": "Luscinia svecica_Bluethroat",
+        "perch_top_confidence": 0.2019,
+        "photo": true
+    },
+    {
         "name": "Eurasian Scops-Owl",
         "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
@@ -8,8 +42,8 @@
             "license": "CC BY 2.0"
         },
         "audio": "audio/otus_scops.mp3",
-        "last_seen": "2026-10-19T18:56:06",
-        "week_count": 65,
+        "last_seen": "2026-10-19T19:03:10",
+        "week_count": 67,
         "v2_confidence": 0.9954,
         "badges": [
             {
@@ -41,12 +75,57 @@
         "family": "Strigidae",
         "local": 309,
         "residency": "migrant",
-        "dawn_frac": 0.1869,
-        "dawn_total": 840,
+        "dawn_frac": 0.1865,
+        "dawn_total": 842,
         "v3_top_label": "Otus scops_Eurasian Scops Owl",
         "v3_top_confidence": 0.9524,
         "perch_top_label": "Otus scops_Eurasian Scops Owl",
         "perch_top_confidence": 0.9787,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-19T19:00:36",
+        "week_count": 271,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.0844,
+        "dawn_total": 14142,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -289,51 +368,6 @@
         "v3_top_confidence": 0.8386,
         "perch_top_label": "Tringa ochropus_Green Sandpiper",
         "perch_top_confidence": 0.8631,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-19T17:22:38",
-        "week_count": 270,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0844,
-        "dawn_total": 14141,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -4464,40 +4498,6 @@
         "v3_top_confidence": 0.5795,
         "perch_top_label": "Alcedo atthis_Common Kingfisher",
         "perch_top_confidence": 0.2864,
-        "photo": true
-    },
-    {
-        "name": "Bluethroat",
-        "he_name": "\u05db\u05d7\u05d5\u05dc-\u05d4\u05d7\u05d6\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg/3840px-Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg",
-            "license": null
-        },
-        "audio": "audio/luscinia_svecica.mp3",
-        "last_seen": "2026-09-19T01:06:10",
-        "week_count": 0,
-        "v2_confidence": 0.9748,
-        "badges": [],
-        "v3_confidence": 0.2195,
-        "perch_confidence": 0.2019,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Bluethroat",
-            "agrees": true
-        },
-        "sci": "Luscinia svecica",
-        "order": "Passeriformes",
-        "family": "Muscicapidae",
-        "local": 2044,
-        "residency": "",
-        "dawn_frac": 0.0464,
-        "dawn_total": 1401,
-        "v3_top_label": "Luscinia svecica_Bluethroat",
-        "v3_top_confidence": 0.2195,
-        "perch_top_label": "Luscinia svecica_Bluethroat",
-        "perch_top_confidence": 0.2019,
         "photo": true
     },
     {
