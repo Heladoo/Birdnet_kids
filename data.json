@@ -1,39 +1,47 @@
 [
     {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
             "license": null
         },
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-10-20T14:56:59",
-        "week_count": 63,
-        "v2_confidence": 0.9958,
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-20T15:51:46",
+        "week_count": 264,
+        "v2_confidence": 0.9997,
         "badges": [
             {
                 "i": "\ud83c\udfe0",
                 "en": "Resident",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
             }
         ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
         "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Prinia gracilis",
-        "order": "Passeriformes",
-        "family": "Cisticolidae",
-        "local": 8390,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
         "residency": "resident",
-        "dawn_frac": 0.004,
-        "dawn_total": 3242,
-        "v3_top_label": "Prinia lepida_Delicate Prinia",
-        "v3_top_confidence": 0.4048,
-        "perch_top_label": "Prinia gracilis_Graceful Prinia",
-        "perch_top_confidence": 0.2728,
+        "dawn_frac": 0.0843,
+        "dawn_total": 14158,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -45,8 +53,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-20T14:56:31",
-        "week_count": 467,
+        "last_seen": "2026-10-20T15:50:38",
+        "week_count": 486,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -69,7 +77,7 @@
         "local": 5255,
         "residency": "resident",
         "dawn_frac": 0.0123,
-        "dawn_total": 6172,
+        "dawn_total": 6191,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
@@ -85,8 +93,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-20T14:56:25",
-        "week_count": 295,
+        "last_seen": "2026-10-20T15:50:23",
+        "week_count": 305,
         "v2_confidence": 0.9782,
         "badges": [
             {
@@ -108,12 +116,157 @@
         "family": "Motacillidae",
         "local": 6360,
         "residency": "migrant",
-        "dawn_frac": 0.0432,
-        "dawn_total": 625,
+        "dawn_frac": 0.0425,
+        "dawn_total": 635,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Western Yellow Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Wiesenschafstelze.JPG",
+            "license": null
+        },
+        "audio": "audio/motacilla_flava.mp3",
+        "last_seen": "2026-10-20T15:46:55",
+        "week_count": 1,
+        "v2_confidence": 0.9731,
+        "badges": [],
+        "v3_confidence": 0.9239,
+        "perch_confidence": 0.8957,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Western Yellow Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla flava",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 1693,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 62,
+        "v3_top_label": "Motacilla flava_Western Yellow Wagtail",
+        "v3_top_confidence": 0.9239,
+        "perch_top_label": "Motacilla flava_Western Yellow Wagtail",
+        "perch_top_confidence": 0.8957,
+        "photo": true
+    },
+    {
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-10-20T15:44:08",
+        "week_count": 6,
+        "v2_confidence": 0.9897,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        },
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 4066,
+        "residency": "migrant",
+        "dawn_frac": 0.0137,
+        "dawn_total": 73,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
+        "photo": true
+    },
+    {
+        "name": "Willow Warbler",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d0\u05e4\u05d5\u05e8\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Willow_Warbler_Phylloscopus_trochilus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Willow_Warbler_Phylloscopus_trochilus.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_trochilus.mp3",
+        "last_seen": "2026-10-20T15:30:31",
+        "week_count": 1,
+        "v2_confidence": 0.9138,
+        "badges": [],
+        "v3_confidence": 0.9711,
+        "perch_confidence": 0.9402,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Willow Warbler",
+            "agrees": true
+        },
+        "sci": "Phylloscopus trochilus",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 1958,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 7,
+        "v3_top_label": "Phylloscopus trochilus_Willow Warbler",
+        "v3_top_confidence": 0.9711,
+        "perch_top_label": "Phylloscopus trochilus_Willow Warbler",
+        "perch_top_confidence": 0.9402,
+        "photo": true
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
+            "license": null
+        },
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-10-20T15:04:51",
+        "week_count": 68,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Prinia gracilis",
+        "order": "Passeriformes",
+        "family": "Cisticolidae",
+        "local": 8390,
+        "residency": "resident",
+        "dawn_frac": 0.004,
+        "dawn_total": 3247,
+        "v3_top_label": "Prinia lepida_Delicate Prinia",
+        "v3_top_confidence": 0.4048,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
@@ -240,51 +393,6 @@
         "v3_top_confidence": 0.4129,
         "perch_top_label": "Falco tinnunculus_Common Kestrel",
         "perch_top_confidence": 0.4165,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-20T12:13:44",
-        "week_count": 262,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0843,
-        "dawn_total": 14156,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -1001,46 +1109,6 @@
         "v3_top_confidence": 0.9233,
         "perch_top_label": "Coloeus monedula_Western Jackdaw",
         "perch_top_confidence": 0.7874,
-        "photo": true
-    },
-    {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
-            "license": null
-        },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-10-19T13:59:40",
-        "week_count": 4,
-        "v2_confidence": 0.9897,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Chiffchaff",
-            "agrees": true
-        },
-        "sci": "Phylloscopus collybita",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4066,
-        "residency": "migrant",
-        "dawn_frac": 0.0141,
-        "dawn_total": 71,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
         "photo": true
     },
     {
@@ -3406,40 +3474,6 @@
         "photo": true
     },
     {
-        "name": "Western Yellow Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05e6\u05d4\u05d5\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Wiesenschafstelze.JPG",
-            "license": null
-        },
-        "audio": "audio/motacilla_flava.mp3",
-        "last_seen": "2026-10-06T15:29:28",
-        "week_count": 0,
-        "v2_confidence": 0.9731,
-        "badges": [],
-        "v3_confidence": 0.9239,
-        "perch_confidence": 0.8957,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Western Yellow Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla flava",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 1693,
-        "residency": "",
-        "dawn_frac": 0,
-        "dawn_total": 61,
-        "v3_top_label": "Motacilla flava_Western Yellow Wagtail",
-        "v3_top_confidence": 0.9239,
-        "perch_top_label": "Motacilla flava_Western Yellow Wagtail",
-        "perch_top_confidence": 0.8957,
-        "photo": true
-    },
-    {
         "name": "Eurasian Hoopoe",
         "he_name": "\u05d3\u05d5\u05db\u05d9\u05e4\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Israel._Eurasian_Hoopoe_%286497645007%29.jpg/3840px-Israel._Eurasian_Hoopoe_%286497645007%29.jpg",
@@ -3524,40 +3558,6 @@
         "v3_top_confidence": 0.3217,
         "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
         "perch_top_confidence": 0.087,
-        "photo": true
-    },
-    {
-        "name": "Willow Warbler",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d0\u05e4\u05d5\u05e8\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Willow_Warbler_Phylloscopus_trochilus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Willow_Warbler_Phylloscopus_trochilus.jpg",
-            "license": null
-        },
-        "audio": "audio/phylloscopus_trochilus.mp3",
-        "last_seen": "2026-10-05T17:11:47",
-        "week_count": 0,
-        "v2_confidence": 0.9138,
-        "badges": [],
-        "v3_confidence": 0.9711,
-        "perch_confidence": 0.9402,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Willow Warbler",
-            "agrees": true
-        },
-        "sci": "Phylloscopus trochilus",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 1958,
-        "residency": "",
-        "dawn_frac": 0,
-        "dawn_total": 6,
-        "v3_top_label": "Phylloscopus trochilus_Willow Warbler",
-        "v3_top_confidence": 0.9711,
-        "perch_top_label": "Phylloscopus trochilus_Willow Warbler",
-        "perch_top_confidence": 0.9402,
         "photo": true
     },
     {
