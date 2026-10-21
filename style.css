@@ -42,8 +42,11 @@ header {
 .subtitle {
   font-size: 1.25rem;
   font-weight: 600;
+  line-height: 1.35;
   color: var(--blue-dark);
-  margin: 6px 0 0;
+  max-width: 600px;
+  margin: 6px auto 0;
+  padding: 0 16px;
 }
 
 .sort-buttons {
