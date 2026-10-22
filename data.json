@@ -1,5 +1,81 @@
 [
     {
+        "name": "Red-backed Shrike",
+        "he_name": "\u05d7\u05e0\u05e7\u05df \u05d0\u05d3\u05d5\u05dd-\u05d2\u05d1",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Red-backed_shrike.jpg/3840px-Red-backed_shrike.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Red-backed_shrike.jpg",
+            "license": null
+        },
+        "audio": "audio/lanius_collurio.mp3",
+        "last_seen": "2026-10-22T04:21:24",
+        "week_count": 1,
+        "v2_confidence": 0.7977,
+        "badges": [],
+        "v3_confidence": 0.1732,
+        "perch_confidence": 0.0564,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Lanius collurio",
+        "order": "Passeriformes",
+        "family": "Laniidae",
+        "local": 1573,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 3,
+        "v3_top_label": "Lanius collurio_Red-backed Shrike",
+        "v3_top_confidence": 0.1732,
+        "perch_top_label": "Acrocephalus dumetorum_Blyth's Reed Warbler",
+        "perch_top_confidence": 0.0737,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-22T04:18:22",
+        "week_count": 242,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.084,
+        "dawn_total": 14218,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
         "name": "Eurasian Scops-Owl",
         "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
@@ -47,51 +123,6 @@
         "v3_top_confidence": 0.9524,
         "perch_top_label": "Otus scops_Eurasian Scops Owl",
         "perch_top_confidence": 0.9787,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-22T03:07:09",
-        "week_count": 241,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0841,
-        "dawn_total": 14217,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -3125,37 +3156,6 @@
         "v3_top_confidence": 0.9058,
         "perch_top_label": "Passer domesticus_House Sparrow",
         "perch_top_confidence": 0.6953,
-        "photo": true
-    },
-    {
-        "name": "Red-backed Shrike",
-        "he_name": "\u05d7\u05e0\u05e7\u05df \u05d0\u05d3\u05d5\u05dd-\u05d2\u05d1",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Red-backed_shrike.jpg/3840px-Red-backed_shrike.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Red-backed_shrike.jpg",
-            "license": null
-        },
-        "audio": "audio/lanius_collurio.mp3",
-        "last_seen": "2026-10-09T19:43:56",
-        "week_count": 0,
-        "v2_confidence": 0.7977,
-        "badges": [],
-        "v3_confidence": 0.1732,
-        "perch_confidence": 0.0564,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Lanius collurio",
-        "order": "Passeriformes",
-        "family": "Laniidae",
-        "local": 1573,
-        "residency": "",
-        "dawn_frac": 0,
-        "dawn_total": 2,
-        "v3_top_label": "Lanius collurio_Red-backed Shrike",
-        "v3_top_confidence": 0.1732,
-        "perch_top_label": "Acrocephalus dumetorum_Blyth's Reed Warbler",
-        "perch_top_confidence": 0.0737,
         "photo": true
     },
     {
