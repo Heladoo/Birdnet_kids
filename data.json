@@ -8,9 +8,9 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-22T09:57:42",
-        "week_count": 276,
-        "v2_confidence": 0.9782,
+        "last_seen": "2026-10-22T10:57:51",
+        "week_count": 297,
+        "v2_confidence": 0.9811,
         "badges": [
             {
                 "i": "\u2708\ufe0f",
@@ -31,12 +31,136 @@
         "family": "Motacillidae",
         "local": 6360,
         "residency": "migrant",
-        "dawn_frac": 0.0386,
-        "dawn_total": 699,
+        "dawn_frac": 0.0375,
+        "dawn_total": 720,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-22T10:50:46",
+        "week_count": 251,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.084,
+        "dawn_total": 14227,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Tawny Pipit",
+        "he_name": "\u05e4\u05e4\u05d9\u05d5\u05df \u05e6\u05d4\u05d5\u05d1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tawny_pipit_47.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Tawny_pipit_47.jpg",
+            "license": null
+        },
+        "audio": "audio/anthus_campestris.mp3",
+        "last_seen": "2026-10-22T10:37:57",
+        "week_count": 2,
+        "v2_confidence": 0.8146,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0516,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Anthus campestris",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 568,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 3,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.0694,
+        "perch_top_label": "Curruca communis_Common Whitethroat",
+        "perch_top_confidence": 0.0824,
+        "photo": true
+    },
+    {
+        "name": "White-spectacled Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05e6\u05d4\u05d5\u05d1-\u05e9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/White-spectacled_bulbul.jpg/1280px-White-spectacled_bulbul.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:White-spectacled_bulbul.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "audio": "audio/pycnonotus_xanthopygos.mp3",
+        "last_seen": "2026-10-22T10:34:23",
+        "week_count": 1,
+        "v2_confidence": 0.9915,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.4418,
+        "perch_confidence": 0.0955,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Pycnonotus xanthopygos",
+        "order": "Passeriformes",
+        "family": "Pycnonotidae",
+        "local": 7435,
+        "residency": "resident",
+        "dawn_frac": 0.0241,
+        "dawn_total": 249,
+        "v3_top_label": "Pycnonotus barbatus_Common Bulbul",
+        "v3_top_confidence": 0.6149,
+        "perch_top_label": "Pycnonotus xanthopygos_White-spectacled Bulbul",
+        "perch_top_confidence": 0.0955,
         "photo": true
     },
     {
@@ -48,8 +172,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-22T09:55:18",
-        "week_count": 497,
+        "last_seen": "2026-10-22T10:24:42",
+        "week_count": 498,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -72,7 +196,7 @@
         "local": 5255,
         "residency": "resident",
         "dawn_frac": 0.0121,
-        "dawn_total": 6301,
+        "dawn_total": 6302,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
@@ -88,8 +212,8 @@
             "license": "CC BY-SA 2.5"
         },
         "audio": "audio/tringa_nebularia.mp3",
-        "last_seen": "2026-10-22T09:55:08",
-        "week_count": 3,
+        "last_seen": "2026-10-22T10:08:48",
+        "week_count": 4,
         "v2_confidence": 0.9475,
         "badges": [
             {
@@ -116,8 +240,8 @@
         "family": "Scolopacidae",
         "local": 371,
         "residency": "migrant",
-        "dawn_frac": 0.02,
-        "dawn_total": 100,
+        "dawn_frac": 0.0198,
+        "dawn_total": 101,
         "v3_top_label": "Tringa nebularia_Common Greenshank",
         "v3_top_confidence": 0.3484,
         "perch_top_label": "Tringa nebularia_Common Greenshank",
@@ -159,51 +283,6 @@
         "v3_top_confidence": 0.4048,
         "perch_top_label": "Prinia gracilis_Graceful Prinia",
         "perch_top_confidence": 0.2728,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-22T08:54:55",
-        "week_count": 249,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.084,
-        "dawn_total": 14225,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -1897,48 +1976,6 @@
         "photo": true
     },
     {
-        "name": "Tawny Pipit",
-        "he_name": "\u05e4\u05e4\u05d9\u05d5\u05df \u05e6\u05d4\u05d5\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tawny_pipit_47.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Tawny_pipit_47.jpg",
-            "license": null
-        },
-        "audio": "audio/anthus_campestris.mp3",
-        "last_seen": "2026-10-18T10:21:48",
-        "week_count": 1,
-        "v2_confidence": 0.8146,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0516,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Anthus campestris",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 568,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 2,
-        "v3_top_label": "Passer domesticus_House Sparrow",
-        "v3_top_confidence": 0.0694,
-        "perch_top_label": "Curruca communis_Common Whitethroat",
-        "perch_top_confidence": 0.0824,
-        "photo": true
-    },
-    {
         "name": "Little Ringed Plover",
         "he_name": "\u05d7\u05d5\u05e4\u05de\u05d9 \u05d2\u05d3\u05d5\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Charadrius_dubius_-_Little_ringed_plover_05.jpg/1280px-Charadrius_dubius_-_Little_ringed_plover_05.jpg",
@@ -3137,43 +3174,6 @@
         "v3_top_confidence": 0.8798,
         "perch_top_label": "Cuculus canorus_Common Cuckoo",
         "perch_top_confidence": 0.3959,
-        "photo": true
-    },
-    {
-        "name": "White-spectacled Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05e6\u05d4\u05d5\u05d1-\u05e9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/White-spectacled_bulbul.jpg/1280px-White-spectacled_bulbul.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:White-spectacled_bulbul.jpg",
-            "license": "CC BY-SA 3.0"
-        },
-        "audio": "audio/pycnonotus_xanthopygos.mp3",
-        "last_seen": "2026-10-10T11:20:14",
-        "week_count": 0,
-        "v2_confidence": 0.9915,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.4418,
-        "perch_confidence": 0.0955,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Pycnonotus xanthopygos",
-        "order": "Passeriformes",
-        "family": "Pycnonotidae",
-        "local": 7435,
-        "residency": "resident",
-        "dawn_frac": 0.0242,
-        "dawn_total": 248,
-        "v3_top_label": "Pycnonotus barbatus_Common Bulbul",
-        "v3_top_confidence": 0.6149,
-        "perch_top_label": "Pycnonotus xanthopygos_White-spectacled Bulbul",
-        "perch_top_confidence": 0.0955,
         "photo": true
     },
     {
