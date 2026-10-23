@@ -1,45 +1,5 @@
 [
     {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-23T07:57:00",
-        "week_count": 497,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6360,
-        "residency": "migrant",
-        "dawn_frac": 0.0282,
-        "dawn_total": 957,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
-        "photo": true
-    },
-    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -48,8 +8,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-23T07:53:00",
-        "week_count": 477,
+        "last_seen": "2026-10-23T08:59:11",
+        "week_count": 485,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -72,11 +32,212 @@
         "local": 5255,
         "residency": "resident",
         "dawn_frac": 0.0119,
-        "dawn_total": 6371,
+        "dawn_total": 6379,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-23T08:50:40",
+        "week_count": 273,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.0838,
+        "dawn_total": 14289,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-10-23T08:46:47",
+        "week_count": 505,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6360,
+        "residency": "migrant",
+        "dawn_frac": 0.028,
+        "dawn_total": 965,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Gray Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05d6\u05e0\u05d1\u05ea\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/3840px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_cinerea.mp3",
+        "last_seen": "2026-10-23T08:45:56",
+        "week_count": 6,
+        "v2_confidence": 0.9512,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.874,
+        "perch_confidence": 0.2349,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Grey Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla cinerea",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 103,
+        "residency": "migrant",
+        "dawn_frac": 0.0612,
+        "dawn_total": 49,
+        "v3_top_label": "Motacilla cinerea_Grey Wagtail",
+        "v3_top_confidence": 0.874,
+        "perch_top_label": "Motacilla cinerea_Grey Wagtail",
+        "perch_top_confidence": 0.2349,
+        "photo": true
+    },
+    {
+        "name": "Common House-Martin",
+        "he_name": "\u05d8\u05e1\u05d9\u05ea \u05d1\u05ea\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Mehlschwalbe_Delichon_urbicum.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/delichon_urbicum.mp3",
+        "last_seen": "2026-10-23T08:34:04",
+        "week_count": 1,
+        "v2_confidence": 0.9666,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0374,
+        "perch_confidence": 0.0249,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": false
+        },
+        "sci": "Delichon urbicum",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 492,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 73,
+        "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "v3_top_confidence": 0.7368,
+        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "perch_top_confidence": 0.0852,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Penduline-Tit",
+        "he_name": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Remiz_pendulinus_3_%28Martin_Mecnarowski%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Remiz_pendulinus_3_%28Martin_Mecnarowski%29.jpg",
+            "license": null
+        },
+        "audio": "audio/remiz_pendulinus.mp3",
+        "last_seen": "2026-10-23T08:23:38",
+        "week_count": 1,
+        "v2_confidence": 0.8399,
+        "badges": [],
+        "v3_confidence": null,
+        "perch_confidence": null,
+        "v3_agrees": null,
+        "perch_agrees": null,
+        "second_opinion": null,
+        "sci": "Remiz pendulinus",
+        "order": "Passeriformes",
+        "family": "Remizidae",
+        "local": 164,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 1,
+        "v3_top_label": null,
+        "v3_top_confidence": null,
+        "perch_top_label": null,
+        "perch_top_confidence": null,
         "photo": true
     },
     {
@@ -114,91 +275,6 @@
         "v3_top_confidence": 0.6031,
         "perch_top_label": "Acrocephalus arundinaceus_Great Reed Warbler",
         "perch_top_confidence": 0.3475,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-23T07:34:58",
-        "week_count": 271,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0839,
-        "dawn_total": 14287,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
-        "photo": true
-    },
-    {
-        "name": "Gray Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05d6\u05e0\u05d1\u05ea\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/3840px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_cinerea.mp3",
-        "last_seen": "2026-10-23T06:52:02",
-        "week_count": 5,
-        "v2_confidence": 0.9512,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.874,
-        "perch_confidence": 0.2349,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Grey Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla cinerea",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 103,
-        "residency": "migrant",
-        "dawn_frac": 0.0625,
-        "dawn_total": 48,
-        "v3_top_label": "Motacilla cinerea_Grey Wagtail",
-        "v3_top_confidence": 0.874,
-        "perch_top_label": "Motacilla cinerea_Grey Wagtail",
-        "perch_top_confidence": 0.2349,
         "photo": true
     },
     {
@@ -1541,6 +1617,11 @@
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            },
+            {
                 "i": "\ud83c\udf0a",
                 "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
@@ -2371,6 +2452,11 @@
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             },
             {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            },
+            {
                 "i": "\ud83c\udf0a",
                 "en": "Waterbird",
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
@@ -2516,51 +2602,6 @@
         "v3_top_confidence": 0.9458,
         "perch_top_label": "Acridotheres tristis_Common Myna",
         "perch_top_confidence": 0.1292,
-        "photo": true
-    },
-    {
-        "name": "Common House-Martin",
-        "he_name": "\u05d8\u05e1\u05d9\u05ea \u05d1\u05ea\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Mehlschwalbe_Delichon_urbicum.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/delichon_urbicum.mp3",
-        "last_seen": "2026-10-15T07:49:52",
-        "week_count": 0,
-        "v2_confidence": 0.9666,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0374,
-        "perch_confidence": 0.0249,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": {
-            "com": "Laughing Dove",
-            "agrees": false
-        },
-        "sci": "Delichon urbicum",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 492,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 72,
-        "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
-        "v3_top_confidence": 0.7368,
-        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
-        "perch_top_confidence": 0.0852,
         "photo": true
     },
     {
