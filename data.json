@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-24T01:56:18",
-        "week_count": 264,
+        "last_seen": "2026-10-24T02:26:18",
+        "week_count": 266,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -37,11 +37,51 @@
         "local": 7526,
         "residency": "resident",
         "dawn_frac": 0.0837,
-        "dawn_total": 14312,
+        "dawn_total": 14314,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Thick-knee",
+        "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/burhinus_oedicnemus.mp3",
+        "last_seen": "2026-10-24T02:16:44",
+        "week_count": 14,
+        "v2_confidence": 0.9974,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.876,
+        "perch_confidence": 0.8837,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Stone-curlew",
+            "agrees": true
+        },
+        "sci": "Burhinus oedicnemus",
+        "order": "Charadriiformes",
+        "family": "Burhinidae",
+        "local": 3703,
+        "residency": "resident",
+        "dawn_frac": 0.1463,
+        "dawn_total": 1271,
+        "v3_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
+        "v3_top_confidence": 0.876,
+        "perch_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
+        "perch_top_confidence": 0.8837,
         "photo": true
     },
     {
@@ -92,46 +132,6 @@
         "v3_top_confidence": 0.9524,
         "perch_top_label": "Otus scops_Eurasian Scops Owl",
         "perch_top_confidence": 0.9787,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Thick-knee",
-        "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/burhinus_oedicnemus.mp3",
-        "last_seen": "2026-10-23T23:23:38",
-        "week_count": 12,
-        "v2_confidence": 0.9974,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.876,
-        "perch_confidence": 0.8837,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Stone-curlew",
-            "agrees": true
-        },
-        "sci": "Burhinus oedicnemus",
-        "order": "Charadriiformes",
-        "family": "Burhinidae",
-        "local": 3703,
-        "residency": "resident",
-        "dawn_frac": 0.1466,
-        "dawn_total": 1269,
-        "v3_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
-        "v3_top_confidence": 0.876,
-        "perch_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
-        "perch_top_confidence": 0.8837,
         "photo": true
     },
     {
