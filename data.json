@@ -1,5 +1,172 @@
 [
     {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-25T15:59:17",
+        "week_count": 264,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.0834,
+        "dawn_total": 14372,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-10-25T15:49:43",
+        "week_count": 634,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6360,
+        "residency": "migrant",
+        "dawn_frac": 0.0277,
+        "dawn_total": 1190,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Bank Swallow",
+        "he_name": "\u05db\u05d5\u05db\u05d9\u05ea \u05d2\u05d3\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg",
+            "license": null
+        },
+        "audio": "audio/riparia_riparia.mp3",
+        "last_seen": "2026-10-25T15:43:08",
+        "week_count": 2,
+        "v2_confidence": 0.9467,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0011,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": false
+        },
+        "sci": "Riparia riparia",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 748,
+        "residency": "migrant",
+        "dawn_frac": 0.0725,
+        "dawn_total": 69,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.934,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.4453,
+        "photo": true
+    },
+    {
+        "name": "Great Reed Warbler",
+        "he_name": "\u05e7\u05e0\u05d9\u05ea \u05d0\u05d9\u05e8\u05d5\u05e4\u05d9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg/1280px-Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/acrocephalus_arundinaceus.mp3",
+        "last_seen": "2026-10-25T15:11:11",
+        "week_count": 4,
+        "v2_confidence": 0.9105,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0537,
+        "perch_confidence": 0.3475,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Acrocephalus arundinaceus",
+        "order": "Passeriformes",
+        "family": "Acrocephalidae",
+        "local": 537,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 15,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.6031,
+        "perch_top_label": "Acrocephalus arundinaceus_Great Reed Warbler",
+        "perch_top_confidence": 0.3475,
+        "photo": true
+    },
+    {
         "name": "Common Myna",
         "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -80,51 +247,6 @@
         "photo": true
     },
     {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-25T14:42:49",
-        "week_count": 252,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0835,
-        "dawn_total": 14360,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
-        "photo": true
-    },
-    {
         "name": "Graceful Prinia",
         "he_name": "\u05e4\u05e9\u05d5\u05e9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -159,46 +281,6 @@
         "v3_top_confidence": 0.4048,
         "perch_top_label": "Prinia gracilis_Graceful Prinia",
         "perch_top_confidence": 0.2728,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-25T14:33:49",
-        "week_count": 626,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6360,
-        "residency": "migrant",
-        "dawn_frac": 0.0279,
-        "dawn_total": 1182,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -1358,43 +1440,6 @@
         "photo": true
     },
     {
-        "name": "Great Reed Warbler",
-        "he_name": "\u05e7\u05e0\u05d9\u05ea \u05d0\u05d9\u05e8\u05d5\u05e4\u05d9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg/1280px-Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/acrocephalus_arundinaceus.mp3",
-        "last_seen": "2026-10-23T07:41:15",
-        "week_count": 3,
-        "v2_confidence": 0.9105,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0537,
-        "perch_confidence": 0.3475,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Acrocephalus arundinaceus",
-        "order": "Passeriformes",
-        "family": "Acrocephalidae",
-        "local": 537,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 14,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.6031,
-        "perch_top_label": "Acrocephalus arundinaceus_Great Reed Warbler",
-        "perch_top_confidence": 0.3475,
-        "photo": true
-    },
-    {
         "name": "Red-backed Shrike",
         "he_name": "\u05d7\u05e0\u05e7\u05df \u05d0\u05d3\u05d5\u05dd-\u05d2\u05d1",
         "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Red-backed_shrike.jpg/3840px-Red-backed_shrike.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1829,51 +1874,6 @@
         "v3_top_confidence": 0.9722,
         "perch_top_label": "Carduelis carduelis_European Goldfinch",
         "perch_top_confidence": 0.9528,
-        "photo": true
-    },
-    {
-        "name": "Bank Swallow",
-        "he_name": "\u05db\u05d5\u05db\u05d9\u05ea \u05d2\u05d3\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg",
-            "license": null
-        },
-        "audio": "audio/riparia_riparia.mp3",
-        "last_seen": "2026-10-21T08:43:55",
-        "week_count": 1,
-        "v2_confidence": 0.9467,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0011,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": false
-        },
-        "sci": "Riparia riparia",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 748,
-        "residency": "migrant",
-        "dawn_frac": 0.0735,
-        "dawn_total": 68,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.934,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.4453,
         "photo": true
     },
     {
