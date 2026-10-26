@@ -1,5 +1,92 @@
 [
     {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-10-26T10:59:03",
+        "week_count": 672,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6360,
+        "residency": "migrant",
+        "dawn_frac": 0.0277,
+        "dawn_total": 1262,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Whimbrel",
+        "he_name": "\u05d7\u05e8\u05de\u05e9\u05d5\u05df \u05e7\u05d8\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Whimbrel_%28Numenius_phaeopus%29_Dalvikurbyggd.jpg/1280px-Whimbrel_%28Numenius_phaeopus%29_Dalvikurbyggd.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Whimbrel_%28Numenius_phaeopus%29_Dalvikurbyggd.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/numenius_phaeopus.mp3",
+        "last_seen": "2026-10-26T10:34:52",
+        "week_count": 1,
+        "v2_confidence": 0.714,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.066,
+        "perch_confidence": 0.1366,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Numenius phaeopus",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 6,
+        "residency": "migrant",
+        "dawn_frac": 0.25,
+        "dawn_total": 4,
+        "v3_top_label": "Hirundo rustica_Barn Swallow",
+        "v3_top_confidence": 0.4377,
+        "perch_top_label": "Numenius phaeopus_Eurasian Whimbrel",
+        "perch_top_confidence": 0.1366,
+        "photo": true
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +95,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-26T09:58:29",
-        "week_count": 496,
+        "last_seen": "2026-10-26T10:33:31",
+        "week_count": 498,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -32,7 +119,7 @@
         "local": 5255,
         "residency": "resident",
         "dawn_frac": 0.0121,
-        "dawn_total": 6604,
+        "dawn_total": 6606,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
@@ -40,43 +127,40 @@
         "photo": true
     },
     {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
             "license": null
         },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-26T09:57:39",
-        "week_count": 649,
-        "v2_confidence": 0.9981,
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-10-26T10:15:50",
+        "week_count": 179,
+        "v2_confidence": 0.9958,
         "badges": [
             {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
         "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
+        "second_opinion": null,
+        "sci": "Prinia gracilis",
         "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6360,
-        "residency": "migrant",
-        "dawn_frac": 0.0282,
-        "dawn_total": 1239,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
+        "family": "Cisticolidae",
+        "local": 8390,
+        "residency": "resident",
+        "dawn_frac": 0.0038,
+        "dawn_total": 3392,
+        "v3_top_label": "Prinia lepida_Delicate Prinia",
+        "v3_top_confidence": 0.4048,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
@@ -117,43 +201,6 @@
         "v3_top_confidence": 0.924,
         "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
         "perch_top_confidence": 0.5157,
-        "photo": true
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
-            "license": null
-        },
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-10-26T09:34:54",
-        "week_count": 163,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Prinia gracilis",
-        "order": "Passeriformes",
-        "family": "Cisticolidae",
-        "local": 8390,
-        "residency": "resident",
-        "dawn_frac": 0.0039,
-        "dawn_total": 3376,
-        "v3_top_label": "Prinia lepida_Delicate Prinia",
-        "v3_top_confidence": 0.4048,
-        "perch_top_label": "Prinia gracilis_Graceful Prinia",
-        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
@@ -6020,53 +6067,6 @@
         "v3_top_confidence": 0.9404,
         "perch_top_label": "Merops orientalis_Asian Green Bee-eater",
         "perch_top_confidence": 0.1328,
-        "photo": true
-    },
-    {
-        "name": "Whimbrel",
-        "he_name": "\u05d7\u05e8\u05de\u05e9\u05d5\u05df \u05e7\u05d8\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Whimbrel_%28Numenius_phaeopus%29_Dalvikurbyggd.jpg/1280px-Whimbrel_%28Numenius_phaeopus%29_Dalvikurbyggd.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Whimbrel_%28Numenius_phaeopus%29_Dalvikurbyggd.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/numenius_phaeopus.mp3",
-        "last_seen": "2026-05-14T10:26:05",
-        "week_count": 0,
-        "v2_confidence": 0.714,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.066,
-        "perch_confidence": 0.1366,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Numenius phaeopus",
-        "order": "Charadriiformes",
-        "family": "Scolopacidae",
-        "local": 6,
-        "residency": "migrant",
-        "dawn_frac": 0.3333,
-        "dawn_total": 3,
-        "v3_top_label": "Hirundo rustica_Barn Swallow",
-        "v3_top_confidence": 0.4377,
-        "perch_top_label": "Numenius phaeopus_Eurasian Whimbrel",
-        "perch_top_confidence": 0.1366,
         "photo": true
     },
     {
