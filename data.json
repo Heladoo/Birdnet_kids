@@ -1,5 +1,45 @@
 [
     {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-10-26T09:58:29",
+        "week_count": 496,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5255,
+        "residency": "resident",
+        "dawn_frac": 0.0121,
+        "dawn_total": 6604,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +48,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-26T08:55:07",
-        "week_count": 632,
+        "last_seen": "2026-10-26T09:57:39",
+        "week_count": 649,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,12 +71,89 @@
         "family": "Motacillidae",
         "local": 6360,
         "residency": "migrant",
-        "dawn_frac": 0.0286,
-        "dawn_total": 1222,
+        "dawn_frac": 0.0282,
+        "dawn_total": 1239,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Laughing Dove",
+        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+            "license": null
+        },
+        "audio": "audio/streptopelia_senegalensis.mp3",
+        "last_seen": "2026-10-26T09:52:05",
+        "week_count": 3,
+        "v2_confidence": 0.9985,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.924,
+        "perch_confidence": 0.5157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": true
+        },
+        "sci": "Streptopelia senegalensis",
+        "order": "Columbiformes",
+        "family": "Columbidae",
+        "local": 5565,
+        "residency": "resident",
+        "dawn_frac": 0.0627,
+        "dawn_total": 5522,
+        "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "v3_top_confidence": 0.924,
+        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "perch_top_confidence": 0.5157,
+        "photo": true
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
+            "license": null
+        },
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-10-26T09:34:54",
+        "week_count": 163,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Prinia gracilis",
+        "order": "Passeriformes",
+        "family": "Cisticolidae",
+        "local": 8390,
+        "residency": "resident",
+        "dawn_frac": 0.0039,
+        "dawn_total": 3376,
+        "v3_top_label": "Prinia lepida_Delicate Prinia",
+        "v3_top_confidence": 0.4048,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
@@ -117,46 +234,6 @@
         "v3_top_confidence": 0.9523,
         "perch_top_label": "Acridotheres tristis_Common Myna",
         "perch_top_confidence": 0.4667,
-        "photo": true
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-26T08:43:09",
-        "week_count": 490,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5255,
-        "residency": "resident",
-        "dawn_frac": 0.0121,
-        "dawn_total": 6598,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
         "photo": true
     },
     {
@@ -1057,43 +1134,6 @@
         "v3_top_confidence": 0.6031,
         "perch_top_label": "Acrocephalus arundinaceus_Great Reed Warbler",
         "perch_top_confidence": 0.3475,
-        "photo": true
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
-            "license": null
-        },
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-10-25T14:35:41",
-        "week_count": 146,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Prinia gracilis",
-        "order": "Passeriformes",
-        "family": "Cisticolidae",
-        "local": 8390,
-        "residency": "resident",
-        "dawn_frac": 0.0039,
-        "dawn_total": 3359,
-        "v3_top_label": "Prinia lepida_Delicate Prinia",
-        "v3_top_confidence": 0.4048,
-        "perch_top_label": "Prinia gracilis_Graceful Prinia",
-        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
@@ -2119,46 +2159,6 @@
         "v3_top_confidence": 0.9722,
         "perch_top_label": "Carduelis carduelis_European Goldfinch",
         "perch_top_confidence": 0.9528,
-        "photo": true
-    },
-    {
-        "name": "Laughing Dove",
-        "he_name": "\u05e6\u05d5\u05e6\u05dc\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/3840px-140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:140_Laughing_dove_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
-            "license": null
-        },
-        "audio": "audio/streptopelia_senegalensis.mp3",
-        "last_seen": "2026-10-21T07:50:48",
-        "week_count": 1,
-        "v2_confidence": 0.9985,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.924,
-        "perch_confidence": 0.5157,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Laughing Dove",
-            "agrees": true
-        },
-        "sci": "Streptopelia senegalensis",
-        "order": "Columbiformes",
-        "family": "Columbidae",
-        "local": 5565,
-        "residency": "resident",
-        "dawn_frac": 0.0627,
-        "dawn_total": 5520,
-        "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
-        "v3_top_confidence": 0.924,
-        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
-        "perch_top_confidence": 0.5157,
         "photo": true
     },
     {
