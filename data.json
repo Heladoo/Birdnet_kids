@@ -1,5 +1,122 @@
 [
     {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-10-27T10:48:27",
+        "week_count": 673,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6360,
+        "residency": "migrant",
+        "dawn_frac": 0.0287,
+        "dawn_total": 1322,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
+            "license": null
+        },
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-10-27T10:45:57",
+        "week_count": 201,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Prinia gracilis",
+        "order": "Passeriformes",
+        "family": "Cisticolidae",
+        "local": 8390,
+        "residency": "resident",
+        "dawn_frac": 0.0038,
+        "dawn_total": 3448,
+        "v3_top_label": "Prinia lepida_Delicate Prinia",
+        "v3_top_confidence": 0.4048,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.2728,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-10-27T10:42:14",
+        "week_count": 500,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5255,
+        "residency": "resident",
+        "dawn_frac": 0.0125,
+        "dawn_total": 6725,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +125,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-27T09:55:52",
-        "week_count": 258,
+        "last_seen": "2026-10-27T10:40:22",
+        "week_count": 262,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -37,11 +154,96 @@
         "local": 7526,
         "residency": "resident",
         "dawn_frac": 0.0836,
-        "dawn_total": 14428,
+        "dawn_total": 14432,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "European Goldfinch",
+        "he_name": "\u05d7\u05d5\u05d7\u05d9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg/1280px-072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/carduelis_carduelis.mp3",
+        "last_seen": "2026-10-27T10:29:31",
+        "week_count": 2,
+        "v2_confidence": 0.9882,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9722,
+        "perch_confidence": 0.9528,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Goldfinch",
+            "agrees": true
+        },
+        "sci": "Carduelis carduelis",
+        "order": "Passeriformes",
+        "family": "Fringillidae",
+        "local": 4238,
+        "residency": "resident",
+        "dawn_frac": 0.1456,
+        "dawn_total": 158,
+        "v3_top_label": "Carduelis carduelis_European Goldfinch",
+        "v3_top_confidence": 0.9722,
+        "perch_top_label": "Carduelis carduelis_European Goldfinch",
+        "perch_top_confidence": 0.9528,
+        "photo": true
+    },
+    {
+        "name": "White-throated Kingfisher",
+        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
+            "license": null
+        },
+        "audio": "audio/halcyon_smyrnensis.mp3",
+        "last_seen": "2026-10-27T10:03:57",
+        "week_count": 12,
+        "v2_confidence": 0.9996,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf05",
+                "en": "Dawn Caller",
+                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
+            }
+        ],
+        "v3_confidence": 0.9623,
+        "perch_confidence": 0.2317,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White-throated Kingfisher",
+            "agrees": true
+        },
+        "sci": "Halcyon smyrnensis",
+        "order": "Coraciiformes",
+        "family": "Alcedinidae",
+        "local": 4228,
+        "residency": "resident",
+        "dawn_frac": 0.4066,
+        "dawn_total": 1456,
+        "v3_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "v3_top_confidence": 0.9623,
+        "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "perch_top_confidence": 0.2317,
         "photo": true
     },
     {
@@ -84,43 +286,6 @@
         "v3_top_confidence": 0.7069,
         "perch_top_label": "Falco columbarius_Merlin",
         "perch_top_confidence": 0.4578,
-        "photo": true
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
-            "license": null
-        },
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-10-27T09:55:01",
-        "week_count": 196,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Prinia gracilis",
-        "order": "Passeriformes",
-        "family": "Cisticolidae",
-        "local": 8390,
-        "residency": "resident",
-        "dawn_frac": 0.0038,
-        "dawn_total": 3443,
-        "v3_top_label": "Prinia lepida_Delicate Prinia",
-        "v3_top_confidence": 0.4048,
-        "perch_top_label": "Prinia gracilis_Graceful Prinia",
-        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
@@ -189,86 +354,6 @@
         "v3_top_confidence": 0.3677,
         "perch_top_label": "Monticola solitarius_Blue Rock Thrush",
         "perch_top_confidence": 0.0592,
-        "photo": true
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-27T09:49:35",
-        "week_count": 493,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5255,
-        "residency": "resident",
-        "dawn_frac": 0.0125,
-        "dawn_total": 6718,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-27T09:48:54",
-        "week_count": 667,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6360,
-        "residency": "migrant",
-        "dawn_frac": 0.0289,
-        "dawn_total": 1316,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -470,51 +555,6 @@
         "v3_top_confidence": 0.0694,
         "perch_top_label": "Curruca communis_Common Whitethroat",
         "perch_top_confidence": 0.0824,
-        "photo": true
-    },
-    {
-        "name": "White-throated Kingfisher",
-        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
-            "license": null
-        },
-        "audio": "audio/halcyon_smyrnensis.mp3",
-        "last_seen": "2026-10-27T07:56:59",
-        "week_count": 11,
-        "v2_confidence": 0.9996,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf05",
-                "en": "Dawn Caller",
-                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
-            }
-        ],
-        "v3_confidence": 0.9623,
-        "perch_confidence": 0.2317,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White-throated Kingfisher",
-            "agrees": true
-        },
-        "sci": "Halcyon smyrnensis",
-        "order": "Coraciiformes",
-        "family": "Alcedinidae",
-        "local": 4228,
-        "residency": "resident",
-        "dawn_frac": 0.4069,
-        "dawn_total": 1455,
-        "v3_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
-        "v3_top_confidence": 0.9623,
-        "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
-        "perch_top_confidence": 0.2317,
         "photo": true
     },
     {
@@ -2398,46 +2438,6 @@
         "v3_top_confidence": 0.8353,
         "perch_top_label": "Anthus richardi_Richard's Pipit",
         "perch_top_confidence": 0.6508,
-        "photo": true
-    },
-    {
-        "name": "European Goldfinch",
-        "he_name": "\u05d7\u05d5\u05d7\u05d9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg/1280px-072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/carduelis_carduelis.mp3",
-        "last_seen": "2026-10-21T10:38:59",
-        "week_count": 1,
-        "v2_confidence": 0.9882,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9722,
-        "perch_confidence": 0.9528,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "European Goldfinch",
-            "agrees": true
-        },
-        "sci": "Carduelis carduelis",
-        "order": "Passeriformes",
-        "family": "Fringillidae",
-        "local": 4238,
-        "residency": "resident",
-        "dawn_frac": 0.1465,
-        "dawn_total": 157,
-        "v3_top_label": "Carduelis carduelis_European Goldfinch",
-        "v3_top_confidence": 0.9722,
-        "perch_top_label": "Carduelis carduelis_European Goldfinch",
-        "perch_top_confidence": 0.9528,
         "photo": true
     },
     {
