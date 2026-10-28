@@ -1,5 +1,42 @@
 [
     {
+        "name": "Red-vented Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+            "license": "CC BY 4.0"
+        },
+        "audio": "audio/pycnonotus_cafer.mp3",
+        "last_seen": "2026-10-28T07:39:58",
+        "week_count": 12,
+        "v2_confidence": 0.9093,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9549,
+        "perch_confidence": 0.0209,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Pycnonotus cafer",
+        "order": "Passeriformes",
+        "family": "Pycnonotidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0.0769,
+        "dawn_total": 91,
+        "v3_top_label": "Pycnonotus cafer_Red-vented Bulbul",
+        "v3_top_confidence": 0.9549,
+        "perch_top_label": "Urocissa erythroryncha_Red-billed Blue Magpie",
+        "perch_top_confidence": 0.0364,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +45,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-28T06:55:26",
-        "week_count": 682,
+        "last_seen": "2026-10-28T07:39:19",
+        "week_count": 686,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,8 +68,8 @@
         "family": "Motacillidae",
         "local": 6360,
         "residency": "migrant",
-        "dawn_frac": 0.0321,
-        "dawn_total": 1371,
+        "dawn_frac": 0.032,
+        "dawn_total": 1375,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
@@ -48,8 +85,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-28T06:52:04",
-        "week_count": 256,
+        "last_seen": "2026-10-28T07:35:32",
+        "week_count": 272,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -76,12 +113,99 @@
         "family": "Charadriidae",
         "local": 7526,
         "residency": "resident",
-        "dawn_frac": 0.0836,
-        "dawn_total": 14459,
+        "dawn_frac": 0.0835,
+        "dawn_total": 14475,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Black-winged Stilt",
+        "he_name": "\u05ea\u05de\u05d9\u05e8\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Black-winged_stilt_%28Himantopus_himantopus%29_Pearaing.jpg/1280px-Black-winged_stilt_%28Himantopus_himantopus%29_Pearaing.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Black-winged_stilt_%28Himantopus_himantopus%29_Pearaing.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/himantopus_himantopus.mp3",
+        "last_seen": "2026-10-28T07:34:45",
+        "week_count": 5,
+        "v2_confidence": 0.9183,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.1126,
+        "perch_confidence": 0.1366,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Himantopus himantopus",
+        "order": "Charadriiformes",
+        "family": "Recurvirostridae",
+        "local": 1814,
+        "residency": "resident",
+        "dawn_frac": 0.1176,
+        "dawn_total": 136,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.7107,
+        "perch_top_label": "Himantopus himantopus_Black-winged Stilt",
+        "perch_top_confidence": 0.1366,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Kestrel",
+        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/falco_tinnunculus.mp3",
+        "last_seen": "2026-10-28T07:32:53",
+        "week_count": 5,
+        "v2_confidence": 0.9987,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.4129,
+        "perch_confidence": 0.4165,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Kestrel",
+            "agrees": true
+        },
+        "sci": "Falco tinnunculus",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 12490,
+        "residency": "resident",
+        "dawn_frac": 0.0721,
+        "dawn_total": 305,
+        "v3_top_label": "Falco tinnunculus_Common Kestrel",
+        "v3_top_confidence": 0.4129,
+        "perch_top_label": "Falco tinnunculus_Common Kestrel",
+        "perch_top_confidence": 0.4165,
         "photo": true
     },
     {
@@ -93,8 +217,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-28T06:46:41",
-        "week_count": 514,
+        "last_seen": "2026-10-28T07:25:58",
+        "week_count": 518,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -117,7 +241,7 @@
         "local": 5255,
         "residency": "resident",
         "dawn_frac": 0.0128,
-        "dawn_total": 6802,
+        "dawn_total": 6806,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
@@ -432,48 +556,6 @@
         "v3_top_confidence": 0.876,
         "perch_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
         "perch_top_confidence": 0.8837,
-        "photo": true
-    },
-    {
-        "name": "Black-winged Stilt",
-        "he_name": "\u05ea\u05de\u05d9\u05e8\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Black-winged_stilt_%28Himantopus_himantopus%29_Pearaing.jpg/1280px-Black-winged_stilt_%28Himantopus_himantopus%29_Pearaing.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Black-winged_stilt_%28Himantopus_himantopus%29_Pearaing.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/himantopus_himantopus.mp3",
-        "last_seen": "2026-10-27T18:10:05",
-        "week_count": 4,
-        "v2_confidence": 0.9183,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.1126,
-        "perch_confidence": 0.1366,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Himantopus himantopus",
-        "order": "Charadriiformes",
-        "family": "Recurvirostridae",
-        "local": 1814,
-        "residency": "resident",
-        "dawn_frac": 0.1185,
-        "dawn_total": 135,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.7107,
-        "perch_top_label": "Himantopus himantopus_Black-winged Stilt",
-        "perch_top_confidence": 0.1366,
         "photo": true
     },
     {
@@ -1315,51 +1397,6 @@
         "photo": true
     },
     {
-        "name": "Eurasian Kestrel",
-        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/falco_tinnunculus.mp3",
-        "last_seen": "2026-10-26T16:29:27",
-        "week_count": 4,
-        "v2_confidence": 0.9987,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.4129,
-        "perch_confidence": 0.4165,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Kestrel",
-            "agrees": true
-        },
-        "sci": "Falco tinnunculus",
-        "order": "Falconiformes",
-        "family": "Falconidae",
-        "local": 12490,
-        "residency": "resident",
-        "dawn_frac": 0.0724,
-        "dawn_total": 304,
-        "v3_top_label": "Falco tinnunculus_Common Kestrel",
-        "v3_top_confidence": 0.4129,
-        "perch_top_label": "Falco tinnunculus_Common Kestrel",
-        "perch_top_confidence": 0.4165,
-        "photo": true
-    },
-    {
         "name": "Great Bittern",
         "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05de\u05e1\u05d5\u05e8\u05d8\u05d8\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
@@ -1976,43 +2013,6 @@
         "v3_top_confidence": 0.1683,
         "perch_top_label": "Hirundo rustica_Barn Swallow",
         "perch_top_confidence": 0.0592,
-        "photo": true
-    },
-    {
-        "name": "Red-vented Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
-            "license": "CC BY 4.0"
-        },
-        "audio": "audio/pycnonotus_cafer.mp3",
-        "last_seen": "2026-10-25T07:26:15",
-        "week_count": 11,
-        "v2_confidence": 0.9093,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9549,
-        "perch_confidence": 0.0209,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Pycnonotus cafer",
-        "order": "Passeriformes",
-        "family": "Pycnonotidae",
-        "local": 0,
-        "residency": "",
-        "dawn_frac": 0.0778,
-        "dawn_total": 90,
-        "v3_top_label": "Pycnonotus cafer_Red-vented Bulbul",
-        "v3_top_confidence": 0.9549,
-        "perch_top_label": "Urocissa erythroryncha_Red-billed Blue Magpie",
-        "perch_top_confidence": 0.0364,
         "photo": true
     },
     {
