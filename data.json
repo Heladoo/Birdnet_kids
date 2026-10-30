@@ -1,5 +1,82 @@
 [
     {
+        "name": "Palestine Sunbird",
+        "he_name": "\u05e6\u05d5\u05e4\u05d9\u05ea \u05d1\u05d5\u05d4\u05e7\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg/1280px-Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/cinnyris_osea.mp3",
+        "last_seen": "2026-10-30T12:43:06",
+        "week_count": 9,
+        "v2_confidence": 0.8927,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.5097,
+        "perch_confidence": 0,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Cinnyris osea",
+        "order": "Passeriformes",
+        "family": "Nectariniidae",
+        "local": 5372,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 28,
+        "v3_top_label": "Cinnyris osea_Palestine Sunbird",
+        "v3_top_confidence": 0.5097,
+        "perch_top_label": "Hippolais icterina_Icterine Warbler",
+        "perch_top_confidence": 0.1406,
+        "photo": true
+    },
+    {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-10-30T12:39:23",
+        "week_count": 537,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6360,
+        "residency": "migrant",
+        "dawn_frac": 0.0359,
+        "dawn_total": 1614,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
         "name": "Common Myna",
         "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +85,8 @@
             "license": null
         },
         "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-10-30T11:54:47",
-        "week_count": 18,
+        "last_seen": "2026-10-30T12:22:00",
+        "week_count": 19,
         "v2_confidence": 0.9867,
         "badges": [
             {
@@ -32,11 +109,93 @@
         "local": 6200,
         "residency": "resident",
         "dawn_frac": 0.0755,
-        "dawn_total": 1443,
+        "dawn_total": 1444,
         "v3_top_label": "Acridotheres tristis_Common Myna",
         "v3_top_confidence": 0.9523,
         "perch_top_label": "Acridotheres tristis_Common Myna",
         "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Kestrel",
+        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/falco_tinnunculus.mp3",
+        "last_seen": "2026-10-30T12:17:32",
+        "week_count": 11,
+        "v2_confidence": 0.9987,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.4129,
+        "perch_confidence": 0.4165,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Kestrel",
+            "agrees": true
+        },
+        "sci": "Falco tinnunculus",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 12490,
+        "residency": "resident",
+        "dawn_frac": 0.074,
+        "dawn_total": 311,
+        "v3_top_label": "Falco tinnunculus_Common Kestrel",
+        "v3_top_confidence": 0.4129,
+        "perch_top_label": "Falco tinnunculus_Common Kestrel",
+        "perch_top_confidence": 0.4165,
+        "photo": true
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
+            "license": null
+        },
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-10-30T12:09:21",
+        "week_count": 419,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Prinia gracilis",
+        "order": "Passeriformes",
+        "family": "Cisticolidae",
+        "local": 8390,
+        "residency": "resident",
+        "dawn_frac": 0.0035,
+        "dawn_total": 3691,
+        "v3_top_label": "Prinia lepida_Delicate Prinia",
+        "v3_top_confidence": 0.4048,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
@@ -48,8 +207,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-30T11:54:30",
-        "week_count": 517,
+        "last_seen": "2026-10-30T12:07:53",
+        "week_count": 518,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -72,88 +231,11 @@
         "local": 5255,
         "residency": "resident",
         "dawn_frac": 0.0126,
-        "dawn_total": 6960,
+        "dawn_total": 6961,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-30T11:51:13",
-        "week_count": 536,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6360,
-        "residency": "migrant",
-        "dawn_frac": 0.036,
-        "dawn_total": 1613,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
-        "photo": true
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
-            "license": null
-        },
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-10-30T11:40:56",
-        "week_count": 413,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Prinia gracilis",
-        "order": "Passeriformes",
-        "family": "Cisticolidae",
-        "local": 8390,
-        "residency": "resident",
-        "dawn_frac": 0.0035,
-        "dawn_total": 3685,
-        "v3_top_label": "Prinia lepida_Delicate Prinia",
-        "v3_top_confidence": 0.4048,
-        "perch_top_label": "Prinia gracilis_Graceful Prinia",
-        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
@@ -639,51 +721,6 @@
         "v3_top_confidence": 0.874,
         "perch_top_label": "Motacilla cinerea_Grey Wagtail",
         "perch_top_confidence": 0.2349,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Kestrel",
-        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/falco_tinnunculus.mp3",
-        "last_seen": "2026-10-30T06:13:52",
-        "week_count": 8,
-        "v2_confidence": 0.9987,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.4129,
-        "perch_confidence": 0.4165,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Kestrel",
-            "agrees": true
-        },
-        "sci": "Falco tinnunculus",
-        "order": "Falconiformes",
-        "family": "Falconidae",
-        "local": 12490,
-        "residency": "resident",
-        "dawn_frac": 0.0747,
-        "dawn_total": 308,
-        "v3_top_label": "Falco tinnunculus_Common Kestrel",
-        "v3_top_confidence": 0.4129,
-        "perch_top_label": "Falco tinnunculus_Common Kestrel",
-        "perch_top_confidence": 0.4165,
         "photo": true
     },
     {
@@ -1793,43 +1830,6 @@
         "v3_top_confidence": 0.7069,
         "perch_top_label": "Falco columbarius_Merlin",
         "perch_top_confidence": 0.4578,
-        "photo": true
-    },
-    {
-        "name": "Palestine Sunbird",
-        "he_name": "\u05e6\u05d5\u05e4\u05d9\u05ea \u05d1\u05d5\u05d4\u05e7\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg/1280px-Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/cinnyris_osea.mp3",
-        "last_seen": "2026-10-27T09:52:39",
-        "week_count": 7,
-        "v2_confidence": 0.8927,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.5097,
-        "perch_confidence": 0,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Cinnyris osea",
-        "order": "Passeriformes",
-        "family": "Nectariniidae",
-        "local": 5372,
-        "residency": "resident",
-        "dawn_frac": 0,
-        "dawn_total": 26,
-        "v3_top_label": "Cinnyris osea_Palestine Sunbird",
-        "v3_top_confidence": 0.5097,
-        "perch_top_label": "Hippolais icterina_Icterine Warbler",
-        "perch_top_confidence": 0.1406,
         "photo": true
     },
     {
