@@ -8,8 +8,8 @@
             "license": "CC BY 2.0"
         },
         "audio": "audio/otus_scops.mp3",
-        "last_seen": "2026-10-30T18:41:34",
-        "week_count": 62,
+        "last_seen": "2026-10-30T19:39:08",
+        "week_count": 65,
         "v2_confidence": 0.9954,
         "badges": [
             {
@@ -41,12 +41,57 @@
         "family": "Strigidae",
         "local": 309,
         "residency": "migrant",
-        "dawn_frac": 0.2008,
-        "dawn_total": 971,
+        "dawn_frac": 0.2002,
+        "dawn_total": 974,
         "v3_top_label": "Otus scops_Eurasian Scops Owl",
         "v3_top_confidence": 0.9524,
         "perch_top_label": "Otus scops_Eurasian Scops Owl",
         "perch_top_confidence": 0.9787,
+        "photo": true
+    },
+    {
+        "name": "Black-crowned Night-Heron",
+        "he_name": "\u05d0\u05e0\u05e4\u05ea \u05dc\u05d9\u05dc\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nycticorax_nycticorax_457953189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Nycticorax_nycticorax_457953189.jpg",
+            "license": null
+        },
+        "audio": "audio/nycticorax_nycticorax.mp3",
+        "last_seen": "2026-10-30T19:05:32",
+        "week_count": 12,
+        "v2_confidence": 0.9878,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9422,
+        "perch_confidence": 0.8882,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Black-crowned Night Heron",
+            "agrees": true
+        },
+        "sci": "Nycticorax nycticorax",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 472,
+        "residency": "resident",
+        "dawn_frac": 0.0192,
+        "dawn_total": 104,
+        "v3_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
+        "v3_top_confidence": 0.9422,
+        "perch_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
+        "perch_top_confidence": 0.8882,
         "photo": true
     },
     {
@@ -1502,51 +1547,6 @@
         "v3_top_confidence": 0.1843,
         "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
         "perch_top_confidence": 0.0639,
-        "photo": true
-    },
-    {
-        "name": "Black-crowned Night-Heron",
-        "he_name": "\u05d0\u05e0\u05e4\u05ea \u05dc\u05d9\u05dc\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nycticorax_nycticorax_457953189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Nycticorax_nycticorax_457953189.jpg",
-            "license": null
-        },
-        "audio": "audio/nycticorax_nycticorax.mp3",
-        "last_seen": "2026-10-29T06:30:07",
-        "week_count": 11,
-        "v2_confidence": 0.9878,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9422,
-        "perch_confidence": 0.8882,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Black-crowned Night Heron",
-            "agrees": true
-        },
-        "sci": "Nycticorax nycticorax",
-        "order": "Pelecaniformes",
-        "family": "Ardeidae",
-        "local": 472,
-        "residency": "resident",
-        "dawn_frac": 0.0194,
-        "dawn_total": 103,
-        "v3_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
-        "v3_top_confidence": 0.9422,
-        "perch_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
-        "perch_top_confidence": 0.8882,
         "photo": true
     },
     {
