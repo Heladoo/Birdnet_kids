@@ -1,5 +1,127 @@
 [
     {
+        "name": "Red-rumped Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
+            "license": null
+        },
+        "audio": "audio/cecropis_daurica.mp3",
+        "last_seen": "2026-10-31T14:58:54",
+        "week_count": 1,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.344,
+        "perch_confidence": 0.7221,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Cecropis daurica",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 147,
+        "residency": "migrant",
+        "dawn_frac": 0.0524,
+        "dawn_total": 2158,
+        "v3_top_label": "Scolopax minor_American Woodcock",
+        "v3_top_confidence": 0.5984,
+        "perch_top_label": "Cecropis daurica_Eastern Red-rumped Swallow",
+        "perch_top_confidence": 0.7221,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-10-31T14:51:22",
+        "week_count": 340,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.084,
+        "dawn_total": 14670,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Great Tit",
+        "he_name": "\u05d9\u05e8\u05d2\u05d6\u05d9 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg/3840px-Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
+            "license": null
+        },
+        "audio": "audio/parus_major.mp3",
+        "last_seen": "2026-10-31T14:50:46",
+        "week_count": 2,
+        "v2_confidence": 0.875,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.3506,
+        "perch_confidence": 0.6353,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Great Tit",
+            "agrees": true
+        },
+        "sci": "Parus major",
+        "order": "Passeriformes",
+        "family": "Paridae",
+        "local": 4020,
+        "residency": "resident",
+        "dawn_frac": 0.0256,
+        "dawn_total": 39,
+        "v3_top_label": "Parus major_Great Tit",
+        "v3_top_confidence": 0.3506,
+        "perch_top_label": "Parus major_Great Tit",
+        "perch_top_confidence": 0.6353,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +130,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-10-31T13:55:24",
-        "week_count": 586,
+        "last_seen": "2026-10-31T14:50:22",
+        "week_count": 593,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,8 +153,8 @@
         "family": "Motacillidae",
         "local": 6360,
         "residency": "migrant",
-        "dawn_frac": 0.0362,
-        "dawn_total": 1711,
+        "dawn_frac": 0.0361,
+        "dawn_total": 1718,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
@@ -48,8 +170,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-10-31T13:48:16",
-        "week_count": 543,
+        "last_seen": "2026-10-31T14:36:31",
+        "week_count": 563,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -71,12 +193,99 @@
         "family": "Psittacidae",
         "local": 5255,
         "residency": "resident",
-        "dawn_frac": 0.0135,
-        "dawn_total": 7056,
+        "dawn_frac": 0.0134,
+        "dawn_total": 7076,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "River Warbler",
+        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Flodsangare.jpg",
+            "license": null
+        },
+        "audio": "audio/locustella_fluviatilis.mp3",
+        "last_seen": "2026-10-31T14:23:27",
+        "week_count": 7,
+        "v2_confidence": 0.995,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0012,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Locustella fluviatilis",
+        "order": "Passeriformes",
+        "family": "Locustellidae",
+        "local": 20,
+        "residency": "migrant",
+        "dawn_frac": 0.0091,
+        "dawn_total": 220,
+        "v3_top_label": "Delichon urbicum_Western House Martin",
+        "v3_top_confidence": 0.1843,
+        "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
+        "perch_top_confidence": 0.0639,
+        "photo": true
+    },
+    {
+        "name": "Gray Heron",
+        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05d0\u05e4\u05d5\u05e8\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grey_Heron_%2854990114762%29_%28cropped%29.jpg/1280px-Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/ardea_cinerea.mp3",
+        "last_seen": "2026-10-31T14:00:59",
+        "week_count": 1,
+        "v2_confidence": 0.9394,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.7442,
+        "perch_confidence": 0.8582,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Grey Heron",
+            "agrees": true
+        },
+        "sci": "Ardea cinerea",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 1282,
+        "residency": "resident",
+        "dawn_frac": 0.0211,
+        "dawn_total": 95,
+        "v3_top_label": "Ardea cinerea_Grey Heron",
+        "v3_top_confidence": 0.7442,
+        "perch_top_label": "Ardea cinerea_Grey Heron",
+        "perch_top_confidence": 0.8582,
         "photo": true
     },
     {
@@ -117,51 +326,6 @@
         "v3_top_confidence": 0.886,
         "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
         "perch_top_confidence": 0.9336,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-10-31T13:28:37",
-        "week_count": 339,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.084,
-        "dawn_total": 14669,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -668,48 +832,6 @@
         "v3_top_confidence": 0.4129,
         "perch_top_label": "Falco tinnunculus_Common Kestrel",
         "perch_top_confidence": 0.4165,
-        "photo": true
-    },
-    {
-        "name": "River Warbler",
-        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Flodsangare.jpg",
-            "license": null
-        },
-        "audio": "audio/locustella_fluviatilis.mp3",
-        "last_seen": "2026-10-31T07:08:05",
-        "week_count": 6,
-        "v2_confidence": 0.995,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0012,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Locustella fluviatilis",
-        "order": "Passeriformes",
-        "family": "Locustellidae",
-        "local": 20,
-        "residency": "migrant",
-        "dawn_frac": 0.0091,
-        "dawn_total": 219,
-        "v3_top_label": "Delichon urbicum_Western House Martin",
-        "v3_top_confidence": 0.1843,
-        "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
-        "perch_top_confidence": 0.0639,
         "photo": true
     },
     {
@@ -2535,46 +2657,6 @@
         "photo": true
     },
     {
-        "name": "Great Tit",
-        "he_name": "\u05d9\u05e8\u05d2\u05d6\u05d9 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg/3840px-Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
-            "license": null
-        },
-        "audio": "audio/parus_major.mp3",
-        "last_seen": "2026-10-25T16:12:04",
-        "week_count": 1,
-        "v2_confidence": 0.875,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.3506,
-        "perch_confidence": 0.6353,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Great Tit",
-            "agrees": true
-        },
-        "sci": "Parus major",
-        "order": "Passeriformes",
-        "family": "Paridae",
-        "local": 4020,
-        "residency": "resident",
-        "dawn_frac": 0.0263,
-        "dawn_total": 38,
-        "v3_top_label": "Parus major_Great Tit",
-        "v3_top_confidence": 0.3506,
-        "perch_top_label": "Parus major_Great Tit",
-        "perch_top_confidence": 0.6353,
-        "photo": true
-    },
-    {
         "name": "Bluethroat",
         "he_name": "\u05db\u05d7\u05d5\u05dc-\u05d4\u05d7\u05d6\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg/3840px-Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg",
@@ -3102,51 +3184,6 @@
         "photo": true
     },
     {
-        "name": "Gray Heron",
-        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05d0\u05e4\u05d5\u05e8\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grey_Heron_%2854990114762%29_%28cropped%29.jpg/1280px-Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/ardea_cinerea.mp3",
-        "last_seen": "2026-10-20T02:43:56",
-        "week_count": 0,
-        "v2_confidence": 0.9394,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.7442,
-        "perch_confidence": 0.8582,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Grey Heron",
-            "agrees": true
-        },
-        "sci": "Ardea cinerea",
-        "order": "Pelecaniformes",
-        "family": "Ardeidae",
-        "local": 1282,
-        "residency": "resident",
-        "dawn_frac": 0.0213,
-        "dawn_total": 94,
-        "v3_top_label": "Ardea cinerea_Grey Heron",
-        "v3_top_confidence": 0.7442,
-        "perch_top_label": "Ardea cinerea_Grey Heron",
-        "perch_top_confidence": 0.8582,
-        "photo": true
-    },
-    {
         "name": "Oriental Honey-buzzard",
         "he_name": "\u05d0\u05d9\u05d4 \u05de\u05e6\u05d5\u05d9\u05e6\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg/1280px-Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg",
@@ -3241,43 +3278,6 @@
         "v3_top_confidence": 0.676,
         "perch_top_label": "Thinornis dubius_Little Ringed Plover",
         "perch_top_confidence": 0.4571,
-        "photo": true
-    },
-    {
-        "name": "Red-rumped Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg",
-            "license": null
-        },
-        "audio": "audio/cecropis_daurica.mp3",
-        "last_seen": "2026-10-17T16:48:00",
-        "week_count": 0,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.344,
-        "perch_confidence": 0.7221,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Cecropis daurica",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 147,
-        "residency": "migrant",
-        "dawn_frac": 0.0524,
-        "dawn_total": 2157,
-        "v3_top_label": "Scolopax minor_American Woodcock",
-        "v3_top_confidence": 0.5984,
-        "perch_top_label": "Cecropis daurica_Eastern Red-rumped Swallow",
-        "perch_top_confidence": 0.7221,
         "photo": true
     },
     {
