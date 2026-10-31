@@ -1,5 +1,52 @@
 [
     {
+        "name": "Whimbrel",
+        "he_name": "\u05d7\u05e8\u05de\u05e9\u05d5\u05df \u05e7\u05d8\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Whimbrel_%28Numenius_phaeopus%29_Dalvikurbyggd.jpg/1280px-Whimbrel_%28Numenius_phaeopus%29_Dalvikurbyggd.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Whimbrel_%28Numenius_phaeopus%29_Dalvikurbyggd.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/numenius_phaeopus.mp3",
+        "last_seen": "2026-11-01T00:45:43",
+        "week_count": 2,
+        "v2_confidence": 0.7544,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.066,
+        "perch_confidence": 0.1366,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Numenius phaeopus",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 6,
+        "residency": "migrant",
+        "dawn_frac": 0.2,
+        "dawn_total": 5,
+        "v3_top_label": "Hirundo rustica_Barn Swallow",
+        "v3_top_confidence": 0.4377,
+        "perch_top_label": "Numenius phaeopus_Eurasian Whimbrel",
+        "perch_top_confidence": 0.1366,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -2482,53 +2529,6 @@
         "v3_top_confidence": null,
         "perch_top_label": null,
         "perch_top_confidence": null,
-        "photo": true
-    },
-    {
-        "name": "Whimbrel",
-        "he_name": "\u05d7\u05e8\u05de\u05e9\u05d5\u05df \u05e7\u05d8\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Whimbrel_%28Numenius_phaeopus%29_Dalvikurbyggd.jpg/1280px-Whimbrel_%28Numenius_phaeopus%29_Dalvikurbyggd.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Whimbrel_%28Numenius_phaeopus%29_Dalvikurbyggd.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/numenius_phaeopus.mp3",
-        "last_seen": "2026-10-26T10:34:52",
-        "week_count": 1,
-        "v2_confidence": 0.714,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.066,
-        "perch_confidence": 0.1366,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Numenius phaeopus",
-        "order": "Charadriiformes",
-        "family": "Scolopacidae",
-        "local": 6,
-        "residency": "migrant",
-        "dawn_frac": 0.25,
-        "dawn_total": 4,
-        "v3_top_label": "Hirundo rustica_Barn Swallow",
-        "v3_top_confidence": 0.4377,
-        "perch_top_label": "Numenius phaeopus_Eurasian Whimbrel",
-        "perch_top_confidence": 0.1366,
         "photo": true
     },
     {
