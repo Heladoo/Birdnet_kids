@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-02T05:59:42",
-        "week_count": 533,
+        "last_seen": "2026-11-02T06:51:08",
+        "week_count": 574,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,12 +31,134 @@
         "family": "Motacillidae",
         "local": 6360,
         "residency": "migrant",
-        "dawn_frac": 0.0398,
-        "dawn_total": 1833,
+        "dawn_frac": 0.0566,
+        "dawn_total": 1874,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-11-02T06:44:05",
+        "week_count": 540,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5255,
+        "residency": "resident",
+        "dawn_frac": 0.0135,
+        "dawn_total": 7206,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Sandwich Tern",
+        "he_name": "\u05e9\u05d7\u05e4\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05de\u05e7\u05d5\u05e8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg/1280px-2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/thalasseus_sandvicensis.mp3",
+        "last_seen": "2026-11-02T06:42:25",
+        "week_count": 2,
+        "v2_confidence": 0.8885,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.1031,
+        "perch_confidence": 0.0656,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Thalasseus sandvicensis",
+        "order": "Charadriiformes",
+        "family": "Laridae",
+        "local": 230,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 16,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.2286,
+        "perch_top_label": "Tringa nebularia_Common Greenshank",
+        "perch_top_confidence": 0.0817,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Hoopoe",
+        "he_name": "\u05d3\u05d5\u05db\u05d9\u05e4\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Israel._Eurasian_Hoopoe_%286497645007%29.jpg/3840px-Israel._Eurasian_Hoopoe_%286497645007%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Israel._Eurasian_Hoopoe_%286497645007%29.jpg",
+            "license": null
+        },
+        "audio": "audio/upupa_epops.mp3",
+        "last_seen": "2026-11-02T06:30:20",
+        "week_count": 3,
+        "v2_confidence": 0.9831,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9469,
+        "perch_confidence": 0.8821,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Hoopoe",
+            "agrees": true
+        },
+        "sci": "Upupa epops",
+        "order": "Bucerotiformes",
+        "family": "Upupidae",
+        "local": 4174,
+        "residency": "resident",
+        "dawn_frac": 0.0329,
+        "dawn_total": 304,
+        "v3_top_label": "Upupa epops_Eurasian Hoopoe",
+        "v3_top_confidence": 0.9469,
+        "perch_top_label": "Upupa epops_Eurasian Hoopoe",
+        "perch_top_confidence": 0.8821,
         "photo": true
     },
     {
@@ -48,8 +170,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-02T05:54:48",
-        "week_count": 370,
+        "last_seen": "2026-11-02T06:20:25",
+        "week_count": 375,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -76,12 +198,97 @@
         "family": "Charadriidae",
         "local": 7526,
         "residency": "resident",
-        "dawn_frac": 0.0851,
-        "dawn_total": 14771,
+        "dawn_frac": 0.0854,
+        "dawn_total": 14776,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Common House-Martin",
+        "he_name": "\u05d8\u05e1\u05d9\u05ea \u05d1\u05ea\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Mehlschwalbe_Delichon_urbicum.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/delichon_urbicum.mp3",
+        "last_seen": "2026-11-02T06:18:38",
+        "week_count": 3,
+        "v2_confidence": 0.9666,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0374,
+        "perch_confidence": 0.0249,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": false
+        },
+        "sci": "Delichon urbicum",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 492,
+        "residency": "migrant",
+        "dawn_frac": 0.0128,
+        "dawn_total": 78,
+        "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "v3_top_confidence": 0.7368,
+        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "perch_top_confidence": 0.0852,
+        "photo": true
+    },
+    {
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-11-02T06:13:16",
+        "week_count": 2,
+        "v2_confidence": 0.9897,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        },
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 4066,
+        "residency": "migrant",
+        "dawn_frac": 0.0238,
+        "dawn_total": 84,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
         "photo": true
     },
     {
@@ -473,46 +680,6 @@
         "v3_top_confidence": 0.934,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.4453,
-        "photo": true
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-01T16:16:15",
-        "week_count": 536,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5255,
-        "residency": "resident",
-        "dawn_frac": 0.0135,
-        "dawn_total": 7202,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
         "photo": true
     },
     {
@@ -1264,51 +1431,6 @@
         "photo": true
     },
     {
-        "name": "Common House-Martin",
-        "he_name": "\u05d8\u05e1\u05d9\u05ea \u05d1\u05ea\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Mehlschwalbe_Delichon_urbicum.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/delichon_urbicum.mp3",
-        "last_seen": "2026-10-31T15:35:31",
-        "week_count": 2,
-        "v2_confidence": 0.9666,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0374,
-        "perch_confidence": 0.0249,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": {
-            "com": "Laughing Dove",
-            "agrees": false
-        },
-        "sci": "Delichon urbicum",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 492,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 77,
-        "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
-        "v3_top_confidence": 0.7368,
-        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
-        "perch_top_confidence": 0.0852,
-        "photo": true
-    },
-    {
         "name": "Red-rumped Swallow",
         "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05de\u05e9\u05d5\u05e8\u05d8\u05d8\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Red-rumped_Swallow_%28Cecropis_daurica%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -1425,46 +1547,6 @@
         "v3_top_confidence": 0.1843,
         "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
         "perch_top_confidence": 0.0639,
-        "photo": true
-    },
-    {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
-            "license": null
-        },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-10-31T13:33:42",
-        "week_count": 1,
-        "v2_confidence": 0.9897,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Chiffchaff",
-            "agrees": true
-        },
-        "sci": "Phylloscopus collybita",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4066,
-        "residency": "migrant",
-        "dawn_frac": 0.012,
-        "dawn_total": 83,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
         "photo": true
     },
     {
@@ -2352,46 +2434,6 @@
         "photo": true
     },
     {
-        "name": "Eurasian Hoopoe",
-        "he_name": "\u05d3\u05d5\u05db\u05d9\u05e4\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Israel._Eurasian_Hoopoe_%286497645007%29.jpg/3840px-Israel._Eurasian_Hoopoe_%286497645007%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Israel._Eurasian_Hoopoe_%286497645007%29.jpg",
-            "license": null
-        },
-        "audio": "audio/upupa_epops.mp3",
-        "last_seen": "2026-10-29T13:06:50",
-        "week_count": 2,
-        "v2_confidence": 0.9831,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9469,
-        "perch_confidence": 0.8821,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Hoopoe",
-            "agrees": true
-        },
-        "sci": "Upupa epops",
-        "order": "Bucerotiformes",
-        "family": "Upupidae",
-        "local": 4174,
-        "residency": "resident",
-        "dawn_frac": 0.033,
-        "dawn_total": 303,
-        "v3_top_label": "Upupa epops_Eurasian Hoopoe",
-        "v3_top_confidence": 0.9469,
-        "perch_top_label": "Upupa epops_Eurasian Hoopoe",
-        "perch_top_confidence": 0.8821,
-        "photo": true
-    },
-    {
         "name": "Cory's Shearwater",
         "he_name": "\u05d9\u05e1\u05e2\u05d5\u05e8 \u05d2\u05d3\u05d5\u05dc",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Scopoli%27s_Shearwater.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -2586,48 +2628,6 @@
         "v3_top_confidence": 0.757,
         "perch_top_label": "Fulica atra_Eurasian Coot",
         "perch_top_confidence": 0.4847,
-        "photo": true
-    },
-    {
-        "name": "Sandwich Tern",
-        "he_name": "\u05e9\u05d7\u05e4\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05de\u05e7\u05d5\u05e8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg/1280px-2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/thalasseus_sandvicensis.mp3",
-        "last_seen": "2026-10-27T14:37:16",
-        "week_count": 1,
-        "v2_confidence": 0.8786,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.1031,
-        "perch_confidence": 0.0656,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Thalasseus sandvicensis",
-        "order": "Charadriiformes",
-        "family": "Laridae",
-        "local": 230,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 15,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.2286,
-        "perch_top_label": "Tringa nebularia_Common Greenshank",
-        "perch_top_confidence": 0.0817,
         "photo": true
     },
     {
