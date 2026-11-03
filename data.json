@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-03T06:55:35",
-        "week_count": 650,
+        "last_seen": "2026-11-03T07:53:10",
+        "week_count": 654,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,12 +31,57 @@
         "family": "Motacillidae",
         "local": 6360,
         "residency": "migrant",
-        "dawn_frac": 0.0557,
-        "dawn_total": 2012,
+        "dawn_frac": 0.0556,
+        "dawn_total": 2016,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-11-03T07:52:10",
+        "week_count": 410,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.086,
+        "dawn_total": 14861,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -48,8 +93,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-03T06:47:01",
-        "week_count": 442,
+        "last_seen": "2026-11-03T07:35:29",
+        "week_count": 448,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -72,11 +117,127 @@
         "local": 5255,
         "residency": "resident",
         "dawn_frac": 0.0149,
-        "dawn_total": 7240,
+        "dawn_total": 7246,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Black-winged Stilt",
+        "he_name": "\u05ea\u05de\u05d9\u05e8\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Black-winged_stilt_%28Himantopus_himantopus%29_Pearaing.jpg/1280px-Black-winged_stilt_%28Himantopus_himantopus%29_Pearaing.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Black-winged_stilt_%28Himantopus_himantopus%29_Pearaing.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/himantopus_himantopus.mp3",
+        "last_seen": "2026-11-03T07:16:14",
+        "week_count": 5,
+        "v2_confidence": 0.9183,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.1126,
+        "perch_confidence": 0.1366,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Himantopus himantopus",
+        "order": "Charadriiformes",
+        "family": "Recurvirostridae",
+        "local": 1814,
+        "residency": "resident",
+        "dawn_frac": 0.1214,
+        "dawn_total": 140,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.7107,
+        "perch_top_label": "Himantopus himantopus_Black-winged Stilt",
+        "perch_top_confidence": 0.1366,
+        "photo": true
+    },
+    {
+        "name": "White-spectacled Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05e6\u05d4\u05d5\u05d1-\u05e9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/White-spectacled_bulbul.jpg/1280px-White-spectacled_bulbul.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:White-spectacled_bulbul.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "audio": "audio/pycnonotus_xanthopygos.mp3",
+        "last_seen": "2026-11-03T07:13:16",
+        "week_count": 20,
+        "v2_confidence": 0.9915,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.4418,
+        "perch_confidence": 0.0955,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Pycnonotus xanthopygos",
+        "order": "Passeriformes",
+        "family": "Pycnonotidae",
+        "local": 7435,
+        "residency": "resident",
+        "dawn_frac": 0.0209,
+        "dawn_total": 287,
+        "v3_top_label": "Pycnonotus barbatus_Common Bulbul",
+        "v3_top_confidence": 0.6149,
+        "perch_top_label": "Pycnonotus xanthopygos_White-spectacled Bulbul",
+        "perch_top_confidence": 0.0955,
+        "photo": true
+    },
+    {
+        "name": "Red-vented Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+            "license": "CC BY 4.0"
+        },
+        "audio": "audio/pycnonotus_cafer.mp3",
+        "last_seen": "2026-11-03T07:13:05",
+        "week_count": 24,
+        "v2_confidence": 0.9278,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9549,
+        "perch_confidence": 0.0209,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Pycnonotus cafer",
+        "order": "Passeriformes",
+        "family": "Pycnonotidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0.0614,
+        "dawn_total": 114,
+        "v3_top_label": "Pycnonotus cafer_Red-vented Bulbul",
+        "v3_top_confidence": 0.9549,
+        "perch_top_label": "Urocissa erythroryncha_Red-billed Blue Magpie",
+        "perch_top_confidence": 0.0364,
         "photo": true
     },
     {
@@ -162,51 +323,6 @@
         "v3_top_confidence": 0.4129,
         "perch_top_label": "Falco tinnunculus_Common Kestrel",
         "perch_top_confidence": 0.4165,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-03T06:14:57",
-        "week_count": 393,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0861,
-        "dawn_total": 14844,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -857,43 +973,6 @@
         "photo": true
     },
     {
-        "name": "White-spectacled Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05e6\u05d4\u05d5\u05d1-\u05e9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/White-spectacled_bulbul.jpg/1280px-White-spectacled_bulbul.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:White-spectacled_bulbul.jpg",
-            "license": "CC BY-SA 3.0"
-        },
-        "audio": "audio/pycnonotus_xanthopygos.mp3",
-        "last_seen": "2026-11-02T10:48:33",
-        "week_count": 19,
-        "v2_confidence": 0.9915,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.4418,
-        "perch_confidence": 0.0955,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Pycnonotus xanthopygos",
-        "order": "Passeriformes",
-        "family": "Pycnonotidae",
-        "local": 7435,
-        "residency": "resident",
-        "dawn_frac": 0.021,
-        "dawn_total": 286,
-        "v3_top_label": "Pycnonotus barbatus_Common Bulbul",
-        "v3_top_confidence": 0.6149,
-        "perch_top_label": "Pycnonotus xanthopygos_White-spectacled Bulbul",
-        "perch_top_confidence": 0.0955,
-        "photo": true
-    },
-    {
         "name": "Spotted Crake",
         "he_name": "\u05d1\u05e8\u05d5\u05d3\u05d9\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4 \u05de\u05e0\u05d5\u05e7\u05d3\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Spotted_crake_%28Porzana_porzana%29_%286830876880%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -968,43 +1047,6 @@
         "v3_top_confidence": 0.6364,
         "perch_top_label": "Pycnonotus barbatus_Common Bulbul",
         "perch_top_confidence": 0.3777,
-        "photo": true
-    },
-    {
-        "name": "Red-vented Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
-            "license": "CC BY 4.0"
-        },
-        "audio": "audio/pycnonotus_cafer.mp3",
-        "last_seen": "2026-11-02T10:46:20",
-        "week_count": 23,
-        "v2_confidence": 0.9278,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9549,
-        "perch_confidence": 0.0209,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Pycnonotus cafer",
-        "order": "Passeriformes",
-        "family": "Pycnonotidae",
-        "local": 0,
-        "residency": "",
-        "dawn_frac": 0.0619,
-        "dawn_total": 113,
-        "v3_top_label": "Pycnonotus cafer_Red-vented Bulbul",
-        "v3_top_confidence": 0.9549,
-        "perch_top_label": "Urocissa erythroryncha_Red-billed Blue Magpie",
-        "perch_top_confidence": 0.0364,
         "photo": true
     },
     {
@@ -1822,48 +1864,6 @@
         "v3_top_confidence": 0.8618,
         "perch_top_label": "Tyto alba_Western Barn Owl",
         "perch_top_confidence": 0.8305,
-        "photo": true
-    },
-    {
-        "name": "Black-winged Stilt",
-        "he_name": "\u05ea\u05de\u05d9\u05e8\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Black-winged_stilt_%28Himantopus_himantopus%29_Pearaing.jpg/1280px-Black-winged_stilt_%28Himantopus_himantopus%29_Pearaing.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Black-winged_stilt_%28Himantopus_himantopus%29_Pearaing.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/himantopus_himantopus.mp3",
-        "last_seen": "2026-11-01T01:42:13",
-        "week_count": 4,
-        "v2_confidence": 0.9183,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.1126,
-        "perch_confidence": 0.1366,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Himantopus himantopus",
-        "order": "Charadriiformes",
-        "family": "Recurvirostridae",
-        "local": 1814,
-        "residency": "resident",
-        "dawn_frac": 0.1223,
-        "dawn_total": 139,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.7107,
-        "perch_top_label": "Himantopus himantopus_Black-winged Stilt",
-        "perch_top_confidence": 0.1366,
         "photo": true
     },
     {
