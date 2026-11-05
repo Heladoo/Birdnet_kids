@@ -1,5 +1,45 @@
 [
     {
+        "name": "Great Tit",
+        "he_name": "\u05d9\u05e8\u05d2\u05d6\u05d9 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg/3840px-Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
+            "license": null
+        },
+        "audio": "audio/parus_major.mp3",
+        "last_seen": "2026-11-05T11:59:00",
+        "week_count": 2,
+        "v2_confidence": 0.875,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.3506,
+        "perch_confidence": 0.6353,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Great Tit",
+            "agrees": true
+        },
+        "sci": "Parus major",
+        "order": "Passeriformes",
+        "family": "Paridae",
+        "local": 4020,
+        "residency": "resident",
+        "dawn_frac": 0.025,
+        "dawn_total": 40,
+        "v3_top_label": "Parus major_Great Tit",
+        "v3_top_confidence": 0.3506,
+        "perch_top_label": "Parus major_Great Tit",
+        "perch_top_confidence": 0.6353,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +48,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-05T10:58:22",
-        "week_count": 667,
+        "last_seen": "2026-11-05T11:52:13",
+        "week_count": 672,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,52 +71,12 @@
         "family": "Motacillidae",
         "local": 6360,
         "residency": "migrant",
-        "dawn_frac": 0.059,
-        "dawn_total": 2221,
+        "dawn_frac": 0.0588,
+        "dawn_total": 2226,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
-        "photo": true
-    },
-    {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
-            "license": null
-        },
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-11-05T10:50:54",
-        "week_count": 53,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": true
-        },
-        "sci": "Acridotheres tristis",
-        "order": "Passeriformes",
-        "family": "Sturnidae",
-        "local": 6200,
-        "residency": "resident",
-        "dawn_frac": 0.0764,
-        "dawn_total": 1493,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9523,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.4667,
         "photo": true
     },
     {
@@ -88,8 +88,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-05T10:50:47",
-        "week_count": 428,
+        "last_seen": "2026-11-05T11:49:13",
+        "week_count": 437,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -116,8 +116,8 @@
         "family": "Charadriidae",
         "local": 7526,
         "residency": "resident",
-        "dawn_frac": 0.0897,
-        "dawn_total": 15002,
+        "dawn_frac": 0.0896,
+        "dawn_total": 15011,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
@@ -133,8 +133,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-05T10:48:37",
-        "week_count": 433,
+        "last_seen": "2026-11-05T11:48:39",
+        "week_count": 436,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -157,11 +157,207 @@
         "local": 5255,
         "residency": "resident",
         "dawn_frac": 0.015,
-        "dawn_total": 7376,
+        "dawn_total": 7379,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Wryneck",
+        "he_name": "\u05e1\u05d1\u05e8\u05d0\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg/1280px-Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/jynx_torquilla.mp3",
+        "last_seen": "2026-11-05T11:46:19",
+        "week_count": 2,
+        "v2_confidence": 0.978,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.2748,
+        "perch_confidence": 0.3786,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Wryneck",
+            "agrees": true
+        },
+        "sci": "Jynx torquilla",
+        "order": "Piciformes",
+        "family": "Picidae",
+        "local": 416,
+        "residency": "migrant",
+        "dawn_frac": 0.037,
+        "dawn_total": 54,
+        "v3_top_label": "Jynx torquilla_Eurasian Wryneck",
+        "v3_top_confidence": 0.2748,
+        "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
+        "perch_top_confidence": 0.3786,
+        "photo": true
+    },
+    {
+        "name": "Corn Crake",
+        "he_name": "\u05de\u05dc\u05db\u05d9\u05e9\u05dc\u05d9\u05d5 \u05d7\u05dc\u05d5\u05d3\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ruisr%C3%A4%C3%A4kk%C3%A4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Ruisr%C3%A4%C3%A4kk%C3%A4.JPG",
+            "license": null
+        },
+        "audio": "audio/crex_crex.mp3",
+        "last_seen": "2026-11-05T11:21:30",
+        "week_count": 1,
+        "v2_confidence": 0.7626,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.0012,
+        "perch_confidence": 0.0153,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Crex crex",
+        "order": "Gruiformes",
+        "family": "Rallidae",
+        "local": 73,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 2,
+        "v3_top_label": "Bubo virginianus_Great Horned Owl",
+        "v3_top_confidence": 0.14,
+        "perch_top_label": "Otus spilocephalus_Mountain Scops Owl",
+        "perch_top_confidence": 0.6052,
+        "photo": true
+    },
+    {
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
+            "license": null
+        },
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-11-05T11:18:15",
+        "week_count": 54,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        },
+        "sci": "Acridotheres tristis",
+        "order": "Passeriformes",
+        "family": "Sturnidae",
+        "local": 6200,
+        "residency": "resident",
+        "dawn_frac": 0.0763,
+        "dawn_total": 1494,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "Common Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg/3840px-Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg",
+            "license": null
+        },
+        "audio": "audio/pycnonotus_barbatus.mp3",
+        "last_seen": "2026-11-05T11:14:24",
+        "week_count": 3,
+        "v2_confidence": 0.9204,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.5559,
+        "perch_confidence": 0.3777,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Pycnonotus barbatus",
+        "order": "Passeriformes",
+        "family": "Pycnonotidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0.1392,
+        "dawn_total": 79,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.6364,
+        "perch_top_label": "Pycnonotus barbatus_Common Bulbul",
+        "perch_top_confidence": 0.3777,
+        "photo": true
+    },
+    {
+        "name": "Red-vented Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+            "license": "CC BY 4.0"
+        },
+        "audio": "audio/pycnonotus_cafer.mp3",
+        "last_seen": "2026-11-05T11:00:34",
+        "week_count": 30,
+        "v2_confidence": 0.9278,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9549,
+        "perch_confidence": 0.0209,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Pycnonotus cafer",
+        "order": "Passeriformes",
+        "family": "Pycnonotidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0.0579,
+        "dawn_total": 121,
+        "v3_top_label": "Pycnonotus cafer_Red-vented Bulbul",
+        "v3_top_confidence": 0.9549,
+        "perch_top_label": "Urocissa erythroryncha_Red-billed Blue Magpie",
+        "perch_top_confidence": 0.0364,
         "photo": true
     },
     {
@@ -202,43 +398,6 @@
         "v3_top_confidence": 0.924,
         "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
         "perch_top_confidence": 0.5157,
-        "photo": true
-    },
-    {
-        "name": "Red-vented Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
-            "license": "CC BY 4.0"
-        },
-        "audio": "audio/pycnonotus_cafer.mp3",
-        "last_seen": "2026-11-05T09:34:54",
-        "week_count": 29,
-        "v2_confidence": 0.9278,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9549,
-        "perch_confidence": 0.0209,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Pycnonotus cafer",
-        "order": "Passeriformes",
-        "family": "Pycnonotidae",
-        "local": 0,
-        "residency": "",
-        "dawn_frac": 0.0583,
-        "dawn_total": 120,
-        "v3_top_label": "Pycnonotus cafer_Red-vented Bulbul",
-        "v3_top_confidence": 0.9549,
-        "perch_top_label": "Urocissa erythroryncha_Red-billed Blue Magpie",
-        "perch_top_confidence": 0.0364,
         "photo": true
     },
     {
@@ -1425,46 +1584,6 @@
         "photo": true
     },
     {
-        "name": "Eurasian Wryneck",
-        "he_name": "\u05e1\u05d1\u05e8\u05d0\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg/1280px-Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/jynx_torquilla.mp3",
-        "last_seen": "2026-11-02T12:55:48",
-        "week_count": 1,
-        "v2_confidence": 0.978,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.2748,
-        "perch_confidence": 0.3786,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Wryneck",
-            "agrees": true
-        },
-        "sci": "Jynx torquilla",
-        "order": "Piciformes",
-        "family": "Picidae",
-        "local": 416,
-        "residency": "migrant",
-        "dawn_frac": 0.0377,
-        "dawn_total": 53,
-        "v3_top_label": "Jynx torquilla_Eurasian Wryneck",
-        "v3_top_confidence": 0.2748,
-        "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
-        "perch_top_confidence": 0.3786,
-        "photo": true
-    },
-    {
         "name": "Common Tern",
         "he_name": "\u05e9\u05d7\u05e4\u05d9\u05ea \u05d9\u05dd",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_02.jpg/1280px-2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_02.jpg",
@@ -1599,43 +1718,6 @@
         "v3_top_confidence": 0.3218,
         "perch_top_label": "Porzana porzana_Spotted Crake",
         "perch_top_confidence": 0.2157,
-        "photo": true
-    },
-    {
-        "name": "Common Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg/3840px-Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg",
-            "license": null
-        },
-        "audio": "audio/pycnonotus_barbatus.mp3",
-        "last_seen": "2026-11-02T10:46:38",
-        "week_count": 2,
-        "v2_confidence": 0.9204,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.5559,
-        "perch_confidence": 0.3777,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Pycnonotus barbatus",
-        "order": "Passeriformes",
-        "family": "Pycnonotidae",
-        "local": 0,
-        "residency": "",
-        "dawn_frac": 0.141,
-        "dawn_total": 78,
-        "v3_top_label": "Passer domesticus_House Sparrow",
-        "v3_top_confidence": 0.6364,
-        "perch_top_label": "Pycnonotus barbatus_Common Bulbul",
-        "perch_top_confidence": 0.3777,
         "photo": true
     },
     {
@@ -2167,46 +2249,6 @@
         "v3_top_confidence": 0.5984,
         "perch_top_label": "Cecropis daurica_Eastern Red-rumped Swallow",
         "perch_top_confidence": 0.7221,
-        "photo": true
-    },
-    {
-        "name": "Great Tit",
-        "he_name": "\u05d9\u05e8\u05d2\u05d6\u05d9 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg/3840px-Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
-            "license": null
-        },
-        "audio": "audio/parus_major.mp3",
-        "last_seen": "2026-10-31T14:50:46",
-        "week_count": 1,
-        "v2_confidence": 0.875,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.3506,
-        "perch_confidence": 0.6353,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Great Tit",
-            "agrees": true
-        },
-        "sci": "Parus major",
-        "order": "Passeriformes",
-        "family": "Paridae",
-        "local": 4020,
-        "residency": "resident",
-        "dawn_frac": 0.0256,
-        "dawn_total": 39,
-        "v3_top_label": "Parus major_Great Tit",
-        "v3_top_confidence": 0.3506,
-        "perch_top_label": "Parus major_Great Tit",
-        "perch_top_confidence": 0.6353,
         "photo": true
     },
     {
@@ -4801,48 +4843,6 @@
         "v3_top_confidence": 0.6096,
         "perch_top_label": "Coloeus monedula_Western Jackdaw",
         "perch_top_confidence": 0.163,
-        "photo": true
-    },
-    {
-        "name": "Corn Crake",
-        "he_name": "\u05de\u05dc\u05db\u05d9\u05e9\u05dc\u05d9\u05d5 \u05d7\u05dc\u05d5\u05d3\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ruisr%C3%A4%C3%A4kk%C3%A4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Ruisr%C3%A4%C3%A4kk%C3%A4.JPG",
-            "license": null
-        },
-        "audio": "audio/crex_crex.mp3",
-        "last_seen": "2026-09-21T19:21:57",
-        "week_count": 0,
-        "v2_confidence": 0.7626,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.0012,
-        "perch_confidence": 0.0153,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Crex crex",
-        "order": "Gruiformes",
-        "family": "Rallidae",
-        "local": 73,
-        "residency": "",
-        "dawn_frac": 0,
-        "dawn_total": 1,
-        "v3_top_label": "Bubo virginianus_Great Horned Owl",
-        "v3_top_confidence": 0.14,
-        "perch_top_label": "Otus spilocephalus_Mountain Scops Owl",
-        "perch_top_confidence": 0.6052,
         "photo": true
     },
     {
