@@ -1,5 +1,225 @@
 [
     {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-11-05T05:56:32",
+        "week_count": 615,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6360,
+        "residency": "migrant",
+        "dawn_frac": 0.0576,
+        "dawn_total": 2169,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Gray Heron",
+        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05d0\u05e4\u05d5\u05e8\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grey_Heron_%2854990114762%29_%28cropped%29.jpg/1280px-Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/ardea_cinerea.mp3",
+        "last_seen": "2026-11-05T05:47:49",
+        "week_count": 3,
+        "v2_confidence": 0.9394,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.7442,
+        "perch_confidence": 0.8582,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Grey Heron",
+            "agrees": true
+        },
+        "sci": "Ardea cinerea",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 1282,
+        "residency": "resident",
+        "dawn_frac": 0.0309,
+        "dawn_total": 97,
+        "v3_top_label": "Ardea cinerea_Grey Heron",
+        "v3_top_confidence": 0.7442,
+        "perch_top_label": "Ardea cinerea_Grey Heron",
+        "perch_top_confidence": 0.8582,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-11-05T05:38:17",
+        "week_count": 406,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.0895,
+        "dawn_total": 14980,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "White-throated Kingfisher",
+        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
+            "license": null
+        },
+        "audio": "audio/halcyon_smyrnensis.mp3",
+        "last_seen": "2026-11-05T05:34:37",
+        "week_count": 108,
+        "v2_confidence": 0.9996,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9623,
+        "perch_confidence": 0.2317,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White-throated Kingfisher",
+            "agrees": true
+        },
+        "sci": "Halcyon smyrnensis",
+        "order": "Coraciiformes",
+        "family": "Alcedinidae",
+        "local": 4228,
+        "residency": "resident",
+        "dawn_frac": 0.3805,
+        "dawn_total": 1569,
+        "v3_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "v3_top_confidence": 0.9623,
+        "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
+        "perch_top_confidence": 0.2317,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Scops-Owl",
+        "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/otus_scops.mp3",
+        "last_seen": "2026-11-05T05:05:11",
+        "week_count": 36,
+        "v2_confidence": 0.9954,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "en": "Nocturnal",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9524,
+        "perch_confidence": 0.9787,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Scops Owl",
+            "agrees": true
+        },
+        "sci": "Otus scops",
+        "order": "Strigiformes",
+        "family": "Strigidae",
+        "local": 309,
+        "residency": "migrant",
+        "dawn_frac": 0.1968,
+        "dawn_total": 1001,
+        "v3_top_label": "Otus scops_Eurasian Scops Owl",
+        "v3_top_confidence": 0.9524,
+        "perch_top_label": "Otus scops_Eurasian Scops Owl",
+        "perch_top_confidence": 0.9787,
+        "photo": true
+    },
+    {
         "name": "Eurasian Thick-knee",
         "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
@@ -37,51 +257,6 @@
         "v3_top_confidence": 0.876,
         "perch_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
         "perch_top_confidence": 0.8837,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-05T01:39:22",
-        "week_count": 397,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.089,
-        "dawn_total": 14971,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -196,46 +371,6 @@
         "v3_top_confidence": 0.6149,
         "perch_top_label": "Pycnonotus xanthopygos_White-spectacled Bulbul",
         "perch_top_confidence": 0.0955,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-04T16:22:31",
-        "week_count": 612,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6360,
-        "residency": "migrant",
-        "dawn_frac": 0.0563,
-        "dawn_total": 2166,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -608,56 +743,6 @@
         "photo": true
     },
     {
-        "name": "Eurasian Scops-Owl",
-        "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/otus_scops.mp3",
-        "last_seen": "2026-11-04T10:01:46",
-        "week_count": 35,
-        "v2_confidence": 0.9954,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "en": "Nocturnal",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9524,
-        "perch_confidence": 0.9787,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Scops Owl",
-            "agrees": true
-        },
-        "sci": "Otus scops",
-        "order": "Strigiformes",
-        "family": "Strigidae",
-        "local": 309,
-        "residency": "migrant",
-        "dawn_frac": 0.196,
-        "dawn_total": 1000,
-        "v3_top_label": "Otus scops_Eurasian Scops Owl",
-        "v3_top_confidence": 0.9524,
-        "perch_top_label": "Otus scops_Eurasian Scops Owl",
-        "perch_top_confidence": 0.9787,
-        "photo": true
-    },
-    {
         "name": "Bearded Reedling",
         "he_name": "\u05e9\u05e4\u05de\u05ea\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg/3840px-%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg",
@@ -695,46 +780,6 @@
         "v3_top_confidence": 0.8256,
         "perch_top_label": "Panurus biarmicus_Bearded Reedling",
         "perch_top_confidence": 0.2002,
-        "photo": true
-    },
-    {
-        "name": "White-throated Kingfisher",
-        "he_name": "\u05e9\u05dc\u05d3\u05d2 \u05dc\u05d1\u05df-\u05d7\u05d6\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_%28Halcyon_smyrnensis%29_Galle.jpg",
-            "license": null
-        },
-        "audio": "audio/halcyon_smyrnensis.mp3",
-        "last_seen": "2026-11-04T07:38:23",
-        "week_count": 107,
-        "v2_confidence": 0.9996,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9623,
-        "perch_confidence": 0.2317,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White-throated Kingfisher",
-            "agrees": true
-        },
-        "sci": "Halcyon smyrnensis",
-        "order": "Coraciiformes",
-        "family": "Alcedinidae",
-        "local": 4228,
-        "residency": "resident",
-        "dawn_frac": 0.3801,
-        "dawn_total": 1568,
-        "v3_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
-        "v3_top_confidence": 0.9623,
-        "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
-        "perch_top_confidence": 0.2317,
         "photo": true
     },
     {
@@ -1794,51 +1839,6 @@
         "v3_top_confidence": 0.8192,
         "perch_top_label": "Tachybaptus ruficollis_Little Grebe",
         "perch_top_confidence": 0.672,
-        "photo": true
-    },
-    {
-        "name": "Gray Heron",
-        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05d0\u05e4\u05d5\u05e8\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grey_Heron_%2854990114762%29_%28cropped%29.jpg/1280px-Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/ardea_cinerea.mp3",
-        "last_seen": "2026-11-02T02:58:23",
-        "week_count": 2,
-        "v2_confidence": 0.9394,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.7442,
-        "perch_confidence": 0.8582,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Grey Heron",
-            "agrees": true
-        },
-        "sci": "Ardea cinerea",
-        "order": "Pelecaniformes",
-        "family": "Ardeidae",
-        "local": 1282,
-        "residency": "resident",
-        "dawn_frac": 0.0208,
-        "dawn_total": 96,
-        "v3_top_label": "Ardea cinerea_Grey Heron",
-        "v3_top_confidence": 0.7442,
-        "perch_top_label": "Ardea cinerea_Grey Heron",
-        "perch_top_confidence": 0.8582,
         "photo": true
     },
     {
