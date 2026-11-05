@@ -1,5 +1,50 @@
 [
     {
+        "name": "Common Sandpiper",
+        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05dc\u05d1\u05e0\u05ea-\u05d1\u05d8\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Actitis_hypoleucos_-_Laem_Pak_Bia.jpg/1280px-Actitis_hypoleucos_-_Laem_Pak_Bia.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Actitis_hypoleucos_-_Laem_Pak_Bia.jpg",
+            "license": "CC BY 3.0"
+        },
+        "audio": "audio/actitis_hypoleucos.mp3",
+        "last_seen": "2026-11-05T21:53:01",
+        "week_count": 1,
+        "v2_confidence": 0.9507,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.8271,
+        "perch_confidence": 0.7364,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Sandpiper",
+            "agrees": true
+        },
+        "sci": "Actitis hypoleucos",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 2103,
+        "residency": "migrant",
+        "dawn_frac": 0.2333,
+        "dawn_total": 30,
+        "v3_top_label": "Actitis hypoleucos_Common Sandpiper",
+        "v3_top_confidence": 0.8271,
+        "perch_top_label": "Actitis hypoleucos_Common Sandpiper",
+        "perch_top_confidence": 0.7364,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -5044,51 +5089,6 @@
         "v3_top_confidence": 0.4437,
         "perch_top_label": "Circaetus gallicus_Short-toed Snake Eagle",
         "perch_top_confidence": 0.5354,
-        "photo": true
-    },
-    {
-        "name": "Common Sandpiper",
-        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05dc\u05d1\u05e0\u05ea-\u05d1\u05d8\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Actitis_hypoleucos_-_Laem_Pak_Bia.jpg/1280px-Actitis_hypoleucos_-_Laem_Pak_Bia.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Actitis_hypoleucos_-_Laem_Pak_Bia.jpg",
-            "license": "CC BY 3.0"
-        },
-        "audio": "audio/actitis_hypoleucos.mp3",
-        "last_seen": "2026-09-17T07:48:05",
-        "week_count": 0,
-        "v2_confidence": 0.9507,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.8271,
-        "perch_confidence": 0.7364,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Sandpiper",
-            "agrees": true
-        },
-        "sci": "Actitis hypoleucos",
-        "order": "Charadriiformes",
-        "family": "Scolopacidae",
-        "local": 2103,
-        "residency": "migrant",
-        "dawn_frac": 0.2414,
-        "dawn_total": 29,
-        "v3_top_label": "Actitis hypoleucos_Common Sandpiper",
-        "v3_top_confidence": 0.8271,
-        "perch_top_label": "Actitis hypoleucos_Common Sandpiper",
-        "perch_top_confidence": 0.7364,
         "photo": true
     },
     {
