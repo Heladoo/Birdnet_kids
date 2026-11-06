@@ -1,5 +1,244 @@
 [
     {
+        "name": "Red-vented Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+            "license": "CC BY 4.0"
+        },
+        "audio": "audio/pycnonotus_cafer.mp3",
+        "last_seen": "2026-11-06T14:55:32",
+        "week_count": 30,
+        "v2_confidence": 0.9278,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9549,
+        "perch_confidence": 0.0209,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Pycnonotus cafer",
+        "order": "Passeriformes",
+        "family": "Pycnonotidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0.0569,
+        "dawn_total": 123,
+        "v3_top_label": "Pycnonotus cafer_Red-vented Bulbul",
+        "v3_top_confidence": 0.9549,
+        "perch_top_label": "Urocissa erythroryncha_Red-billed Blue Magpie",
+        "perch_top_confidence": 0.0364,
+        "photo": true
+    },
+    {
+        "name": "Spotted Crake",
+        "he_name": "\u05d1\u05e8\u05d5\u05d3\u05d9\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4 \u05de\u05e0\u05d5\u05e7\u05d3\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Spotted_crake_%28Porzana_porzana%29_%286830876880%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spotted_crake_%28Porzana_porzana%29_%286830876880%29.jpg",
+            "license": null
+        },
+        "audio": "audio/porzana_porzana.mp3",
+        "last_seen": "2026-11-06T14:54:56",
+        "week_count": 10,
+        "v2_confidence": 0.9968,
+        "badges": [
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.3218,
+        "perch_confidence": 0.2157,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spotted Crake",
+            "agrees": true
+        },
+        "sci": "Porzana porzana",
+        "order": "Gruiformes",
+        "family": "Rallidae",
+        "local": 171,
+        "residency": "",
+        "dawn_frac": 0.0047,
+        "dawn_total": 215,
+        "v3_top_label": "Porzana porzana_Spotted Crake",
+        "v3_top_confidence": 0.3218,
+        "perch_top_label": "Porzana porzana_Spotted Crake",
+        "perch_top_confidence": 0.2157,
+        "photo": true
+    },
+    {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-11-06T14:52:30",
+        "week_count": 665,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6360,
+        "residency": "migrant",
+        "dawn_frac": 0.0593,
+        "dawn_total": 2295,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-11-06T14:47:17",
+        "week_count": 443,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.09,
+        "dawn_total": 15077,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-11-06T14:41:58",
+        "week_count": 453,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5255,
+        "residency": "resident",
+        "dawn_frac": 0.0151,
+        "dawn_total": 7466,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Palestine Sunbird",
+        "he_name": "\u05e6\u05d5\u05e4\u05d9\u05ea \u05d1\u05d5\u05d4\u05e7\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg/1280px-Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/cinnyris_osea.mp3",
+        "last_seen": "2026-11-06T14:24:32",
+        "week_count": 4,
+        "v2_confidence": 0.8927,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.5097,
+        "perch_confidence": 0,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Cinnyris osea",
+        "order": "Passeriformes",
+        "family": "Nectariniidae",
+        "local": 5372,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 32,
+        "v3_top_label": "Cinnyris osea_Palestine Sunbird",
+        "v3_top_confidence": 0.5097,
+        "perch_top_label": "Hippolais icterina_Icterine Warbler",
+        "perch_top_confidence": 0.1406,
+        "photo": true
+    },
+    {
         "name": "Common Myna",
         "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -40,46 +279,6 @@
         "photo": true
     },
     {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-06T13:29:15",
-        "week_count": 451,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5255,
-        "residency": "resident",
-        "dawn_frac": 0.0151,
-        "dawn_total": 7464,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
-        "photo": true
-    },
-    {
         "name": "Graceful Prinia",
         "he_name": "\u05e4\u05e9\u05d5\u05e9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -114,46 +313,6 @@
         "v3_top_confidence": 0.4048,
         "perch_top_label": "Prinia gracilis_Graceful Prinia",
         "perch_top_confidence": 0.2728,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-06T13:04:56",
-        "week_count": 640,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6360,
-        "residency": "migrant",
-        "dawn_frac": 0.0599,
-        "dawn_total": 2270,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -271,51 +430,6 @@
         "v3_top_confidence": 0.1856,
         "perch_top_label": "Pelobates fuscus_Pelobates fuscus",
         "perch_top_confidence": 0.2974,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-06T12:42:52",
-        "week_count": 441,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.09,
-        "dawn_total": 15075,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -747,46 +861,6 @@
         "photo": true
     },
     {
-        "name": "Spotted Crake",
-        "he_name": "\u05d1\u05e8\u05d5\u05d3\u05d9\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4 \u05de\u05e0\u05d5\u05e7\u05d3\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Spotted_crake_%28Porzana_porzana%29_%286830876880%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spotted_crake_%28Porzana_porzana%29_%286830876880%29.jpg",
-            "license": null
-        },
-        "audio": "audio/porzana_porzana.mp3",
-        "last_seen": "2026-11-06T06:24:24",
-        "week_count": 5,
-        "v2_confidence": 0.9968,
-        "badges": [
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.3218,
-        "perch_confidence": 0.2157,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spotted Crake",
-            "agrees": true
-        },
-        "sci": "Porzana porzana",
-        "order": "Gruiformes",
-        "family": "Rallidae",
-        "local": 171,
-        "residency": "",
-        "dawn_frac": 0.0048,
-        "dawn_total": 210,
-        "v3_top_label": "Porzana porzana_Spotted Crake",
-        "v3_top_confidence": 0.3218,
-        "perch_top_label": "Porzana porzana_Spotted Crake",
-        "perch_top_confidence": 0.2157,
-        "photo": true
-    },
-    {
         "name": "Eurasian Thick-knee",
         "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
@@ -998,43 +1072,6 @@
         "v3_top_confidence": 0.9623,
         "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
         "perch_top_confidence": 0.2317,
-        "photo": true
-    },
-    {
-        "name": "Red-vented Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
-            "license": "CC BY 4.0"
-        },
-        "audio": "audio/pycnonotus_cafer.mp3",
-        "last_seen": "2026-11-05T14:43:13",
-        "week_count": 29,
-        "v2_confidence": 0.9278,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9549,
-        "perch_confidence": 0.0209,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Pycnonotus cafer",
-        "order": "Passeriformes",
-        "family": "Pycnonotidae",
-        "local": 0,
-        "residency": "",
-        "dawn_frac": 0.0574,
-        "dawn_total": 122,
-        "v3_top_label": "Pycnonotus cafer_Red-vented Bulbul",
-        "v3_top_confidence": 0.9549,
-        "perch_top_label": "Urocissa erythroryncha_Red-billed Blue Magpie",
-        "perch_top_confidence": 0.0364,
         "photo": true
     },
     {
@@ -2708,43 +2745,6 @@
         "v3_top_confidence": 0.5645,
         "perch_top_label": "Grus grus_Common Crane",
         "perch_top_confidence": 0.3963,
-        "photo": true
-    },
-    {
-        "name": "Palestine Sunbird",
-        "he_name": "\u05e6\u05d5\u05e4\u05d9\u05ea \u05d1\u05d5\u05d4\u05e7\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg/1280px-Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/cinnyris_osea.mp3",
-        "last_seen": "2026-10-30T12:43:06",
-        "week_count": 0,
-        "v2_confidence": 0.8927,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.5097,
-        "perch_confidence": 0,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Cinnyris osea",
-        "order": "Passeriformes",
-        "family": "Nectariniidae",
-        "local": 5372,
-        "residency": "resident",
-        "dawn_frac": 0,
-        "dawn_total": 28,
-        "v3_top_label": "Cinnyris osea_Palestine Sunbird",
-        "v3_top_confidence": 0.5097,
-        "perch_top_label": "Hippolais icterina_Icterine Warbler",
-        "perch_top_confidence": 0.1406,
         "photo": true
     },
     {
