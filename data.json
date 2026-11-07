@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-07T06:45:34",
-        "week_count": 428,
+        "last_seen": "2026-11-07T07:16:30",
+        "week_count": 443,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -36,12 +36,57 @@
         "family": "Charadriidae",
         "local": 7526,
         "residency": "resident",
-        "dawn_frac": 0.0903,
-        "dawn_total": 15122,
+        "dawn_frac": 0.0902,
+        "dawn_total": 15137,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Kestrel",
+        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/falco_tinnunculus.mp3",
+        "last_seen": "2026-11-07T07:15:19",
+        "week_count": 18,
+        "v2_confidence": 0.9987,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.4129,
+        "perch_confidence": 0.4165,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Kestrel",
+            "agrees": true
+        },
+        "sci": "Falco tinnunculus",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 12490,
+        "residency": "resident",
+        "dawn_frac": 0.0848,
+        "dawn_total": 330,
+        "v3_top_label": "Falco tinnunculus_Common Kestrel",
+        "v3_top_confidence": 0.4129,
+        "perch_top_label": "Falco tinnunculus_Common Kestrel",
+        "perch_top_confidence": 0.4165,
         "photo": true
     },
     {
@@ -203,51 +248,6 @@
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Kestrel",
-        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/falco_tinnunculus.mp3",
-        "last_seen": "2026-11-06T16:09:37",
-        "week_count": 16,
-        "v2_confidence": 0.9987,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.4129,
-        "perch_confidence": 0.4165,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Kestrel",
-            "agrees": true
-        },
-        "sci": "Falco tinnunculus",
-        "order": "Falconiformes",
-        "family": "Falconidae",
-        "local": 12490,
-        "residency": "resident",
-        "dawn_frac": 0.0854,
-        "dawn_total": 328,
-        "v3_top_label": "Falco tinnunculus_Common Kestrel",
-        "v3_top_confidence": 0.4129,
-        "perch_top_label": "Falco tinnunculus_Common Kestrel",
-        "perch_top_confidence": 0.4165,
         "photo": true
     },
     {
