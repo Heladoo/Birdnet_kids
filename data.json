@@ -1,5 +1,90 @@
 [
     {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-11-07T12:21:30",
+        "week_count": 586,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6360,
+        "residency": "migrant",
+        "dawn_frac": 0.059,
+        "dawn_total": 2307,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-11-07T12:20:28",
+        "week_count": 450,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.0901,
+        "dawn_total": 15144,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
         "name": "Eurasian Scops-Owl",
         "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg/1280px-Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg",
@@ -8,8 +93,8 @@
             "license": "CC BY 2.0"
         },
         "audio": "audio/otus_scops.mp3",
-        "last_seen": "2026-11-07T11:47:30",
-        "week_count": 21,
+        "last_seen": "2026-11-07T12:13:34",
+        "week_count": 22,
         "v2_confidence": 0.9954,
         "badges": [
             {
@@ -41,8 +126,8 @@
         "family": "Strigidae",
         "local": 309,
         "residency": "migrant",
-        "dawn_frac": 0.1962,
-        "dawn_total": 1004,
+        "dawn_frac": 0.196,
+        "dawn_total": 1005,
         "v3_top_label": "Otus scops_Eurasian Scops Owl",
         "v3_top_confidence": 0.9524,
         "perch_top_label": "Otus scops_Eurasian Scops Owl",
@@ -50,17 +135,57 @@
         "photo": true
     },
     {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "name": "Crested Lark",
+        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
         "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Cochevis_hupp%C3%A9_Gbollat.jpg",
             "license": null
         },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-07T11:40:43",
-        "week_count": 579,
-        "v2_confidence": 0.9981,
+        "audio": "audio/galerida_cristata.mp3",
+        "last_seen": "2026-11-07T12:12:56",
+        "week_count": 6,
+        "v2_confidence": 0.9829,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9411,
+        "perch_confidence": 0.625,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Crested Lark",
+            "agrees": true
+        },
+        "sci": "Galerida cristata",
+        "order": "Passeriformes",
+        "family": "Alaudidae",
+        "local": 7863,
+        "residency": "resident",
+        "dawn_frac": 0.1377,
+        "dawn_total": 472,
+        "v3_top_label": "Galerida cristata_Crested Lark",
+        "v3_top_confidence": 0.9411,
+        "perch_top_label": "Galerida cristata_Crested Lark",
+        "perch_top_confidence": 0.625,
+        "photo": true
+    },
+    {
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-11-07T12:11:47",
+        "week_count": 17,
+        "v2_confidence": 0.9897,
         "badges": [
             {
                 "i": "\u2708\ufe0f",
@@ -68,70 +193,25 @@
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
         "v3_agrees": true,
         "perch_agrees": true,
         "second_opinion": {
-            "com": "White Wagtail",
+            "com": "Common Chiffchaff",
             "agrees": true
         },
-        "sci": "Motacilla alba",
+        "sci": "Phylloscopus collybita",
         "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6360,
+        "family": "Phylloscopidae",
+        "local": 4066,
         "residency": "migrant",
-        "dawn_frac": 0.0591,
-        "dawn_total": 2300,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-07T11:31:41",
-        "week_count": 449,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.0901,
-        "dawn_total": 15143,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
+        "dawn_frac": 0.05,
+        "dawn_total": 100,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
         "photo": true
     },
     {
@@ -680,46 +760,6 @@
         "v3_top_confidence": 0.3275,
         "perch_top_label": "Branta canadensis_Canada Goose",
         "perch_top_confidence": 0.1104,
-        "photo": true
-    },
-    {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
-            "license": null
-        },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-06T09:51:43",
-        "week_count": 16,
-        "v2_confidence": 0.9897,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Chiffchaff",
-            "agrees": true
-        },
-        "sci": "Phylloscopus collybita",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4066,
-        "residency": "migrant",
-        "dawn_frac": 0.0505,
-        "dawn_total": 99,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
         "photo": true
     },
     {
@@ -1476,46 +1516,6 @@
         "v3_top_confidence": 0.9386,
         "perch_top_label": "Phoenicurus ochruros_Black Redstart",
         "perch_top_confidence": 0.9259,
-        "photo": true
-    },
-    {
-        "name": "Crested Lark",
-        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Cochevis_hupp%C3%A9_Gbollat.jpg",
-            "license": null
-        },
-        "audio": "audio/galerida_cristata.mp3",
-        "last_seen": "2026-11-04T15:56:40",
-        "week_count": 5,
-        "v2_confidence": 0.9829,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9411,
-        "perch_confidence": 0.625,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Crested Lark",
-            "agrees": true
-        },
-        "sci": "Galerida cristata",
-        "order": "Passeriformes",
-        "family": "Alaudidae",
-        "local": 7863,
-        "residency": "resident",
-        "dawn_frac": 0.138,
-        "dawn_total": 471,
-        "v3_top_label": "Galerida cristata_Crested Lark",
-        "v3_top_confidence": 0.9411,
-        "perch_top_label": "Galerida cristata_Crested Lark",
-        "perch_top_confidence": 0.625,
         "photo": true
     },
     {
