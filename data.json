@@ -1,5 +1,45 @@
 [
     {
+        "name": "Eurasian Thick-knee",
+        "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/burhinus_oedicnemus.mp3",
+        "last_seen": "2026-11-07T17:41:37",
+        "week_count": 11,
+        "v2_confidence": 0.9974,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.876,
+        "perch_confidence": 0.8837,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Stone-curlew",
+            "agrees": true
+        },
+        "sci": "Burhinus oedicnemus",
+        "order": "Charadriiformes",
+        "family": "Burhinidae",
+        "local": 3703,
+        "residency": "resident",
+        "dawn_frac": 0.1483,
+        "dawn_total": 1295,
+        "v3_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
+        "v3_top_confidence": 0.876,
+        "perch_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
+        "perch_top_confidence": 0.8837,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +48,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-07T16:59:39",
-        "week_count": 468,
+        "last_seen": "2026-11-07T17:28:47",
+        "week_count": 469,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -37,7 +77,7 @@
         "local": 7526,
         "residency": "resident",
         "dawn_frac": 0.09,
-        "dawn_total": 15162,
+        "dawn_total": 15163,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
@@ -323,8 +363,11 @@
     {
         "name": "Icterine Warbler",
         "he_name": null,
-        "image": null,
-        "credit": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Icterine_warbler_18_06_2022_004_crop.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Icterine_warbler_18_06_2022_004_crop.png",
+            "license": null
+        },
         "audio": "audio/hippolais_icterina.mp3",
         "last_seen": "2026-11-07T15:05:26",
         "week_count": 1,
@@ -352,7 +395,7 @@
         "v3_top_confidence": null,
         "perch_top_label": null,
         "perch_top_confidence": null,
-        "photo": false
+        "photo": true
     },
     {
         "name": "Eurasian Kestrel",
@@ -1167,46 +1210,6 @@
         "v3_top_confidence": 0.7368,
         "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
         "perch_top_confidence": 0.0852,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Thick-knee",
-        "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg/1280px-Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/burhinus_oedicnemus.mp3",
-        "last_seen": "2026-11-06T05:14:04",
-        "week_count": 9,
-        "v2_confidence": 0.9974,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.876,
-        "perch_confidence": 0.8837,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Stone-curlew",
-            "agrees": true
-        },
-        "sci": "Burhinus oedicnemus",
-        "order": "Charadriiformes",
-        "family": "Burhinidae",
-        "local": 3703,
-        "residency": "resident",
-        "dawn_frac": 0.1485,
-        "dawn_total": 1293,
-        "v3_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
-        "v3_top_confidence": 0.876,
-        "perch_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
-        "perch_top_confidence": 0.8837,
         "photo": true
     },
     {
