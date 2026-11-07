@@ -1,5 +1,36 @@
 [
     {
+        "name": "Red-throated Pipit",
+        "he_name": "\u05e4\u05d9\u05e4\u05d9\u05d5\u05df \u05d0\u05d3\u05d5\u05dd-\u05d2\u05e8\u05d5\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Red-throated_Pipit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Red-throated_Pipit.jpg",
+            "license": null
+        },
+        "audio": "audio/anthus_cervinus.mp3",
+        "last_seen": "2026-11-07T05:57:07",
+        "week_count": 4,
+        "v2_confidence": 0.9079,
+        "badges": [],
+        "v3_confidence": null,
+        "perch_confidence": null,
+        "v3_agrees": null,
+        "perch_agrees": null,
+        "second_opinion": null,
+        "sci": "Anthus cervinus",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 2041,
+        "residency": "",
+        "dawn_frac": 0.2,
+        "dawn_total": 5,
+        "v3_top_label": null,
+        "v3_top_confidence": null,
+        "perch_top_label": null,
+        "perch_top_confidence": null,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +39,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-07T04:27:07",
-        "week_count": 416,
+        "last_seen": "2026-11-07T05:34:45",
+        "week_count": 424,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -36,8 +67,8 @@
         "family": "Charadriidae",
         "local": 7526,
         "residency": "resident",
-        "dawn_frac": 0.0898,
-        "dawn_total": 15110,
+        "dawn_frac": 0.0903,
+        "dawn_total": 15118,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
@@ -2085,37 +2116,6 @@
         "v3_top_confidence": 0.8716,
         "perch_top_label": "Athene noctua_Little Owl",
         "perch_top_confidence": 0.5193,
-        "photo": true
-    },
-    {
-        "name": "Red-throated Pipit",
-        "he_name": "\u05e4\u05d9\u05e4\u05d9\u05d5\u05df \u05d0\u05d3\u05d5\u05dd-\u05d2\u05e8\u05d5\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Red-throated_Pipit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Red-throated_Pipit.jpg",
-            "license": null
-        },
-        "audio": "audio/anthus_cervinus.mp3",
-        "last_seen": "2026-11-02T09:09:48",
-        "week_count": 3,
-        "v2_confidence": 0.7673,
-        "badges": [],
-        "v3_confidence": null,
-        "perch_confidence": null,
-        "v3_agrees": null,
-        "perch_agrees": null,
-        "second_opinion": null,
-        "sci": "Anthus cervinus",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 2041,
-        "residency": "",
-        "dawn_frac": 0,
-        "dawn_total": 4,
-        "v3_top_label": null,
-        "v3_top_confidence": null,
-        "perch_top_label": null,
-        "perch_top_confidence": null,
         "photo": true
     },
     {
