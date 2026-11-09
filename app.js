@@ -301,6 +301,12 @@ const modalClips = modal ? modal.querySelector('.modal-clips') : null;
 const modalClipInfo = modal ? modal.querySelector('.modal-clip-info') : null;
 const modalFacts = modal ? modal.querySelector('.modal-facts') : null;
 const modalCredit = modal ? modal.querySelector('.modal-credit') : null;
+const modalShared = modal ? modal.querySelector('.modal-shared') : null;
+let currentCard = null;
+let currentClip = null;
+let currentClipIndex = 0;
+// Recording to select once history loads, when opened from a shared link.
+let pendingClipIndex = null;
 const chartWrap = modal ? modal.querySelector('.chart-wrap') : null;
 const periodButtons = modal ? Array.from(modal.querySelectorAll('.period-btn')) : [];
 
@@ -334,6 +340,9 @@ function scoreSpan(icon, label, conf, agrees) {
 }
 
 function populateModal(data) {
+  currentCard = data;
+  currentClip = { audio: data.audio };
+  currentClipIndex = 0;
   modalNameEn.textContent = data.name;
   if (data.he_name) {
     modalNameHe.textContent = data.he_name;
@@ -365,20 +374,7 @@ function populateModal(data) {
   // Unlike the card grid (where the confirmation half is Certainty-sort-only
   // to avoid clutter), the popup is a dedicated detail view - show whichever
   // variant applies, always.
-  if (data.second_opinion) {
-    const agrees = data.second_opinion.agrees;
-    modalSecondOpinion.textContent = agrees ? '✓ All models agree' : `⚠ Others hear: ${data.second_opinion.com}`;
-    modalSecondOpinion.className = `modal-second-opinion ${agrees ? 'agrees' : 'differs'}`;
-  } else {
-    modalSecondOpinion.textContent = '';
-    modalSecondOpinion.className = 'modal-second-opinion';
-  }
-
-  modalScores.innerHTML = '<span class="scores-label">Confidence:</span>' + [
-    scoreSpan('🐦', 'BirdNET v2.4 (our main model)', data.v2_confidence, true),
-    scoreSpan('3️⃣', 'BirdNET+ V3.0 developer preview', data.v3_confidence, data.v3_agrees),
-    scoreSpan('<strong>G</strong>', 'Google Perch v2', data.perch_confidence, data.perch_agrees),
-  ].join('');
+  renderScores(data);
 
   renderSuggestions(data);
   renderCredit(data.credit);
@@ -393,6 +389,68 @@ function populateModal(data) {
     fact('Last heard', isNaN(lastHeard) ? '' : formatDate(lastHeard)),
   ].join('');
 }
+
+// The model scores in the popup. The V3.0 and Perch scores, and what they
+// suggest, were measured on the Best clip, so a different Last clip only shows
+// the main model's own score.
+function renderScores(data, lastClip) {
+  modalSecondOpinion.style.display = lastClip ? 'none' : '';
+  modalSuggestions.style.display = lastClip ? 'none' : '';
+  if (lastClip) {
+    modalScores.innerHTML = '<span class="scores-label">Confidence:</span>'
+      + scoreSpan('🐦', 'BirdNET v2.4 (our main model)', lastClip.confidence, true);
+    return;
+  }
+  if (data.second_opinion) {
+    const agrees = data.second_opinion.agrees;
+    modalSecondOpinion.textContent = agrees ? '✓ All models agree' : `⚠ Others hear: ${data.second_opinion.com}`;
+    modalSecondOpinion.className = `modal-second-opinion ${agrees ? 'agrees' : 'differs'}`;
+  } else {
+    modalSecondOpinion.textContent = '';
+    modalSecondOpinion.className = 'modal-second-opinion';
+  }
+
+  modalScores.innerHTML = '<span class="scores-label">Confidence:</span>' + [
+    scoreSpan('🐦', 'BirdNET v2.4 (our main model)', data.v2_confidence, true),
+    scoreSpan('3️⃣', 'BirdNET+ V3.0 developer preview', data.v3_confidence, data.v3_agrees),
+    scoreSpan('<strong>G</strong>', 'Google Perch v2', data.perch_confidence, data.perch_agrees),
+  ].join('');
+}
+
+// Remembers which recording is showing, for Save and Share.
+function selectClip(clip, index) {
+  currentClip = clip;
+  currentClipIndex = index;
+  renderScores(currentCard, clip.last && clip.audio !== currentCard.audio ? clip : null);
+}
+
+// Save downloads the audio file of the recording that's showing.
+function saveCurrentClip() {
+  if (!currentCard) {
+    return;
+  }
+  window.kidsStats && window.kidsStats.event('save');
+  const link = document.createElement('a');
+  link.href = modalAudio.getAttribute('src');
+  link.download = kidsClipFileName(currentCard.name, currentClip);
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+}
+
+function kidsClipFileName(name, clip) {
+  const base = String(name).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  return `birdnet-kids-${base}${clip && clip.last ? '-last' : ''}.mp3`;
+}
+
+function kidsSlug(sci) {
+  return String(sci).toLowerCase().replace(/[^a-z0-9]+/g, '_').replace(/^_|_$/g, '');
+}
+
+// What share.js needs to know about the open popup.
+window.kidsShareState = () => (currentCard
+  ? { card: currentCard, clip: currentClip, clipIndex: currentClipIndex, slug: kidsSlug(currentCard.sci), fileName: kidsClipFileName(currentCard.name, currentClip) }
+  : null);
 
 const TIP_REGIONAL = 'Public GBIF sightings within ~35 km (not our own station)';
 const TIP_TOTAL = 'How many times our own station has heard this species, all time';
@@ -451,19 +509,24 @@ function clipCaption(clip) {
   return `Heard ${isNaN(d) ? clip.date : formatDate(d)} · ${Math.round(clip.confidence * 100)}% sure`;
 }
 
-// Offers the species' top recordings as a row of buttons under the player.
-// The clip the card plays (and the popup loads first) stays first; the other
-// two come from history.json. Nothing is shown until there's more than one
-// clip to choose from.
+// Offers the species' recordings (Best, 2nd, Last) as a row of buttons under
+// the player. The clip the card plays (and the popup loads first) stays first;
+// the others come from history.json. Nothing is shown until there's more than
+// one clip to choose from.
 function renderClips(clips, currentAudio) {
   modalClips.innerHTML = '';
   modalClipInfo.textContent = '';
-  if (!clips || clips.length < 2) {
+  if (!clips || !clips.length) {
     return;
   }
   const first = clips.find((c) => c.audio === currentAudio) || { audio: currentAudio };
+  currentClip = first;
+  if (clips.length < 2) {
+    pendingClipIndex = null;
+    return;
+  }
   const options = [first, ...clips.filter((c) => c !== first).slice(0, 2)];
-  const names = ['Best', '2nd', '3rd'];
+  const names = ['Best', '2nd'];
   const label = document.createElement('span');
   label.className = 'clips-label';
   label.textContent = 'Recordings:';
@@ -472,16 +535,28 @@ function renderClips(clips, currentAudio) {
     const btn = document.createElement('button');
     btn.type = 'button';
     btn.className = `clip-btn${i === 0 ? ' active' : ''}`;
-    btn.textContent = names[i];
+    btn.textContent = opt.last ? 'Last' : names[i];
     btn.addEventListener('click', () => {
       modalClips.querySelectorAll('.clip-btn').forEach((b) => b.classList.toggle('active', b === btn));
       window.kidsStats && window.kidsStats.event('clip');
       setModalAudio(opt.audio, true);
       modalClipInfo.textContent = opt.date ? clipCaption(opt) : '';
+      selectClip(opt, i);
     });
     modalClips.appendChild(btn);
   });
   modalClipInfo.textContent = first.date ? clipCaption(first) : '';
+  if (pendingClipIndex !== null && options[pendingClipIndex]) {
+    const opt = options[pendingClipIndex];
+    const btns = modalClips.querySelectorAll('.clip-btn');
+    btns.forEach((b, i) => b.classList.toggle('active', i === pendingClipIndex));
+    if (opt.audio !== currentAudio) {
+      setModalAudio(opt.audio, false);
+    }
+    modalClipInfo.textContent = opt.date ? clipCaption(opt) : '';
+    selectClip(opt, pendingClipIndex);
+  }
+  pendingClipIndex = null;
 }
 
 function dateLabel(d) {
@@ -991,6 +1066,10 @@ function closeModal() {
   modal.hidden = true;
   document.body.classList.remove('modal-open');
   modalAudio.pause();
+  if (modalShared && !modalShared.hidden) {
+    modalShared.hidden = true;
+    history.replaceState(null, '', location.pathname);
+  }
   if (lastFocused && lastFocused.focus) {
     lastFocused.focus();
   }
@@ -1144,11 +1223,41 @@ function renderNews(items) {
   section.hidden = shown === 0;
 }
 
+// Opened from a shared link (b/<slug>.html sends visitors to ?bird=<slug>):
+// go straight to that bird's popup and the recording that was shared.
+function openSharedBird() {
+  const params = new URLSearchParams(location.search);
+  const slug = params.get('bird');
+  const data = slug ? cardsData.find((d) => kidsSlug(d.sci) === slug) : null;
+  if (!data) {
+    return;
+  }
+  const clip = parseInt(params.get('clip'), 10);
+  pendingClipIndex = clip >= 0 && clip <= 2 ? clip : null;
+  if (params.get('shared') && modalShared) {
+    modalShared.hidden = false;
+    window.kidsStats && window.kidsStats.event('sharedopen');
+  }
+  openModal(data);
+}
+
+if (modal) {
+  modal.querySelector('.player-save').addEventListener('click', saveCurrentClip);
+  if (modalShared) {
+    modalShared.querySelector('.modal-shared-all').addEventListener('click', closeModal);
+  }
+}
+
 fetch('data.json')
   .then((r) => r.json())
   .then((data) => {
     cardsData = data;
     applyView();
+    const allBirds = document.querySelector('.modal-shared-all');
+    if (allBirds) {
+      allBirds.textContent = `Hear all ${data.length} birds`;
+    }
+    openSharedBird();
     // Stories are optional: no news.json (or an empty one) just leaves the
     // strip hidden. cache:'no-cache' so a stale copy can't outlive its birds.
     fetch('news.json', { cache: 'no-cache' })
