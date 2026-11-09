@@ -1,5 +1,50 @@
 [
     {
+        "name": "Green Sandpiper",
+        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05db\u05e0\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Green_sandpiper_%28Tringa_ochropus%29.jpg/1280px-Green_sandpiper_%28Tringa_ochropus%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Green_sandpiper_%28Tringa_ochropus%29.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/tringa_ochropus.mp3",
+        "last_seen": "2026-11-09T15:55:10",
+        "week_count": 10,
+        "v2_confidence": 0.9967,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.8386,
+        "perch_confidence": 0.8631,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Green Sandpiper",
+            "agrees": true
+        },
+        "sci": "Tringa ochropus",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 1906,
+        "residency": "migrant",
+        "dawn_frac": 0.092,
+        "dawn_total": 87,
+        "v3_top_label": "Tringa ochropus_Green Sandpiper",
+        "v3_top_confidence": 0.8386,
+        "perch_top_label": "Tringa ochropus_Green Sandpiper",
+        "perch_top_confidence": 0.8631,
+        "photo": true
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +53,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-09T14:55:57",
-        "week_count": 368,
+        "last_seen": "2026-11-09T15:36:12",
+        "week_count": 375,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -32,11 +77,56 @@
         "local": 5606,
         "residency": "resident",
         "dawn_frac": 0.0153,
-        "dawn_total": 7592,
+        "dawn_total": 7599,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Kestrel",
+        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
+            "license": null
+        },
+        "audio": "audio/falco_tinnunculus.mp3",
+        "last_seen": "2026-11-09T15:30:33",
+        "week_count": 16,
+        "v2_confidence": 0.9987,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.4129,
+        "perch_confidence": 0.4165,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Kestrel",
+            "agrees": true
+        },
+        "sci": "Falco tinnunculus",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 12500,
+        "residency": "resident",
+        "dawn_frac": 0.0828,
+        "dawn_total": 338,
+        "v3_top_label": "Falco tinnunculus_Common Kestrel",
+        "v3_top_confidence": 0.4129,
+        "perch_top_label": "Falco tinnunculus_Common Kestrel",
+        "perch_top_confidence": 0.4165,
         "photo": true
     },
     {
@@ -48,8 +138,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-09T14:54:46",
-        "week_count": 421,
+        "last_seen": "2026-11-09T15:21:05",
+        "week_count": 427,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -71,12 +161,99 @@
         "family": "Motacillidae",
         "local": 6392,
         "residency": "migrant",
-        "dawn_frac": 0.0598,
-        "dawn_total": 2426,
+        "dawn_frac": 0.0596,
+        "dawn_total": 2432,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Great Bittern",
+        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05de\u05e1\u05d5\u05e8\u05d8\u05d8\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
+            "license": "CC BY-SA 2.0"
+        },
+        "audio": "audio/botaurus_stellaris.mp3",
+        "last_seen": "2026-11-09T15:09:48",
+        "week_count": 12,
+        "v2_confidence": 0.9858,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.0007,
+        "perch_confidence": 0.0357,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Botaurus stellaris",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 28,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 214,
+        "v3_top_label": "Falco tinnunculus_Common Kestrel",
+        "v3_top_confidence": 0.0605,
+        "perch_top_label": "Brotogeris chiriri_Yellow-chevroned Parakeet",
+        "perch_top_confidence": 0.0827,
+        "photo": true
+    },
+    {
+        "name": "European Greenfinch",
+        "he_name": "\u05d9\u05e8\u05e7\u05d5\u05df (\u05e2\u05d5\u05e3)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chloris_chloris_%28profile%29.jpg/1280px-Chloris_chloris_%28profile%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Chloris_chloris_%28profile%29.jpg",
+            "license": "CC BY 4.0"
+        },
+        "audio": "audio/chloris_chloris.mp3",
+        "last_seen": "2026-11-09T15:01:31",
+        "week_count": 1,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.943,
+        "perch_confidence": 0.9595,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "European Greenfinch",
+            "agrees": true
+        },
+        "sci": "Chloris chloris",
+        "order": "Passeriformes",
+        "family": "Fringillidae",
+        "local": 0,
+        "residency": "resident",
+        "dawn_frac": 0.0422,
+        "dawn_total": 403,
+        "v3_top_label": "Chloris chloris_European Greenfinch",
+        "v3_top_confidence": 0.943,
+        "perch_top_label": "Chloris chloris_European Greenfinch",
+        "perch_top_confidence": 0.9595,
         "photo": true
     },
     {
@@ -122,53 +299,6 @@
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
-        "photo": true
-    },
-    {
-        "name": "Great Bittern",
-        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05de\u05e1\u05d5\u05e8\u05d8\u05d8\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
-            "license": "CC BY-SA 2.0"
-        },
-        "audio": "audio/botaurus_stellaris.mp3",
-        "last_seen": "2026-11-09T14:38:12",
-        "week_count": 11,
-        "v2_confidence": 0.9858,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.0007,
-        "perch_confidence": 0.0357,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Botaurus stellaris",
-        "order": "Pelecaniformes",
-        "family": "Ardeidae",
-        "local": 28,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 213,
-        "v3_top_label": "Falco tinnunculus_Common Kestrel",
-        "v3_top_confidence": 0.0605,
-        "perch_top_label": "Brotogeris chiriri_Yellow-chevroned Parakeet",
-        "perch_top_confidence": 0.0827,
         "photo": true
     },
     {
@@ -719,51 +849,6 @@
         "photo": true
     },
     {
-        "name": "Green Sandpiper",
-        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05db\u05e0\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Green_sandpiper_%28Tringa_ochropus%29.jpg/1280px-Green_sandpiper_%28Tringa_ochropus%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Green_sandpiper_%28Tringa_ochropus%29.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/tringa_ochropus.mp3",
-        "last_seen": "2026-11-09T08:14:16",
-        "week_count": 9,
-        "v2_confidence": 0.9967,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.8386,
-        "perch_confidence": 0.8631,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Green Sandpiper",
-            "agrees": true
-        },
-        "sci": "Tringa ochropus",
-        "order": "Charadriiformes",
-        "family": "Scolopacidae",
-        "local": 1906,
-        "residency": "migrant",
-        "dawn_frac": 0.093,
-        "dawn_total": 86,
-        "v3_top_label": "Tringa ochropus_Green Sandpiper",
-        "v3_top_confidence": 0.8386,
-        "perch_top_label": "Tringa ochropus_Green Sandpiper",
-        "perch_top_confidence": 0.8631,
-        "photo": true
-    },
-    {
         "name": "Black Redstart",
         "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e1\u05dc\u05e2\u05d9\u05dd",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hausrotschwanz_Brutpflege_2006-05-21-05.jpg/1280px-Hausrotschwanz_Brutpflege_2006-05-21-05.jpg",
@@ -1247,51 +1332,6 @@
         "v3_top_confidence": 0.7069,
         "perch_top_label": "Falco columbarius_Merlin",
         "perch_top_confidence": 0.4578,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Kestrel",
-        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
-            "license": null
-        },
-        "audio": "audio/falco_tinnunculus.mp3",
-        "last_seen": "2026-11-08T14:10:05",
-        "week_count": 15,
-        "v2_confidence": 0.9987,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.4129,
-        "perch_confidence": 0.4165,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Kestrel",
-            "agrees": true
-        },
-        "sci": "Falco tinnunculus",
-        "order": "Falconiformes",
-        "family": "Falconidae",
-        "local": 12500,
-        "residency": "resident",
-        "dawn_frac": 0.0831,
-        "dawn_total": 337,
-        "v3_top_label": "Falco tinnunculus_Common Kestrel",
-        "v3_top_confidence": 0.4129,
-        "perch_top_label": "Falco tinnunculus_Common Kestrel",
-        "perch_top_confidence": 0.4165,
         "photo": true
     },
     {
@@ -3427,46 +3467,6 @@
         "v3_top_confidence": 0.757,
         "perch_top_label": "Fulica atra_Eurasian Coot",
         "perch_top_confidence": 0.4847,
-        "photo": true
-    },
-    {
-        "name": "European Greenfinch",
-        "he_name": "\u05d9\u05e8\u05e7\u05d5\u05df (\u05e2\u05d5\u05e3)",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chloris_chloris_%28profile%29.jpg/1280px-Chloris_chloris_%28profile%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Chloris_chloris_%28profile%29.jpg",
-            "license": "CC BY 4.0"
-        },
-        "audio": "audio/chloris_chloris.mp3",
-        "last_seen": "2026-10-27T13:22:44",
-        "week_count": 0,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.943,
-        "perch_confidence": 0.9595,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "European Greenfinch",
-            "agrees": true
-        },
-        "sci": "Chloris chloris",
-        "order": "Passeriformes",
-        "family": "Fringillidae",
-        "local": 0,
-        "residency": "resident",
-        "dawn_frac": 0.0423,
-        "dawn_total": 402,
-        "v3_top_label": "Chloris chloris_European Greenfinch",
-        "v3_top_confidence": 0.943,
-        "perch_top_label": "Chloris chloris_European Greenfinch",
-        "perch_top_confidence": 0.9595,
         "photo": true
     },
     {
