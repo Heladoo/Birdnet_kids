@@ -392,7 +392,8 @@
 
   function messageText(card, clip) {
     const name = card.he_name ? `${card.name} (${card.he_name})` : card.name;
-    const article = /^[AEIOU]/.test(card.name) ? 'An' : 'A';
+    // "A European", not "An European": Eu starts with a Y sound.
+    const article = /^([AIO]|E(?!u))/.test(card.name) ? 'An' : 'A';
     const when = whenText(clip);
     return when
       ? `Listen! ${article} ${name} sang in Dorot on ${when.day} at ${when.time}.`
