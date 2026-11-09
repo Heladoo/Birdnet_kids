@@ -212,21 +212,34 @@
     }
     drawKhz(ctx, spec, 14, sy, sh);
 
-    ctx.textAlign = 'left';
+    ctx.textAlign = 'center';
     ctx.font = EN(600, 25);
     ctx.fillStyle = 'rgba(255,249,239,0.88)';
     ctx.globalAlpha = 1 - end;
-    ctx.fillText(line, 28, 672);
+    ctx.fillText(line, W / 2, 643);
     ctx.globalAlpha = end;
     ctx.font = EN(700, 25);
     ctx.fillStyle = C.pale;
-    ctx.fillText(`More birds: ${SITE_SHORT}`, 28, 672);
+    ctx.fillText(`More birds: ${SITE_SHORT}`, W / 2, 643);
     ctx.globalAlpha = 1;
-    // Plain words, no logo: its hoopoe would sit over a different bird's sound.
-    ctx.textAlign = 'right';
-    ctx.font = EN(800, 25);
-    ctx.fillStyle = C.peach;
-    ctx.fillText('BirdNET Kids', W - 28, 672);
+    if (job.logo) {
+      const logoW = 340, logoH = (logoW * job.logo.height) / job.logo.width;
+      ctx.drawImage(job.logo, (W - logoW) / 2, 658, logoW, logoH);
+    } else {
+      ctx.font = EN(800, 30);
+      ctx.fillStyle = C.peach;
+      ctx.fillText('BirdNET Kids', W / 2, 692);
+    }
+  }
+
+  // A missing logo must not stop the video: drawFrame falls back to plain words.
+  function loadLogo() {
+    return new Promise((resolve) => {
+      const img = new Image();
+      img.onload = () => resolve(img);
+      img.onerror = () => resolve(null);
+      img.src = 'logo-wide.png';
+    });
   }
 
   /* --------------------------------------------------------------- encoding */
@@ -587,13 +600,13 @@
       if (!codec && !mime) {
         throw new Error('no video encoder');
       }
-      const [buffer] = await Promise.all([audioContext.decodeAudioData(await blob.arrayBuffer()), loadFonts()]);
+      const [buffer, , logo] = await Promise.all([audioContext.decodeAudioData(await blob.arrayBuffer()), loadFonts(), loadLogo()]);
       if (mySession !== session) {
         return;
       }
       const samples = buffer.getChannelData(0);
       const job = {
-        buffer, samples, dur: buffer.duration,
+        buffer, samples, logo, dur: buffer.duration,
         spec: buildSpectrogram(samples, buffer.sampleRate),
         name: state.card.name, heName: state.card.he_name, line: videoLine(state.clip),
       };
