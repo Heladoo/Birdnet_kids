@@ -1,16 +1,16 @@
 [
     {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
             "license": null
         },
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-11-09T08:56:38",
-        "week_count": 123,
-        "v2_confidence": 0.9958,
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-11-09T09:41:48",
+        "week_count": 35,
+        "v2_confidence": 0.9867,
         "badges": [
             {
                 "i": "\ud83c\udfe0",
@@ -18,22 +18,70 @@
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
         "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Prinia gracilis",
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        },
+        "sci": "Acridotheres tristis",
         "order": "Passeriformes",
-        "family": "Cisticolidae",
-        "local": 8390,
+        "family": "Sturnidae",
+        "local": 6200,
         "residency": "resident",
-        "dawn_frac": 0.0033,
-        "dawn_total": 3983,
-        "v3_top_label": "Prinia lepida_Delicate Prinia",
-        "v3_top_confidence": 0.4048,
-        "perch_top_label": "Prinia gracilis_Graceful Prinia",
-        "perch_top_confidence": 0.2728,
+        "dawn_frac": 0.0766,
+        "dawn_total": 1502,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-11-09T09:41:20",
+        "week_count": 520,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7526,
+        "residency": "resident",
+        "dawn_frac": 0.09,
+        "dawn_total": 15325,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -45,8 +93,8 @@
             "license": null
         },
         "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-09T08:51:25",
-        "week_count": 119,
+        "last_seen": "2026-11-09T09:26:50",
+        "week_count": 120,
         "v2_confidence": 0.9912,
         "badges": [
             {
@@ -68,12 +116,49 @@
         "family": "Phylloscopidae",
         "local": 4066,
         "residency": "migrant",
-        "dawn_frac": 0.2315,
-        "dawn_total": 203,
+        "dawn_frac": 0.2304,
+        "dawn_total": 204,
         "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
         "v3_top_confidence": 0.886,
         "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
         "perch_top_confidence": 0.9336,
+        "photo": true
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
+            "license": null
+        },
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-11-09T09:25:42",
+        "week_count": 127,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Prinia gracilis",
+        "order": "Passeriformes",
+        "family": "Cisticolidae",
+        "local": 8390,
+        "residency": "resident",
+        "dawn_frac": 0.0033,
+        "dawn_total": 3987,
+        "v3_top_label": "Prinia lepida_Delicate Prinia",
+        "v3_top_confidence": 0.4048,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
@@ -85,8 +170,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-09T08:45:05",
-        "week_count": 352,
+        "last_seen": "2026-11-09T09:10:31",
+        "week_count": 358,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -108,8 +193,8 @@
         "family": "Motacillidae",
         "local": 6360,
         "residency": "migrant",
-        "dawn_frac": 0.0615,
-        "dawn_total": 2357,
+        "dawn_frac": 0.0614,
+        "dawn_total": 2363,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
@@ -154,51 +239,6 @@
         "v3_top_confidence": 0.9623,
         "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
         "perch_top_confidence": 0.2317,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-09T08:14:42",
-        "week_count": 519,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7526,
-        "residency": "resident",
-        "dawn_frac": 0.09,
-        "dawn_total": 15324,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -364,46 +404,6 @@
         "v3_top_confidence": 0.874,
         "perch_top_label": "Motacilla cinerea_Grey Wagtail",
         "perch_top_confidence": 0.2349,
-        "photo": true
-    },
-    {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
-            "license": null
-        },
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-11-09T06:16:40",
-        "week_count": 34,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": true
-        },
-        "sci": "Acridotheres tristis",
-        "order": "Passeriformes",
-        "family": "Sturnidae",
-        "local": 6200,
-        "residency": "resident",
-        "dawn_frac": 0.0766,
-        "dawn_total": 1501,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9523,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.4667,
         "photo": true
     },
     {
