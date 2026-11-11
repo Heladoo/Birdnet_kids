@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-11T11:51:10",
-        "week_count": 415,
+        "last_seen": "2026-11-11T12:58:18",
+        "week_count": 458,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,12 +31,181 @@
         "family": "Motacillidae",
         "local": 6392,
         "residency": "migrant",
-        "dawn_frac": 0.0577,
-        "dawn_total": 2581,
+        "dawn_frac": 0.0568,
+        "dawn_total": 2624,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Common Buzzard",
+        "he_name": "\u05e2\u05e7\u05d1 \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg/1280px-Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/buteo_buteo.mp3",
+        "last_seen": "2026-11-11T12:50:59",
+        "week_count": 2,
+        "v2_confidence": 0.9667,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.0019,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Buteo buteo",
+        "order": "Accipitriformes",
+        "family": "Accipitridae",
+        "local": 6371,
+        "residency": "migrant",
+        "dawn_frac": 0.0571,
+        "dawn_total": 35,
+        "v3_top_label": "Vulpes vulpes_Red Fox",
+        "v3_top_confidence": 0.6915,
+        "perch_top_label": "Macropygia phasianella_Brown Cuckoo-Dove",
+        "perch_top_confidence": 0.0648,
+        "photo": true
+    },
+    {
+        "name": "Great Tit",
+        "he_name": "\u05d9\u05e8\u05d2\u05d6\u05d9 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg/3840px-Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
+            "license": null
+        },
+        "audio": "audio/parus_major.mp3",
+        "last_seen": "2026-11-11T12:42:14",
+        "week_count": 2,
+        "v2_confidence": 0.875,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.3506,
+        "perch_confidence": 0.6353,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Great Tit",
+            "agrees": true
+        },
+        "sci": "Parus major",
+        "order": "Passeriformes",
+        "family": "Paridae",
+        "local": 4050,
+        "residency": "resident",
+        "dawn_frac": 0.0244,
+        "dawn_total": 41,
+        "v3_top_label": "Parus major_Great Tit",
+        "v3_top_confidence": 0.3506,
+        "perch_top_label": "Parus major_Great Tit",
+        "perch_top_confidence": 0.6353,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-11-11T12:37:46",
+        "week_count": 320,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5606,
+        "residency": "resident",
+        "dawn_frac": 0.0156,
+        "dawn_total": 7648,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Tawny Pipit",
+        "he_name": "\u05e4\u05e4\u05d9\u05d5\u05df \u05e6\u05d4\u05d5\u05d1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tawny_pipit_47.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Tawny_pipit_47.jpg",
+            "license": null
+        },
+        "audio": "audio/anthus_campestris.mp3",
+        "last_seen": "2026-11-11T12:03:25",
+        "week_count": 2,
+        "v2_confidence": 0.9369,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0516,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Anthus campestris",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 554,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 21,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.0694,
+        "perch_top_label": "Curruca communis_Common Whitethroat",
+        "perch_top_confidence": 0.0824,
         "photo": true
     },
     {
@@ -196,46 +365,6 @@
         "photo": true
     },
     {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-11T09:32:59",
-        "week_count": 315,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5606,
-        "residency": "resident",
-        "dawn_frac": 0.0156,
-        "dawn_total": 7643,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
-        "photo": true
-    },
-    {
         "name": "Crested Lark",
         "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
         "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -363,48 +492,6 @@
         "v3_top_confidence": 0.9524,
         "perch_top_label": "Otus scops_Eurasian Scops Owl",
         "perch_top_confidence": 0.9787,
-        "photo": true
-    },
-    {
-        "name": "Tawny Pipit",
-        "he_name": "\u05e4\u05e4\u05d9\u05d5\u05df \u05e6\u05d4\u05d5\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tawny_pipit_47.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Tawny_pipit_47.jpg",
-            "license": null
-        },
-        "audio": "audio/anthus_campestris.mp3",
-        "last_seen": "2026-11-11T08:42:42",
-        "week_count": 1,
-        "v2_confidence": 0.9369,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0516,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Anthus campestris",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 554,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 20,
-        "v3_top_label": "Passer domesticus_House Sparrow",
-        "v3_top_confidence": 0.0694,
-        "perch_top_label": "Curruca communis_Common Whitethroat",
-        "perch_top_confidence": 0.0824,
         "photo": true
     },
     {
@@ -2588,93 +2675,6 @@
         "v3_top_confidence": 0.3934,
         "perch_top_label": "Garrulus glandarius_Eurasian Jay",
         "perch_top_confidence": 0.2859,
-        "photo": true
-    },
-    {
-        "name": "Common Buzzard",
-        "he_name": "\u05e2\u05e7\u05d1 \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg/1280px-Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/buteo_buteo.mp3",
-        "last_seen": "2026-11-05T17:05:34",
-        "week_count": 1,
-        "v2_confidence": 0.9667,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.0019,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Buteo buteo",
-        "order": "Accipitriformes",
-        "family": "Accipitridae",
-        "local": 6371,
-        "residency": "migrant",
-        "dawn_frac": 0.0588,
-        "dawn_total": 34,
-        "v3_top_label": "Vulpes vulpes_Red Fox",
-        "v3_top_confidence": 0.6915,
-        "perch_top_label": "Macropygia phasianella_Brown Cuckoo-Dove",
-        "perch_top_confidence": 0.0648,
-        "photo": true
-    },
-    {
-        "name": "Great Tit",
-        "he_name": "\u05d9\u05e8\u05d2\u05d6\u05d9 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg/3840px-Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
-            "license": null
-        },
-        "audio": "audio/parus_major.mp3",
-        "last_seen": "2026-11-05T11:59:00",
-        "week_count": 1,
-        "v2_confidence": 0.875,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.3506,
-        "perch_confidence": 0.6353,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Great Tit",
-            "agrees": true
-        },
-        "sci": "Parus major",
-        "order": "Passeriformes",
-        "family": "Paridae",
-        "local": 4050,
-        "residency": "resident",
-        "dawn_frac": 0.025,
-        "dawn_total": 40,
-        "v3_top_label": "Parus major_Great Tit",
-        "v3_top_confidence": 0.3506,
-        "perch_top_label": "Parus major_Great Tit",
-        "perch_top_confidence": 0.6353,
         "photo": true
     },
     {
