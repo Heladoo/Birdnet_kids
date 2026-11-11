@@ -1,16 +1,16 @@
 [
     {
-        "name": "Crested Lark",
-        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Cochevis_hupp%C3%A9_Gbollat.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
             "license": null
         },
-        "audio": "audio/galerida_cristata.mp3",
-        "last_seen": "2026-11-11T15:56:59",
-        "week_count": 15,
-        "v2_confidence": 0.9829,
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-11-11T16:35:38",
+        "week_count": 46,
+        "v2_confidence": 0.9867,
         "badges": [
             {
                 "i": "\ud83c\udfe0",
@@ -18,25 +18,25 @@
                 "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
             }
         ],
-        "v3_confidence": 0.9411,
-        "perch_confidence": 0.625,
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
         "v3_agrees": true,
         "perch_agrees": true,
         "second_opinion": {
-            "com": "Crested Lark",
+            "com": "Common Myna",
             "agrees": true
         },
-        "sci": "Galerida cristata",
+        "sci": "Acridotheres tristis",
         "order": "Passeriformes",
-        "family": "Alaudidae",
-        "local": 7893,
+        "family": "Sturnidae",
+        "local": 6513,
         "residency": "resident",
-        "dawn_frac": 0.1337,
-        "dawn_total": 486,
-        "v3_top_label": "Galerida cristata_Crested Lark",
-        "v3_top_confidence": 0.9411,
-        "perch_top_label": "Galerida cristata_Crested Lark",
-        "perch_top_confidence": 0.625,
+        "dawn_frac": 0.0753,
+        "dawn_total": 1527,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
         "photo": true
     },
     {
@@ -48,8 +48,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-11T15:50:27",
-        "week_count": 493,
+        "last_seen": "2026-11-11T16:33:12",
+        "week_count": 495,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -72,11 +72,56 @@
         "local": 6392,
         "residency": "migrant",
         "dawn_frac": 0.056,
-        "dawn_total": 2659,
+        "dawn_total": 2661,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-11-11T16:32:10",
+        "week_count": 486,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7624,
+        "residency": "resident",
+        "dawn_frac": 0.0901,
+        "dawn_total": 15455,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -88,8 +133,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-11T15:43:59",
-        "week_count": 337,
+        "last_seen": "2026-11-11T16:31:50",
+        "week_count": 345,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -112,11 +157,96 @@
         "local": 5606,
         "residency": "resident",
         "dawn_frac": 0.0155,
-        "dawn_total": 7665,
+        "dawn_total": 7673,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Bank Swallow",
+        "he_name": "\u05db\u05d5\u05db\u05d9\u05ea \u05d2\u05d3\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg",
+            "license": null
+        },
+        "audio": "audio/riparia_riparia.mp3",
+        "last_seen": "2026-11-11T16:19:27",
+        "week_count": 4,
+        "v2_confidence": 0.9467,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0011,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": false
+        },
+        "sci": "Riparia riparia",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 715,
+        "residency": "migrant",
+        "dawn_frac": 0.1013,
+        "dawn_total": 79,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.934,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.4453,
+        "photo": true
+    },
+    {
+        "name": "Crested Lark",
+        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Cochevis_hupp%C3%A9_Gbollat.jpg",
+            "license": null
+        },
+        "audio": "audio/galerida_cristata.mp3",
+        "last_seen": "2026-11-11T16:03:03",
+        "week_count": 16,
+        "v2_confidence": 0.9829,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9411,
+        "perch_confidence": 0.625,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Crested Lark",
+            "agrees": true
+        },
+        "sci": "Galerida cristata",
+        "order": "Passeriformes",
+        "family": "Alaudidae",
+        "local": 7893,
+        "residency": "resident",
+        "dawn_frac": 0.1335,
+        "dawn_total": 487,
+        "v3_top_label": "Galerida cristata_Crested Lark",
+        "v3_top_confidence": 0.9411,
+        "perch_top_label": "Galerida cristata_Crested Lark",
+        "perch_top_confidence": 0.625,
         "photo": true
     },
     {
@@ -151,51 +281,6 @@
         "v3_top_confidence": 0.9239,
         "perch_top_label": "Motacilla flava_Western Yellow Wagtail",
         "perch_top_confidence": 0.8957,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-11T15:18:53",
-        "week_count": 476,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7624,
-        "residency": "resident",
-        "dawn_frac": 0.0901,
-        "dawn_total": 15445,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -571,46 +656,6 @@
         "v3_top_confidence": 0.4048,
         "perch_top_label": "Prinia gracilis_Graceful Prinia",
         "perch_top_confidence": 0.2728,
-        "photo": true
-    },
-    {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
-            "license": null
-        },
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-11-11T10:41:23",
-        "week_count": 35,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": true
-        },
-        "sci": "Acridotheres tristis",
-        "order": "Passeriformes",
-        "family": "Sturnidae",
-        "local": 6513,
-        "residency": "resident",
-        "dawn_frac": 0.0759,
-        "dawn_total": 1516,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9523,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.4667,
         "photo": true
     },
     {
@@ -1532,51 +1577,6 @@
         "v3_top_confidence": 0.8716,
         "perch_top_label": "Athene noctua_Little Owl",
         "perch_top_confidence": 0.5193,
-        "photo": true
-    },
-    {
-        "name": "Bank Swallow",
-        "he_name": "\u05db\u05d5\u05db\u05d9\u05ea \u05d2\u05d3\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg",
-            "license": null
-        },
-        "audio": "audio/riparia_riparia.mp3",
-        "last_seen": "2026-11-09T16:49:10",
-        "week_count": 3,
-        "v2_confidence": 0.9467,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0011,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": false
-        },
-        "sci": "Riparia riparia",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 715,
-        "residency": "migrant",
-        "dawn_frac": 0.1026,
-        "dawn_total": 78,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.934,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.4453,
         "photo": true
     },
     {
