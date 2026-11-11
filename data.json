@@ -1,5 +1,45 @@
 [
     {
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-11-11T13:57:31",
+        "week_count": 155,
+        "v2_confidence": 0.9969,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        },
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 4039,
+        "residency": "migrant",
+        "dawn_frac": 0.1934,
+        "dawn_total": 243,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +48,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-11T12:58:18",
-        "week_count": 458,
+        "last_seen": "2026-11-11T13:49:27",
+        "week_count": 477,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,12 +71,89 @@
         "family": "Motacillidae",
         "local": 6392,
         "residency": "migrant",
-        "dawn_frac": 0.0568,
-        "dawn_total": 2624,
+        "dawn_frac": 0.0564,
+        "dawn_total": 2643,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-11-11T13:45:03",
+        "week_count": 323,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5606,
+        "residency": "resident",
+        "dawn_frac": 0.0156,
+        "dawn_total": 7651,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Palestine Sunbird",
+        "he_name": "\u05e6\u05d5\u05e4\u05d9\u05ea \u05d1\u05d5\u05d4\u05e7\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
+            "license": null
+        },
+        "audio": "audio/cinnyris_osea.mp3",
+        "last_seen": "2026-11-11T13:07:27",
+        "week_count": 33,
+        "v2_confidence": 0.9237,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.5097,
+        "perch_confidence": 0,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Cinnyris osea",
+        "order": "Passeriformes",
+        "family": "Nectariniidae",
+        "local": 5583,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 61,
+        "v3_top_label": "Cinnyris osea_Palestine Sunbird",
+        "v3_top_confidence": 0.5097,
+        "perch_top_label": "Hippolais icterina_Icterine Warbler",
+        "perch_top_confidence": 0.1406,
         "photo": true
     },
     {
@@ -124,46 +241,6 @@
         "v3_top_confidence": 0.3506,
         "perch_top_label": "Parus major_Great Tit",
         "perch_top_confidence": 0.6353,
-        "photo": true
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-11T12:37:46",
-        "week_count": 320,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5606,
-        "residency": "resident",
-        "dawn_frac": 0.0156,
-        "dawn_total": 7648,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
         "photo": true
     },
     {
@@ -665,46 +742,6 @@
         "photo": true
     },
     {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
-            "license": null
-        },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-11T06:31:55",
-        "week_count": 151,
-        "v2_confidence": 0.9969,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Chiffchaff",
-            "agrees": true
-        },
-        "sci": "Phylloscopus collybita",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4039,
-        "residency": "migrant",
-        "dawn_frac": 0.1967,
-        "dawn_total": 239,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
-        "photo": true
-    },
-    {
         "name": "Black Redstart",
         "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e1\u05dc\u05e2\u05d9\u05dd",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hausrotschwanz_Brutpflege_2006-05-21-05.jpg/1280px-Hausrotschwanz_Brutpflege_2006-05-21-05.jpg",
@@ -996,43 +1033,6 @@
         "v3_top_confidence": 0.6149,
         "perch_top_label": "Pycnonotus xanthopygos_White-spectacled Bulbul",
         "perch_top_confidence": 0.0955,
-        "photo": true
-    },
-    {
-        "name": "Palestine Sunbird",
-        "he_name": "\u05e6\u05d5\u05e4\u05d9\u05ea \u05d1\u05d5\u05d4\u05e7\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
-            "license": null
-        },
-        "audio": "audio/cinnyris_osea.mp3",
-        "last_seen": "2026-11-10T13:02:05",
-        "week_count": 32,
-        "v2_confidence": 0.9237,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.5097,
-        "perch_confidence": 0,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Cinnyris osea",
-        "order": "Passeriformes",
-        "family": "Nectariniidae",
-        "local": 5583,
-        "residency": "resident",
-        "dawn_frac": 0,
-        "dawn_total": 60,
-        "v3_top_label": "Cinnyris osea_Palestine Sunbird",
-        "v3_top_confidence": 0.5097,
-        "perch_top_label": "Hippolais icterina_Icterine Warbler",
-        "perch_top_confidence": 0.1406,
         "photo": true
     },
     {
