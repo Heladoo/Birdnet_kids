@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-11T10:51:18",
-        "week_count": 409,
+        "last_seen": "2026-11-11T11:51:10",
+        "week_count": 415,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,12 +31,54 @@
         "family": "Motacillidae",
         "local": 6392,
         "residency": "migrant",
-        "dawn_frac": 0.0579,
-        "dawn_total": 2575,
+        "dawn_frac": 0.0577,
+        "dawn_total": 2581,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "River Warbler",
+        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Flodsangare.jpg",
+            "license": null
+        },
+        "audio": "audio/locustella_fluviatilis.mp3",
+        "last_seen": "2026-11-11T11:34:14",
+        "week_count": 5,
+        "v2_confidence": 0.995,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0012,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Locustella fluviatilis",
+        "order": "Passeriformes",
+        "family": "Locustellidae",
+        "local": 20,
+        "residency": "migrant",
+        "dawn_frac": 0.0087,
+        "dawn_total": 229,
+        "v3_top_label": "Delichon urbicum_Western House Martin",
+        "v3_top_confidence": 0.1843,
+        "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
+        "perch_top_confidence": 0.0639,
         "photo": true
     },
     {
@@ -48,8 +90,8 @@
             "license": null
         },
         "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-11-11T10:48:20",
-        "week_count": 133,
+        "last_seen": "2026-11-11T11:22:01",
+        "week_count": 136,
         "v2_confidence": 0.9958,
         "badges": [
             {
@@ -69,7 +111,7 @@
         "local": 8486,
         "residency": "resident",
         "dawn_frac": 0.0032,
-        "dawn_total": 4066,
+        "dawn_total": 4069,
         "v3_top_label": "Prinia lepida_Delicate Prinia",
         "v3_top_confidence": 0.4048,
         "perch_top_label": "Prinia gracilis_Graceful Prinia",
@@ -1065,48 +1107,6 @@
         "v3_top_confidence": 0.4129,
         "perch_top_label": "Falco tinnunculus_Common Kestrel",
         "perch_top_confidence": 0.4165,
-        "photo": true
-    },
-    {
-        "name": "River Warbler",
-        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Flodsangare.jpg",
-            "license": null
-        },
-        "audio": "audio/locustella_fluviatilis.mp3",
-        "last_seen": "2026-11-10T07:20:12",
-        "week_count": 4,
-        "v2_confidence": 0.995,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0012,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Locustella fluviatilis",
-        "order": "Passeriformes",
-        "family": "Locustellidae",
-        "local": 20,
-        "residency": "migrant",
-        "dawn_frac": 0.0088,
-        "dawn_total": 228,
-        "v3_top_label": "Delichon urbicum_Western House Martin",
-        "v3_top_confidence": 0.1843,
-        "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
-        "perch_top_confidence": 0.0639,
         "photo": true
     },
     {
