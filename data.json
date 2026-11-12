@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-11T23:51:41",
-        "week_count": 433,
+        "last_seen": "2026-11-12T01:49:07",
+        "week_count": 446,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -36,12 +36,59 @@
         "family": "Charadriidae",
         "local": 7624,
         "residency": "resident",
-        "dawn_frac": 0.09,
-        "dawn_total": 15474,
+        "dawn_frac": 0.0899,
+        "dawn_total": 15487,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Graylag Goose",
+        "he_name": "\u05d0\u05d5\u05d5\u05d6 \u05d0\u05e4\u05d5\u05e8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg/1280px-Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "audio": "audio/anser_anser.mp3",
+        "last_seen": "2026-11-12T01:07:52",
+        "week_count": 2,
+        "v2_confidence": 0.8807,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.004,
+        "perch_confidence": 0.0395,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Anser anser",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "local": 13,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 11,
+        "v3_top_label": "Tachymarptis melba_Alpine Swift",
+        "v3_top_confidence": 0.078,
+        "perch_top_label": "Phasianus colchicus_Common Pheasant",
+        "perch_top_confidence": 0.3889,
         "photo": true
     },
     {
@@ -1932,53 +1979,6 @@
         "v3_top_confidence": 0.7107,
         "perch_top_label": "Himantopus himantopus_Black-winged Stilt",
         "perch_top_confidence": 0.1366,
-        "photo": true
-    },
-    {
-        "name": "Graylag Goose",
-        "he_name": "\u05d0\u05d5\u05d5\u05d6 \u05d0\u05e4\u05d5\u05e8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg/1280px-Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg",
-            "license": "CC BY-SA 3.0"
-        },
-        "audio": "audio/anser_anser.mp3",
-        "last_seen": "2026-11-09T00:41:11",
-        "week_count": 1,
-        "v2_confidence": 0.8807,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.004,
-        "perch_confidence": 0.0395,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Anser anser",
-        "order": "Anseriformes",
-        "family": "Anatidae",
-        "local": 13,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 10,
-        "v3_top_label": "Tachymarptis melba_Alpine Swift",
-        "v3_top_confidence": 0.078,
-        "perch_top_label": "Phasianus colchicus_Common Pheasant",
-        "perch_top_confidence": 0.3889,
         "photo": true
     },
     {
