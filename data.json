@@ -1,5 +1,81 @@
 [
     {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-11-12T14:49:59",
+        "week_count": 473,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7624,
+        "residency": "resident",
+        "dawn_frac": 0.0902,
+        "dawn_total": 15514,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Meadow Pipit",
+        "he_name": "\u05e4\u05e4\u05d9\u05d5\u05df \u05e9\u05d3\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wiesenpieper_Meadow_pipit.jpg/3840px-Wiesenpieper_Meadow_pipit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Wiesenpieper_Meadow_pipit.jpg",
+            "license": null
+        },
+        "audio": "audio/anthus_pratensis.mp3",
+        "last_seen": "2026-11-12T14:46:53",
+        "week_count": 2,
+        "v2_confidence": 0.8204,
+        "badges": [],
+        "v3_confidence": 0.0306,
+        "perch_confidence": 0.2935,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Anthus pratensis",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 2383,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 3,
+        "v3_top_label": "Limnodynastes peronii_Limnodynastes peronii",
+        "v3_top_confidence": 0.7907,
+        "perch_top_label": "Anthus pratensis_Meadow Pipit",
+        "perch_top_confidence": 0.2935,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +84,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-12T13:51:12",
-        "week_count": 489,
+        "last_seen": "2026-11-12T14:32:42",
+        "week_count": 495,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,8 +107,8 @@
         "family": "Motacillidae",
         "local": 6392,
         "residency": "migrant",
-        "dawn_frac": 0.0565,
-        "dawn_total": 2727,
+        "dawn_frac": 0.0563,
+        "dawn_total": 2733,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
@@ -48,8 +124,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-12T13:39:08",
-        "week_count": 284,
+        "last_seen": "2026-11-12T14:18:29",
+        "week_count": 289,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -72,7 +148,7 @@
         "local": 5606,
         "residency": "resident",
         "dawn_frac": 0.0162,
-        "dawn_total": 7710,
+        "dawn_total": 7715,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
@@ -236,37 +312,6 @@
         "v3_top_confidence": 0.5958,
         "perch_top_label": "Apus apus_Common Swift",
         "perch_top_confidence": 0.1085,
-        "photo": true
-    },
-    {
-        "name": "Meadow Pipit",
-        "he_name": "\u05e4\u05e4\u05d9\u05d5\u05df \u05e9\u05d3\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wiesenpieper_Meadow_pipit.jpg/3840px-Wiesenpieper_Meadow_pipit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Wiesenpieper_Meadow_pipit.jpg",
-            "license": null
-        },
-        "audio": "audio/anthus_pratensis.mp3",
-        "last_seen": "2026-11-12T11:43:59",
-        "week_count": 1,
-        "v2_confidence": 0.8109,
-        "badges": [],
-        "v3_confidence": 0.0306,
-        "perch_confidence": 0.2935,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Anthus pratensis",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 2383,
-        "residency": "",
-        "dawn_frac": 0,
-        "dawn_total": 2,
-        "v3_top_label": "Limnodynastes peronii_Limnodynastes peronii",
-        "v3_top_confidence": 0.7907,
-        "perch_top_label": "Anthus pratensis_Meadow Pipit",
-        "perch_top_confidence": 0.2935,
         "photo": true
     },
     {
@@ -460,51 +505,6 @@
         "v3_top_confidence": 0.8256,
         "perch_top_label": "Panurus biarmicus_Bearded Reedling",
         "perch_top_confidence": 0.2002,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-12T09:24:16",
-        "week_count": 470,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7624,
-        "residency": "resident",
-        "dawn_frac": 0.0903,
-        "dawn_total": 15511,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
