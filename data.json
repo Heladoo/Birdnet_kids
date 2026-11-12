@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-12T09:59:50",
-        "week_count": 273,
+        "last_seen": "2026-11-12T10:48:48",
+        "week_count": 281,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -32,7 +32,7 @@
         "local": 5606,
         "residency": "resident",
         "dawn_frac": 0.0162,
-        "dawn_total": 7699,
+        "dawn_total": 7707,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
@@ -48,8 +48,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-12T09:29:01",
-        "week_count": 459,
+        "last_seen": "2026-11-12T10:43:48",
+        "week_count": 464,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -71,12 +71,131 @@
         "family": "Motacillidae",
         "local": 6392,
         "residency": "migrant",
-        "dawn_frac": 0.0571,
-        "dawn_total": 2697,
+        "dawn_frac": 0.057,
+        "dawn_total": 2702,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
+            "license": null
+        },
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-11-12T10:23:31",
+        "week_count": 145,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Prinia gracilis",
+        "order": "Passeriformes",
+        "family": "Cisticolidae",
+        "local": 8486,
+        "residency": "resident",
+        "dawn_frac": 0.0032,
+        "dawn_total": 4081,
+        "v3_top_label": "Prinia lepida_Delicate Prinia",
+        "v3_top_confidence": 0.4048,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.2728,
+        "photo": true
+    },
+    {
+        "name": "River Warbler",
+        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Flodsangare.jpg",
+            "license": null
+        },
+        "audio": "audio/locustella_fluviatilis.mp3",
+        "last_seen": "2026-11-12T10:08:42",
+        "week_count": 5,
+        "v2_confidence": 0.995,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0012,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Locustella fluviatilis",
+        "order": "Passeriformes",
+        "family": "Locustellidae",
+        "local": 20,
+        "residency": "migrant",
+        "dawn_frac": 0.0087,
+        "dawn_total": 230,
+        "v3_top_label": "Delichon urbicum_Western House Martin",
+        "v3_top_confidence": 0.1843,
+        "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
+        "perch_top_confidence": 0.0639,
+        "photo": true
+    },
+    {
+        "name": "Bearded Reedling",
+        "he_name": "\u05e9\u05e4\u05de\u05ea\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg/3840px-%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg",
+            "license": null
+        },
+        "audio": "audio/panurus_biarmicus.mp3",
+        "last_seen": "2026-11-12T10:03:03",
+        "week_count": 2,
+        "v2_confidence": 0.9665,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.8256,
+        "perch_confidence": 0.2002,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Bearded Reedling",
+            "agrees": true
+        },
+        "sci": "Panurus biarmicus",
+        "order": "Passeriformes",
+        "family": "Panuridae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0.0204,
+        "dawn_total": 49,
+        "v3_top_label": "Panurus biarmicus_Bearded Reedling",
+        "v3_top_confidence": 0.8256,
+        "perch_top_label": "Panurus biarmicus_Bearded Reedling",
+        "perch_top_confidence": 0.2002,
         "photo": true
     },
     {
@@ -122,43 +241,6 @@
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
-        "photo": true
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
-            "license": null
-        },
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-11-12T08:46:23",
-        "week_count": 143,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Prinia gracilis",
-        "order": "Passeriformes",
-        "family": "Cisticolidae",
-        "local": 8486,
-        "residency": "resident",
-        "dawn_frac": 0.0032,
-        "dawn_total": 4079,
-        "v3_top_label": "Prinia lepida_Delicate Prinia",
-        "v3_top_confidence": 0.4048,
-        "perch_top_label": "Prinia gracilis_Graceful Prinia",
-        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
@@ -992,48 +1074,6 @@
         "photo": true
     },
     {
-        "name": "River Warbler",
-        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Flodsangare.jpg",
-            "license": null
-        },
-        "audio": "audio/locustella_fluviatilis.mp3",
-        "last_seen": "2026-11-11T11:34:14",
-        "week_count": 4,
-        "v2_confidence": 0.995,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0012,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Locustella fluviatilis",
-        "order": "Passeriformes",
-        "family": "Locustellidae",
-        "local": 20,
-        "residency": "migrant",
-        "dawn_frac": 0.0087,
-        "dawn_total": 229,
-        "v3_top_label": "Delichon urbicum_Western House Martin",
-        "v3_top_confidence": 0.1843,
-        "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
-        "perch_top_confidence": 0.0639,
-        "photo": true
-    },
-    {
         "name": "Red-vented Bulbul",
         "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
@@ -1243,46 +1283,6 @@
         "v3_top_confidence": 0.7368,
         "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
         "perch_top_confidence": 0.0852,
-        "photo": true
-    },
-    {
-        "name": "Bearded Reedling",
-        "he_name": "\u05e9\u05e4\u05de\u05ea\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg/3840px-%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg",
-            "license": null
-        },
-        "audio": "audio/panurus_biarmicus.mp3",
-        "last_seen": "2026-11-11T06:48:18",
-        "week_count": 1,
-        "v2_confidence": 0.9665,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.8256,
-        "perch_confidence": 0.2002,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Bearded Reedling",
-            "agrees": true
-        },
-        "sci": "Panurus biarmicus",
-        "order": "Passeriformes",
-        "family": "Panuridae",
-        "local": 0,
-        "residency": "",
-        "dawn_frac": 0.0208,
-        "dawn_total": 48,
-        "v3_top_label": "Panurus biarmicus_Bearded Reedling",
-        "v3_top_confidence": 0.8256,
-        "perch_top_label": "Panurus biarmicus_Bearded Reedling",
-        "perch_top_confidence": 0.2002,
         "photo": true
     },
     {
