@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-12T23:16:45",
-        "week_count": 434,
+        "last_seen": "2026-11-13T01:48:32",
+        "week_count": 436,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -37,11 +37,56 @@
         "local": 7624,
         "residency": "resident",
         "dawn_frac": 0.0901,
-        "dawn_total": 15535,
+        "dawn_total": 15537,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Gray Heron",
+        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05d0\u05e4\u05d5\u05e8\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grey_Heron_%2854990114762%29_%28cropped%29.jpg/1280px-Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/ardea_cinerea.mp3",
+        "last_seen": "2026-11-13T01:03:34",
+        "week_count": 3,
+        "v2_confidence": 0.9394,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.7442,
+        "perch_confidence": 0.8582,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Grey Heron",
+            "agrees": true
+        },
+        "sci": "Ardea cinerea",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 1338,
+        "residency": "resident",
+        "dawn_frac": 0.03,
+        "dawn_total": 100,
+        "v3_top_label": "Ardea cinerea_Grey Heron",
+        "v3_top_confidence": 0.7442,
+        "perch_top_label": "Ardea cinerea_Grey Heron",
+        "perch_top_confidence": 0.8582,
         "photo": true
     },
     {
@@ -2100,51 +2145,6 @@
         "v3_top_confidence": 0.4545,
         "perch_top_label": "Motacilla flava_Western Yellow Wagtail",
         "perch_top_confidence": 0.3643,
-        "photo": true
-    },
-    {
-        "name": "Gray Heron",
-        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05d0\u05e4\u05d5\u05e8\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grey_Heron_%2854990114762%29_%28cropped%29.jpg/1280px-Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/ardea_cinerea.mp3",
-        "last_seen": "2026-11-09T13:11:33",
-        "week_count": 2,
-        "v2_confidence": 0.9394,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.7442,
-        "perch_confidence": 0.8582,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Grey Heron",
-            "agrees": true
-        },
-        "sci": "Ardea cinerea",
-        "order": "Pelecaniformes",
-        "family": "Ardeidae",
-        "local": 1338,
-        "residency": "resident",
-        "dawn_frac": 0.0303,
-        "dawn_total": 99,
-        "v3_top_label": "Ardea cinerea_Grey Heron",
-        "v3_top_confidence": 0.7442,
-        "perch_top_label": "Ardea cinerea_Grey Heron",
-        "perch_top_confidence": 0.8582,
         "photo": true
     },
     {
