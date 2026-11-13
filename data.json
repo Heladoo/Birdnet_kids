@@ -1,5 +1,137 @@
 [
     {
+        "name": "Bank Swallow",
+        "he_name": "\u05db\u05d5\u05db\u05d9\u05ea \u05d2\u05d3\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg",
+            "license": null
+        },
+        "audio": "audio/riparia_riparia.mp3",
+        "last_seen": "2026-11-13T09:57:05",
+        "week_count": 6,
+        "v2_confidence": 0.9467,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0011,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": false
+        },
+        "sci": "Riparia riparia",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 715,
+        "residency": "migrant",
+        "dawn_frac": 0.1205,
+        "dawn_total": 83,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.934,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.4453,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-11-13T09:50:50",
+        "week_count": 267,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5606,
+        "residency": "resident",
+        "dawn_frac": 0.0164,
+        "dawn_total": 7733,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Oriental Honey-buzzard",
+        "he_name": "\u05d0\u05d9\u05d4 \u05de\u05e6\u05d5\u05d9\u05e6\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg/1280px-Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/pernis_ptilorhynchus.mp3",
+        "last_seen": "2026-11-13T09:47:25",
+        "week_count": 1,
+        "v2_confidence": 0.837,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.1181,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Pernis ptilorhynchus",
+        "order": "Accipitriformes",
+        "family": "Accipitridae",
+        "local": 1,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 16,
+        "v3_top_label": "Pernis apivorus_European Honey Buzzard",
+        "v3_top_confidence": 0.3201,
+        "perch_top_label": "Actitis hypoleucos_Common Sandpiper",
+        "perch_top_confidence": 0.1114,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +140,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-13T08:58:27",
-        "week_count": 461,
+        "last_seen": "2026-11-13T09:34:44",
+        "week_count": 468,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,12 +163,52 @@
         "family": "Motacillidae",
         "local": 6392,
         "residency": "migrant",
-        "dawn_frac": 0.0569,
-        "dawn_total": 2760,
+        "dawn_frac": 0.0567,
+        "dawn_total": 2767,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Black Redstart",
+        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e1\u05dc\u05e2\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hausrotschwanz_Brutpflege_2006-05-21-05.jpg/1280px-Hausrotschwanz_Brutpflege_2006-05-21-05.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Hausrotschwanz_Brutpflege_2006-05-21-05.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "audio": "audio/phoenicurus_ochruros.mp3",
+        "last_seen": "2026-11-13T09:20:08",
+        "week_count": 17,
+        "v2_confidence": 0.9952,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9386,
+        "perch_confidence": 0.9259,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Black Redstart",
+            "agrees": true
+        },
+        "sci": "Phoenicurus ochruros",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 1624,
+        "residency": "migrant",
+        "dawn_frac": 0.2511,
+        "dawn_total": 219,
+        "v3_top_label": "Phoenicurus ochruros_Black Redstart",
+        "v3_top_confidence": 0.9386,
+        "perch_top_label": "Phoenicurus ochruros_Black Redstart",
+        "perch_top_confidence": 0.9259,
         "photo": true
     },
     {
@@ -77,46 +249,6 @@
         "v3_top_confidence": 0.886,
         "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
         "perch_top_confidence": 0.9336,
-        "photo": true
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-13T08:42:50",
-        "week_count": 264,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5606,
-        "residency": "resident",
-        "dawn_frac": 0.0164,
-        "dawn_total": 7730,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
         "photo": true
     },
     {
@@ -295,51 +427,6 @@
         "photo": true
     },
     {
-        "name": "Bank Swallow",
-        "he_name": "\u05db\u05d5\u05db\u05d9\u05ea \u05d2\u05d3\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg",
-            "license": null
-        },
-        "audio": "audio/riparia_riparia.mp3",
-        "last_seen": "2026-11-13T07:47:35",
-        "week_count": 5,
-        "v2_confidence": 0.9467,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0011,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": false
-        },
-        "sci": "Riparia riparia",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 715,
-        "residency": "migrant",
-        "dawn_frac": 0.122,
-        "dawn_total": 82,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.934,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.4453,
-        "photo": true
-    },
-    {
         "name": "Common Tern",
         "he_name": "\u05e9\u05d7\u05e4\u05d9\u05ea \u05d9\u05dd",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_02.jpg/1280px-2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_02.jpg",
@@ -384,46 +471,6 @@
         "v3_top_confidence": 0.3217,
         "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
         "perch_top_confidence": 0.087,
-        "photo": true
-    },
-    {
-        "name": "Black Redstart",
-        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e1\u05dc\u05e2\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hausrotschwanz_Brutpflege_2006-05-21-05.jpg/1280px-Hausrotschwanz_Brutpflege_2006-05-21-05.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Hausrotschwanz_Brutpflege_2006-05-21-05.jpg",
-            "license": "CC BY-SA 3.0"
-        },
-        "audio": "audio/phoenicurus_ochruros.mp3",
-        "last_seen": "2026-11-13T06:20:14",
-        "week_count": 16,
-        "v2_confidence": 0.9952,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9386,
-        "perch_confidence": 0.9259,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Black Redstart",
-            "agrees": true
-        },
-        "sci": "Phoenicurus ochruros",
-        "order": "Passeriformes",
-        "family": "Muscicapidae",
-        "local": 1624,
-        "residency": "migrant",
-        "dawn_frac": 0.2523,
-        "dawn_total": 218,
-        "v3_top_label": "Phoenicurus ochruros_Black Redstart",
-        "v3_top_confidence": 0.9386,
-        "perch_top_label": "Phoenicurus ochruros_Black Redstart",
-        "perch_top_confidence": 0.9259,
         "photo": true
     },
     {
@@ -4067,53 +4114,6 @@
         "v3_top_confidence": 0.172,
         "perch_top_label": "Momotus mexicanus_Russet-crowned Motmot",
         "perch_top_confidence": 0.1183,
-        "photo": true
-    },
-    {
-        "name": "Oriental Honey-buzzard",
-        "he_name": "\u05d0\u05d9\u05d4 \u05de\u05e6\u05d5\u05d9\u05e6\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg/1280px-Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Oriental_honey_buzzard_Mudumalai_Mar21_DSC01405.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/pernis_ptilorhynchus.mp3",
-        "last_seen": "2026-10-18T16:43:11",
-        "week_count": 0,
-        "v2_confidence": 0.837,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.1181,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Pernis ptilorhynchus",
-        "order": "Accipitriformes",
-        "family": "Accipitridae",
-        "local": 1,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 15,
-        "v3_top_label": "Pernis apivorus_European Honey Buzzard",
-        "v3_top_confidence": 0.3201,
-        "perch_top_label": "Actitis hypoleucos_Common Sandpiper",
-        "perch_top_confidence": 0.1114,
         "photo": true
     },
     {
