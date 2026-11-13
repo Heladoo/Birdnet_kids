@@ -1,5 +1,85 @@
 [
     {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-11-13T11:56:10",
+        "week_count": 473,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6392,
+        "residency": "migrant",
+        "dawn_frac": 0.0566,
+        "dawn_total": 2772,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-11-13T11:11:50",
+        "week_count": 165,
+        "v2_confidence": 0.9969,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        },
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 4039,
+        "residency": "migrant",
+        "dawn_frac": 0.2083,
+        "dawn_total": 264,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -42,46 +122,6 @@
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-13T10:04:27",
-        "week_count": 469,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6392,
-        "residency": "migrant",
-        "dawn_frac": 0.0567,
-        "dawn_total": 2768,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -254,46 +294,6 @@
         "v3_top_confidence": 0.9386,
         "perch_top_label": "Phoenicurus ochruros_Black Redstart",
         "perch_top_confidence": 0.9259,
-        "photo": true
-    },
-    {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
-            "license": null
-        },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-13T08:49:46",
-        "week_count": 164,
-        "v2_confidence": 0.9969,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Chiffchaff",
-            "agrees": true
-        },
-        "sci": "Phylloscopus collybita",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4039,
-        "residency": "migrant",
-        "dawn_frac": 0.2091,
-        "dawn_total": 263,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
         "photo": true
     },
     {
