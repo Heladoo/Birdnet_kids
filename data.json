@@ -1,5 +1,57 @@
 [
     {
+        "name": "Common Goldeneye",
+        "he_name": "\u05e2\u05d1\u05e8\u05d0\u05e9 \u05d9\u05e8\u05d5\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Common_Goldeneye_%28Bucephala_clangula%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Goldeneye_%28Bucephala_clangula%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/bucephala_clangula.mp3",
+        "last_seen": "2026-11-14T14:58:48",
+        "week_count": 1,
+        "v2_confidence": 0.8553,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.0281,
+        "perch_confidence": 0.017,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Bucephala clangula",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "local": 0,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 4,
+        "v3_top_label": "Bubo virginianus_Great Horned Owl",
+        "v3_top_confidence": 0.0556,
+        "perch_top_label": "Buteo lineatus_Red-shouldered Hawk",
+        "perch_top_confidence": 0.0863,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +60,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-14T13:59:40",
-        "week_count": 525,
+        "last_seen": "2026-11-14T14:00:38",
+        "week_count": 526,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -32,7 +84,7 @@
         "local": 6392,
         "residency": "migrant",
         "dawn_frac": 0.0568,
-        "dawn_total": 2834,
+        "dawn_total": 2835,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
@@ -4612,58 +4664,6 @@
         "v3_top_confidence": 0.2162,
         "perch_top_label": "Passer domesticus_House Sparrow",
         "perch_top_confidence": 0.1591,
-        "photo": true
-    },
-    {
-        "name": "Common Goldeneye",
-        "he_name": "\u05e2\u05d1\u05e8\u05d0\u05e9 \u05d9\u05e8\u05d5\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Common_Goldeneye_%28Bucephala_clangula%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Goldeneye_%28Bucephala_clangula%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/bucephala_clangula.mp3",
-        "last_seen": "2026-10-09T14:43:09",
-        "week_count": 0,
-        "v2_confidence": 0.8407,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.0281,
-        "perch_confidence": 0.017,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Bucephala clangula",
-        "order": "Anseriformes",
-        "family": "Anatidae",
-        "local": 0,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 3,
-        "v3_top_label": "Bubo virginianus_Great Horned Owl",
-        "v3_top_confidence": 0.0556,
-        "perch_top_label": "Buteo lineatus_Red-shouldered Hawk",
-        "perch_top_confidence": 0.0863,
         "photo": true
     },
     {
