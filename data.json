@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-11-14T11:46:27",
-        "week_count": 136,
+        "last_seen": "2026-11-14T12:59:20",
+        "week_count": 139,
         "v2_confidence": 0.9958,
         "badges": [
             {
@@ -29,11 +29,51 @@
         "local": 8486,
         "residency": "resident",
         "dawn_frac": 0.0032,
-        "dawn_total": 4086,
+        "dawn_total": 4089,
         "v3_top_label": "Prinia lepida_Delicate Prinia",
         "v3_top_confidence": 0.4048,
         "perch_top_label": "Prinia gracilis_Graceful Prinia",
         "perch_top_confidence": 0.2728,
+        "photo": true
+    },
+    {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-11-14T12:54:40",
+        "week_count": 518,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6392,
+        "residency": "migrant",
+        "dawn_frac": 0.057,
+        "dawn_total": 2827,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -45,8 +85,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-14T11:41:57",
-        "week_count": 247,
+        "last_seen": "2026-11-14T12:49:27",
+        "week_count": 251,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -69,11 +109,88 @@
         "local": 5606,
         "residency": "resident",
         "dawn_frac": 0.0164,
-        "dawn_total": 7761,
+        "dawn_total": 7765,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Bearded Reedling",
+        "he_name": "\u05e9\u05e4\u05de\u05ea\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg/3840px-%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg",
+            "license": null
+        },
+        "audio": "audio/panurus_biarmicus.mp3",
+        "last_seen": "2026-11-14T12:35:57",
+        "week_count": 4,
+        "v2_confidence": 0.9665,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.8256,
+        "perch_confidence": 0.2002,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Bearded Reedling",
+            "agrees": true
+        },
+        "sci": "Panurus biarmicus",
+        "order": "Passeriformes",
+        "family": "Panuridae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0.0392,
+        "dawn_total": 51,
+        "v3_top_label": "Panurus biarmicus_Bearded Reedling",
+        "v3_top_confidence": 0.8256,
+        "perch_top_label": "Panurus biarmicus_Bearded Reedling",
+        "perch_top_confidence": 0.2002,
+        "photo": true
+    },
+    {
+        "name": "Palestine Sunbird",
+        "he_name": "\u05e6\u05d5\u05e4\u05d9\u05ea \u05d1\u05d5\u05d4\u05e7\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
+            "license": null
+        },
+        "audio": "audio/cinnyris_osea.mp3",
+        "last_seen": "2026-11-14T12:11:27",
+        "week_count": 36,
+        "v2_confidence": 0.9523,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.5097,
+        "perch_confidence": 0,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Cinnyris osea",
+        "order": "Passeriformes",
+        "family": "Nectariniidae",
+        "local": 5583,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 81,
+        "v3_top_label": "Cinnyris osea_Palestine Sunbird",
+        "v3_top_confidence": 0.5097,
+        "perch_top_label": "Hippolais icterina_Icterine Warbler",
+        "perch_top_confidence": 0.1406,
         "photo": true
     },
     {
@@ -111,83 +228,6 @@
         "v3_top_confidence": 0.2762,
         "perch_top_label": "Emberiza citrinella_Yellowhammer",
         "perch_top_confidence": 0.1225,
-        "photo": true
-    },
-    {
-        "name": "Palestine Sunbird",
-        "he_name": "\u05e6\u05d5\u05e4\u05d9\u05ea \u05d1\u05d5\u05d4\u05e7\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg",
-            "license": null
-        },
-        "audio": "audio/cinnyris_osea.mp3",
-        "last_seen": "2026-11-14T11:20:50",
-        "week_count": 33,
-        "v2_confidence": 0.9523,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.5097,
-        "perch_confidence": 0,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Cinnyris osea",
-        "order": "Passeriformes",
-        "family": "Nectariniidae",
-        "local": 5583,
-        "residency": "resident",
-        "dawn_frac": 0,
-        "dawn_total": 78,
-        "v3_top_label": "Cinnyris osea_Palestine Sunbird",
-        "v3_top_confidence": 0.5097,
-        "perch_top_label": "Hippolais icterina_Icterine Warbler",
-        "perch_top_confidence": 0.1406,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-14T11:05:27",
-        "week_count": 515,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6392,
-        "residency": "migrant",
-        "dawn_frac": 0.057,
-        "dawn_total": 2824,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -233,8 +273,11 @@
     {
         "name": "Eastern Olivaceous Warbler",
         "he_name": null,
-        "image": null,
-        "credit": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Eastern_olivaceous_warbler_%28Iduna_pallida%29_by_Lior_Kislev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Eastern_olivaceous_warbler_%28Iduna_pallida%29_by_Lior_Kislev.jpg",
+            "license": null
+        },
         "audio": "audio/iduna_pallida.mp3",
         "last_seen": "2026-11-14T10:47:31",
         "week_count": 1,
@@ -256,7 +299,7 @@
         "v3_top_confidence": null,
         "perch_top_label": null,
         "perch_top_confidence": null,
-        "photo": false
+        "photo": true
     },
     {
         "name": "Common Chiffchaff",
@@ -1100,46 +1143,6 @@
         "v3_top_confidence": 0.3217,
         "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
         "perch_top_confidence": 0.087,
-        "photo": true
-    },
-    {
-        "name": "Bearded Reedling",
-        "he_name": "\u05e9\u05e4\u05de\u05ea\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg/3840px-%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:%D0%92%D1%83%D1%81%D0%B0%D1%87_8066.jpg",
-            "license": null
-        },
-        "audio": "audio/panurus_biarmicus.mp3",
-        "last_seen": "2026-11-13T06:15:01",
-        "week_count": 3,
-        "v2_confidence": 0.9665,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.8256,
-        "perch_confidence": 0.2002,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Bearded Reedling",
-            "agrees": true
-        },
-        "sci": "Panurus biarmicus",
-        "order": "Passeriformes",
-        "family": "Panuridae",
-        "local": 0,
-        "residency": "",
-        "dawn_frac": 0.04,
-        "dawn_total": 50,
-        "v3_top_label": "Panurus biarmicus_Bearded Reedling",
-        "v3_top_confidence": 0.8256,
-        "perch_top_label": "Panurus biarmicus_Bearded Reedling",
-        "perch_top_confidence": 0.2002,
         "photo": true
     },
     {
