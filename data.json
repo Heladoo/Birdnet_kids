@@ -1,5 +1,47 @@
 [
     {
+        "name": "Clamorous Reed Warbler",
+        "he_name": "\u05e7\u05e0\u05d9\u05ea \u05d0\u05e4\u05e8\u05d9\u05e7\u05e0\u05d9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Clamorous_reed_warbler.jpg/1280px-Clamorous_reed_warbler.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Clamorous_reed_warbler.jpg",
+            "license": "CC BY 2.5"
+        },
+        "audio": "audio/acrocephalus_stentoreus.mp3",
+        "last_seen": "2026-11-15T10:58:02",
+        "week_count": 2,
+        "v2_confidence": 0.9035,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.0399,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Acrocephalus stentoreus",
+        "order": "Passeriformes",
+        "family": "Acrocephalidae",
+        "local": 937,
+        "residency": "resident",
+        "dawn_frac": 0,
+        "dawn_total": 3,
+        "v3_top_label": "Pycnonotus conradi_Streak-eared Bulbul",
+        "v3_top_confidence": 0.4211,
+        "perch_top_label": "Thryomanes bewickii_Bewick's Wren",
+        "perch_top_confidence": 0.0648,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +50,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-15T09:53:39",
-        "week_count": 517,
+        "last_seen": "2026-11-15T10:56:54",
+        "week_count": 521,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,12 +73,94 @@
         "family": "Motacillidae",
         "local": 6392,
         "residency": "migrant",
-        "dawn_frac": 0.0588,
-        "dawn_total": 2858,
+        "dawn_frac": 0.0587,
+        "dawn_total": 2862,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
+            "license": null
+        },
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-11-15T10:38:06",
+        "week_count": 123,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Prinia gracilis",
+        "order": "Passeriformes",
+        "family": "Cisticolidae",
+        "local": 8486,
+        "residency": "resident",
+        "dawn_frac": 0.0032,
+        "dawn_total": 4097,
+        "v3_top_label": "Prinia lepida_Delicate Prinia",
+        "v3_top_confidence": 0.4048,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.2728,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-11-15T10:26:49",
+        "week_count": 444,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7624,
+        "residency": "resident",
+        "dawn_frac": 0.0904,
+        "dawn_total": 15735,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -191,93 +315,6 @@
         "v3_top_confidence": 0.3218,
         "perch_top_label": "Porzana porzana_Spotted Crake",
         "perch_top_confidence": 0.2157,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-15T09:21:36",
-        "week_count": 440,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7624,
-        "residency": "resident",
-        "dawn_frac": 0.0905,
-        "dawn_total": 15731,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
-        "photo": true
-    },
-    {
-        "name": "Clamorous Reed Warbler",
-        "he_name": "\u05e7\u05e0\u05d9\u05ea \u05d0\u05e4\u05e8\u05d9\u05e7\u05e0\u05d9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Clamorous_reed_warbler.jpg/1280px-Clamorous_reed_warbler.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Clamorous_reed_warbler.jpg",
-            "license": "CC BY 2.5"
-        },
-        "audio": "audio/acrocephalus_stentoreus.mp3",
-        "last_seen": "2026-11-15T09:20:47",
-        "week_count": 1,
-        "v2_confidence": 0.9035,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.0399,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Acrocephalus stentoreus",
-        "order": "Passeriformes",
-        "family": "Acrocephalidae",
-        "local": 937,
-        "residency": "resident",
-        "dawn_frac": 0,
-        "dawn_total": 2,
-        "v3_top_label": "Pycnonotus conradi_Streak-eared Bulbul",
-        "v3_top_confidence": 0.4211,
-        "perch_top_label": "Thryomanes bewickii_Bewick's Wren",
-        "perch_top_confidence": 0.0648,
         "photo": true
     },
     {
@@ -1041,43 +1078,6 @@
         "v3_top_confidence": 0.5903,
         "perch_top_label": "Phylloscopus tenellipes_Pale-legged Leaf Warbler",
         "perch_top_confidence": 0.0481,
-        "photo": true
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
-            "license": null
-        },
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-11-14T13:04:55",
-        "week_count": 117,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Prinia gracilis",
-        "order": "Passeriformes",
-        "family": "Cisticolidae",
-        "local": 8486,
-        "residency": "resident",
-        "dawn_frac": 0.0032,
-        "dawn_total": 4091,
-        "v3_top_label": "Prinia lepida_Delicate Prinia",
-        "v3_top_confidence": 0.4048,
-        "perch_top_label": "Prinia gracilis_Graceful Prinia",
-        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
