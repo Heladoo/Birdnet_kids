@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-15T18:51:09",
-        "week_count": 457,
+        "last_seen": "2026-11-15T21:35:34",
+        "week_count": 463,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -36,12 +36,59 @@
         "family": "Charadriidae",
         "local": 7624,
         "residency": "resident",
-        "dawn_frac": 0.0904,
-        "dawn_total": 15748,
+        "dawn_frac": 0.0903,
+        "dawn_total": 15754,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Lesser Kestrel",
+        "he_name": "\u05d1\u05d6 \u05d0\u05d3\u05d5\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lesser_Kestrel_%28Male%29.jpg/3840px-Lesser_Kestrel_%28Male%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Lesser_Kestrel_%28Male%29.jpg",
+            "license": null
+        },
+        "audio": "audio/falco_naumanni.mp3",
+        "last_seen": "2026-11-15T21:03:39",
+        "week_count": 1,
+        "v2_confidence": 0.8868,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.0013,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Falco naumanni",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 754,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 9,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.1406,
+        "perch_top_label": "Phasianus colchicus_Common Pheasant",
+        "perch_top_confidence": 0.0718,
         "photo": true
     },
     {
@@ -5655,53 +5702,6 @@
         "v3_top_confidence": 0.4437,
         "perch_top_label": "Circaetus gallicus_Short-toed Snake Eagle",
         "perch_top_confidence": 0.5354,
-        "photo": true
-    },
-    {
-        "name": "Lesser Kestrel",
-        "he_name": "\u05d1\u05d6 \u05d0\u05d3\u05d5\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lesser_Kestrel_%28Male%29.jpg/3840px-Lesser_Kestrel_%28Male%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Lesser_Kestrel_%28Male%29.jpg",
-            "license": null
-        },
-        "audio": "audio/falco_naumanni.mp3",
-        "last_seen": "2026-09-15T04:03:11",
-        "week_count": 0,
-        "v2_confidence": 0.8868,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.0013,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Falco naumanni",
-        "order": "Falconiformes",
-        "family": "Falconidae",
-        "local": 754,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 8,
-        "v3_top_label": "Passer domesticus_House Sparrow",
-        "v3_top_confidence": 0.1406,
-        "perch_top_label": "Phasianus colchicus_Common Pheasant",
-        "perch_top_confidence": 0.0718,
         "photo": true
     },
     {
