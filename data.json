@@ -1,5 +1,42 @@
 [
     {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
+            "license": null
+        },
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-11-16T11:54:06",
+        "week_count": 71,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Prinia gracilis",
+        "order": "Passeriformes",
+        "family": "Cisticolidae",
+        "local": 8486,
+        "residency": "resident",
+        "dawn_frac": 0.0032,
+        "dawn_total": 4125,
+        "v3_top_label": "Prinia lepida_Delicate Prinia",
+        "v3_top_confidence": 0.4048,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.2728,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +45,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-16T10:48:49",
-        "week_count": 447,
+        "last_seen": "2026-11-16T11:50:28",
+        "week_count": 448,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -37,7 +74,7 @@
         "local": 7624,
         "residency": "resident",
         "dawn_frac": 0.0907,
-        "dawn_total": 15791,
+        "dawn_total": 15792,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
@@ -53,8 +90,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-16T10:37:11",
-        "week_count": 473,
+        "last_seen": "2026-11-16T11:43:26",
+        "week_count": 474,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -77,7 +114,7 @@
         "local": 6392,
         "residency": "migrant",
         "dawn_frac": 0.0619,
-        "dawn_total": 2909,
+        "dawn_total": 2910,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
@@ -736,43 +773,6 @@
         "v3_top_confidence": 0.1843,
         "perch_top_label": "Curruca melanocephala_Sardinian Warbler",
         "perch_top_confidence": 0.0639,
-        "photo": true
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
-            "license": null
-        },
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-11-15T13:07:36",
-        "week_count": 70,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Prinia gracilis",
-        "order": "Passeriformes",
-        "family": "Cisticolidae",
-        "local": 8486,
-        "residency": "resident",
-        "dawn_frac": 0.0032,
-        "dawn_total": 4124,
-        "v3_top_label": "Prinia lepida_Delicate Prinia",
-        "v3_top_confidence": 0.4048,
-        "perch_top_label": "Prinia gracilis_Graceful Prinia",
-        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
