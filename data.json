@@ -1,16 +1,16 @@
 [
     {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "name": "Eurasian Wryneck",
+        "he_name": "\u05e1\u05d1\u05e8\u05d0\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg/1280px-Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
         "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": null
+            "url": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
+            "license": "CC BY-SA 4.0"
         },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-16T05:56:20",
-        "week_count": 452,
-        "v2_confidence": 0.9981,
+        "audio": "audio/jynx_torquilla.mp3",
+        "last_seen": "2026-11-16T06:45:16",
+        "week_count": 2,
+        "v2_confidence": 0.978,
         "badges": [
             {
                 "i": "\u2708\ufe0f",
@@ -18,25 +18,65 @@
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
+        "v3_confidence": 0.2748,
+        "perch_confidence": 0.3786,
         "v3_agrees": true,
         "perch_agrees": true,
         "second_opinion": {
-            "com": "White Wagtail",
+            "com": "Eurasian Wryneck",
             "agrees": true
         },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6392,
+        "sci": "Jynx torquilla",
+        "order": "Piciformes",
+        "family": "Picidae",
+        "local": 372,
         "residency": "migrant",
-        "dawn_frac": 0.0585,
-        "dawn_total": 2888,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
+        "dawn_frac": 0.0526,
+        "dawn_total": 57,
+        "v3_top_label": "Jynx torquilla_Eurasian Wryneck",
+        "v3_top_confidence": 0.2748,
+        "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
+        "perch_top_confidence": 0.3786,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-11-16T06:43:37",
+        "week_count": 208,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5606,
+        "residency": "resident",
+        "dawn_frac": 0.0175,
+        "dawn_total": 7807,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
         "photo": true
     },
     {
@@ -48,8 +88,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-16T05:35:22",
-        "week_count": 426,
+        "last_seen": "2026-11-16T06:41:16",
+        "week_count": 436,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -77,11 +117,131 @@
         "local": 7624,
         "residency": "resident",
         "dawn_frac": 0.0907,
-        "dawn_total": 15770,
+        "dawn_total": 15780,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
+            "license": null
+        },
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-11-16T06:40:18",
+        "week_count": 42,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        },
+        "sci": "Acridotheres tristis",
+        "order": "Passeriformes",
+        "family": "Sturnidae",
+        "local": 6513,
+        "residency": "resident",
+        "dawn_frac": 0.0743,
+        "dawn_total": 1548,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-11-16T06:25:57",
+        "week_count": 463,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6392,
+        "residency": "migrant",
+        "dawn_frac": 0.0621,
+        "dawn_total": 2899,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Gray Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05d6\u05e0\u05d1\u05ea\u05df",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/3840px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_cinerea.mp3",
+        "last_seen": "2026-11-16T06:17:03",
+        "week_count": 4,
+        "v2_confidence": 0.9512,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.874,
+        "perch_confidence": 0.2349,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Grey Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla cinerea",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 110,
+        "residency": "migrant",
+        "dawn_frac": 0.0645,
+        "dawn_total": 62,
+        "v3_top_label": "Motacilla cinerea_Grey Wagtail",
+        "v3_top_confidence": 0.874,
+        "perch_top_label": "Motacilla cinerea_Grey Wagtail",
+        "perch_top_confidence": 0.2349,
         "photo": true
     },
     {
@@ -219,126 +379,6 @@
         "v3_top_confidence": 0.1406,
         "perch_top_label": "Phasianus colchicus_Common Pheasant",
         "perch_top_confidence": 0.0718,
-        "photo": true
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-15T16:40:00",
-        "week_count": 203,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5606,
-        "residency": "resident",
-        "dawn_frac": 0.0172,
-        "dawn_total": 7802,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
-        "photo": true
-    },
-    {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
-            "license": null
-        },
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-11-15T16:33:39",
-        "week_count": 41,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": true
-        },
-        "sci": "Acridotheres tristis",
-        "order": "Passeriformes",
-        "family": "Sturnidae",
-        "local": 6513,
-        "residency": "resident",
-        "dawn_frac": 0.0743,
-        "dawn_total": 1547,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9523,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.4667,
-        "photo": true
-    },
-    {
-        "name": "Gray Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05d6\u05e0\u05d1\u05ea\u05df",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/3840px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_cinerea.mp3",
-        "last_seen": "2026-11-15T16:32:36",
-        "week_count": 3,
-        "v2_confidence": 0.9512,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.874,
-        "perch_confidence": 0.2349,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Grey Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla cinerea",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 110,
-        "residency": "migrant",
-        "dawn_frac": 0.0492,
-        "dawn_total": 61,
-        "v3_top_label": "Motacilla cinerea_Grey Wagtail",
-        "v3_top_confidence": 0.874,
-        "perch_top_label": "Motacilla cinerea_Grey Wagtail",
-        "perch_top_confidence": 0.2349,
         "photo": true
     },
     {
@@ -2019,46 +2059,6 @@
         "v3_top_confidence": 0.5272,
         "perch_top_label": "Turdus iliacus_Redwing",
         "perch_top_confidence": 0.2946,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Wryneck",
-        "he_name": "\u05e1\u05d1\u05e8\u05d0\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg/1280px-Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/jynx_torquilla.mp3",
-        "last_seen": "2026-11-13T05:23:29",
-        "week_count": 1,
-        "v2_confidence": 0.978,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.2748,
-        "perch_confidence": 0.3786,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Wryneck",
-            "agrees": true
-        },
-        "sci": "Jynx torquilla",
-        "order": "Piciformes",
-        "family": "Picidae",
-        "local": 372,
-        "residency": "migrant",
-        "dawn_frac": 0.0536,
-        "dawn_total": 56,
-        "v3_top_label": "Jynx torquilla_Eurasian Wryneck",
-        "v3_top_confidence": 0.2748,
-        "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
-        "perch_top_confidence": 0.3786,
         "photo": true
     },
     {
