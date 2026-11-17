@@ -1,16 +1,56 @@
 [
     {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
             "license": null
         },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-17T11:48:58",
-        "week_count": 41,
-        "v2_confidence": 0.9969,
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-11-17T12:53:09",
+        "week_count": 46,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        },
+        "sci": "Acridotheres tristis",
+        "order": "Passeriformes",
+        "family": "Sturnidae",
+        "local": 6513,
+        "residency": "resident",
+        "dawn_frac": 0.0741,
+        "dawn_total": 1552,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "Dunnock",
+        "he_name": "\u05e1\u05ea\u05e8\u05d9 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dunnock_%28Prunella_modularis%29_3.jpg/3840px-Dunnock_%28Prunella_modularis%29_3.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Dunnock_%28Prunella_modularis%29_3.jpg",
+            "license": null
+        },
+        "audio": "audio/prunella_modularis.mp3",
+        "last_seen": "2026-11-17T12:46:54",
+        "week_count": 3,
+        "v2_confidence": 0.9473,
         "badges": [
             {
                 "i": "\u2708\ufe0f",
@@ -18,25 +58,22 @@
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
+        "v3_confidence": 0.5903,
+        "perch_confidence": 0.0395,
         "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Chiffchaff",
-            "agrees": true
-        },
-        "sci": "Phylloscopus collybita",
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Prunella modularis",
         "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4039,
+        "family": "Prunellidae",
+        "local": 22,
         "residency": "migrant",
-        "dawn_frac": 0.1971,
-        "dawn_total": 279,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
+        "dawn_frac": 0,
+        "dawn_total": 13,
+        "v3_top_label": "Prunella modularis_Dunnock",
+        "v3_top_confidence": 0.5903,
+        "perch_top_label": "Phylloscopus tenellipes_Pale-legged Leaf Warbler",
+        "perch_top_confidence": 0.0481,
         "photo": true
     },
     {
@@ -48,8 +85,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-17T11:43:09",
-        "week_count": 428,
+        "last_seen": "2026-11-17T12:15:49",
+        "week_count": 429,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -72,11 +109,51 @@
         "local": 6392,
         "residency": "migrant",
         "dawn_frac": 0.0626,
-        "dawn_total": 2954,
+        "dawn_total": 2955,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-11-17T12:09:28",
+        "week_count": 42,
+        "v2_confidence": 0.9969,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        },
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 4039,
+        "residency": "migrant",
+        "dawn_frac": 0.1964,
+        "dawn_total": 280,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
         "photo": true
     },
     {
@@ -622,46 +699,6 @@
         "v3_top_confidence": 0.8271,
         "perch_top_label": "Actitis hypoleucos_Common Sandpiper",
         "perch_top_confidence": 0.7364,
-        "photo": true
-    },
-    {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
-            "license": null
-        },
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-11-17T07:16:14",
-        "week_count": 45,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": true
-        },
-        "sci": "Acridotheres tristis",
-        "order": "Passeriformes",
-        "family": "Sturnidae",
-        "local": 6513,
-        "residency": "resident",
-        "dawn_frac": 0.0741,
-        "dawn_total": 1551,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9523,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.4667,
         "photo": true
     },
     {
@@ -2033,43 +2070,6 @@
         "v3_top_confidence": 0.0556,
         "perch_top_label": "Buteo lineatus_Red-shouldered Hawk",
         "perch_top_confidence": 0.0863,
-        "photo": true
-    },
-    {
-        "name": "Dunnock",
-        "he_name": "\u05e1\u05ea\u05e8\u05d9 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dunnock_%28Prunella_modularis%29_3.jpg/3840px-Dunnock_%28Prunella_modularis%29_3.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Dunnock_%28Prunella_modularis%29_3.jpg",
-            "license": null
-        },
-        "audio": "audio/prunella_modularis.mp3",
-        "last_seen": "2026-11-14T13:07:55",
-        "week_count": 2,
-        "v2_confidence": 0.9473,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.5903,
-        "perch_confidence": 0.0395,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Prunella modularis",
-        "order": "Passeriformes",
-        "family": "Prunellidae",
-        "local": 22,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 12,
-        "v3_top_label": "Prunella modularis_Dunnock",
-        "v3_top_confidence": 0.5903,
-        "perch_top_label": "Phylloscopus tenellipes_Pale-legged Leaf Warbler",
-        "perch_top_confidence": 0.0481,
         "photo": true
     },
     {
