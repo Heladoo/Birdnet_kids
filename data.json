@@ -1,5 +1,85 @@
 [
     {
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-11-17T11:48:58",
+        "week_count": 41,
+        "v2_confidence": 0.9969,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        },
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 4039,
+        "residency": "migrant",
+        "dawn_frac": 0.1971,
+        "dawn_total": 279,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
+        "photo": true
+    },
+    {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-11-17T11:43:09",
+        "week_count": 428,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6392,
+        "residency": "migrant",
+        "dawn_frac": 0.0626,
+        "dawn_total": 2954,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
         "name": "Rose-ringed Parakeet",
         "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +88,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-17T10:48:30",
-        "week_count": 215,
+        "last_seen": "2026-11-17T11:27:41",
+        "week_count": 217,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -32,11 +112,96 @@
         "local": 5606,
         "residency": "resident",
         "dawn_frac": 0.0178,
-        "dawn_total": 7846,
+        "dawn_total": 7848,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-11-17T11:14:26",
+        "week_count": 465,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7624,
+        "residency": "resident",
+        "dawn_frac": 0.0909,
+        "dawn_total": 15872,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Barn Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/hirundo_rustica.mp3",
+        "last_seen": "2026-11-17T11:00:24",
+        "week_count": 3,
+        "v2_confidence": 0.968,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.905,
+        "perch_confidence": 0.8648,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Barn Swallow",
+            "agrees": true
+        },
+        "sci": "Hirundo rustica",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 5940,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 185,
+        "v3_top_label": "Hirundo rustica_Barn Swallow",
+        "v3_top_confidence": 0.905,
+        "perch_top_label": "Hirundo rustica_Barn Swallow",
+        "perch_top_confidence": 0.8648,
         "photo": true
     },
     {
@@ -211,46 +376,6 @@
         "photo": true
     },
     {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-17T09:53:15",
-        "week_count": 421,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6392,
-        "residency": "migrant",
-        "dawn_frac": 0.0628,
-        "dawn_total": 2947,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
-        "photo": true
-    },
-    {
         "name": "River Warbler",
         "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05e0\u05d7\u05dc\u05d9\u05dd",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -338,46 +463,6 @@
         "photo": true
     },
     {
-        "name": "Barn Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/hirundo_rustica.mp3",
-        "last_seen": "2026-11-17T09:37:13",
-        "week_count": 2,
-        "v2_confidence": 0.968,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.905,
-        "perch_confidence": 0.8648,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Barn Swallow",
-            "agrees": true
-        },
-        "sci": "Hirundo rustica",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 5940,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 184,
-        "v3_top_label": "Hirundo rustica_Barn Swallow",
-        "v3_top_confidence": 0.905,
-        "perch_top_label": "Hirundo rustica_Barn Swallow",
-        "perch_top_confidence": 0.8648,
-        "photo": true
-    },
-    {
         "name": "White-throated Dipper",
         "he_name": null,
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Cinclus_cinclus_-Kirkcudbright%2C_Scotland-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -412,51 +497,6 @@
         "v3_top_confidence": null,
         "perch_top_label": null,
         "perch_top_confidence": null,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-17T09:04:21",
-        "week_count": 464,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7624,
-        "residency": "resident",
-        "dawn_frac": 0.0909,
-        "dawn_total": 15871,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -1005,46 +1045,6 @@
         "v3_top_confidence": 0.6364,
         "perch_top_label": "Pycnonotus barbatus_Common Bulbul",
         "perch_top_confidence": 0.3777,
-        "photo": true
-    },
-    {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
-            "license": null
-        },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-16T15:42:19",
-        "week_count": 40,
-        "v2_confidence": 0.9969,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Chiffchaff",
-            "agrees": true
-        },
-        "sci": "Phylloscopus collybita",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4039,
-        "residency": "migrant",
-        "dawn_frac": 0.1978,
-        "dawn_total": 278,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
         "photo": true
     },
     {
