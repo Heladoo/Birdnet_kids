@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-17T06:46:27",
-        "week_count": 431,
+        "last_seen": "2026-11-17T07:50:52",
+        "week_count": 448,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -36,52 +36,12 @@
         "family": "Charadriidae",
         "local": 7624,
         "residency": "resident",
-        "dawn_frac": 0.091,
-        "dawn_total": 15838,
+        "dawn_frac": 0.0909,
+        "dawn_total": 15855,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
-        "photo": true
-    },
-    {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
-            "license": null
-        },
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-11-17T06:34:29",
-        "week_count": 44,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": true
-        },
-        "sci": "Acridotheres tristis",
-        "order": "Passeriformes",
-        "family": "Sturnidae",
-        "local": 6513,
-        "residency": "resident",
-        "dawn_frac": 0.0742,
-        "dawn_total": 1550,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9523,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.4667,
         "photo": true
     },
     {
@@ -93,8 +53,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-17T06:23:20",
-        "week_count": 409,
+        "last_seen": "2026-11-17T07:39:41",
+        "week_count": 413,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -116,12 +76,57 @@
         "family": "Motacillidae",
         "local": 6392,
         "residency": "migrant",
-        "dawn_frac": 0.063,
-        "dawn_total": 2935,
+        "dawn_frac": 0.0629,
+        "dawn_total": 2939,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Common Sandpiper",
+        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05dc\u05d1\u05e0\u05ea-\u05d1\u05d8\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Actitis_hypoleucos_-_Laem_Pak_Bia.jpg/1280px-Actitis_hypoleucos_-_Laem_Pak_Bia.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Actitis_hypoleucos_-_Laem_Pak_Bia.jpg",
+            "license": "CC BY 3.0"
+        },
+        "audio": "audio/actitis_hypoleucos.mp3",
+        "last_seen": "2026-11-17T07:24:57",
+        "week_count": 1,
+        "v2_confidence": 0.9507,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.8271,
+        "perch_confidence": 0.7364,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Sandpiper",
+            "agrees": true
+        },
+        "sci": "Actitis hypoleucos",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 2209,
+        "residency": "migrant",
+        "dawn_frac": 0.2188,
+        "dawn_total": 32,
+        "v3_top_label": "Actitis hypoleucos_Common Sandpiper",
+        "v3_top_confidence": 0.8271,
+        "perch_top_label": "Actitis hypoleucos_Common Sandpiper",
+        "perch_top_confidence": 0.7364,
         "photo": true
     },
     {
@@ -133,8 +138,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-17T06:16:46",
-        "week_count": 210,
+        "last_seen": "2026-11-17T07:19:20",
+        "week_count": 214,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -156,12 +161,52 @@
         "family": "Psittacidae",
         "local": 5606,
         "residency": "resident",
-        "dawn_frac": 0.0179,
-        "dawn_total": 7841,
+        "dawn_frac": 0.0178,
+        "dawn_total": 7845,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
+            "license": null
+        },
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-11-17T07:16:14",
+        "week_count": 45,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        },
+        "sci": "Acridotheres tristis",
+        "order": "Passeriformes",
+        "family": "Sturnidae",
+        "local": 6513,
+        "residency": "resident",
+        "dawn_frac": 0.0741,
+        "dawn_total": 1551,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
         "photo": true
     },
     {
@@ -3494,51 +3539,6 @@
         "v3_top_confidence": 0.8798,
         "perch_top_label": "Cuculus canorus_Common Cuckoo",
         "perch_top_confidence": 0.3959,
-        "photo": true
-    },
-    {
-        "name": "Common Sandpiper",
-        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05dc\u05d1\u05e0\u05ea-\u05d1\u05d8\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Actitis_hypoleucos_-_Laem_Pak_Bia.jpg/1280px-Actitis_hypoleucos_-_Laem_Pak_Bia.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Actitis_hypoleucos_-_Laem_Pak_Bia.jpg",
-            "license": "CC BY 3.0"
-        },
-        "audio": "audio/actitis_hypoleucos.mp3",
-        "last_seen": "2026-11-06T09:19:47",
-        "week_count": 0,
-        "v2_confidence": 0.9507,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.8271,
-        "perch_confidence": 0.7364,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Sandpiper",
-            "agrees": true
-        },
-        "sci": "Actitis hypoleucos",
-        "order": "Charadriiformes",
-        "family": "Scolopacidae",
-        "local": 2209,
-        "residency": "migrant",
-        "dawn_frac": 0.2258,
-        "dawn_total": 31,
-        "v3_top_label": "Actitis hypoleucos_Common Sandpiper",
-        "v3_top_confidence": 0.8271,
-        "perch_top_label": "Actitis hypoleucos_Common Sandpiper",
-        "perch_top_confidence": 0.7364,
         "photo": true
     },
     {
