@@ -1,5 +1,216 @@
 [
     {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-11-17T10:48:30",
+        "week_count": 215,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5606,
+        "residency": "resident",
+        "dawn_frac": 0.0178,
+        "dawn_total": 7846,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Red-vented Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+            "license": "CC BY 4.0"
+        },
+        "audio": "audio/pycnonotus_cafer.mp3",
+        "last_seen": "2026-11-17T10:42:36",
+        "week_count": 4,
+        "v2_confidence": 0.9278,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9549,
+        "perch_confidence": 0.0209,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Pycnonotus cafer",
+        "order": "Passeriformes",
+        "family": "Pycnonotidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0.0538,
+        "dawn_total": 130,
+        "v3_top_label": "Pycnonotus cafer_Red-vented Bulbul",
+        "v3_top_confidence": 0.9549,
+        "perch_top_label": "Urocissa erythroryncha_Red-billed Blue Magpie",
+        "perch_top_confidence": 0.0364,
+        "photo": true
+    },
+    {
+        "name": "Tawny Pipit",
+        "he_name": "\u05e4\u05e4\u05d9\u05d5\u05df \u05e6\u05d4\u05d5\u05d1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tawny_pipit_47.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Tawny_pipit_47.jpg",
+            "license": null
+        },
+        "audio": "audio/anthus_campestris.mp3",
+        "last_seen": "2026-11-17T10:23:39",
+        "week_count": 4,
+        "v2_confidence": 0.9369,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0516,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Anthus campestris",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 554,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 23,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.0694,
+        "perch_top_label": "Curruca communis_Common Whitethroat",
+        "perch_top_confidence": 0.0824,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Kestrel",
+        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
+            "license": null
+        },
+        "audio": "audio/falco_tinnunculus.mp3",
+        "last_seen": "2026-11-17T10:19:17",
+        "week_count": 30,
+        "v2_confidence": 0.9987,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.4129,
+        "perch_confidence": 0.4165,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Kestrel",
+            "agrees": true
+        },
+        "sci": "Falco tinnunculus",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 12500,
+        "residency": "resident",
+        "dawn_frac": 0.0968,
+        "dawn_total": 372,
+        "v3_top_label": "Falco tinnunculus_Common Kestrel",
+        "v3_top_confidence": 0.4129,
+        "perch_top_label": "Falco tinnunculus_Common Kestrel",
+        "perch_top_confidence": 0.4165,
+        "photo": true
+    },
+    {
+        "name": "Great Bittern",
+        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05de\u05e1\u05d5\u05e8\u05d8\u05d8\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
+            "license": "CC BY-SA 2.0"
+        },
+        "audio": "audio/botaurus_stellaris.mp3",
+        "last_seen": "2026-11-17T10:00:00",
+        "week_count": 3,
+        "v2_confidence": 0.9858,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.0007,
+        "perch_confidence": 0.0357,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Botaurus stellaris",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 28,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 217,
+        "v3_top_label": "Falco tinnunculus_Common Kestrel",
+        "v3_top_confidence": 0.0605,
+        "perch_top_label": "Brotogeris chiriri_Yellow-chevroned Parakeet",
+        "perch_top_confidence": 0.0827,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -371,46 +582,6 @@
         "v3_top_confidence": 0.8271,
         "perch_top_label": "Actitis hypoleucos_Common Sandpiper",
         "perch_top_confidence": 0.7364,
-        "photo": true
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-17T07:19:20",
-        "week_count": 214,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5606,
-        "residency": "resident",
-        "dawn_frac": 0.0178,
-        "dawn_total": 7845,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
         "photo": true
     },
     {
@@ -874,53 +1045,6 @@
         "v3_top_confidence": 0.886,
         "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
         "perch_top_confidence": 0.9336,
-        "photo": true
-    },
-    {
-        "name": "Great Bittern",
-        "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05de\u05e1\u05d5\u05e8\u05d8\u05d8\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
-            "license": "CC BY-SA 2.0"
-        },
-        "audio": "audio/botaurus_stellaris.mp3",
-        "last_seen": "2026-11-16T15:20:56",
-        "week_count": 2,
-        "v2_confidence": 0.9858,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.0007,
-        "perch_confidence": 0.0357,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Botaurus stellaris",
-        "order": "Pelecaniformes",
-        "family": "Ardeidae",
-        "local": 28,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 216,
-        "v3_top_label": "Falco tinnunculus_Common Kestrel",
-        "v3_top_confidence": 0.0605,
-        "perch_top_label": "Brotogeris chiriri_Yellow-chevroned Parakeet",
-        "perch_top_confidence": 0.0827,
         "photo": true
     },
     {
@@ -1538,51 +1662,6 @@
         "photo": true
     },
     {
-        "name": "Eurasian Kestrel",
-        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
-            "license": null
-        },
-        "audio": "audio/falco_tinnunculus.mp3",
-        "last_seen": "2026-11-15T12:42:43",
-        "week_count": 29,
-        "v2_confidence": 0.9987,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.4129,
-        "perch_confidence": 0.4165,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Kestrel",
-            "agrees": true
-        },
-        "sci": "Falco tinnunculus",
-        "order": "Falconiformes",
-        "family": "Falconidae",
-        "local": 12500,
-        "residency": "resident",
-        "dawn_frac": 0.097,
-        "dawn_total": 371,
-        "v3_top_label": "Falco tinnunculus_Common Kestrel",
-        "v3_top_confidence": 0.4129,
-        "perch_top_label": "Falco tinnunculus_Common Kestrel",
-        "perch_top_confidence": 0.4165,
-        "photo": true
-    },
-    {
         "name": "Meadow Pipit",
         "he_name": "\u05e4\u05e4\u05d9\u05d5\u05df \u05e9\u05d3\u05d5\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wiesenpieper_Meadow_pipit.jpg/3840px-Wiesenpieper_Meadow_pipit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1690,43 +1769,6 @@
         "v3_top_confidence": 0.4211,
         "perch_top_label": "Thryomanes bewickii_Bewick's Wren",
         "perch_top_confidence": 0.0648,
-        "photo": true
-    },
-    {
-        "name": "Red-vented Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05d3\u05d5\u05dd-\u05e9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg/1280px-Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
-            "license": "CC BY 4.0"
-        },
-        "audio": "audio/pycnonotus_cafer.mp3",
-        "last_seen": "2026-11-15T09:27:11",
-        "week_count": 3,
-        "v2_confidence": 0.9278,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9549,
-        "perch_confidence": 0.0209,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Pycnonotus cafer",
-        "order": "Passeriformes",
-        "family": "Pycnonotidae",
-        "local": 0,
-        "residency": "",
-        "dawn_frac": 0.0543,
-        "dawn_total": 129,
-        "v3_top_label": "Pycnonotus cafer_Red-vented Bulbul",
-        "v3_top_confidence": 0.9549,
-        "perch_top_label": "Urocissa erythroryncha_Red-billed Blue Magpie",
-        "perch_top_confidence": 0.0364,
         "photo": true
     },
     {
@@ -1991,48 +2033,6 @@
         "v3_top_confidence": 0.0556,
         "perch_top_label": "Buteo lineatus_Red-shouldered Hawk",
         "perch_top_confidence": 0.0863,
-        "photo": true
-    },
-    {
-        "name": "Tawny Pipit",
-        "he_name": "\u05e4\u05e4\u05d9\u05d5\u05df \u05e6\u05d4\u05d5\u05d1",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tawny_pipit_47.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Tawny_pipit_47.jpg",
-            "license": null
-        },
-        "audio": "audio/anthus_campestris.mp3",
-        "last_seen": "2026-11-14T13:15:18",
-        "week_count": 3,
-        "v2_confidence": 0.9369,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0516,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Anthus campestris",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 554,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 22,
-        "v3_top_label": "Passer domesticus_House Sparrow",
-        "v3_top_confidence": 0.0694,
-        "perch_top_label": "Curruca communis_Common Whitethroat",
-        "perch_top_confidence": 0.0824,
         "photo": true
     },
     {
