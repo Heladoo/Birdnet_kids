@@ -1,5 +1,217 @@
 [
     {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-11-17T14:53:19",
+        "week_count": 436,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6392,
+        "residency": "migrant",
+        "dawn_frac": 0.0625,
+        "dawn_total": 2962,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-11-17T14:52:15",
+        "week_count": 232,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5606,
+        "residency": "resident",
+        "dawn_frac": 0.0178,
+        "dawn_total": 7863,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-11-17T14:49:26",
+        "week_count": 55,
+        "v2_confidence": 0.9969,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        },
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 4039,
+        "residency": "migrant",
+        "dawn_frac": 0.1877,
+        "dawn_total": 293,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
+        "photo": true
+    },
+    {
+        "name": "Common Redstart",
+        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e2\u05e6\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg/1280px-Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "audio": "audio/phoenicurus_phoenicurus.mp3",
+        "last_seen": "2026-11-17T14:46:58",
+        "week_count": 10,
+        "v2_confidence": 0.9578,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0114,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Phoenicurus phoenicurus",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 1390,
+        "residency": "migrant",
+        "dawn_frac": 0.3,
+        "dawn_total": 20,
+        "v3_top_label": "Gallinula chloropus_Common Moorhen",
+        "v3_top_confidence": 0.5272,
+        "perch_top_label": "Turdus iliacus_Redwing",
+        "perch_top_confidence": 0.2946,
+        "photo": true
+    },
+    {
+        "name": "Little Owl",
+        "he_name": "\u05db\u05d5\u05e1 \u05d4\u05d7\u05d5\u05e8\u05d1\u05d5\u05ea",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg/3840px-%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg",
+            "license": null
+        },
+        "audio": "audio/athene_noctua.mp3",
+        "last_seen": "2026-11-17T14:44:13",
+        "week_count": 1,
+        "v2_confidence": 0.9793,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "en": "Nocturnal",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.8716,
+        "perch_confidence": 0.5193,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Little Owl",
+            "agrees": true
+        },
+        "sci": "Athene noctua",
+        "order": "Strigiformes",
+        "family": "Strigidae",
+        "local": 1828,
+        "residency": "resident",
+        "dawn_frac": 0.0244,
+        "dawn_total": 123,
+        "v3_top_label": "Athene noctua_Little Owl",
+        "v3_top_confidence": 0.8716,
+        "perch_top_label": "Athene noctua_Little Owl",
+        "perch_top_confidence": 0.5193,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +220,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-17T13:45:43",
-        "week_count": 469,
+        "last_seen": "2026-11-17T14:34:51",
+        "week_count": 500,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -36,92 +248,12 @@
         "family": "Charadriidae",
         "local": 7624,
         "residency": "resident",
-        "dawn_frac": 0.0908,
-        "dawn_total": 15876,
+        "dawn_frac": 0.0907,
+        "dawn_total": 15907,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
-        "photo": true
-    },
-    {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
-            "license": null
-        },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-17T13:39:06",
-        "week_count": 43,
-        "v2_confidence": 0.9969,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Chiffchaff",
-            "agrees": true
-        },
-        "sci": "Phylloscopus collybita",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4039,
-        "residency": "migrant",
-        "dawn_frac": 0.1957,
-        "dawn_total": 281,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-17T13:21:36",
-        "week_count": 430,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6392,
-        "residency": "migrant",
-        "dawn_frac": 0.0626,
-        "dawn_total": 2956,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -241,46 +373,6 @@
         "v3_top_confidence": 0.5903,
         "perch_top_label": "Phylloscopus tenellipes_Pale-legged Leaf Warbler",
         "perch_top_confidence": 0.0481,
-        "photo": true
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-17T11:27:41",
-        "week_count": 217,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5606,
-        "residency": "resident",
-        "dawn_frac": 0.0178,
-        "dawn_total": 7848,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
         "photo": true
     },
     {
@@ -2468,48 +2560,6 @@
         "photo": true
     },
     {
-        "name": "Common Redstart",
-        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e2\u05e6\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg/1280px-Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg",
-            "license": "CC BY-SA 3.0"
-        },
-        "audio": "audio/phoenicurus_phoenicurus.mp3",
-        "last_seen": "2026-11-13T06:13:05",
-        "week_count": 6,
-        "v2_confidence": 0.9578,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0114,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Phoenicurus phoenicurus",
-        "order": "Passeriformes",
-        "family": "Muscicapidae",
-        "local": 1390,
-        "residency": "migrant",
-        "dawn_frac": 0.375,
-        "dawn_total": 16,
-        "v3_top_label": "Gallinula chloropus_Common Moorhen",
-        "v3_top_confidence": 0.5272,
-        "perch_top_label": "Turdus iliacus_Redwing",
-        "perch_top_confidence": 0.2946,
-        "photo": true
-    },
-    {
         "name": "Gray Heron",
         "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05d0\u05e4\u05d5\u05e8\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grey_Heron_%2854990114762%29_%28cropped%29.jpg/1280px-Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
@@ -3086,56 +3136,6 @@
         "v3_top_confidence": 0.3275,
         "perch_top_label": "Branta canadensis_Canada Goose",
         "perch_top_confidence": 0.1104,
-        "photo": true
-    },
-    {
-        "name": "Little Owl",
-        "he_name": "\u05db\u05d5\u05e1 \u05d4\u05d7\u05d5\u05e8\u05d1\u05d5\u05ea",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg/3840px-%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg",
-            "license": null
-        },
-        "audio": "audio/athene_noctua.mp3",
-        "last_seen": "2026-11-09T17:38:33",
-        "week_count": 0,
-        "v2_confidence": 0.9793,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "en": "Nocturnal",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.8716,
-        "perch_confidence": 0.5193,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Little Owl",
-            "agrees": true
-        },
-        "sci": "Athene noctua",
-        "order": "Strigiformes",
-        "family": "Strigidae",
-        "local": 1828,
-        "residency": "resident",
-        "dawn_frac": 0.0246,
-        "dawn_total": 122,
-        "v3_top_label": "Athene noctua_Little Owl",
-        "v3_top_confidence": 0.8716,
-        "perch_top_label": "Athene noctua_Little Owl",
-        "perch_top_confidence": 0.5193,
         "photo": true
     },
     {
