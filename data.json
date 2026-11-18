@@ -1,5 +1,45 @@
 [
     {
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
+            "license": null
+        },
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-11-18T16:42:58",
+        "week_count": 36,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        },
+        "sci": "Acridotheres tristis",
+        "order": "Passeriformes",
+        "family": "Sturnidae",
+        "local": 6513,
+        "residency": "resident",
+        "dawn_frac": 0.0736,
+        "dawn_total": 1563,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +48,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-18T15:59:04",
-        "week_count": 349,
+        "last_seen": "2026-11-18T16:38:02",
+        "week_count": 352,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,8 +71,8 @@
         "family": "Motacillidae",
         "local": 6392,
         "residency": "migrant",
-        "dawn_frac": 0.0635,
-        "dawn_total": 3010,
+        "dawn_frac": 0.0634,
+        "dawn_total": 3013,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
@@ -48,8 +88,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-18T15:58:54",
-        "week_count": 238,
+        "last_seen": "2026-11-18T16:37:21",
+        "week_count": 250,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -72,11 +112,124 @@
         "local": 5606,
         "residency": "resident",
         "dawn_frac": 0.0177,
-        "dawn_total": 7911,
+        "dawn_total": 7923,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-11-18T16:31:02",
+        "week_count": 529,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7624,
+        "residency": "resident",
+        "dawn_frac": 0.0904,
+        "dawn_total": 16003,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Blue Rock-Thrush",
+        "he_name": "\u05e6\u05d5\u05e7\u05d9\u05ea \u05d1\u05d5\u05d3\u05d3\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Monticola_solitarius%2C_Spain_1.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Monticola_solitarius%2C_Spain_1.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/monticola_solitarius.mp3",
+        "last_seen": "2026-11-18T16:21:54",
+        "week_count": 1,
+        "v2_confidence": 0.9515,
+        "badges": [],
+        "v3_confidence": 0.3677,
+        "perch_confidence": 0.0592,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Monticola solitarius",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 218,
+        "residency": "",
+        "dawn_frac": 0,
+        "dawn_total": 7,
+        "v3_top_label": "Monticola solitarius_Blue Rock Thrush",
+        "v3_top_confidence": 0.3677,
+        "perch_top_label": "Monticola solitarius_Blue Rock Thrush",
+        "perch_top_confidence": 0.0592,
+        "photo": true
+    },
+    {
+        "name": "Common Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg/3840px-Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg",
+            "license": null
+        },
+        "audio": "audio/pycnonotus_barbatus.mp3",
+        "last_seen": "2026-11-18T16:14:56",
+        "week_count": 3,
+        "v2_confidence": 0.9204,
+        "badges": [
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            }
+        ],
+        "v3_confidence": 0.5559,
+        "perch_confidence": 0.3777,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Pycnonotus barbatus",
+        "order": "Passeriformes",
+        "family": "Pycnonotidae",
+        "local": 0,
+        "residency": "",
+        "dawn_frac": 0.1279,
+        "dawn_total": 86,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.6364,
+        "perch_top_label": "Pycnonotus barbatus_Common Bulbul",
+        "perch_top_confidence": 0.3777,
         "photo": true
     },
     {
@@ -282,51 +435,6 @@
         "photo": true
     },
     {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-18T14:57:41",
-        "week_count": 528,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7624,
-        "residency": "resident",
-        "dawn_frac": 0.0904,
-        "dawn_total": 16002,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
-        "photo": true
-    },
-    {
         "name": "European Pied Flycatcher",
         "he_name": "\u05d7\u05d8\u05e4\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05e2\u05d5\u05e8\u05e3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -449,46 +557,6 @@
         "v3_top_confidence": 0.7368,
         "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
         "perch_top_confidence": 0.0852,
-        "photo": true
-    },
-    {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
-            "license": null
-        },
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-11-18T11:52:58",
-        "week_count": 31,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": true
-        },
-        "sci": "Acridotheres tristis",
-        "order": "Passeriformes",
-        "family": "Sturnidae",
-        "local": 6513,
-        "residency": "resident",
-        "dawn_frac": 0.0738,
-        "dawn_total": 1558,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9523,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.4667,
         "photo": true
     },
     {
@@ -1503,43 +1571,6 @@
         "v3_top_confidence": 0.96,
         "perch_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
         "perch_top_confidence": 0.8294,
-        "photo": true
-    },
-    {
-        "name": "Common Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg/3840px-Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg",
-            "license": null
-        },
-        "audio": "audio/pycnonotus_barbatus.mp3",
-        "last_seen": "2026-11-16T15:49:43",
-        "week_count": 2,
-        "v2_confidence": 0.9204,
-        "badges": [
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            }
-        ],
-        "v3_confidence": 0.5559,
-        "perch_confidence": 0.3777,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Pycnonotus barbatus",
-        "order": "Passeriformes",
-        "family": "Pycnonotidae",
-        "local": 0,
-        "residency": "",
-        "dawn_frac": 0.1294,
-        "dawn_total": 85,
-        "v3_top_label": "Passer domesticus_House Sparrow",
-        "v3_top_confidence": 0.6364,
-        "perch_top_label": "Pycnonotus barbatus_Common Bulbul",
-        "perch_top_confidence": 0.3777,
         "photo": true
     },
     {
@@ -4146,37 +4177,6 @@
         "v3_top_confidence": 0.757,
         "perch_top_label": "Fulica atra_Eurasian Coot",
         "perch_top_confidence": 0.4847,
-        "photo": true
-    },
-    {
-        "name": "Blue Rock-Thrush",
-        "he_name": "\u05e6\u05d5\u05e7\u05d9\u05ea \u05d1\u05d5\u05d3\u05d3\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Monticola_solitarius%2C_Spain_1.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Monticola_solitarius%2C_Spain_1.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/monticola_solitarius.mp3",
-        "last_seen": "2026-10-27T09:50:22",
-        "week_count": 0,
-        "v2_confidence": 0.9515,
-        "badges": [],
-        "v3_confidence": 0.3677,
-        "perch_confidence": 0.0592,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Monticola solitarius",
-        "order": "Passeriformes",
-        "family": "Muscicapidae",
-        "local": 218,
-        "residency": "",
-        "dawn_frac": 0,
-        "dawn_total": 6,
-        "v3_top_label": "Monticola solitarius_Blue Rock Thrush",
-        "v3_top_confidence": 0.3677,
-        "perch_top_label": "Monticola solitarius_Blue Rock Thrush",
-        "perch_top_confidence": 0.0592,
         "photo": true
     },
     {
