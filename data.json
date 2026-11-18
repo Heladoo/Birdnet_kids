@@ -1,5 +1,45 @@
 [
     {
+        "name": "Eurasian Jay",
+        "he_name": "\u05e2\u05d5\u05e8\u05d1\u05e0\u05d9 \u05e9\u05d7\u05d5\u05e8-\u05db\u05d9\u05e4\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg/1280px-Garrulus_glandarius_1_Luc_Viatour.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_1_Luc_Viatour.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "audio": "audio/garrulus_glandarius.mp3",
+        "last_seen": "2026-11-18T13:56:09",
+        "week_count": 4,
+        "v2_confidence": 0.9826,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9605,
+        "perch_confidence": 0.943,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Jay",
+            "agrees": true
+        },
+        "sci": "Garrulus glandarius",
+        "order": "Passeriformes",
+        "family": "Corvidae",
+        "local": 4596,
+        "residency": "resident",
+        "dawn_frac": 0.2024,
+        "dawn_total": 84,
+        "v3_top_label": "Garrulus glandarius_Eurasian Jay",
+        "v3_top_confidence": 0.9605,
+        "perch_top_label": "Garrulus glandarius_Eurasian Jay",
+        "perch_top_confidence": 0.943,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +48,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-18T12:48:56",
-        "week_count": 338,
+        "last_seen": "2026-11-18T13:55:45",
+        "week_count": 341,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,92 +71,12 @@
         "family": "Motacillidae",
         "local": 6392,
         "residency": "migrant",
-        "dawn_frac": 0.0637,
-        "dawn_total": 2999,
+        "dawn_frac": 0.0636,
+        "dawn_total": 3002,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
-        "photo": true
-    },
-    {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
-            "license": null
-        },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-18T12:48:17",
-        "week_count": 222,
-        "v2_confidence": 0.9908,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Rose-ringed Parakeet",
-            "agrees": true
-        },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5606,
-        "residency": "resident",
-        "dawn_frac": 0.0177,
-        "dawn_total": 7895,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
-        "photo": true
-    },
-    {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
-            "license": null
-        },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-18T12:39:19",
-        "week_count": 74,
-        "v2_confidence": 0.9969,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Chiffchaff",
-            "agrees": true
-        },
-        "sci": "Phylloscopus collybita",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4039,
-        "residency": "migrant",
-        "dawn_frac": 0.173,
-        "dawn_total": 318,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
         "photo": true
     },
     {
@@ -128,8 +88,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-18T12:23:17",
-        "week_count": 523,
+        "last_seen": "2026-11-18T13:44:51",
+        "week_count": 524,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -156,12 +116,174 @@
         "family": "Charadriidae",
         "local": 7624,
         "residency": "resident",
-        "dawn_frac": 0.0905,
-        "dawn_total": 15997,
+        "dawn_frac": 0.0904,
+        "dawn_total": 15998,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-11-18T13:41:56",
+        "week_count": 224,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5606,
+        "residency": "resident",
+        "dawn_frac": 0.0177,
+        "dawn_total": 7897,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-11-18T13:23:26",
+        "week_count": 76,
+        "v2_confidence": 0.9969,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        },
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 4039,
+        "residency": "migrant",
+        "dawn_frac": 0.1719,
+        "dawn_total": 320,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
+        "photo": true
+    },
+    {
+        "name": "Common House-Martin",
+        "he_name": "\u05d8\u05e1\u05d9\u05ea \u05d1\u05ea\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Mehlschwalbe_Delichon_urbicum.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/delichon_urbicum.mp3",
+        "last_seen": "2026-11-18T13:18:56",
+        "week_count": 6,
+        "v2_confidence": 0.9666,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0374,
+        "perch_confidence": 0.0249,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": false
+        },
+        "sci": "Delichon urbicum",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 501,
+        "residency": "migrant",
+        "dawn_frac": 0.0112,
+        "dawn_total": 89,
+        "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "v3_top_confidence": 0.7368,
+        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "perch_top_confidence": 0.0852,
+        "photo": true
+    },
+    {
+        "name": "Graceful Prinia",
+        "he_name": "\u05e4\u05e9\u05d5\u05e9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
+            "license": null
+        },
+        "audio": "audio/prinia_gracilis.mp3",
+        "last_seen": "2026-11-18T13:05:02",
+        "week_count": 104,
+        "v2_confidence": 0.9958,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.1773,
+        "perch_confidence": 0.2728,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Prinia gracilis",
+        "order": "Passeriformes",
+        "family": "Cisticolidae",
+        "local": 8486,
+        "residency": "resident",
+        "dawn_frac": 0.0031,
+        "dawn_total": 4173,
+        "v3_top_label": "Prinia lepida_Delicate Prinia",
+        "v3_top_confidence": 0.4048,
+        "perch_top_label": "Prinia gracilis_Graceful Prinia",
+        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
@@ -871,51 +993,6 @@
         "photo": true
     },
     {
-        "name": "Common House-Martin",
-        "he_name": "\u05d8\u05e1\u05d9\u05ea \u05d1\u05ea\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Mehlschwalbe_Delichon_urbicum.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/delichon_urbicum.mp3",
-        "last_seen": "2026-11-17T09:37:17",
-        "week_count": 5,
-        "v2_confidence": 0.9666,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0374,
-        "perch_confidence": 0.0249,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": {
-            "com": "Laughing Dove",
-            "agrees": false
-        },
-        "sci": "Delichon urbicum",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 501,
-        "residency": "migrant",
-        "dawn_frac": 0.0114,
-        "dawn_total": 88,
-        "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
-        "v3_top_confidence": 0.7368,
-        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
-        "perch_top_confidence": 0.0852,
-        "photo": true
-    },
-    {
         "name": "White-throated Dipper",
         "he_name": null,
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Cinclus_cinclus_-Kirkcudbright%2C_Scotland-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -1383,43 +1460,6 @@
         "v3_top_confidence": 0.9375,
         "perch_top_label": "Tringa glareola_Wood Sandpiper",
         "perch_top_confidence": 0.3965,
-        "photo": true
-    },
-    {
-        "name": "Graceful Prinia",
-        "he_name": "\u05e4\u05e9\u05d5\u05e9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Graceful_prinia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Graceful_prinia.jpg",
-            "license": null
-        },
-        "audio": "audio/prinia_gracilis.mp3",
-        "last_seen": "2026-11-16T14:59:36",
-        "week_count": 103,
-        "v2_confidence": 0.9958,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.1773,
-        "perch_confidence": 0.2728,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Prinia gracilis",
-        "order": "Passeriformes",
-        "family": "Cisticolidae",
-        "local": 8486,
-        "residency": "resident",
-        "dawn_frac": 0.0031,
-        "dawn_total": 4172,
-        "v3_top_label": "Prinia lepida_Delicate Prinia",
-        "v3_top_confidence": 0.4048,
-        "perch_top_label": "Prinia gracilis_Graceful Prinia",
-        "perch_top_confidence": 0.2728,
         "photo": true
     },
     {
@@ -2115,46 +2155,6 @@
         "v3_top_confidence": 0.8386,
         "perch_top_label": "Tringa ochropus_Green Sandpiper",
         "perch_top_confidence": 0.8631,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Jay",
-        "he_name": "\u05e2\u05d5\u05e8\u05d1\u05e0\u05d9 \u05e9\u05d7\u05d5\u05e8-\u05db\u05d9\u05e4\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg/1280px-Garrulus_glandarius_1_Luc_Viatour.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_1_Luc_Viatour.jpg",
-            "license": "CC BY-SA 3.0"
-        },
-        "audio": "audio/garrulus_glandarius.mp3",
-        "last_seen": "2026-11-14T15:52:05",
-        "week_count": 3,
-        "v2_confidence": 0.9826,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9605,
-        "perch_confidence": 0.943,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Jay",
-            "agrees": true
-        },
-        "sci": "Garrulus glandarius",
-        "order": "Passeriformes",
-        "family": "Corvidae",
-        "local": 4596,
-        "residency": "resident",
-        "dawn_frac": 0.2048,
-        "dawn_total": 83,
-        "v3_top_label": "Garrulus glandarius_Eurasian Jay",
-        "v3_top_confidence": 0.9605,
-        "perch_top_label": "Garrulus glandarius_Eurasian Jay",
-        "perch_top_confidence": 0.943,
         "photo": true
     },
     {
