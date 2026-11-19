@@ -1,5 +1,50 @@
 [
     {
+        "name": "Long-eared Owl",
+        "he_name": "\u05d9\u05e0\u05e9\u05d5\u05e3 \u05e2\u05e6\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Long-eared_Owl_-_Kisjuszallas_-_Hungary_S4E0920_%2815671750198%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Long-eared_Owl_-_Kisjuszallas_-_Hungary_S4E0920_%2815671750198%29.jpg",
+            "license": "CC BY-SA 2.0"
+        },
+        "audio": "audio/asio_otus.mp3",
+        "last_seen": "2026-11-19T03:52:29",
+        "week_count": 1,
+        "v2_confidence": 0.973,
+        "badges": [
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "en": "Nocturnal",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.873,
+        "perch_confidence": 0.8383,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Long-eared Owl",
+            "agrees": true
+        },
+        "sci": "Asio otus",
+        "order": "Strigiformes",
+        "family": "Strigidae",
+        "local": 611,
+        "residency": "",
+        "dawn_frac": 0.0093,
+        "dawn_total": 107,
+        "v3_top_label": "Asio otus_Long-eared Owl",
+        "v3_top_confidence": 0.873,
+        "perch_top_label": "Asio otus_Long-eared Owl",
+        "perch_top_confidence": 0.8383,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +53,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-19T02:32:48",
-        "week_count": 495,
+        "last_seen": "2026-11-19T03:21:07",
+        "week_count": 500,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -36,8 +81,8 @@
         "family": "Charadriidae",
         "local": 7624,
         "residency": "resident",
-        "dawn_frac": 0.0903,
-        "dawn_total": 16030,
+        "dawn_frac": 0.0902,
+        "dawn_total": 16035,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
@@ -4440,51 +4485,6 @@
         "v3_top_confidence": 0.8353,
         "perch_top_label": "Anthus richardi_Richard's Pipit",
         "perch_top_confidence": 0.6508,
-        "photo": true
-    },
-    {
-        "name": "Long-eared Owl",
-        "he_name": "\u05d9\u05e0\u05e9\u05d5\u05e3 \u05e2\u05e6\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Long-eared_Owl_-_Kisjuszallas_-_Hungary_S4E0920_%2815671750198%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Long-eared_Owl_-_Kisjuszallas_-_Hungary_S4E0920_%2815671750198%29.jpg",
-            "license": "CC BY-SA 2.0"
-        },
-        "audio": "audio/asio_otus.mp3",
-        "last_seen": "2026-10-21T06:08:25",
-        "week_count": 0,
-        "v2_confidence": 0.973,
-        "badges": [
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "en": "Nocturnal",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.873,
-        "perch_confidence": 0.8383,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Long-eared Owl",
-            "agrees": true
-        },
-        "sci": "Asio otus",
-        "order": "Strigiformes",
-        "family": "Strigidae",
-        "local": 611,
-        "residency": "",
-        "dawn_frac": 0.0094,
-        "dawn_total": 106,
-        "v3_top_label": "Asio otus_Long-eared Owl",
-        "v3_top_confidence": 0.873,
-        "perch_top_label": "Asio otus_Long-eared Owl",
-        "perch_top_confidence": 0.8383,
         "photo": true
     },
     {
