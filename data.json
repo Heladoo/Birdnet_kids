@@ -1,5 +1,85 @@
 [
     {
+        "name": "Hooded Crow",
+        "he_name": "\u05e2\u05d5\u05e8\u05d1 \u05d0\u05e4\u05d5\u05e8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hooded_Crow_%28Corvus_cornix%29_City_Park%2C_Skopje%2C_North_Macedonia.jpg/3840px-Hooded_Crow_%28Corvus_cornix%29_City_Park%2C_Skopje%2C_North_Macedonia.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Hooded_Crow_%28Corvus_cornix%29_City_Park%2C_Skopje%2C_North_Macedonia.jpg",
+            "license": null
+        },
+        "audio": "audio/corvus_cornix.mp3",
+        "last_seen": "2026-11-20T12:08:09",
+        "week_count": 3,
+        "v2_confidence": 0.8027,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.926,
+        "perch_confidence": 0.5296,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Hooded Crow",
+            "agrees": true
+        },
+        "sci": "Corvus cornix",
+        "order": "Passeriformes",
+        "family": "Corvidae",
+        "local": 8217,
+        "residency": "resident",
+        "dawn_frac": 0.3333,
+        "dawn_total": 6,
+        "v3_top_label": "Corvus cornix_Hooded Crow",
+        "v3_top_confidence": 0.926,
+        "perch_top_label": "Corvus cornix_Hooded Crow",
+        "perch_top_confidence": 0.5296,
+        "photo": true
+    },
+    {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-11-20T12:04:41",
+        "week_count": 282,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6392,
+        "residency": "migrant",
+        "dawn_frac": 0.0646,
+        "dawn_total": 3066,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
         "name": "Common Chiffchaff",
         "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
         "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -8,8 +88,8 @@
             "license": null
         },
         "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-20T11:14:00",
-        "week_count": 77,
+        "last_seen": "2026-11-20T12:02:45",
+        "week_count": 79,
         "v2_confidence": 0.9969,
         "badges": [
             {
@@ -31,8 +111,8 @@
         "family": "Phylloscopidae",
         "local": 4039,
         "residency": "migrant",
-        "dawn_frac": 0.1613,
-        "dawn_total": 341,
+        "dawn_frac": 0.1603,
+        "dawn_total": 343,
         "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
         "v3_top_confidence": 0.886,
         "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
@@ -108,46 +188,6 @@
         "v3_top_confidence": 0.7907,
         "perch_top_label": "Anthus pratensis_Meadow Pipit",
         "perch_top_confidence": 0.2935,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-20T10:32:39",
-        "week_count": 280,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6392,
-        "residency": "migrant",
-        "dawn_frac": 0.0646,
-        "dawn_total": 3064,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -485,46 +525,6 @@
         "v3_top_confidence": 0.9226,
         "perch_top_label": "Gallinula chloropus_Common Moorhen",
         "perch_top_confidence": 0.793,
-        "photo": true
-    },
-    {
-        "name": "Hooded Crow",
-        "he_name": "\u05e2\u05d5\u05e8\u05d1 \u05d0\u05e4\u05d5\u05e8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hooded_Crow_%28Corvus_cornix%29_City_Park%2C_Skopje%2C_North_Macedonia.jpg/3840px-Hooded_Crow_%28Corvus_cornix%29_City_Park%2C_Skopje%2C_North_Macedonia.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Hooded_Crow_%28Corvus_cornix%29_City_Park%2C_Skopje%2C_North_Macedonia.jpg",
-            "license": null
-        },
-        "audio": "audio/corvus_cornix.mp3",
-        "last_seen": "2026-11-20T05:58:50",
-        "week_count": 2,
-        "v2_confidence": 0.8027,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.926,
-        "perch_confidence": 0.5296,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Hooded Crow",
-            "agrees": true
-        },
-        "sci": "Corvus cornix",
-        "order": "Passeriformes",
-        "family": "Corvidae",
-        "local": 8217,
-        "residency": "resident",
-        "dawn_frac": 0.4,
-        "dawn_total": 5,
-        "v3_top_label": "Corvus cornix_Hooded Crow",
-        "v3_top_confidence": 0.926,
-        "perch_top_label": "Corvus cornix_Hooded Crow",
-        "perch_top_confidence": 0.5296,
         "photo": true
     },
     {
