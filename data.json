@@ -1,5 +1,147 @@
 [
     {
+        "name": "Barn Owl",
+        "he_name": "\u05ea\u05e0\u05e9\u05de\u05ea \u05dc\u05d1\u05e0\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Barn_Owl%2C_Lancashire.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/tyto_alba.mp3",
+        "last_seen": "2026-11-20T21:45:09",
+        "week_count": 10,
+        "v2_confidence": 0.9991,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "en": "Nocturnal",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.8618,
+        "perch_confidence": 0.8305,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Western Barn Owl",
+            "agrees": true
+        },
+        "sci": "Tyto alba",
+        "order": "Strigiformes",
+        "family": "Tytonidae",
+        "local": 1413,
+        "residency": "resident",
+        "dawn_frac": 0.0792,
+        "dawn_total": 303,
+        "v3_top_label": "Tyto alba_Western Barn Owl",
+        "v3_top_confidence": 0.8618,
+        "perch_top_label": "Tyto alba_Western Barn Owl",
+        "perch_top_confidence": 0.8305,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-11-20T21:26:09",
+        "week_count": 564,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7624,
+        "residency": "resident",
+        "dawn_frac": 0.0916,
+        "dawn_total": 16196,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Greater White-fronted Goose",
+        "he_name": "\u05d0\u05d5\u05d5\u05d6 \u05dc\u05d1\u05df-\u05de\u05e6\u05d7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Greater_white-fronted_goose_in_flight-1045.jpg/1280px-Greater_white-fronted_goose_in_flight-1045.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Greater_white-fronted_goose_in_flight-1045.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/anser_albifrons.mp3",
+        "last_seen": "2026-11-20T21:25:49",
+        "week_count": 1,
+        "v2_confidence": 0.9039,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.0148,
+        "perch_confidence": 0.036,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Anser albifrons",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "local": 23,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 41,
+        "v3_top_label": "Gavia immer_Common Loon",
+        "v3_top_confidence": 0.3275,
+        "perch_top_label": "Branta canadensis_Canada Goose",
+        "perch_top_confidence": 0.1104,
+        "photo": true
+    },
+    {
         "name": "Eurasian Scops-Owl",
         "he_name": "\u05e9\u05e2\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Scops_Owl_%28Otus_scops%29%2C_Kalloni%2C_Lesvos%2C_Greece%2C_19.04.2015_%2816773748434%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -47,51 +189,6 @@
         "v3_top_confidence": 0.9524,
         "perch_top_label": "Otus scops_Eurasian Scops Owl",
         "perch_top_confidence": 0.9787,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-20T20:13:19",
-        "week_count": 562,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7624,
-        "residency": "resident",
-        "dawn_frac": 0.0916,
-        "dawn_total": 16194,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -1949,56 +2046,6 @@
         "photo": true
     },
     {
-        "name": "Barn Owl",
-        "he_name": "\u05ea\u05e0\u05e9\u05de\u05ea \u05dc\u05d1\u05e0\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Barn_Owl%2C_Lancashire.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/tyto_alba.mp3",
-        "last_seen": "2026-11-17T04:55:10",
-        "week_count": 9,
-        "v2_confidence": 0.9991,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "en": "Nocturnal",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.8618,
-        "perch_confidence": 0.8305,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Western Barn Owl",
-            "agrees": true
-        },
-        "sci": "Tyto alba",
-        "order": "Strigiformes",
-        "family": "Tytonidae",
-        "local": 1413,
-        "residency": "resident",
-        "dawn_frac": 0.0795,
-        "dawn_total": 302,
-        "v3_top_label": "Tyto alba_Western Barn Owl",
-        "v3_top_confidence": 0.8618,
-        "perch_top_label": "Tyto alba_Western Barn Owl",
-        "perch_top_confidence": 0.8305,
-        "photo": true
-    },
-    {
         "name": "Whimbrel",
         "he_name": "\u05d7\u05e8\u05de\u05e9\u05d5\u05df \u05e7\u05d8\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Whimbrel_%28Numenius_phaeopus%29_Dalvikurbyggd.jpg/1280px-Whimbrel_%28Numenius_phaeopus%29_Dalvikurbyggd.jpg",
@@ -3344,53 +3391,6 @@
         "v3_top_confidence": 0.6488,
         "perch_top_label": "Oriolus oriolus_Eurasian Golden Oriole",
         "perch_top_confidence": 0.2148,
-        "photo": true
-    },
-    {
-        "name": "Greater White-fronted Goose",
-        "he_name": "\u05d0\u05d5\u05d5\u05d6 \u05dc\u05d1\u05df-\u05de\u05e6\u05d7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Greater_white-fronted_goose_in_flight-1045.jpg/1280px-Greater_white-fronted_goose_in_flight-1045.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Greater_white-fronted_goose_in_flight-1045.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/anser_albifrons.mp3",
-        "last_seen": "2026-11-09T17:47:14",
-        "week_count": 0,
-        "v2_confidence": 0.9039,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.0148,
-        "perch_confidence": 0.036,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Anser albifrons",
-        "order": "Anseriformes",
-        "family": "Anatidae",
-        "local": 23,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 40,
-        "v3_top_label": "Gavia immer_Common Loon",
-        "v3_top_confidence": 0.3275,
-        "perch_top_label": "Branta canadensis_Canada Goose",
-        "perch_top_confidence": 0.1104,
         "photo": true
     },
     {
