@@ -1,5 +1,81 @@
 [
     {
+        "name": "Eurasian Moorhen",
+        "he_name": "\u05e1\u05d5\u05e4\u05d9\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Common_moorhen_%28Gallinula_chloropus%29_France.jpg/3840px-Common_moorhen_%28Gallinula_chloropus%29_France.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_moorhen_%28Gallinula_chloropus%29_France.jpg",
+            "license": null
+        },
+        "audio": "audio/gallinula_chloropus.mp3",
+        "last_seen": "2026-11-20T03:42:05",
+        "week_count": 1,
+        "v2_confidence": 0.9797,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9226,
+        "perch_confidence": 0.793,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Moorhen",
+            "agrees": true
+        },
+        "sci": "Gallinula chloropus",
+        "order": "Gruiformes",
+        "family": "Rallidae",
+        "local": 2862,
+        "residency": "resident",
+        "dawn_frac": 0.1,
+        "dawn_total": 20,
+        "v3_top_label": "Gallinula chloropus_Common Moorhen",
+        "v3_top_confidence": 0.9226,
+        "perch_top_label": "Gallinula chloropus_Common Moorhen",
+        "perch_top_confidence": 0.793,
+        "photo": true
+    },
+    {
+        "name": "Savi's Warbler",
+        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05d6\u05de\u05d9\u05e8\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Locustellaluscinioides.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Locustellaluscinioides.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/locustella_luscinioides.mp3",
+        "last_seen": "2026-11-20T03:39:52",
+        "week_count": 4,
+        "v2_confidence": 0.9444,
+        "badges": [],
+        "v3_confidence": 0.564,
+        "perch_confidence": 0.0758,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Locustella luscinioides",
+        "order": "Passeriformes",
+        "family": "Locustellidae",
+        "local": 574,
+        "residency": "",
+        "dawn_frac": 0.381,
+        "dawn_total": 21,
+        "v3_top_label": "Locustella luscinioides_Savi's Warbler",
+        "v3_top_confidence": 0.564,
+        "perch_top_label": "Bubo virginianus_Great Horned Owl",
+        "perch_top_confidence": 0.2394,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -1664,43 +1740,6 @@
         "v3_top_confidence": 0.8618,
         "perch_top_label": "Tyto alba_Western Barn Owl",
         "perch_top_confidence": 0.8305,
-        "photo": true
-    },
-    {
-        "name": "Savi's Warbler",
-        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05d6\u05de\u05d9\u05e8\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Locustellaluscinioides.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Locustellaluscinioides.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/locustella_luscinioides.mp3",
-        "last_seen": "2026-11-17T03:19:22",
-        "week_count": 1,
-        "v2_confidence": 0.904,
-        "badges": [
-            {
-                "i": "\ud83c\udf05",
-                "en": "Dawn Caller",
-                "he": "\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05d7\u05e8"
-            }
-        ],
-        "v3_confidence": 0.564,
-        "perch_confidence": 0.0758,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Locustella luscinioides",
-        "order": "Passeriformes",
-        "family": "Locustellidae",
-        "local": 574,
-        "residency": "",
-        "dawn_frac": 0.4444,
-        "dawn_total": 18,
-        "v3_top_label": "Locustella luscinioides_Savi's Warbler",
-        "v3_top_confidence": 0.564,
-        "perch_top_label": "Bubo virginianus_Great Horned Owl",
-        "perch_top_confidence": 0.2394,
         "photo": true
     },
     {
@@ -3929,51 +3968,6 @@
         "v3_top_confidence": 0.1732,
         "perch_top_label": "Acrocephalus dumetorum_Blyth's Reed Warbler",
         "perch_top_confidence": 0.0737,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Moorhen",
-        "he_name": "\u05e1\u05d5\u05e4\u05d9\u05ea \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Common_moorhen_%28Gallinula_chloropus%29_France.jpg/3840px-Common_moorhen_%28Gallinula_chloropus%29_France.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_moorhen_%28Gallinula_chloropus%29_France.jpg",
-            "license": null
-        },
-        "audio": "audio/gallinula_chloropus.mp3",
-        "last_seen": "2026-11-01T13:43:41",
-        "week_count": 0,
-        "v2_confidence": 0.9797,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9226,
-        "perch_confidence": 0.793,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Moorhen",
-            "agrees": true
-        },
-        "sci": "Gallinula chloropus",
-        "order": "Gruiformes",
-        "family": "Rallidae",
-        "local": 2862,
-        "residency": "resident",
-        "dawn_frac": 0.1053,
-        "dawn_total": 19,
-        "v3_top_label": "Gallinula chloropus_Common Moorhen",
-        "v3_top_confidence": 0.9226,
-        "perch_top_label": "Gallinula chloropus_Common Moorhen",
-        "perch_top_confidence": 0.793,
         "photo": true
     },
     {
