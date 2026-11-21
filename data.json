@@ -1,42 +1,82 @@
 [
     {
-        "name": "Rose-ringed Parakeet",
-        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
             "license": null
         },
-        "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-21T13:54:26",
-        "week_count": 262,
-        "v2_confidence": 0.9908,
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-11-21T14:59:41",
+        "week_count": 150,
+        "v2_confidence": 0.9969,
         "badges": [
             {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
-        "v3_confidence": 0.9194,
-        "perch_confidence": 0.5288,
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
         "v3_agrees": true,
         "perch_agrees": true,
         "second_opinion": {
-            "com": "Rose-ringed Parakeet",
+            "com": "Common Chiffchaff",
             "agrees": true
         },
-        "sci": "Psittacula krameri",
-        "order": "Psittaciformes",
-        "family": "Psittacidae",
-        "local": 5606,
-        "residency": "resident",
-        "dawn_frac": 0.0185,
-        "dawn_total": 8034,
-        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "v3_top_confidence": 0.9194,
-        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
-        "perch_top_confidence": 0.5288,
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 4039,
+        "residency": "migrant",
+        "dawn_frac": 0.1343,
+        "dawn_total": 417,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
+        "photo": true
+    },
+    {
+        "name": "Great Spotted Cuckoo",
+        "he_name": "\u05e7\u05d5\u05e7\u05d9\u05d9\u05d4 \u05de\u05e6\u05d5\u05d9\u05e6\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Clamator_glandarius_%28cropped_2%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Clamator_glandarius_%28cropped_2%29.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/clamator_glandarius.mp3",
+        "last_seen": "2026-11-21T14:55:09",
+        "week_count": 1,
+        "v2_confidence": 0.9948,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9856,
+        "perch_confidence": 0.7552,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Great Spotted Cuckoo",
+            "agrees": true
+        },
+        "sci": "Clamator glandarius",
+        "order": "Cuculiformes",
+        "family": "Cuculidae",
+        "local": 1424,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 5,
+        "v3_top_label": "Clamator glandarius_Great Spotted Cuckoo",
+        "v3_top_confidence": 0.9856,
+        "perch_top_label": "Clamator glandarius_Great Spotted Cuckoo",
+        "perch_top_confidence": 0.7552,
         "photo": true
     },
     {
@@ -48,8 +88,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-21T13:53:19",
-        "week_count": 551,
+        "last_seen": "2026-11-21T14:55:06",
+        "week_count": 552,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -77,7 +117,7 @@
         "local": 7624,
         "residency": "resident",
         "dawn_frac": 0.0922,
-        "dawn_total": 16229,
+        "dawn_total": 16230,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
@@ -85,17 +125,57 @@
         "photo": true
     },
     {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "name": "Common Myna",
+        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
             "license": null
         },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-21T13:21:36",
-        "week_count": 141,
-        "v2_confidence": 0.9969,
+        "audio": "audio/acridotheres_tristis.mp3",
+        "last_seen": "2026-11-21T14:50:02",
+        "week_count": 41,
+        "v2_confidence": 0.9867,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9523,
+        "perch_confidence": 0.4667,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Myna",
+            "agrees": true
+        },
+        "sci": "Acridotheres tristis",
+        "order": "Passeriformes",
+        "family": "Sturnidae",
+        "local": 6513,
+        "residency": "resident",
+        "dawn_frac": 0.0741,
+        "dawn_total": 1578,
+        "v3_top_label": "Acridotheres tristis_Common Myna",
+        "v3_top_confidence": 0.9523,
+        "perch_top_label": "Acridotheres tristis_Common Myna",
+        "perch_top_confidence": 0.4667,
+        "photo": true
+    },
+    {
+        "name": "Barn Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/hirundo_rustica.mp3",
+        "last_seen": "2026-11-21T14:48:04",
+        "week_count": 8,
+        "v2_confidence": 0.968,
         "badges": [
             {
                 "i": "\u2708\ufe0f",
@@ -103,25 +183,105 @@
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
+        "v3_confidence": 0.905,
+        "perch_confidence": 0.8648,
         "v3_agrees": true,
         "perch_agrees": true,
         "second_opinion": {
-            "com": "Common Chiffchaff",
+            "com": "Barn Swallow",
             "agrees": true
         },
-        "sci": "Phylloscopus collybita",
+        "sci": "Hirundo rustica",
         "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4039,
+        "family": "Hirundinidae",
+        "local": 5940,
         "residency": "migrant",
-        "dawn_frac": 0.1376,
-        "dawn_total": 407,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
+        "dawn_frac": 0,
+        "dawn_total": 190,
+        "v3_top_label": "Hirundo rustica_Barn Swallow",
+        "v3_top_confidence": 0.905,
+        "perch_top_label": "Hirundo rustica_Barn Swallow",
+        "perch_top_confidence": 0.8648,
+        "photo": true
+    },
+    {
+        "name": "Crested Lark",
+        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Cochevis_hupp%C3%A9_Gbollat.jpg",
+            "license": null
+        },
+        "audio": "audio/galerida_cristata.mp3",
+        "last_seen": "2026-11-21T14:34:28",
+        "week_count": 12,
+        "v2_confidence": 0.9829,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9411,
+        "perch_confidence": 0.625,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Crested Lark",
+            "agrees": true
+        },
+        "sci": "Galerida cristata",
+        "order": "Passeriformes",
+        "family": "Alaudidae",
+        "local": 7893,
+        "residency": "resident",
+        "dawn_frac": 0.131,
+        "dawn_total": 504,
+        "v3_top_label": "Galerida cristata_Crested Lark",
+        "v3_top_confidence": 0.9411,
+        "perch_top_label": "Galerida cristata_Crested Lark",
+        "perch_top_confidence": 0.625,
+        "photo": true
+    },
+    {
+        "name": "Rose-ringed Parakeet",
+        "he_name": "\u05d3\u05e8\u05e8\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet%2C_Tendaba%2C_Gambia_1.jpg",
+            "license": null
+        },
+        "audio": "audio/psittacula_krameri.mp3",
+        "last_seen": "2026-11-21T14:26:54",
+        "week_count": 265,
+        "v2_confidence": 0.9908,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.9194,
+        "perch_confidence": 0.5288,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Rose-ringed Parakeet",
+            "agrees": true
+        },
+        "sci": "Psittacula krameri",
+        "order": "Psittaciformes",
+        "family": "Psittacidae",
+        "local": 5606,
+        "residency": "resident",
+        "dawn_frac": 0.0185,
+        "dawn_total": 8037,
+        "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "v3_top_confidence": 0.9194,
+        "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
+        "perch_top_confidence": 0.5288,
         "photo": true
     },
     {
@@ -260,46 +420,6 @@
         "photo": true
     },
     {
-        "name": "Crested Lark",
-        "he_name": "\u05e2\u05e4\u05e8\u05d5\u05e0\u05d9 \u05de\u05e6\u05d5\u05d9\u05e5",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/3840px-Cochevis_hupp%C3%A9_Gbollat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Cochevis_hupp%C3%A9_Gbollat.jpg",
-            "license": null
-        },
-        "audio": "audio/galerida_cristata.mp3",
-        "last_seen": "2026-11-21T08:50:30",
-        "week_count": 11,
-        "v2_confidence": 0.9829,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9411,
-        "perch_confidence": 0.625,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Crested Lark",
-            "agrees": true
-        },
-        "sci": "Galerida cristata",
-        "order": "Passeriformes",
-        "family": "Alaudidae",
-        "local": 7893,
-        "residency": "resident",
-        "dawn_frac": 0.1312,
-        "dawn_total": 503,
-        "v3_top_label": "Galerida cristata_Crested Lark",
-        "v3_top_confidence": 0.9411,
-        "perch_top_label": "Galerida cristata_Crested Lark",
-        "perch_top_confidence": 0.625,
-        "photo": true
-    },
-    {
         "name": "House Sparrow",
         "he_name": "\u05d3\u05e8\u05d5\u05e8 \u05d4\u05d1\u05d9\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/1280px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg",
@@ -387,46 +507,6 @@
         "v3_top_confidence": 0.8386,
         "perch_top_label": "Tringa ochropus_Green Sandpiper",
         "perch_top_confidence": 0.8631,
-        "photo": true
-    },
-    {
-        "name": "Common Myna",
-        "he_name": "\u05de\u05d9\u05d9\u05e0\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
-            "license": null
-        },
-        "audio": "audio/acridotheres_tristis.mp3",
-        "last_seen": "2026-11-21T07:51:36",
-        "week_count": 39,
-        "v2_confidence": 0.9867,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.9523,
-        "perch_confidence": 0.4667,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Myna",
-            "agrees": true
-        },
-        "sci": "Acridotheres tristis",
-        "order": "Passeriformes",
-        "family": "Sturnidae",
-        "local": 6513,
-        "residency": "resident",
-        "dawn_frac": 0.0742,
-        "dawn_total": 1576,
-        "v3_top_label": "Acridotheres tristis_Common Myna",
-        "v3_top_confidence": 0.9523,
-        "perch_top_label": "Acridotheres tristis_Common Myna",
-        "perch_top_confidence": 0.4667,
         "photo": true
     },
     {
@@ -892,46 +972,6 @@
         "v3_top_confidence": 0.926,
         "perch_top_label": "Corvus cornix_Hooded Crow",
         "perch_top_confidence": 0.5296,
-        "photo": true
-    },
-    {
-        "name": "Barn Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/hirundo_rustica.mp3",
-        "last_seen": "2026-11-20T10:59:47",
-        "week_count": 7,
-        "v2_confidence": 0.968,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.905,
-        "perch_confidence": 0.8648,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Barn Swallow",
-            "agrees": true
-        },
-        "sci": "Hirundo rustica",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 5940,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 189,
-        "v3_top_label": "Hirundo rustica_Barn Swallow",
-        "v3_top_confidence": 0.905,
-        "perch_top_label": "Hirundo rustica_Barn Swallow",
-        "perch_top_confidence": 0.8648,
         "photo": true
     },
     {
@@ -6782,46 +6822,6 @@
         "v3_top_confidence": 0.6272,
         "perch_top_label": "Numenius arquata_Eurasian Curlew",
         "perch_top_confidence": 0.2868,
-        "photo": true
-    },
-    {
-        "name": "Great Spotted Cuckoo",
-        "he_name": "\u05e7\u05d5\u05e7\u05d9\u05d9\u05d4 \u05de\u05e6\u05d5\u05d9\u05e6\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Clamator_glandarius_%28cropped_2%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Clamator_glandarius_%28cropped_2%29.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/clamator_glandarius.mp3",
-        "last_seen": "2026-03-29T08:43:39",
-        "week_count": 0,
-        "v2_confidence": 0.9948,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9856,
-        "perch_confidence": 0.7552,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Great Spotted Cuckoo",
-            "agrees": true
-        },
-        "sci": "Clamator glandarius",
-        "order": "Cuculiformes",
-        "family": "Cuculidae",
-        "local": 1424,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 4,
-        "v3_top_label": "Clamator glandarius_Great Spotted Cuckoo",
-        "v3_top_confidence": 0.9856,
-        "perch_top_label": "Clamator glandarius_Great Spotted Cuckoo",
-        "perch_top_confidence": 0.7552,
         "photo": true
     },
     {
