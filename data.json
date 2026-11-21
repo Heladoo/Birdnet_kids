@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-21T11:54:06",
-        "week_count": 132,
+        "last_seen": "2026-11-21T12:45:49",
+        "week_count": 137,
         "v2_confidence": 0.9969,
         "badges": [
             {
@@ -31,12 +31,102 @@
         "family": "Phylloscopidae",
         "local": 4039,
         "residency": "migrant",
-        "dawn_frac": 0.1407,
-        "dawn_total": 398,
+        "dawn_frac": 0.139,
+        "dawn_total": 403,
         "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
         "v3_top_confidence": 0.886,
         "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
         "perch_top_confidence": 0.9336,
+        "photo": true
+    },
+    {
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-11-21T12:39:15",
+        "week_count": 242,
+        "v2_confidence": 0.9981,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "White Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla alba",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 6392,
+        "residency": "migrant",
+        "dawn_frac": 0.0652,
+        "dawn_total": 3081,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Little Owl",
+        "he_name": "\u05db\u05d5\u05e1 \u05d4\u05d7\u05d5\u05e8\u05d1\u05d5\u05ea",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg/3840px-%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg",
+            "license": null
+        },
+        "audio": "audio/athene_noctua.mp3",
+        "last_seen": "2026-11-21T12:36:56",
+        "week_count": 3,
+        "v2_confidence": 0.9793,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            },
+            {
+                "i": "\ud83c\udf19",
+                "en": "Nocturnal",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
+            }
+        ],
+        "v3_confidence": 0.8716,
+        "perch_confidence": 0.5193,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Little Owl",
+            "agrees": true
+        },
+        "sci": "Athene noctua",
+        "order": "Strigiformes",
+        "family": "Strigidae",
+        "local": 1828,
+        "residency": "resident",
+        "dawn_frac": 0.024,
+        "dawn_total": 125,
+        "v3_top_label": "Athene noctua_Little Owl",
+        "v3_top_confidence": 0.8716,
+        "perch_top_label": "Athene noctua_Little Owl",
+        "perch_top_confidence": 0.5193,
         "photo": true
     },
     {
@@ -82,46 +172,6 @@
         "v3_top_confidence": 0.4129,
         "perch_top_label": "Falco tinnunculus_Common Kestrel",
         "perch_top_confidence": 0.4165,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-21T10:19:36",
-        "week_count": 241,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6392,
-        "residency": "migrant",
-        "dawn_frac": 0.0653,
-        "dawn_total": 3080,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -1293,56 +1343,6 @@
         "v3_top_confidence": 0.7368,
         "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
         "perch_top_confidence": 0.0852,
-        "photo": true
-    },
-    {
-        "name": "Little Owl",
-        "he_name": "\u05db\u05d5\u05e1 \u05d4\u05d7\u05d5\u05e8\u05d1\u05d5\u05ea",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg/3840px-%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg",
-            "license": null
-        },
-        "audio": "audio/athene_noctua.mp3",
-        "last_seen": "2026-11-19T06:54:27",
-        "week_count": 2,
-        "v2_confidence": 0.9793,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            },
-            {
-                "i": "\ud83c\udf19",
-                "en": "Nocturnal",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05dc\u05d9\u05dc\u05d4"
-            }
-        ],
-        "v3_confidence": 0.8716,
-        "perch_confidence": 0.5193,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Little Owl",
-            "agrees": true
-        },
-        "sci": "Athene noctua",
-        "order": "Strigiformes",
-        "family": "Strigidae",
-        "local": 1828,
-        "residency": "resident",
-        "dawn_frac": 0.0242,
-        "dawn_total": 124,
-        "v3_top_label": "Athene noctua_Little Owl",
-        "v3_top_confidence": 0.8716,
-        "perch_top_label": "Athene noctua_Little Owl",
-        "perch_top_confidence": 0.5193,
         "photo": true
     },
     {
