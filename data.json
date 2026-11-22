@@ -1,5 +1,142 @@
 [
     {
+        "name": "Black-crowned Night-Heron",
+        "he_name": "\u05d0\u05e0\u05e4\u05ea \u05dc\u05d9\u05dc\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nycticorax_nycticorax_457953189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Nycticorax_nycticorax_457953189.jpg",
+            "license": null
+        },
+        "audio": "audio/nycticorax_nycticorax.mp3",
+        "last_seen": "2026-11-23T00:56:48",
+        "week_count": 8,
+        "v2_confidence": 0.9897,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9422,
+        "perch_confidence": 0.8882,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Black-crowned Night Heron",
+            "agrees": true
+        },
+        "sci": "Nycticorax nycticorax",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 510,
+        "residency": "resident",
+        "dawn_frac": 0.0259,
+        "dawn_total": 116,
+        "v3_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
+        "v3_top_confidence": 0.9422,
+        "perch_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
+        "perch_top_confidence": 0.8882,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-11-23T00:55:45",
+        "week_count": 480,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7624,
+        "residency": "resident",
+        "dawn_frac": 0.0922,
+        "dawn_total": 16298,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Lesser Kestrel",
+        "he_name": "\u05d1\u05d6 \u05d0\u05d3\u05d5\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lesser_Kestrel_%28Male%29.jpg/3840px-Lesser_Kestrel_%28Male%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Lesser_Kestrel_%28Male%29.jpg",
+            "license": null
+        },
+        "audio": "audio/falco_naumanni.mp3",
+        "last_seen": "2026-11-23T00:44:30",
+        "week_count": 1,
+        "v2_confidence": 0.8868,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
+            }
+        ],
+        "v3_confidence": 0.0013,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Falco naumanni",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 754,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 10,
+        "v3_top_label": "Passer domesticus_House Sparrow",
+        "v3_top_confidence": 0.1406,
+        "perch_top_label": "Phasianus colchicus_Common Pheasant",
+        "perch_top_confidence": 0.0718,
+        "photo": true
+    },
+    {
         "name": "Barn Owl",
         "he_name": "\u05ea\u05e0\u05e9\u05de\u05ea \u05dc\u05d1\u05e0\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
@@ -47,51 +184,6 @@
         "v3_top_confidence": 0.8618,
         "perch_top_label": "Tyto alba_Western Barn Owl",
         "perch_top_confidence": 0.8305,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-22T22:17:05",
-        "week_count": 477,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7624,
-        "residency": "resident",
-        "dawn_frac": 0.0922,
-        "dawn_total": 16295,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -2222,51 +2314,6 @@
         "photo": true
     },
     {
-        "name": "Black-crowned Night-Heron",
-        "he_name": "\u05d0\u05e0\u05e4\u05ea \u05dc\u05d9\u05dc\u05d4 \u05de\u05e6\u05d5\u05d9\u05d4",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nycticorax_nycticorax_457953189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Nycticorax_nycticorax_457953189.jpg",
-            "license": null
-        },
-        "audio": "audio/nycticorax_nycticorax.mp3",
-        "last_seen": "2026-11-17T19:29:36",
-        "week_count": 6,
-        "v2_confidence": 0.9897,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9422,
-        "perch_confidence": 0.8882,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Black-crowned Night Heron",
-            "agrees": true
-        },
-        "sci": "Nycticorax nycticorax",
-        "order": "Pelecaniformes",
-        "family": "Ardeidae",
-        "local": 510,
-        "residency": "resident",
-        "dawn_frac": 0.0263,
-        "dawn_total": 114,
-        "v3_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
-        "v3_top_confidence": 0.9422,
-        "perch_top_label": "Nycticorax nycticorax_Black-crowned Night Heron",
-        "perch_top_confidence": 0.8882,
-        "photo": true
-    },
-    {
         "name": "Dunnock",
         "he_name": "\u05e1\u05ea\u05e8\u05d9 \u05de\u05e6\u05d5\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dunnock_%28Prunella_modularis%29_3.jpg/3840px-Dunnock_%28Prunella_modularis%29_3.jpg",
@@ -2715,53 +2762,6 @@
         "v3_top_confidence": 0.4009,
         "perch_top_label": "Remiz pendulinus_Eurasian Penduline Tit",
         "perch_top_confidence": 0.0835,
-        "photo": true
-    },
-    {
-        "name": "Lesser Kestrel",
-        "he_name": "\u05d1\u05d6 \u05d0\u05d3\u05d5\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lesser_Kestrel_%28Male%29.jpg/3840px-Lesser_Kestrel_%28Male%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Lesser_Kestrel_%28Male%29.jpg",
-            "license": null
-        },
-        "audio": "audio/falco_naumanni.mp3",
-        "last_seen": "2026-11-15T21:03:39",
-        "week_count": 0,
-        "v2_confidence": 0.8868,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.0013,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Falco naumanni",
-        "order": "Falconiformes",
-        "family": "Falconidae",
-        "local": 754,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 9,
-        "v3_top_label": "Passer domesticus_House Sparrow",
-        "v3_top_confidence": 0.1406,
-        "perch_top_label": "Phasianus colchicus_Common Pheasant",
-        "perch_top_confidence": 0.0718,
         "photo": true
     },
     {
