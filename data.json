@@ -1,5 +1,142 @@
 [
     {
+        "name": "Common Goldeneye",
+        "he_name": "\u05e2\u05d1\u05e8\u05d0\u05e9 \u05d9\u05e8\u05d5\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Common_Goldeneye_%28Bucephala_clangula%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Goldeneye_%28Bucephala_clangula%29.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/bucephala_clangula.mp3",
+        "last_seen": "2026-11-22T13:59:35",
+        "week_count": 1,
+        "v2_confidence": 0.8553,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83d\udc8e",
+                "en": "Rare",
+                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.0281,
+        "perch_confidence": 0.017,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Bucephala clangula",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "local": 0,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 5,
+        "v3_top_label": "Bubo virginianus_Great Horned Owl",
+        "v3_top_confidence": 0.0556,
+        "perch_top_label": "Buteo lineatus_Red-shouldered Hawk",
+        "perch_top_confidence": 0.0863,
+        "photo": true
+    },
+    {
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-11-22T13:50:07",
+        "week_count": 197,
+        "v2_confidence": 0.9969,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        },
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 4039,
+        "residency": "migrant",
+        "dawn_frac": 0.167,
+        "dawn_total": 467,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
+        "photo": true
+    },
+    {
+        "name": "Common House-Martin",
+        "he_name": "\u05d8\u05e1\u05d9\u05ea \u05d1\u05ea\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Mehlschwalbe_Delichon_urbicum.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/delichon_urbicum.mp3",
+        "last_seen": "2026-11-22T13:27:33",
+        "week_count": 7,
+        "v2_confidence": 0.9778,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0374,
+        "perch_confidence": 0.0249,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": {
+            "com": "Laughing Dove",
+            "agrees": false
+        },
+        "sci": "Delichon urbicum",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 501,
+        "residency": "migrant",
+        "dawn_frac": 0.011,
+        "dawn_total": 91,
+        "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "v3_top_confidence": 0.7368,
+        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
+        "perch_top_confidence": 0.0852,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +145,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-22T12:54:09",
-        "week_count": 236,
+        "last_seen": "2026-11-22T13:22:48",
+        "week_count": 243,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,12 +168,54 @@
         "family": "Motacillidae",
         "local": 6392,
         "residency": "migrant",
-        "dawn_frac": 0.0663,
-        "dawn_total": 3123,
+        "dawn_frac": 0.0661,
+        "dawn_total": 3130,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Little Bittern",
+        "he_name": "\u05d0\u05e0\u05e4\u05d9\u05ea \u05d2\u05de\u05d3\u05d9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Zwergdommel.jpg/1280px-Zwergdommel.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Zwergdommel.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/ixobrychus_minutus.mp3",
+        "last_seen": "2026-11-22T13:11:22",
+        "week_count": 1,
+        "v2_confidence": 0.9451,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.172,
+        "perch_confidence": 0.0603,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Ixobrychus minutus",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "local": 14,
+        "residency": "migrant",
+        "dawn_frac": 0.0385,
+        "dawn_total": 26,
+        "v3_top_label": "Botaurus minutus_Little Bittern",
+        "v3_top_confidence": 0.172,
+        "perch_top_label": "Momotus mexicanus_Russet-crowned Motmot",
+        "perch_top_confidence": 0.1183,
         "photo": true
     },
     {
@@ -77,46 +256,6 @@
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
-        "photo": true
-    },
-    {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
-            "license": null
-        },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-22T12:25:20",
-        "week_count": 192,
-        "v2_confidence": 0.9969,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Chiffchaff",
-            "agrees": true
-        },
-        "sci": "Phylloscopus collybita",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4039,
-        "residency": "migrant",
-        "dawn_frac": 0.1688,
-        "dawn_total": 462,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
         "photo": true
     },
     {
@@ -1677,51 +1816,6 @@
         "photo": true
     },
     {
-        "name": "Common House-Martin",
-        "he_name": "\u05d8\u05e1\u05d9\u05ea \u05d1\u05ea\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/1280px-Mehlschwalbe_Delichon_urbicum.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Mehlschwalbe_Delichon_urbicum.jpg",
-            "license": "CC BY-SA 2.5"
-        },
-        "audio": "audio/delichon_urbicum.mp3",
-        "last_seen": "2026-11-19T13:32:39",
-        "week_count": 6,
-        "v2_confidence": 0.9778,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0374,
-        "perch_confidence": 0.0249,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": {
-            "com": "Laughing Dove",
-            "agrees": false
-        },
-        "sci": "Delichon urbicum",
-        "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 501,
-        "residency": "migrant",
-        "dawn_frac": 0.0111,
-        "dawn_total": 90,
-        "v3_top_label": "Spilopelia senegalensis_Laughing Dove",
-        "v3_top_confidence": 0.7368,
-        "perch_top_label": "Spilopelia senegalensis_Laughing Dove",
-        "perch_top_confidence": 0.0852,
-        "photo": true
-    },
-    {
         "name": "Merlin",
         "he_name": "\u05d1\u05d6 \u05d2\u05de\u05d3\u05d9",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Merlin_in_Prospect_Park_%2863386%29.jpg/1280px-Merlin_in_Prospect_Park_%2863386%29.jpg",
@@ -2954,58 +3048,6 @@
         "v3_top_confidence": 0.6823,
         "perch_top_label": "Prinia gracilis_Graceful Prinia",
         "perch_top_confidence": 0.8419,
-        "photo": true
-    },
-    {
-        "name": "Common Goldeneye",
-        "he_name": "\u05e2\u05d1\u05e8\u05d0\u05e9 \u05d9\u05e8\u05d5\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Common_Goldeneye_%28Bucephala_clangula%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Goldeneye_%28Bucephala_clangula%29.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/bucephala_clangula.mp3",
-        "last_seen": "2026-11-14T14:58:48",
-        "week_count": 0,
-        "v2_confidence": 0.8553,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83d\udc8e",
-                "en": "Rare",
-                "he": "\u05e0\u05d3\u05d9\u05e8\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.0281,
-        "perch_confidence": 0.017,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Bucephala clangula",
-        "order": "Anseriformes",
-        "family": "Anatidae",
-        "local": 0,
-        "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 4,
-        "v3_top_label": "Bubo virginianus_Great Horned Owl",
-        "v3_top_confidence": 0.0556,
-        "perch_top_label": "Buteo lineatus_Red-shouldered Hawk",
-        "perch_top_confidence": 0.0863,
         "photo": true
     },
     {
@@ -4600,48 +4642,6 @@
         "v3_top_confidence": 0.8353,
         "perch_top_label": "Anthus richardi_Richard's Pipit",
         "perch_top_confidence": 0.6508,
-        "photo": true
-    },
-    {
-        "name": "Little Bittern",
-        "he_name": "\u05d0\u05e0\u05e4\u05d9\u05ea \u05d2\u05de\u05d3\u05d9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Zwergdommel.jpg/1280px-Zwergdommel.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Zwergdommel.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/ixobrychus_minutus.mp3",
-        "last_seen": "2026-10-20T17:57:08",
-        "week_count": 0,
-        "v2_confidence": 0.9451,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.172,
-        "perch_confidence": 0.0603,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Ixobrychus minutus",
-        "order": "Pelecaniformes",
-        "family": "Ardeidae",
-        "local": 14,
-        "residency": "migrant",
-        "dawn_frac": 0.04,
-        "dawn_total": 25,
-        "v3_top_label": "Botaurus minutus_Little Bittern",
-        "v3_top_confidence": 0.172,
-        "perch_top_label": "Momotus mexicanus_Russet-crowned Motmot",
-        "perch_top_confidence": 0.1183,
         "photo": true
     },
     {
