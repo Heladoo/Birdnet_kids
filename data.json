@@ -1,16 +1,16 @@
 [
     {
-        "name": "Barn Swallow",
-        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
+        "name": "White Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
-            "license": "CC BY-SA 2.5"
+            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+            "license": null
         },
-        "audio": "audio/hirundo_rustica.mp3",
-        "last_seen": "2026-11-22T10:09:13",
-        "week_count": 10,
-        "v2_confidence": 0.968,
+        "audio": "audio/motacilla_alba.mp3",
+        "last_seen": "2026-11-22T11:59:35",
+        "week_count": 233,
+        "v2_confidence": 0.9981,
         "badges": [
             {
                 "i": "\u2708\ufe0f",
@@ -18,25 +18,25 @@
                 "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
             }
         ],
-        "v3_confidence": 0.905,
-        "perch_confidence": 0.8648,
+        "v3_confidence": 0.9372,
+        "perch_confidence": 0.4765,
         "v3_agrees": true,
         "perch_agrees": true,
         "second_opinion": {
-            "com": "Barn Swallow",
+            "com": "White Wagtail",
             "agrees": true
         },
-        "sci": "Hirundo rustica",
+        "sci": "Motacilla alba",
         "order": "Passeriformes",
-        "family": "Hirundinidae",
-        "local": 5940,
+        "family": "Motacillidae",
+        "local": 6392,
         "residency": "migrant",
-        "dawn_frac": 0,
-        "dawn_total": 192,
-        "v3_top_label": "Hirundo rustica_Barn Swallow",
-        "v3_top_confidence": 0.905,
-        "perch_top_label": "Hirundo rustica_Barn Swallow",
-        "perch_top_confidence": 0.8648,
+        "dawn_frac": 0.0663,
+        "dawn_total": 3120,
+        "v3_top_label": "Motacilla alba_White Wagtail",
+        "v3_top_confidence": 0.9372,
+        "perch_top_label": "Motacilla alba_White Wagtail",
+        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
@@ -48,8 +48,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-22T10:02:15",
-        "week_count": 528,
+        "last_seen": "2026-11-22T11:53:15",
+        "week_count": 529,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -77,11 +77,51 @@
         "local": 7624,
         "residency": "resident",
         "dawn_frac": 0.0923,
-        "dawn_total": 16286,
+        "dawn_total": 16287,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Barn Swallow",
+        "he_name": "\u05e1\u05e0\u05d5\u05e0\u05d9\u05ea \u05d4\u05e8\u05e4\u05ea\u05d5\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1280px-Rauchschwalbe_Hirundo_rustica.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
+            "license": "CC BY-SA 2.5"
+        },
+        "audio": "audio/hirundo_rustica.mp3",
+        "last_seen": "2026-11-22T11:36:45",
+        "week_count": 11,
+        "v2_confidence": 0.968,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.905,
+        "perch_confidence": 0.8648,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Barn Swallow",
+            "agrees": true
+        },
+        "sci": "Hirundo rustica",
+        "order": "Passeriformes",
+        "family": "Hirundinidae",
+        "local": 5940,
+        "residency": "migrant",
+        "dawn_frac": 0,
+        "dawn_total": 193,
+        "v3_top_label": "Hirundo rustica_Barn Swallow",
+        "v3_top_confidence": 0.905,
+        "perch_top_label": "Hirundo rustica_Barn Swallow",
+        "perch_top_confidence": 0.8648,
         "photo": true
     },
     {
@@ -93,8 +133,8 @@
             "license": null
         },
         "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-22T09:49:39",
-        "week_count": 186,
+        "last_seen": "2026-11-22T11:24:50",
+        "week_count": 190,
         "v2_confidence": 0.9969,
         "badges": [
             {
@@ -116,52 +156,12 @@
         "family": "Phylloscopidae",
         "local": 4039,
         "residency": "migrant",
-        "dawn_frac": 0.1711,
-        "dawn_total": 456,
+        "dawn_frac": 0.1696,
+        "dawn_total": 460,
         "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
         "v3_top_confidence": 0.886,
         "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
         "perch_top_confidence": 0.9336,
-        "photo": true
-    },
-    {
-        "name": "White Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-22T09:14:50",
-        "week_count": 227,
-        "v2_confidence": 0.9981,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.9372,
-        "perch_confidence": 0.4765,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "White Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla alba",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 6392,
-        "residency": "migrant",
-        "dawn_frac": 0.0665,
-        "dawn_total": 3114,
-        "v3_top_label": "Motacilla alba_White Wagtail",
-        "v3_top_confidence": 0.9372,
-        "perch_top_label": "Motacilla alba_White Wagtail",
-        "perch_top_confidence": 0.4765,
         "photo": true
     },
     {
