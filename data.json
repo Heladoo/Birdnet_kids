@@ -1,5 +1,50 @@
 [
     {
+        "name": "Green Sandpiper",
+        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05db\u05e0\u05e3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Green_sandpiper_%28Tringa_ochropus%29.jpg/1280px-Green_sandpiper_%28Tringa_ochropus%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Green_sandpiper_%28Tringa_ochropus%29.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/tringa_ochropus.mp3",
+        "last_seen": "2026-11-24T21:12:20",
+        "week_count": 7,
+        "v2_confidence": 0.997,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.8386,
+        "perch_confidence": 0.8631,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Green Sandpiper",
+            "agrees": true
+        },
+        "sci": "Tringa ochropus",
+        "order": "Charadriiformes",
+        "family": "Scolopacidae",
+        "local": 1906,
+        "residency": "migrant",
+        "dawn_frac": 0.1597,
+        "dawn_total": 119,
+        "v3_top_label": "Tringa ochropus_Green Sandpiper",
+        "v3_top_confidence": 0.8386,
+        "perch_top_label": "Tringa ochropus_Green Sandpiper",
+        "perch_top_confidence": 0.8631,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -1941,51 +1986,6 @@
         "v3_top_confidence": 0.3257,
         "perch_top_label": "Pyrrhula pyrrhula_Eurasian Bullfinch",
         "perch_top_confidence": 0.0732,
-        "photo": true
-    },
-    {
-        "name": "Green Sandpiper",
-        "he_name": "\u05d1\u05d9\u05e6\u05e0\u05d9\u05ea \u05e9\u05d7\u05d5\u05e8\u05ea-\u05db\u05e0\u05e3",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Green_sandpiper_%28Tringa_ochropus%29.jpg/1280px-Green_sandpiper_%28Tringa_ochropus%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Green_sandpiper_%28Tringa_ochropus%29.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/tringa_ochropus.mp3",
-        "last_seen": "2026-11-21T20:48:58",
-        "week_count": 4,
-        "v2_confidence": 0.997,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.8386,
-        "perch_confidence": 0.8631,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Green Sandpiper",
-            "agrees": true
-        },
-        "sci": "Tringa ochropus",
-        "order": "Charadriiformes",
-        "family": "Scolopacidae",
-        "local": 1906,
-        "residency": "migrant",
-        "dawn_frac": 0.1638,
-        "dawn_total": 116,
-        "v3_top_label": "Tringa ochropus_Green Sandpiper",
-        "v3_top_confidence": 0.8386,
-        "perch_top_label": "Tringa ochropus_Green Sandpiper",
-        "perch_top_confidence": 0.8631,
         "photo": true
     },
     {
