@@ -1,5 +1,82 @@
 [
     {
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-11-24T14:47:41",
+        "week_count": 205,
+        "v2_confidence": 0.9969,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        },
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 4039,
+        "residency": "migrant",
+        "dawn_frac": 0.1551,
+        "dawn_total": 503,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
+        "photo": true
+    },
+    {
+        "name": "White-spectacled Bulbul",
+        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05e6\u05d4\u05d5\u05d1-\u05e9\u05ea",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/White-spectacled_bulbul.jpg/1280px-White-spectacled_bulbul.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:White-spectacled_bulbul.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "audio": "audio/pycnonotus_xanthopygos.mp3",
+        "last_seen": "2026-11-24T14:45:18",
+        "week_count": 34,
+        "v2_confidence": 0.9933,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.4418,
+        "perch_confidence": 0.0955,
+        "v3_agrees": false,
+        "perch_agrees": true,
+        "second_opinion": null,
+        "sci": "Pycnonotus xanthopygos",
+        "order": "Passeriformes",
+        "family": "Pycnonotidae",
+        "local": 7694,
+        "residency": "resident",
+        "dawn_frac": 0.0159,
+        "dawn_total": 377,
+        "v3_top_label": "Pycnonotus barbatus_Common Bulbul",
+        "v3_top_confidence": 0.6149,
+        "perch_top_label": "Pycnonotus xanthopygos_White-spectacled Bulbul",
+        "perch_top_confidence": 0.0955,
+        "photo": true
+    },
+    {
         "name": "Spur-winged Lapwing",
         "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +85,8 @@
             "license": null
         },
         "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-24T13:50:09",
-        "week_count": 560,
+        "last_seen": "2026-11-24T14:35:13",
+        "week_count": 570,
         "v2_confidence": 0.9997,
         "badges": [
             {
@@ -36,8 +113,8 @@
         "family": "Charadriidae",
         "local": 7624,
         "residency": "resident",
-        "dawn_frac": 0.092,
-        "dawn_total": 16500,
+        "dawn_frac": 0.0919,
+        "dawn_total": 16510,
         "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
         "v3_top_confidence": 0.9488,
         "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
@@ -45,43 +122,48 @@
         "photo": true
     },
     {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "name": "Eurasian Kestrel",
+        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
             "license": null
         },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-24T13:42:41",
-        "week_count": 196,
-        "v2_confidence": 0.9969,
+        "audio": "audio/falco_tinnunculus.mp3",
+        "last_seen": "2026-11-24T14:32:00",
+        "week_count": 25,
+        "v2_confidence": 0.9987,
         "badges": [
             {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83e\udd85",
+                "en": "Raptor",
+                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
             }
         ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
+        "v3_confidence": 0.4129,
+        "perch_confidence": 0.4165,
         "v3_agrees": true,
         "perch_agrees": true,
         "second_opinion": {
-            "com": "Common Chiffchaff",
+            "com": "Common Kestrel",
             "agrees": true
         },
-        "sci": "Phylloscopus collybita",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4039,
-        "residency": "migrant",
-        "dawn_frac": 0.1579,
-        "dawn_total": 494,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
+        "sci": "Falco tinnunculus",
+        "order": "Falconiformes",
+        "family": "Falconidae",
+        "local": 12500,
+        "residency": "resident",
+        "dawn_frac": 0.1033,
+        "dawn_total": 397,
+        "v3_top_label": "Falco tinnunculus_Common Kestrel",
+        "v3_top_confidence": 0.4129,
+        "perch_top_label": "Falco tinnunculus_Common Kestrel",
+        "perch_top_confidence": 0.4165,
         "photo": true
     },
     {
@@ -93,8 +175,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-24T13:41:45",
-        "week_count": 277,
+        "last_seen": "2026-11-24T14:31:18",
+        "week_count": 279,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -117,11 +199,98 @@
         "local": 5606,
         "residency": "resident",
         "dawn_frac": 0.0191,
-        "dawn_total": 8150,
+        "dawn_total": 8152,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "perch_top_confidence": 0.5288,
+        "photo": true
+    },
+    {
+        "name": "Little Grebe",
+        "he_name": "\u05d8\u05d1\u05dc\u05df \u05d2\u05de\u05d3\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Little_grebe_Zwergtaucher.jpg/1920px-Little_grebe_Zwergtaucher.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Little_grebe_Zwergtaucher.jpg",
+            "license": null
+        },
+        "audio": "audio/tachybaptus_ruficollis.mp3",
+        "last_seen": "2026-11-24T14:28:05",
+        "week_count": 7,
+        "v2_confidence": 0.9656,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.8192,
+        "perch_confidence": 0.672,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Little Grebe",
+            "agrees": true
+        },
+        "sci": "Tachybaptus ruficollis",
+        "order": "Podicipediformes",
+        "family": "Podicipedidae",
+        "local": 4595,
+        "residency": "resident",
+        "dawn_frac": 0.1429,
+        "dawn_total": 42,
+        "v3_top_label": "Tachybaptus ruficollis_Little Grebe",
+        "v3_top_confidence": 0.8192,
+        "perch_top_label": "Tachybaptus ruficollis_Little Grebe",
+        "perch_top_confidence": 0.672,
+        "photo": true
+    },
+    {
+        "name": "Common Redstart",
+        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e2\u05e6\u05d9\u05dd",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg/1280px-Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "audio": "audio/phoenicurus_phoenicurus.mp3",
+        "last_seen": "2026-11-24T14:05:24",
+        "week_count": 2,
+        "v2_confidence": 0.9578,
+        "badges": [
+            {
+                "i": "\u2753",
+                "en": "Low confidence",
+                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
+            },
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.0114,
+        "perch_confidence": 0,
+        "v3_agrees": false,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Phoenicurus phoenicurus",
+        "order": "Passeriformes",
+        "family": "Muscicapidae",
+        "local": 1390,
+        "residency": "migrant",
+        "dawn_frac": 0.3043,
+        "dawn_total": 23,
+        "v3_top_label": "Gallinula chloropus_Common Moorhen",
+        "v3_top_confidence": 0.5272,
+        "perch_top_label": "Turdus iliacus_Redwing",
+        "perch_top_confidence": 0.2946,
         "photo": true
     },
     {
@@ -133,8 +302,8 @@
             "license": "CC BY 4.0"
         },
         "audio": "audio/pycnonotus_cafer.mp3",
-        "last_seen": "2026-11-24T13:41:07",
-        "week_count": 4,
+        "last_seen": "2026-11-24T13:59:58",
+        "week_count": 5,
         "v2_confidence": 0.9278,
         "badges": [
             {
@@ -153,8 +322,8 @@
         "family": "Pycnonotidae",
         "local": 0,
         "residency": "",
-        "dawn_frac": 0.0522,
-        "dawn_total": 134,
+        "dawn_frac": 0.0519,
+        "dawn_total": 135,
         "v3_top_label": "Pycnonotus cafer_Red-vented Bulbul",
         "v3_top_confidence": 0.9549,
         "perch_top_label": "Urocissa erythroryncha_Red-billed Blue Magpie",
@@ -451,43 +620,6 @@
         "photo": true
     },
     {
-        "name": "White-spectacled Bulbul",
-        "he_name": "\u05d1\u05d5\u05dc\u05d1\u05d5\u05dc \u05e6\u05d4\u05d5\u05d1-\u05e9\u05ea",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/White-spectacled_bulbul.jpg/1280px-White-spectacled_bulbul.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:White-spectacled_bulbul.jpg",
-            "license": "CC BY-SA 3.0"
-        },
-        "audio": "audio/pycnonotus_xanthopygos.mp3",
-        "last_seen": "2026-11-24T10:31:11",
-        "week_count": 22,
-        "v2_confidence": 0.9915,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.4418,
-        "perch_confidence": 0.0955,
-        "v3_agrees": false,
-        "perch_agrees": true,
-        "second_opinion": null,
-        "sci": "Pycnonotus xanthopygos",
-        "order": "Passeriformes",
-        "family": "Pycnonotidae",
-        "local": 7694,
-        "residency": "resident",
-        "dawn_frac": 0.0164,
-        "dawn_total": 365,
-        "v3_top_label": "Pycnonotus barbatus_Common Bulbul",
-        "v3_top_confidence": 0.6149,
-        "perch_top_label": "Pycnonotus xanthopygos_White-spectacled Bulbul",
-        "perch_top_confidence": 0.0955,
-        "photo": true
-    },
-    {
         "name": "Spotted Crake",
         "he_name": "\u05d1\u05e8\u05d5\u05d3\u05d9\u05ea \u05d2\u05d3\u05d5\u05dc\u05d4 \u05de\u05e0\u05d5\u05e7\u05d3\u05ea",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Spotted_crake_%28Porzana_porzana%29_%286830876880%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -565,51 +697,6 @@
         "v3_top_confidence": 0.2748,
         "perch_top_label": "Jynx torquilla_Eurasian Wryneck",
         "perch_top_confidence": 0.3786,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Kestrel",
-        "he_name": "\u05d1\u05d6 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
-            "license": null
-        },
-        "audio": "audio/falco_tinnunculus.mp3",
-        "last_seen": "2026-11-24T07:44:24",
-        "week_count": 24,
-        "v2_confidence": 0.9987,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83e\udd85",
-                "en": "Raptor",
-                "he": "\u05e2\u05d5\u05e3 \u05d3\u05d5\u05e8\u05e1"
-            }
-        ],
-        "v3_confidence": 0.4129,
-        "perch_confidence": 0.4165,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Kestrel",
-            "agrees": true
-        },
-        "sci": "Falco tinnunculus",
-        "order": "Falconiformes",
-        "family": "Falconidae",
-        "local": 12500,
-        "residency": "resident",
-        "dawn_frac": 0.1035,
-        "dawn_total": 396,
-        "v3_top_label": "Falco tinnunculus_Common Kestrel",
-        "v3_top_confidence": 0.4129,
-        "perch_top_label": "Falco tinnunculus_Common Kestrel",
-        "perch_top_confidence": 0.4165,
         "photo": true
     },
     {
@@ -692,51 +779,6 @@
         "v3_top_confidence": 0.9623,
         "perch_top_label": "Halcyon smyrnensis_White-throated Kingfisher",
         "perch_top_confidence": 0.2317,
-        "photo": true
-    },
-    {
-        "name": "Little Grebe",
-        "he_name": "\u05d8\u05d1\u05dc\u05df \u05d2\u05de\u05d3\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Little_grebe_Zwergtaucher.jpg/1920px-Little_grebe_Zwergtaucher.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Little_grebe_Zwergtaucher.jpg",
-            "license": null
-        },
-        "audio": "audio/tachybaptus_ruficollis.mp3",
-        "last_seen": "2026-11-24T05:43:52",
-        "week_count": 6,
-        "v2_confidence": 0.9656,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.8192,
-        "perch_confidence": 0.672,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Little Grebe",
-            "agrees": true
-        },
-        "sci": "Tachybaptus ruficollis",
-        "order": "Podicipediformes",
-        "family": "Podicipedidae",
-        "local": 4595,
-        "residency": "resident",
-        "dawn_frac": 0.1463,
-        "dawn_total": 41,
-        "v3_top_label": "Tachybaptus ruficollis_Little Grebe",
-        "v3_top_confidence": 0.8192,
-        "perch_top_label": "Tachybaptus ruficollis_Little Grebe",
-        "perch_top_confidence": 0.672,
         "photo": true
     },
     {
@@ -1862,48 +1904,6 @@
         "v3_top_confidence": 0.3257,
         "perch_top_label": "Pyrrhula pyrrhula_Eurasian Bullfinch",
         "perch_top_confidence": 0.0732,
-        "photo": true
-    },
-    {
-        "name": "Common Redstart",
-        "he_name": "\u05d7\u05db\u05dc\u05d9\u05dc\u05d9\u05ea \u05e2\u05e6\u05d9\u05dd",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg/1280px-Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg",
-            "license": "CC BY-SA 3.0"
-        },
-        "audio": "audio/phoenicurus_phoenicurus.mp3",
-        "last_seen": "2026-11-22T06:28:13",
-        "week_count": 1,
-        "v2_confidence": 0.9578,
-        "badges": [
-            {
-                "i": "\u2753",
-                "en": "Low confidence",
-                "he": "\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05e0\u05de\u05d5\u05da"
-            },
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.0114,
-        "perch_confidence": 0,
-        "v3_agrees": false,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Phoenicurus phoenicurus",
-        "order": "Passeriformes",
-        "family": "Muscicapidae",
-        "local": 1390,
-        "residency": "migrant",
-        "dawn_frac": 0.3182,
-        "dawn_total": 22,
-        "v3_top_label": "Gallinula chloropus_Common Moorhen",
-        "v3_top_confidence": 0.5272,
-        "perch_top_label": "Turdus iliacus_Redwing",
-        "perch_top_confidence": 0.2946,
         "photo": true
     },
     {
