@@ -1,5 +1,85 @@
 [
     {
+        "name": "Common Chiffchaff",
+        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+            "license": null
+        },
+        "audio": "audio/phylloscopus_collybita.mp3",
+        "last_seen": "2026-11-25T12:49:26",
+        "week_count": 237,
+        "v2_confidence": 0.9969,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.886,
+        "perch_confidence": 0.9336,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Common Chiffchaff",
+            "agrees": true
+        },
+        "sci": "Phylloscopus collybita",
+        "order": "Passeriformes",
+        "family": "Phylloscopidae",
+        "local": 4039,
+        "residency": "migrant",
+        "dawn_frac": 0.1381,
+        "dawn_total": 565,
+        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "v3_top_confidence": 0.886,
+        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
+        "perch_top_confidence": 0.9336,
+        "photo": true
+    },
+    {
+        "name": "Gray Wagtail",
+        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05d6\u05e0\u05d1\u05ea\u05df",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/3840px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
+            "license": null
+        },
+        "audio": "audio/motacilla_cinerea.mp3",
+        "last_seen": "2026-11-25T12:28:28",
+        "week_count": 3,
+        "v2_confidence": 0.9512,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            }
+        ],
+        "v3_confidence": 0.874,
+        "perch_confidence": 0.2349,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Grey Wagtail",
+            "agrees": true
+        },
+        "sci": "Motacilla cinerea",
+        "order": "Passeriformes",
+        "family": "Motacillidae",
+        "local": 110,
+        "residency": "migrant",
+        "dawn_frac": 0.0615,
+        "dawn_total": 65,
+        "v3_top_label": "Motacilla cinerea_Grey Wagtail",
+        "v3_top_confidence": 0.874,
+        "perch_top_label": "Motacilla cinerea_Grey Wagtail",
+        "perch_top_confidence": 0.2349,
+        "photo": true
+    },
+    {
         "name": "White Wagtail",
         "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05dc\u05d1\u05df",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8,8 +88,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-25T11:43:26",
-        "week_count": 227,
+        "last_seen": "2026-11-25T12:28:26",
+        "week_count": 231,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -32,51 +112,11 @@
         "local": 6392,
         "residency": "migrant",
         "dawn_frac": 0.0657,
-        "dawn_total": 3240,
+        "dawn_total": 3244,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
-        "photo": true
-    },
-    {
-        "name": "Common Chiffchaff",
-        "he_name": "\u05e2\u05dc\u05d5\u05d5\u05d9\u05ea \u05d7\u05d5\u05e8\u05e3",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/3840px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
-            "license": null
-        },
-        "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-25T11:41:35",
-        "week_count": 231,
-        "v2_confidence": 0.9969,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.886,
-        "perch_confidence": 0.9336,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Common Chiffchaff",
-            "agrees": true
-        },
-        "sci": "Phylloscopus collybita",
-        "order": "Passeriformes",
-        "family": "Phylloscopidae",
-        "local": 4039,
-        "residency": "migrant",
-        "dawn_frac": 0.1395,
-        "dawn_total": 559,
-        "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "v3_top_confidence": 0.886,
-        "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
-        "perch_top_confidence": 0.9336,
         "photo": true
     },
     {
@@ -1758,46 +1798,6 @@
         "v3_top_confidence": 0.0694,
         "perch_top_label": "Curruca communis_Common Whitethroat",
         "perch_top_confidence": 0.0824,
-        "photo": true
-    },
-    {
-        "name": "Gray Wagtail",
-        "he_name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9 \u05d6\u05e0\u05d1\u05ea\u05df",
-        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/3840px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
-            "license": null
-        },
-        "audio": "audio/motacilla_cinerea.mp3",
-        "last_seen": "2026-11-23T07:25:45",
-        "week_count": 2,
-        "v2_confidence": 0.9512,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            }
-        ],
-        "v3_confidence": 0.874,
-        "perch_confidence": 0.2349,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Grey Wagtail",
-            "agrees": true
-        },
-        "sci": "Motacilla cinerea",
-        "order": "Passeriformes",
-        "family": "Motacillidae",
-        "local": 110,
-        "residency": "migrant",
-        "dawn_frac": 0.0625,
-        "dawn_total": 64,
-        "v3_top_label": "Motacilla cinerea_Grey Wagtail",
-        "v3_top_confidence": 0.874,
-        "perch_top_label": "Motacilla cinerea_Grey Wagtail",
-        "perch_top_confidence": 0.2349,
         "photo": true
     },
     {
