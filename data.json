@@ -1,50 +1,5 @@
 [
     {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-26T02:34:21",
-        "week_count": 560,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7624,
-        "residency": "resident",
-        "dawn_frac": 0.0916,
-        "dawn_total": 16651,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
-        "photo": true
-    },
-    {
         "name": "Barn Owl",
         "he_name": "\u05ea\u05e0\u05e9\u05de\u05ea \u05dc\u05d1\u05e0\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
@@ -53,8 +8,8 @@
             "license": "CC BY 2.0"
         },
         "audio": "audio/tyto_alba.mp3",
-        "last_seen": "2026-11-26T02:22:29",
-        "week_count": 20,
+        "last_seen": "2026-11-26T03:53:42",
+        "week_count": 29,
         "v2_confidence": 0.9991,
         "badges": [
             {
@@ -86,12 +41,88 @@
         "family": "Tytonidae",
         "local": 1413,
         "residency": "resident",
-        "dawn_frac": 0.0807,
-        "dawn_total": 322,
+        "dawn_frac": 0.0785,
+        "dawn_total": 331,
         "v3_top_label": "Tyto alba_Western Barn Owl",
         "v3_top_confidence": 0.8618,
         "perch_top_label": "Tyto alba_Western Barn Owl",
         "perch_top_confidence": 0.8305,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-11-26T03:53:30",
+        "week_count": 562,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7624,
+        "residency": "resident",
+        "dawn_frac": 0.0916,
+        "dawn_total": 16653,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Savi's Warbler",
+        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05d6\u05de\u05d9\u05e8\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Locustellaluscinioides.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Locustellaluscinioides.jpg",
+            "license": "CC BY 2.0"
+        },
+        "audio": "audio/locustella_luscinioides.mp3",
+        "last_seen": "2026-11-26T03:42:42",
+        "week_count": 5,
+        "v2_confidence": 0.9444,
+        "badges": [],
+        "v3_confidence": 0.564,
+        "perch_confidence": 0.0758,
+        "v3_agrees": true,
+        "perch_agrees": false,
+        "second_opinion": null,
+        "sci": "Locustella luscinioides",
+        "order": "Passeriformes",
+        "family": "Locustellidae",
+        "local": 574,
+        "residency": "",
+        "dawn_frac": 0.3478,
+        "dawn_total": 23,
+        "v3_top_label": "Locustella luscinioides_Savi's Warbler",
+        "v3_top_confidence": 0.564,
+        "perch_top_label": "Bubo virginianus_Great Horned Owl",
+        "perch_top_confidence": 0.2394,
         "photo": true
     },
     {
@@ -1959,37 +1990,6 @@
         "v3_top_confidence": 0.9233,
         "perch_top_label": "Coloeus monedula_Western Jackdaw",
         "perch_top_confidence": 0.7874,
-        "photo": true
-    },
-    {
-        "name": "Savi's Warbler",
-        "he_name": "\u05d7\u05e8\u05d2\u05d5\u05dc\u05df \u05d6\u05de\u05d9\u05e8\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Locustellaluscinioides.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Locustellaluscinioides.jpg",
-            "license": "CC BY 2.0"
-        },
-        "audio": "audio/locustella_luscinioides.mp3",
-        "last_seen": "2026-11-23T03:22:34",
-        "week_count": 4,
-        "v2_confidence": 0.9444,
-        "badges": [],
-        "v3_confidence": 0.564,
-        "perch_confidence": 0.0758,
-        "v3_agrees": true,
-        "perch_agrees": false,
-        "second_opinion": null,
-        "sci": "Locustella luscinioides",
-        "order": "Passeriformes",
-        "family": "Locustellidae",
-        "local": 574,
-        "residency": "",
-        "dawn_frac": 0.3636,
-        "dawn_total": 22,
-        "v3_top_label": "Locustella luscinioides_Savi's Warbler",
-        "v3_top_confidence": 0.564,
-        "perch_top_label": "Bubo virginianus_Great Horned Owl",
-        "perch_top_confidence": 0.2394,
         "photo": true
     },
     {
