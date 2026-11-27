@@ -8,8 +8,8 @@
             "license": null
         },
         "audio": "audio/motacilla_alba.mp3",
-        "last_seen": "2026-11-27T09:54:24",
-        "week_count": 252,
+        "last_seen": "2026-11-27T10:57:48",
+        "week_count": 253,
         "v2_confidence": 0.9981,
         "badges": [
             {
@@ -31,12 +31,52 @@
         "family": "Motacillidae",
         "local": 6392,
         "residency": "migrant",
-        "dawn_frac": 0.0675,
-        "dawn_total": 3320,
+        "dawn_frac": 0.0674,
+        "dawn_total": 3321,
         "v3_top_label": "Motacilla alba_White Wagtail",
         "v3_top_confidence": 0.9372,
         "perch_top_label": "Motacilla alba_White Wagtail",
         "perch_top_confidence": 0.4765,
+        "photo": true
+    },
+    {
+        "name": "Eurasian Collared-Dove",
+        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+            "license": "CC BY 4.0"
+        },
+        "audio": "audio/streptopelia_decaocto.mp3",
+        "last_seen": "2026-11-27T10:44:30",
+        "week_count": 1,
+        "v2_confidence": 0.9982,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.96,
+        "perch_confidence": 0.8294,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Collared Dove",
+            "agrees": true
+        },
+        "sci": "Streptopelia decaocto",
+        "order": "Columbiformes",
+        "family": "Columbidae",
+        "local": 9899,
+        "residency": "resident",
+        "dawn_frac": 0.0506,
+        "dawn_total": 2292,
+        "v3_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
+        "v3_top_confidence": 0.96,
+        "perch_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
+        "perch_top_confidence": 0.8294,
         "photo": true
     },
     {
@@ -48,8 +88,8 @@
             "license": null
         },
         "audio": "audio/phylloscopus_collybita.mp3",
-        "last_seen": "2026-11-27T09:49:11",
-        "week_count": 410,
+        "last_seen": "2026-11-27T10:41:28",
+        "week_count": 416,
         "v2_confidence": 0.9969,
         "badges": [
             {
@@ -71,8 +111,8 @@
         "family": "Phylloscopidae",
         "local": 4039,
         "residency": "migrant",
-        "dawn_frac": 0.1009,
-        "dawn_total": 773,
+        "dawn_frac": 0.1001,
+        "dawn_total": 779,
         "v3_top_label": "Phylloscopus collybita_Common Chiffchaff",
         "v3_top_confidence": 0.886,
         "perch_top_label": "Phylloscopus collybita_Common Chiffchaff",
@@ -88,8 +128,8 @@
             "license": null
         },
         "audio": "audio/psittacula_krameri.mp3",
-        "last_seen": "2026-11-27T09:32:24",
-        "week_count": 233,
+        "last_seen": "2026-11-27T10:39:22",
+        "week_count": 240,
         "v2_confidence": 0.9908,
         "badges": [
             {
@@ -112,7 +152,7 @@
         "local": 5606,
         "residency": "resident",
         "dawn_frac": 0.0202,
-        "dawn_total": 8248,
+        "dawn_total": 8255,
         "v3_top_label": "Psittacula krameri_Rose-ringed Parakeet",
         "v3_top_confidence": 0.9194,
         "perch_top_label": "Psittacula krameri_Rose-ringed Parakeet",
@@ -3257,46 +3297,6 @@
         "v3_top_confidence": 0.4377,
         "perch_top_label": "Numenius phaeopus_Eurasian Whimbrel",
         "perch_top_confidence": 0.1366,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Collared-Dove",
-        "he_name": "\u05ea\u05d5\u05e8 \u05e6\u05d5\u05d5\u05d0\u05e8\u05d5\u05df",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/1280px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
-            "license": "CC BY 4.0"
-        },
-        "audio": "audio/streptopelia_decaocto.mp3",
-        "last_seen": "2026-11-16T18:08:24",
-        "week_count": 0,
-        "v2_confidence": 0.9982,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.96,
-        "perch_confidence": 0.8294,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Collared Dove",
-            "agrees": true
-        },
-        "sci": "Streptopelia decaocto",
-        "order": "Columbiformes",
-        "family": "Columbidae",
-        "local": 9899,
-        "residency": "resident",
-        "dawn_frac": 0.0506,
-        "dawn_total": 2291,
-        "v3_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
-        "v3_top_confidence": 0.96,
-        "perch_top_label": "Streptopelia decaocto_Eurasian Collared Dove",
-        "perch_top_confidence": 0.8294,
         "photo": true
     },
     {
