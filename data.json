@@ -1,5 +1,135 @@
 [
     {
+        "name": "Eurasian Thick-knee",
+        "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
+            "license": null
+        },
+        "audio": "audio/burhinus_oedicnemus.mp3",
+        "last_seen": "2026-11-28T01:52:35",
+        "week_count": 39,
+        "v2_confidence": 0.9974,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            }
+        ],
+        "v3_confidence": 0.876,
+        "perch_confidence": 0.8837,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Stone-curlew",
+            "agrees": true
+        },
+        "sci": "Burhinus oedicnemus",
+        "order": "Charadriiformes",
+        "family": "Burhinidae",
+        "local": 3676,
+        "residency": "resident",
+        "dawn_frac": 0.1484,
+        "dawn_total": 1361,
+        "v3_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
+        "v3_top_confidence": 0.876,
+        "perch_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
+        "perch_top_confidence": 0.8837,
+        "photo": true
+    },
+    {
+        "name": "Spur-winged Lapwing",
+        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
+            "license": null
+        },
+        "audio": "audio/vanellus_spinosus.mp3",
+        "last_seen": "2026-11-28T01:29:50",
+        "week_count": 539,
+        "v2_confidence": 0.9997,
+        "badges": [
+            {
+                "i": "\ud83c\udfe0",
+                "en": "Resident",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.9488,
+        "perch_confidence": 0.3531,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Spur-winged Lapwing",
+            "agrees": true
+        },
+        "sci": "Vanellus spinosus",
+        "order": "Charadriiformes",
+        "family": "Charadriidae",
+        "local": 7624,
+        "residency": "resident",
+        "dawn_frac": 0.0917,
+        "dawn_total": 16782,
+        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "v3_top_confidence": 0.9488,
+        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
+        "perch_top_confidence": 0.3531,
+        "photo": true
+    },
+    {
+        "name": "Green-winged Teal",
+        "he_name": "\u05e9\u05e8\u05e9\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Eurasian_teal_%28Anas_crecca%29_Photograph_by_Shantanu_Kuveskar.jpg",
+        "credit": {
+            "url": "https://commons.wikimedia.org/wiki/File:Eurasian_teal_%28Anas_crecca%29_Photograph_by_Shantanu_Kuveskar.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "audio": "audio/anas_crecca.mp3",
+        "last_seen": "2026-11-28T01:28:00",
+        "week_count": 2,
+        "v2_confidence": 0.9431,
+        "badges": [
+            {
+                "i": "\u2708\ufe0f",
+                "en": "Migrant",
+                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
+            },
+            {
+                "i": "\ud83c\udf0a",
+                "en": "Waterbird",
+                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
+            }
+        ],
+        "v3_confidence": 0.4616,
+        "perch_confidence": 0.709,
+        "v3_agrees": true,
+        "perch_agrees": true,
+        "second_opinion": {
+            "com": "Eurasian Teal",
+            "agrees": true
+        },
+        "sci": "Anas crecca",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "local": 3177,
+        "residency": "migrant",
+        "dawn_frac": 0.1667,
+        "dawn_total": 36,
+        "v3_top_label": "Anas crecca_Eurasian Teal",
+        "v3_top_confidence": 0.4616,
+        "perch_top_label": "Anas crecca_Eurasian Teal",
+        "perch_top_confidence": 0.709,
+        "photo": true
+    },
+    {
         "name": "Gray Heron",
         "he_name": "\u05d0\u05e0\u05e4\u05d4 \u05d0\u05e4\u05d5\u05e8\u05d4",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grey_Heron_%2854990114762%29_%28cropped%29.jpg/1280px-Grey_Heron_%2854990114762%29_%28cropped%29.jpg",
@@ -42,51 +172,6 @@
         "v3_top_confidence": 0.7442,
         "perch_top_label": "Ardea cinerea_Grey Heron",
         "perch_top_confidence": 0.8582,
-        "photo": true
-    },
-    {
-        "name": "Spur-winged Lapwing",
-        "he_name": "\u05e1\u05d9\u05e7\u05e1\u05e7",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Spur-winged_lapwing_%28Vanellus_spinosus%29_in_flight.jpg",
-            "license": null
-        },
-        "audio": "audio/vanellus_spinosus.mp3",
-        "last_seen": "2026-11-28T00:17:58",
-        "week_count": 538,
-        "v2_confidence": 0.9997,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.9488,
-        "perch_confidence": 0.3531,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Spur-winged Lapwing",
-            "agrees": true
-        },
-        "sci": "Vanellus spinosus",
-        "order": "Charadriiformes",
-        "family": "Charadriidae",
-        "local": 7624,
-        "residency": "resident",
-        "dawn_frac": 0.0917,
-        "dawn_total": 16781,
-        "v3_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "v3_top_confidence": 0.9488,
-        "perch_top_label": "Vanellus spinosus_Spur-winged Lapwing",
-        "perch_top_confidence": 0.3531,
         "photo": true
     },
     {
@@ -137,46 +222,6 @@
         "v3_top_confidence": 0.8618,
         "perch_top_label": "Tyto alba_Western Barn Owl",
         "perch_top_confidence": 0.8305,
-        "photo": true
-    },
-    {
-        "name": "Eurasian Thick-knee",
-        "he_name": "\u05db\u05e8\u05d5\u05d5\u05df \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Burhinus_oedicnemus_insularum_Lanzarote_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Burhinus_oedicnemus_insularum_Lanzarote_1.jpg",
-            "license": null
-        },
-        "audio": "audio/burhinus_oedicnemus.mp3",
-        "last_seen": "2026-11-27T23:02:20",
-        "week_count": 38,
-        "v2_confidence": 0.9974,
-        "badges": [
-            {
-                "i": "\ud83c\udfe0",
-                "en": "Resident",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e6\u05d9\u05d1\u05d4"
-            }
-        ],
-        "v3_confidence": 0.876,
-        "perch_confidence": 0.8837,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Stone-curlew",
-            "agrees": true
-        },
-        "sci": "Burhinus oedicnemus",
-        "order": "Charadriiformes",
-        "family": "Burhinidae",
-        "local": 3676,
-        "residency": "resident",
-        "dawn_frac": 0.1485,
-        "dawn_total": 1360,
-        "v3_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
-        "v3_top_confidence": 0.876,
-        "perch_top_label": "Burhinus oedicnemus_Eurasian Stone-curlew",
-        "perch_top_confidence": 0.8837,
         "photo": true
     },
     {
@@ -2024,51 +2069,6 @@
         "v3_top_confidence": 0.4137,
         "perch_top_label": "Calidris alpina_Dunlin",
         "perch_top_confidence": 0.4505,
-        "photo": true
-    },
-    {
-        "name": "Green-winged Teal",
-        "he_name": "\u05e9\u05e8\u05e9\u05d9\u05e8 \u05de\u05e6\u05d5\u05d9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Eurasian_teal_%28Anas_crecca%29_Photograph_by_Shantanu_Kuveskar.jpg",
-        "credit": {
-            "url": "https://commons.wikimedia.org/wiki/File:Eurasian_teal_%28Anas_crecca%29_Photograph_by_Shantanu_Kuveskar.jpg",
-            "license": "CC BY-SA 4.0"
-        },
-        "audio": "audio/anas_crecca.mp3",
-        "last_seen": "2026-11-24T03:59:10",
-        "week_count": 1,
-        "v2_confidence": 0.9431,
-        "badges": [
-            {
-                "i": "\u2708\ufe0f",
-                "en": "Migrant",
-                "he": "\u05d7\u05d5\u05dc\u05e4\u05ea"
-            },
-            {
-                "i": "\ud83c\udf0a",
-                "en": "Waterbird",
-                "he": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d9\u05dd"
-            }
-        ],
-        "v3_confidence": 0.4616,
-        "perch_confidence": 0.709,
-        "v3_agrees": true,
-        "perch_agrees": true,
-        "second_opinion": {
-            "com": "Eurasian Teal",
-            "agrees": true
-        },
-        "sci": "Anas crecca",
-        "order": "Anseriformes",
-        "family": "Anatidae",
-        "local": 3177,
-        "residency": "migrant",
-        "dawn_frac": 0.1714,
-        "dawn_total": 35,
-        "v3_top_label": "Anas crecca_Eurasian Teal",
-        "v3_top_confidence": 0.4616,
-        "perch_top_label": "Anas crecca_Eurasian Teal",
-        "perch_top_confidence": 0.709,
         "photo": true
     },
     {
